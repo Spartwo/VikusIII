@@ -1,0 +1,30 @@
+﻿l_english:
+ VICTORY_POINTS_TOOLTIP:0 "§G$NAME$§! victory points = §Y$POINTS$§!"
+###############################################################
+################### LAYTHIA ###################################
+###############################################################
+# AWTHENIA #
+ VICTORY_POINTS_328:0 "Commune of Awthenia"
+ VICTORY_POINTS_272:0 "Ajitweld"
+ VICTORY_POINTS_383:0 "Kayduwld"
+ VICTORY_POINTS_426:0 "Iften"
+ # Laythi #
+  VICTORY_POINTS_426:0 "Commune of Laythi"
+ # Ulkam #
+ VICTORY_POINTS_494:0 "Lajitoy"
+ VICTORY_POINTS_647:0 "Laje etoj"
+ # Jyfael #
+ VICTORY_POINTS_144:0 "Commune of Jyfael"
+ VICTORY_POINTS_272:0 "Haijfey"
+ VICTORY_POINTS_262:0 "Loj ay ajetoy"
+ VICTORY_POINTS_225:0 "Aft ther"
+ # Kardagiv and Dzuethe #
+ VICTORY_POINTS_311:0 "Kardagivey"
+ VICTORY_POINTS_393:0 "Kardagiv ed ojes"
+ VICTORY_POINTS_528:0 "Commune of Dzuethi"
+ VICTORY_POINTS_405:0 "Ulkam"
+ VICTORY_POINTS_582:0 "Mininey"
+ # Fedithe #
+  VICTORY_POINTS_247:0 "Commune of Fedi"
+  VICTORY_POINTS_282:0 "Fenejen yde"
+  VICTORY_POINTS_205:0 "Koesti"

@@ -1,0 +1,21 @@
+﻿l_english:
+
+################### LAYTHIA ######################
+ 0UR_subject_isolation:0 "Southeastern $OVERLORDADJ$ Dominion"
+ 0UR_subject_isolation_DEF:0 "the Southeastern $OVERLORDADJ$ Dominion"
+ 0UR_subject_expansion:0 "$OVERLORDADJ$ Southeastern Province"
+ 0UR_subject_expansion_DEF:0 "the $OVERLORDADJ$ Southeastern Province"
+ 0UR_subject_intervention:0 "$OVERLORDADJ$ Republic of Laythia"
+ 0UR_subject_intervention_DEF:0 "the $OVERLORDADJ$ Republic of Laythia"
+ 0UR_subject_cooperation:0 "Union of $OVERLORDADJ$ Laythian Cantonal Republics"
+ 0UR_subject_cooperation_DEF:0 "the Union of $OVERLORDADJ$ Laythian Cantonal Republics"
+################### Tekkia ######################
+ 0CT_subject_expansion:0 "$OVERLORDADJ$ Province of Kizantia"
+ 0CT_subject_expansion_DEF:0 "the $OVERLORDADJ$ Province of Kizantia"
+ 0CT_subject_cooperation:0 "$OVERLORDADJ$ Federal Republic of Tekkia"
+ 0CT_subject_cooperation_DEF:0 "the $OVERLORDADJ$ Federal Republic of Tekkia"
+ 0CT_subject_isolation:1 "$OVERLORDADJ$ Dominion of Tekkia"
+ 0CT_subject_isolation_DEF:1 "the $OVERLORDADJ$ Dominion of Tekkia"
+ 0CT_subject_intervention:0 "$OVERLORDADJ$ Tekkian Protectorate"
+ 0CT_subject_intervention_DEF:0 "The $OVERLORDADJ$ Tekkian Protectorate"
+###########################
