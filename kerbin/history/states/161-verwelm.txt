@@ -1,0 +1,33 @@
+
+state={
+	id=161
+	name="STATE_161"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = {
+			497 20 
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 2
+			air_base = 1
+			497 = {
+				naval_base = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		395 432 448 497 506 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

@@ -1,0 +1,23 @@
+state={
+	id=296
+	name="STATE_296"
+	provinces={
+		6977 6979 7007 
+	}
+	manpower=1000000
+	resources={
+		steel=0
+		aluminium=0
+		chromium=0
+		rubber=15
+		oil=25
+		tungsten=0
+	}
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+history={
+		owner = IRE
+		add_core_of = IRE
+}
+}

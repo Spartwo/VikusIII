@@ -1,0 +1,25 @@
+
+strategic_region={
+	id=19
+	name="STRATEGICREGION_19"
+	provinces={
+		3198 3351 3432 3647 3803 3960 3988 4117 4338 4411 4412 4659 4743 4883 4922 
+	}
+	naval_terrain=water_fjords
+	weather={
+		period={
+			between={ 0.0 11.0 }
+			temperature={ -10.0 35.0 }
+			temperature_day_night={ 2.0 -2.0 }
+			no_phenomenon=1.500
+			rain_light=0.250
+			rain_heavy=0.100
+			snow=0.000
+			blizzard=0.000
+			arctic_water=0.000
+			mud=0.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+	}
+}

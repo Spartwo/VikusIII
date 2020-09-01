@@ -1,0 +1,32 @@
+
+state={
+	id=88
+	name="STATE_88"
+	resources={
+		steel=20.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=0.000
+		oil=0.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		4901 4933 4953 5025 5030 5043 5054 5078 5085 5128 5138 5146 5176 5207 5252 
+	}
+	manpower=1000000
+	buildings_max_level_factor=10.000
+	state_category=rural
+}

@@ -1,0 +1,21 @@
+
+state={
+	id=171
+	name="STATE_171"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = {
+			3678 10 
+		}
+
+	}
+
+	provinces={
+		3547 3619 3678 3691 3767 3802 3861 3886 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

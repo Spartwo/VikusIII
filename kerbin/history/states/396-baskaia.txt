@@ -1,0 +1,23 @@
+state={
+	id=396
+	name="STATE_396"
+	provinces={
+		580 596 597 630 635 649 659 671 688 707 717 727 731 745 748 767 783 785 796 807 
+	}
+	manpower=1000000
+	resources={
+		steel=20
+		aluminium=0
+		chromium=0
+		rubber=20
+		oil=0
+		tungsten=0
+	}
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+history={
+		owner = IRE
+		add_core_of = IRE
+	}
+}

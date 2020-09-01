@@ -1,0 +1,19 @@
+state={
+	id=18
+	name="STATE_18"
+	provinces={
+		2691 2712 2751 2788 2793 2823 2853 2860 2979 
+	}
+	manpower=1000000
+
+#2823 Naval
+
+	buildings_max_level_factor=1.000
+	state_category=city
+
+history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = { 2788 15 }
+	}
+}

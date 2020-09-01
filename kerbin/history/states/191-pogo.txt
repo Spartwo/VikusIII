@@ -1,0 +1,23 @@
+state={
+	id=191
+	name="STATE_191"
+	provinces={
+		3048 3075 3145 3168 3169 3222 3247 3274 
+	}
+	manpower=1000000
+	resources={
+		steel=20
+		aluminium=0
+		chromium=20
+		rubber=0
+		oil=0
+		tungsten=0
+	}
+	buildings_max_level_factor=1.000
+	state_category=city
+
+history={
+		owner = SOV
+		add_core_of = SOV
+	}
+}

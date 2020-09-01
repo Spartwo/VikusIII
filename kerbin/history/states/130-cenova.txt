@@ -1,0 +1,15 @@
+state={
+	id=130
+	name="STATE_130"
+	provinces={
+		1841 1844 1859 1896 1911 1923 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=town
+
+history={
+		owner = SOV
+		add_core_of = SOV
+	}
+}

@@ -1,0 +1,29 @@
+
+state={
+	id=20
+	name="STATE_20"
+	resources={
+		steel=20.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=0.000
+		oil=0.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = {
+			2282 10 
+		}
+
+	}
+
+	provinces={
+		2258 2282 2283 2285 2356 2401 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

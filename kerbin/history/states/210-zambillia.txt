@@ -1,0 +1,15 @@
+state={
+	id=210
+	name="STATE_210"
+	provinces={
+		4147 4164 4167 4191 4301 4325 4399 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+history={
+		owner = SOV
+		add_core_of = SOV
+	}
+}

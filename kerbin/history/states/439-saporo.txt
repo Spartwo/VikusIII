@@ -1,0 +1,14 @@
+state={
+	id=439
+	name="STATE_439"
+	provinces={
+		1550 1595 1620 1621 1629 1645 1677 1700 1707 1718 1721 1781 1791 1836 1885 7012 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+history={
+		owner = IRE
+		add_core_of = IRE
+	}
+}

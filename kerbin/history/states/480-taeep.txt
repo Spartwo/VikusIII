@@ -1,0 +1,22 @@
+state={
+	id=480
+	name="STATE_480"
+	provinces={
+		1381 1393 1394 1409 1413 1451 1452 1456 1457 1467 1490 1491 1501 1517 1518 1538 1564 1574 1596 1597 1633 1657 1680 1729 
+	}
+	manpower=1000000
+	resources={
+		steel=0
+		aluminium=25
+		chromium=0
+		rubber=0
+		oil=0
+		tungsten=0
+	}
+	buildings_max_level_factor=1.000
+	state_category=rural
+history={
+		owner = IRE
+		add_core_of = IRE
+	}
+}

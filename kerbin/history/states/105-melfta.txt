@@ -1,0 +1,18 @@
+
+state={
+	id=105
+	name="STATE_105"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		763 773 790 803 821 852 881 902 903 943 966 999 1017 7009 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

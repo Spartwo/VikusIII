@@ -1,0 +1,15 @@
+state={
+	id=109
+	name="STATE_109"
+	provinces={
+		2265 2305 2306 2341 2354 2361 2382 2409 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+history={
+		owner = SOV
+		add_core_of = SOV
+	}
+}

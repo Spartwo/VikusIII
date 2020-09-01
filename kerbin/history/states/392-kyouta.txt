@@ -1,0 +1,15 @@
+state={
+	id=392
+	name="STATE_392"
+	provinces={
+		842 845 864 877 905 909 920 930 932 951 969 984 985 1007 1038 1039 7010 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+history={
+		owner = IRE
+		add_core_of = IRE
+	}
+}

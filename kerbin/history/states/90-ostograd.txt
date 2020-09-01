@@ -1,0 +1,32 @@
+
+state={
+	id=90
+	name="STATE_90"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=0.000
+		oil=0.000
+		tungsten=30.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		5168 5215 5226 5257 5269 5287 5322 5335 5356 5383 5389 5430 5435 5447 5464 5473 5487 5518 5529 5549 5570 5589 5631 5670 5720 
+	}
+	manpower=1000000
+	buildings_max_level_factor=10.000
+	state_category=rural
+}

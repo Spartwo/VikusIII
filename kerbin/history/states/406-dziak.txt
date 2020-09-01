@@ -1,0 +1,16 @@
+state={
+	id=406
+	name="STATE_406"
+	provinces={
+		1425 1544 1545 1575 1649 1665 1691 1763 1871 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = { 1665 10 }
+	}
+}

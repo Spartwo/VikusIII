@@ -1,0 +1,26 @@
+
+state={
+	id=545
+	name="STATE_545"
+	resources={
+		steel=20.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=0.000
+		oil=0.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		5581 5592 5626 5637 5712 5761 5767 5768 5808 5848 5869 5874 5890 5915 5968 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,26 @@
+
+state={
+	id=79
+	name="STATE_79"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=15.000
+		rubber=0.000
+		oil=0.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		4476 4517 4545 4584 4592 4608 4609 4636 4668 4707 4726 4826 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,0 +1,24 @@
+
+state={
+	id=89
+	name="STATE_89"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+
+	}
+
+	provinces={
+		5585 5586 5593 5630 5648 5649 5658 5659 5675 5697 5713 5754 5759 5843 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

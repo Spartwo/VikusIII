@@ -1,0 +1,16 @@
+state={
+	id=129
+	name="STATE_129"
+	provinces={
+		1810 1826 1838 1866 1903 1917 1939 1950 1981 2020 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = { 1981 20 } 
+	}
+}

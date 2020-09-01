@@ -1,0 +1,23 @@
+
+state={
+	id=47
+	name="STATE_47"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		3801 3817 3845 3876 3877 3883 3901 3926 3948 3978 3983 4004 4044 4076 4082 4110 4130 4171 4186 4347 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

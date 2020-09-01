@@ -1,0 +1,15 @@
+state={
+	id=445
+	name="STATE_445"
+	provinces={
+		2411 2446 2512 2520 2610 2624 2625 2659 2718 2739 2747 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+history={
+		owner = SOV
+		add_core_of = SOV
+	}
+}

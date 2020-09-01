@@ -1,0 +1,14 @@
+state={
+	id=588
+	name="STATE_588"
+	provinces={
+		2833 6455 6542 6587 6610 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+}

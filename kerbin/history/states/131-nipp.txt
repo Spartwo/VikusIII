@@ -1,0 +1,23 @@
+state={
+	id=131
+	name="STATE_131"
+	provinces={
+		1616 1661 1673 1692 1693 1701 1752 1766 1770 1793 1843 
+	}
+	manpower=1000000
+	resources={
+		steel=0
+		aluminium=15
+		chromium=0
+		rubber=0
+		oil=0
+		tungsten=0
+	}
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+history={
+		owner = SOV
+		add_core_of = SOV
+	}
+}

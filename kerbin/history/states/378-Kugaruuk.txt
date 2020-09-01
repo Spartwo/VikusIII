@@ -1,0 +1,26 @@
+
+state={
+	id=378
+	name="STATE_378"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=0.000
+		oil=0.000
+		tungsten=35.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		6203 6210 6265 6285 6302 6313 6322 6369 6383 6414 6423 6456 6471 6488 6494 6499 6538 6563 6593 6595 6649 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

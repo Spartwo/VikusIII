@@ -1,0 +1,22 @@
+state={
+	id=101
+	name="STATE_101"
+	provinces={
+		43 
+	}
+	manpower=1000000
+	resources={
+		steel=0
+		aluminium=20
+		chromium=15
+		rubber=0
+		oil=0
+		tungsten=0
+	}
+	buildings_max_level_factor=1.000
+	state_category=small_island
+history={
+		owner = SOV
+		add_core_of = SOV
+	}
+}

@@ -1,0 +1,14 @@
+state={
+	id=484
+	name="STATE_484"
+	provinces={
+		1925 1945 1946 1954 1976 2006 2009 2043 2052 2060 2078 2096 2111 2132 2133 2163 2164 2186 2193 2254 2267 2272 2275 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=town
+history={
+		owner = IRE
+		add_core_of = IRE
+	}
+}

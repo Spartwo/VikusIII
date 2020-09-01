@@ -1,0 +1,15 @@
+state={
+	id=422
+	name="STATE_422"
+	provinces={
+		3540 3695 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=small_island
+
+history={
+		owner = IRE
+		add_core_of = IRE
+	}
+}

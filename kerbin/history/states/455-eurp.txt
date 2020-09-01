@@ -1,0 +1,38 @@
+
+state={
+	id=455
+	name="STATE_455"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=25.000
+		rubber=0.000
+		oil=0.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = {
+			749 50 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			749 = {
+				naval_base = 8
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		577 599 626 638 650 660 661 680 691 694 701 702 721 749 755 756 788 792 809 835 844 
+	}
+	manpower=1000000
+	buildings_max_level_factor=8.000
+	state_category=metropolis
+}

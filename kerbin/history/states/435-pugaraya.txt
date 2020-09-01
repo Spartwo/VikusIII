@@ -1,0 +1,16 @@
+state={
+	id=435
+	name="STATE_435"
+	provinces={
+		1910 1990 2090 2117 2149 2150 2165 2190 2201 2225 2250 2276 2279 2308 2333 2349 2488 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=town
+
+history={
+		owner = IRE
+		add_core_of = IRE
+		victory_points = { 1990 30 }
+	}
+}

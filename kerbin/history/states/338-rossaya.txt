@@ -1,0 +1,26 @@
+
+state={
+	id=338
+	name="STATE_338"
+	resources={
+		steel=15.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=0.000
+		oil=0.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		4151 4248 4277 4314 4328 4360 4383 4389 4397 4433 4462 4482 4515 4532 4551 4595 4605 4615 4682 4688 4748 4798 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

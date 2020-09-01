@@ -1,0 +1,22 @@
+state={
+	id=413
+	name="STATE_413"
+	provinces={
+		3873 3913 3938 3949 3956 3996 4081 
+	}
+	manpower=1000000
+	resources={
+		steel=0
+		aluminium=15
+		chromium=0
+		rubber=0
+		oil=0
+		tungsten=0
+	}
+	buildings_max_level_factor=1.000
+	state_category=rural
+history={
+		owner = IRE
+		add_core_of = IRE
+	}
+}

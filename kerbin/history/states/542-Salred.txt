@@ -1,0 +1,26 @@
+
+state={
+	id=542
+	name="STATE_542"
+	resources={
+		steel=0.000
+		aluminium=20.000
+		chromium=0.000
+		rubber=0.000
+		oil=0.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		578 586 611 622 669 672 692 695 732 737 750 753 770 811 836 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

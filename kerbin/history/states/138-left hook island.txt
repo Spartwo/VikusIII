@@ -1,0 +1,29 @@
+
+state={
+	id=138
+	name="STATE_138"
+	resources={
+		steel=15.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=30.000
+		oil=0.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = {
+			625 10 
+		}
+
+	}
+
+	provinces={
+		625 628 642 679 713 738 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

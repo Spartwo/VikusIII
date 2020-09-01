@@ -1,0 +1,23 @@
+state={
+	id=393
+	name="STATE_393"
+	provinces={
+		764 777 781 819 820 840 880 906 910 934 967 971 1033 1063 
+	}
+	manpower=1000000
+	resources={
+		steel=0
+		aluminium=0
+		chromium=0
+		rubber=0
+		oil=15
+		tungsten=15
+	}
+	buildings_max_level_factor=1.000
+	state_category=city
+
+history={
+		owner = IRE
+		add_core_of = IRE
+	}
+}

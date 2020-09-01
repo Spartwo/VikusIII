@@ -1,0 +1,29 @@
+
+state={
+	id=524
+	name="STATE_524"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=0.000
+		oil=25.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = IRE
+		add_core_of = IRE
+		victory_points = {
+			2595 20 
+		}
+
+	}
+
+	provinces={
+		2395 2415 2454 2532 2572 2580 2595 2608 2685 2699 2704 2705 2761 2785 2790 2828 2864 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

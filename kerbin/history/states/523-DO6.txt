@@ -1,0 +1,14 @@
+state={
+	id=523
+	name="STATE_523"
+	provinces={
+		2157 2158 2159 2181 2207 2215 2223 2252 2278 2299 2307 2321 2337 2396 2403 2420 2426 2490 2498 2554 2601 2602 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+history={
+		owner = IRE
+		add_core_of = IRE
+	}
+}

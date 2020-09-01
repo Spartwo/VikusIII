@@ -1,0 +1,26 @@
+
+state={
+	id=340
+	name="STATE_340"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=20.000
+		oil=0.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = IRE
+		add_core_of = IRE
+
+	}
+
+	provinces={
+		3668 4623 4697 4765 4799 4816 4863 4871 4872 4932 4964 4970 4981 5024 5034 5047 5191 5363 6944 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,28 @@
+state={
+	id=96
+	name="STATE_96"
+	provinces={
+		5219 5235 5273 5343 5344 5357 5405 5441 5455 5469 5533 5539 5560 5587 5607 5642 
+	}
+	manpower=1000000
+	resources={
+		steel=0
+		aluminium=0
+		chromium=0
+		rubber=0
+		oil=25
+		tungsten=0
+	}
+	buildings_max_level_factor=10.000
+	state_category=rural
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+			}
+	}
+}

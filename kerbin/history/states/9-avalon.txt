@@ -1,0 +1,33 @@
+state={
+	id=9
+	name="STATE_9"
+	provinces={
+		3895 
+	}
+	manpower=1000000
+	resources={
+		steel=30
+		aluminium=0
+		chromium=0
+		rubber=0
+		oil=0
+		tungsten=0
+	}
+
+	buildings_max_level_factor=10.000
+	state_category=city
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = { 3895 15 }
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 2
+			3895 = {
+				naval_base = 3
+			}
+	}
+}

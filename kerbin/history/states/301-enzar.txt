@@ -1,0 +1,14 @@
+state={
+	id=301
+	name="STATE_301"
+	provinces={
+		6609 6632 6730 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+history={
+		owner = IRE
+		add_core_of = IRE
+}
+}

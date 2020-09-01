@@ -1,0 +1,44 @@
+
+state={
+	id=14
+	name="STATE_14"
+	resources={
+		steel=25.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=0.000
+		oil=0.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = {
+			3633 20 
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 0
+			industrial_complex = 2
+			dockyard = 3
+			3633 = {
+				naval_base = 5
+
+			}
+			3874 = {
+				naval_base = 5
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		3556 3633 3651 3758 3793 3874 3962 4109 4122 4222 4250 
+	}
+	manpower=1000000
+	buildings_max_level_factor=10.000
+	state_category=large_town
+}

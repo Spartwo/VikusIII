@@ -1,0 +1,17 @@
+state={
+	id=429
+	name="STATE_429"
+	provinces={
+		3459 3470 3503 3537 3550 3555 3580 3591 3603 3631 3662 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=town
+
+history={
+		owner = IRE
+		add_core_of = IRE
+		victory_points = { 3503 25 }
+	}
+
+}

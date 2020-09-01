@@ -1,0 +1,29 @@
+
+state={
+	id=140
+	name="STATE_140"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=30.000
+		oil=0.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = {
+			813 30 
+		}
+
+	}
+
+	provinces={
+		944 1004 1005 1094 1097 1106 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

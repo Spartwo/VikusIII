@@ -1,0 +1,26 @@
+
+state={
+	id=408
+	name="STATE_408"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=15.000
+		oil=0.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		1493 1494 1527 1530 1583 1584 1625 1682 1696 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

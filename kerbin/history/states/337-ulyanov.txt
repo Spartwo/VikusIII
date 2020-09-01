@@ -1,0 +1,21 @@
+
+state={
+	id=337
+	name="STATE_337"
+
+	history={
+		owner = IRE
+		add_core_of = IRE
+		victory_points = {
+			4328 15 
+		}
+
+	}
+
+	provinces={
+		4278 4317 4363 4370 4425 4487 4495 4564 4572 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

@@ -1,0 +1,18 @@
+
+state={
+	id=234
+	name="STATE_234"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		5161 5183 5199 5228 5261 5275 5279 5297 5312 5366 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

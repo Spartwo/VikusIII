@@ -1,0 +1,16 @@
+state={
+	id=277
+	name="STATE_277"
+	provinces={
+		4683 4774 4787 4807 4825 4864 4917 4938 4976 5058 5077 5103 5145 5150 5189 5204 5218 5221 5244 5267 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=town
+
+history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = { 4683 20 }
+	}
+}

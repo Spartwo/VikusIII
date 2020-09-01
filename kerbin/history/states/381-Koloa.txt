@@ -1,0 +1,26 @@
+
+state={
+	id=381
+	name="STATE_381"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=20.000
+		oil=0.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		6404 6431 6446 6457 6468 6495 6507 6516 6537 6555 6564 6582 6589 6590 6607 6629 6636 6637 6642 6671 6672 6680 6682 6690 6708 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

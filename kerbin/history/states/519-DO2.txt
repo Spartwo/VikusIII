@@ -1,0 +1,14 @@
+state={
+	id=519
+	name="STATE_519"
+	provinces={
+		3491 3497 3520 3543 3578 3579 3614 3623 3630 3675 3694 3698 3712 3765 3788 3791 3843 3868 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+history={
+		owner = IRE
+		add_core_of = IRE
+	}
+}

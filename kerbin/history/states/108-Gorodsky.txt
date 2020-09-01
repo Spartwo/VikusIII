@@ -1,0 +1,22 @@
+state={
+	id=108
+	name="STATE_108"
+	provinces={
+		2389 
+	}
+	manpower=1000000
+	resources={
+		steel=0
+		aluminium=20
+		chromium=0
+		rubber=0
+		oil=0
+		tungsten=0
+	}
+	buildings_max_level_factor=1.000
+	state_category=city
+history={
+		owner = SOV
+		add_core_of = SOV
+	}
+}

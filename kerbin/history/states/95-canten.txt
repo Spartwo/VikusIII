@@ -1,0 +1,24 @@
+
+state={
+	id=95
+	name="STATE_95"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		5135 5153 5208 5245 5272 5290 5378 5384 5416 5474 5488 5524 5616 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

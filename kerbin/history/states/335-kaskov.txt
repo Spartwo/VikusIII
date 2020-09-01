@@ -1,0 +1,18 @@
+
+state={
+	id=335
+	name="STATE_335"
+
+	history={
+		owner = IRE
+		add_core_of = IRE
+
+	}
+
+	provinces={
+		3271 3321 3370 3397 3464 3481 3512 3524 3529 3584 3590 3594 3620 3639 3669 3708 3709 3782 3786 3830 3862 3923 3930 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

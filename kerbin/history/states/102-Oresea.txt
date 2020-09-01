@@ -1,0 +1,21 @@
+
+state={
+	id=102
+	name="STATE_102"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = {
+			697 15 
+		}
+
+	}
+
+	provinces={
+		503 538 555 561 587 604 613 624 639 645 654 665 697 703 718 723 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

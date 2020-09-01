@@ -1,0 +1,25 @@
+state={
+	id=50
+	name="STATE_50"
+	provinces={
+		50 53 54 57 58 60 62 65 68 69 71 73 74 79 
+	}
+	manpower=1000000
+	resources={
+		steel=0
+		aluminium=0
+		chromium=0
+		rubber=0
+		oil=15
+		tungsten=0
+	}
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+#73 Naval
+#69 capital
+history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = { 74 5 }
+	}
+}

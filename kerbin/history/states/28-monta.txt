@@ -1,0 +1,21 @@
+
+state={
+	id=28
+	name="STATE_28"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = {
+			4251 10 
+		}
+
+	}
+
+	provinces={
+		3818 3863 3882 3934 4003 4009 4033 4128 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

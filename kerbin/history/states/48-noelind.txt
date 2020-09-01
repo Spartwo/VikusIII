@@ -1,0 +1,28 @@
+
+state={
+	id=48
+	name="STATE_48"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = {
+			4320 40 
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 4
+
+		}
+
+	}
+
+	provinces={
+		4391 4429 4448 4459 4527 4528 4596 4601 4607 4619 4656 4704 4750 4779 4842 
+	}
+	manpower=1000000
+	buildings_max_level_factor=5.000
+	state_category=rural
+}

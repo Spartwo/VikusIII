@@ -1,0 +1,22 @@
+state={
+	id=247
+	name="STATE_247"
+	provinces={
+		6797 6827 
+	}
+	manpower=1000000
+	resources={
+		steel=0
+		aluminium=25
+		chromium=0
+		rubber=0
+		oil=0
+		tungsten=0
+	}
+	buildings_max_level_factor=1.000
+	state_category=rural
+history={
+		owner = SOV
+		add_core_of = SOV
+	}
+}

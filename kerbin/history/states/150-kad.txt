@@ -1,0 +1,26 @@
+
+state={
+	id=150
+	name="STATE_150"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=15.000
+		oil=35.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = IRE
+		add_core_of = IRE
+
+	}
+
+	provinces={
+		63 66 70 75 85 86 105 130 149 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,0 +1,18 @@
+
+state={
+	id=37
+	name="STATE_37"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		1186 3135 3189 3196 3213 3260 3336 4013 6743 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

@@ -1,0 +1,22 @@
+state={
+	id=490
+	name="STATE_490"
+	provinces={
+		1400 1422 1423 1432 1435 1458 1460 1461 1482 1487 1496 1497 1514 1539 1576 1605 1606
+	}
+	manpower=1000000
+	resources={
+		steel=0
+		aluminium=0
+		chromium=30
+		rubber=0
+		oil=0
+		tungsten=0
+	}
+	buildings_max_level_factor=1.000
+	state_category=rural
+history={
+		owner = IRE
+		add_core_of = IRE
+	}
+}

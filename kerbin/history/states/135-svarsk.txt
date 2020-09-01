@@ -1,0 +1,21 @@
+
+state={
+	id=135
+	name="STATE_135"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = {
+			2646 5 
+		}
+
+	}
+
+	provinces={
+		2552 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=small_island
+}

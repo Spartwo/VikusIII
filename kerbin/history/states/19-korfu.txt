@@ -1,0 +1,21 @@
+
+state={
+	id=19
+	name="STATE_19"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = {
+			2722 20 
+		}
+
+	}
+
+	provinces={
+		2457 2535 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

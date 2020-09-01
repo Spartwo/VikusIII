@@ -1,0 +1,29 @@
+
+state={
+	id=186
+	name="STATE_186"
+	resources={
+		steel=30.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=25.000
+		oil=0.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = {
+			5133 10 
+		}
+
+	}
+
+	provinces={
+		5305 5318 5341 5388 5414 5422 5476 5528 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

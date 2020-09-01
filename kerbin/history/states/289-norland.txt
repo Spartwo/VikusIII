@@ -1,0 +1,23 @@
+state={
+	id=289
+	name="STATE_289"
+	provinces={
+		6786 6823 6886 
+	}
+	manpower=1000000
+	resources={
+		steel=0
+		aluminium=0
+		chromium=0
+		rubber=0
+		oil=30
+		tungsten=0
+	}
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+history={
+		owner = IRE
+		add_core_of = IRE
+}
+}

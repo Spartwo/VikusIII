@@ -1,0 +1,23 @@
+state={
+	id=433
+	name="STATE_433"
+	provinces={
+		2556 2566 2587 2614 2643 2650 2651 2673 2674 2707 2715 2716 2717 2746 2766 2775 2800 2822 2841 2842 2867 2873 2901 2939 
+	}
+	manpower=1000000
+	resources={
+		steel=0
+		aluminium=30
+		chromium=0
+		rubber=0
+		oil=0
+		tungsten=0
+	}
+	buildings_max_level_factor=1.000
+	state_category=town
+
+history={
+		owner = IRE
+		add_core_of = IRE
+	}
+}

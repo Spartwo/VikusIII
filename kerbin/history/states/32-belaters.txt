@@ -1,0 +1,18 @@
+
+state={
+	id=32
+	name="STATE_32"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		2219 2320 2336 2339 2369 2402 2423 2433 2475 2492 2517 2518 2545 2592 2599 2637 2648 2654 2719 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

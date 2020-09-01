@@ -1,0 +1,23 @@
+state={
+	id=358
+	name="STATE_358"
+	provinces={
+		5394 5429 5544 5545 5584 5641 
+	}
+	manpower=1000000
+	resources={
+		steel=0
+		aluminium=0
+		chromium=0
+		rubber=0
+		oil=15
+		tungsten=0
+	}
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+history={
+		owner = SOV
+		add_core_of = SOV
+	}
+}

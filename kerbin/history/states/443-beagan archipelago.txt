@@ -1,0 +1,15 @@
+state={
+	id=443
+	name="STATE_443"
+	provinces={
+		52 72 87 95 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=small_island
+
+history={
+		owner = SOV
+		add_core_of = SOV
+	}
+}

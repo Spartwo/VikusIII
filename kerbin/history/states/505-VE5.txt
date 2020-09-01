@@ -1,0 +1,22 @@
+state={
+	id=505
+	name="STATE_505"
+	provinces={
+		1241 1263 1313 1314 1318 1323 1338 1344 1376 1384 1391 1412 1428 1447 1459 1503 1541 1579 
+	}
+	manpower=1000000
+	resources={
+		steel=0
+		aluminium=0
+		chromium=0
+		rubber=30
+		oil=0
+		tungsten=0
+	}
+	buildings_max_level_factor=1.000
+	state_category=rural
+history={
+		owner = IRE
+		add_core_of = IRE
+	}
+}

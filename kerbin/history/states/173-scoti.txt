@@ -1,0 +1,24 @@
+state={
+	id=173
+	name="STATE_173"
+	provinces={
+		4149 4232 4258 4270 4288 4321 4326 4359 4382 4387 4402 
+	}
+	manpower=1000000
+	resources={
+		steel=20
+		aluminium=0
+		chromium=0
+		rubber=0
+		oil=0
+		tungsten=0
+	}
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = { 4258 40 }
+	}
+}

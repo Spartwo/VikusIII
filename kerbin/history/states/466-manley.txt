@@ -1,0 +1,21 @@
+
+state={
+	id=466
+	name="STATE_466"
+
+	history={
+		owner = IRE
+		add_core_of = IRE
+		victory_points = {
+			2013 30 
+		}
+
+	}
+
+	provinces={
+		1882 1920 1921 1929 1940 1952 1993 1999 2002 2013 2024 2041 2047 2089 2095 2098 2101 2103 2130 2179 2206 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

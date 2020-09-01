@@ -1,0 +1,22 @@
+state={
+	id=126
+	name="STATE_126"
+	provinces={
+		2737 2744 2773 2898 2899 3037 3067 3096 3241 3250 
+	}
+	manpower=1000000
+	resources={
+		steel=0
+		aluminium=0
+		chromium=0
+		rubber=50
+		oil=0
+		tungsten=0
+	}
+	buildings_max_level_factor=1.000
+	state_category=rural
+history={
+		owner = IRE
+		add_core_of = IRE
+	}
+}

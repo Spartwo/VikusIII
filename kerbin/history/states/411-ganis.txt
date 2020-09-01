@@ -1,0 +1,24 @@
+state={
+	id=411
+	name="STATE_411"
+	provinces={
+		3716 3728 3792 3812 3821 3824 3851 3866 3881 3888 3919 3932 3976 4054 
+	}
+	manpower=1000000
+	resources={
+		steel=0
+		aluminium=0
+		chromium=30
+		rubber=0
+		oil=0
+		tungsten=0
+	}
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+history={
+		owner = IRE
+		add_core_of = IRE
+		victory_points = { 3976 20 }
+	}
+}

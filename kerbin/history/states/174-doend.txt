@@ -1,0 +1,29 @@
+
+state={
+	id=174
+	name="STATE_174"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=0.000
+		oil=0.000
+		tungsten=15.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = {
+			4388 15 
+		}
+
+	}
+
+	provinces={
+		4327 4367 4388 4469 4470 4520 4537 4548 4599 4603 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

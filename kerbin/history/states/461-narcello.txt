@@ -1,0 +1,26 @@
+
+state={
+	id=461
+	name="STATE_461"
+	resources={
+		steel=25.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=0.000
+		oil=0.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = IRE
+		add_core_of = IRE
+
+	}
+
+	provinces={
+		3975 4018 4026 4031 4063 4095 4119 4126 4137 4169 4187 4205 4210 4225 4245 4279 4280 4297 4303 4371 4372 4439 4443 4464 4509 4556 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

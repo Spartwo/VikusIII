@@ -1,0 +1,18 @@
+
+state={
+	id=556
+	name="STATE_556"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		3318 5897 5962 6013 6050 6054 6086 6145 6245 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

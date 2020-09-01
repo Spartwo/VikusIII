@@ -1,0 +1,15 @@
+state={
+	id=76
+	name="STATE_76"
+	provinces={
+		5209 5236 5274 5295 5329 5345 5367 5406 5424 5443 5498 5513 5582 5620 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+history={
+		owner = SOV
+		add_core_of = SOV
+	}
+}

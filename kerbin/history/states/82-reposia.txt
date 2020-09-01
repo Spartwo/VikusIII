@@ -1,0 +1,23 @@
+state={
+	id=82
+	name="STATE_82"
+	provinces={
+		5197 5233 5301 5308 5364 5417 5423 5442 5493 5504 
+	}
+	manpower=1000000
+	resources={
+		steel=0
+		aluminium=0
+		chromium=0
+		rubber=15
+		oil=0
+		tungsten=0
+	}
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+history={
+		owner = SOV
+		add_core_of = SOV
+	}
+}

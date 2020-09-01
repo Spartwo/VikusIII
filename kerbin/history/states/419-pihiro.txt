@@ -1,0 +1,22 @@
+state={
+	id=419
+	name="STATE_419"
+	provinces={
+		2787 2824 2875 2880 2972 2995 3068 3072 3100 3109 3159 3160 3161 3191 3266 3278 3287 3340 3392 3408 3492 
+	}
+	manpower=1000000
+	resources={
+		steel=0
+		aluminium=25
+		chromium=0
+		rubber=0
+		oil=15
+		tungsten=0
+	}
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+history={
+		owner = IRE
+		add_core_of = IRE
+	}
+}

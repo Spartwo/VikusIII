@@ -1,0 +1,23 @@
+state={
+	id=464
+	name="STATE_464"
+	provinces={
+		2121 2125 2214 2331 2371 2493 2503 2529 2530 2672 
+	}
+	manpower=1000000
+	resources={
+		steel=0
+		aluminium=0
+		chromium=0
+		rubber=0
+		oil=0
+		tungsten=25
+	}
+	buildings_max_level_factor=1.000
+	state_category=rural
+history={
+		owner = IRE
+		add_core_of = IRE
+		victory_points = { 2125 20 }
+	}
+}

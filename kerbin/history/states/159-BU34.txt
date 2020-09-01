@@ -1,0 +1,14 @@
+state={
+	id=159
+	name="STATE_159"
+	provinces={
+		6816 6836 6861 6884 6901 6932 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+history={
+		owner = SOV
+		add_core_of = SOV
+}
+}

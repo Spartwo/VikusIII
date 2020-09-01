@@ -1,0 +1,27 @@
+
+state={
+	id=87
+	name="STATE_87"
+
+	history={
+		owner = SOV
+		add_core_of = IRE
+		victory_points = {
+			4905 5 
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+
+	}
+
+	provinces={
+		4646 4706 4711 4755 4795 4803 4866 4905 4910 4919 4971 4989 5021 5036 5137 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

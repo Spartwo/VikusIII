@@ -1,0 +1,15 @@
+state={
+	id=139
+	name="STATE_139"
+	provinces={
+		629 643 658 698 699 714 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=town
+history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = { 714 15 }
+	}
+}

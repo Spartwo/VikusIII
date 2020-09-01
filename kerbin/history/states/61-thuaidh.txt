@@ -1,0 +1,21 @@
+
+state={
+	id=61
+	name="STATE_61"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = {
+			3990 15 
+		}
+
+	}
+
+	provinces={
+		3990 4028 4050 4077 4104 4161 4181 4182 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

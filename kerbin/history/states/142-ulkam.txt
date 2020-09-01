@@ -1,0 +1,26 @@
+
+state={
+	id=142
+	name="STATE_142"
+
+	history={
+		owner = IRE
+		add_core_of = IRE
+		victory_points = {
+			259 5 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+
+		}
+
+	}
+
+	provinces={
+		247 263 302 313 344 349 352 353 394 398 399 405 426 438 445 452 456 651 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

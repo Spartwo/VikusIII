@@ -1,0 +1,24 @@
+state={
+	id=448
+	name="STATE_448"
+	provinces={
+		1874 1902 1941 1951 1971 1991 2001 2010 2034 2044 2064 2087 2094 2118 2166 
+	}
+	manpower=1000000
+	resources={
+		steel=15
+		aluminium=0
+		chromium=0
+		rubber=0
+		oil=0
+		tungsten=0
+	}
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = { 2001 10 }
+	}
+}

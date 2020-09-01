@@ -1,0 +1,23 @@
+state={
+	id=397
+	name="STATE_397"
+	provinces={
+		690 700 733 760 765 784 795 833 841 847 855 
+	}
+	manpower=1000000
+	resources={
+		steel=30
+		aluminium=0
+		chromium=0
+		rubber=20
+		oil=0
+		tungsten=0
+	}
+	buildings_max_level_factor=1.000
+	state_category=city
+
+history={
+		owner = IRE
+		add_core_of = IRE
+	}
+}

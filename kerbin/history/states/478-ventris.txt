@@ -1,0 +1,23 @@
+state={
+	id=478
+	name="STATE_478"
+	provinces={
+		1948 1956 1957 1978 2025 2030 2032 2075 2097 2100 2126 2147 2172 2189 2232 2256 2260 2295 2326 2338 2372 2416 2443 2469 2473 2494 2565 
+	}
+	manpower=1000000
+	resources={
+		steel=30
+		aluminium=0
+		chromium=0
+		rubber=20
+		oil=0
+		tungsten=0
+	}
+	buildings_max_level_factor=1.000
+	state_category=rural
+history={
+		owner = IRE
+		add_core_of = IRE
+		victory_points = { 2126 10 }
+	}
+}

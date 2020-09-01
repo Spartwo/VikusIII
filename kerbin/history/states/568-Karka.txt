@@ -1,0 +1,17 @@
+
+state={
+	id=568
+	name="STATE_568"
+
+	history={
+		owner = USA
+		add_core_of = USA
+
+	}
+
+	provinces={
+		444 455 468 483 496 517 522 562 576 608 610 618 648 686 689 740 776 787 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

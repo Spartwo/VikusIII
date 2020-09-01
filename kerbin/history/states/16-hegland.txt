@@ -1,0 +1,26 @@
+
+state={
+	id=16
+	name="STATE_16"
+	resources={
+		steel=30.000
+		aluminium=0.000
+		chromium=35.000
+		rubber=0.000
+		oil=0.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		3258 3268 3305 3324 3343 3373 3374 3444 3445 3500 3504 3564 3575 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

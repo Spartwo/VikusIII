@@ -1,0 +1,26 @@
+
+state={
+	id=250
+	name="STATE_250"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=0.000
+		oil=35.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		6664 6668 6695 6698 6717 6726 6738 6744 6758 6764 6773 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

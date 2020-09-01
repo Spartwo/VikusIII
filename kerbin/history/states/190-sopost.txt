@@ -1,0 +1,18 @@
+
+state={
+	id=190
+	name="STATE_190"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		3047 3176 3197 3231 3270 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

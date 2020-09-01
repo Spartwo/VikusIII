@@ -1,0 +1,23 @@
+state={
+	id=294
+	name="STATE_294"
+	provinces={
+		6975 7005 
+	}
+	manpower=1000000
+	resources={
+		steel=0
+		aluminium=15
+		chromium=0
+		rubber=0
+		oil=0
+		tungsten=20
+	}
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+history={
+		owner = IRE
+		add_core_of = IRE
+}
+}

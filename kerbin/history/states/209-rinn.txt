@@ -1,0 +1,16 @@
+state={
+	id=209
+	name="STATE_209"
+	provinces={
+		3973 4039 4064 4084 4157 4192 4243 4318 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=city
+
+history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = { 4192 20 }
+	}
+}

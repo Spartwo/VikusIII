@@ -1,0 +1,38 @@
+
+state={
+	id=136
+	name="STATE_136"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=0.000
+		oil=30.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = {
+			939 20 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			939 = {
+				naval_base = 8
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		712 716 725 754 762 782 816 850 894 
+	}
+	manpower=1000000
+	buildings_max_level_factor=10.000
+	state_category=rural
+}

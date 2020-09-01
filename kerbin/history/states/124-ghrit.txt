@@ -1,0 +1,29 @@
+
+state={
+	id=124
+	name="STATE_124"
+	resources={
+		steel=15.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=0.000
+		oil=0.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = {
+			2862 10 
+		}
+
+	}
+
+	provinces={
+		2620 2682 2698 2725 2748 2755 2771 2797 2817 2858 2862 2870 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,25 @@
+
+state={
+	id=120
+	name="STATE_120"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 5
+			arms_factory = 2
+			industrial_complex = 1
+			air_base = 4
+
+		}
+
+	}
+
+	provinces={
+		1236 1290 1319 1363 1390 1398 1408 1438 1485 1489 1516 1572 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

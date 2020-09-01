@@ -1,0 +1,16 @@
+state={
+	id=453
+	name="STATE_453"
+	provinces={
+		119 120 143 151 174 183 221 226 231 265 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = { 119 15 }
+	}
+}

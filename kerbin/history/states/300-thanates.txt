@@ -1,0 +1,22 @@
+state={
+	id=300
+	name="STATE_300"
+	provinces={
+		6331 6342 6621 
+	}
+	manpower=1000000
+	resources={
+		steel=30
+		aluminium=0
+		chromium=0
+		rubber=0
+		oil=15
+		tungsten=0
+	}
+	buildings_max_level_factor=1.000
+	state_category=rural
+history={
+		owner = IRE
+		add_core_of = IRE
+}
+}
