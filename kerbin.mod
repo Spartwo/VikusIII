@@ -1,0 +1,10 @@
+name="kerbin"
+path="mod/kerbin/"
+tags={
+	"Map"
+}
+replace_path="history/states"
+replace_path="history/countries"
+replace_path="map/strategicregions"
+replace_path="map/supplyareas"
+supported_version="1.9.*"
