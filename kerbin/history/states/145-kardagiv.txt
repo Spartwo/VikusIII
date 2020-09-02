@@ -12,8 +12,8 @@ state={
 	}
 
 	history={
-		owner = IRE
-		add_core_of = IRE
+		owner = SOV
+		add_core_of = SOV
 		buildings = {
 			infrastructure = 1
 
@@ -22,7 +22,7 @@ state={
 	}
 
 	provinces={
-		293 311 326 331 342 343 357 371 379 380 417 437 
+		293 311 326 331 342 343 357 371 379 380 417 982 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

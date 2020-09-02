@@ -1,23 +1,26 @@
+
 state={
 	id=177
 	name="STATE_177"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=0.000
+		oil=0.000
+		tungsten=30.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
 	provinces={
-		142 152 188 189 204 214 227 257 
+		516 607 670 682 736 741 775 780 813 822 873 888 
 	}
 	manpower=1000000
-	resources={
-		steel=0
-		aluminium=0
-		chromium=0
-		rubber=0
-		oil=0
-		tungsten=30
-	}
 	buildings_max_level_factor=1.000
 	state_category=pastoral
-
-history={
-		owner = IRE
-		add_core_of = IRE
-	}
 }

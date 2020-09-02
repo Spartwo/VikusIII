@@ -4,13 +4,13 @@ state={
 	name="STATE_507"
 
 	history={
-		owner = IRE
-		add_core_of = IRE
+		owner = USA
+		add_core_of = USA
 
 	}
 
 	provinces={
-		166 185 198 223 229 230 241 260 268 275 284 299 300 304 315 334 356 364 385 397 
+		63 66 70 75 85 86 90 105 130 149 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

@@ -4,8 +4,8 @@ state={
 	name="STATE_146"
 
 	history={
-		owner = IRE
-		add_core_of = IRE
+		owner = SOV
+		add_core_of = SOV
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 3
@@ -21,7 +21,7 @@ state={
 	}
 
 	provinces={
-		202 207 208 211 215 233 246 250 251 256 258 282 285 294 318 332 
+		168 202 207 208 211 215 233 246 250 251 256 258 282 285 294 318 332 
 	}
 	manpower=1000000
 	buildings_max_level_factor=10.000

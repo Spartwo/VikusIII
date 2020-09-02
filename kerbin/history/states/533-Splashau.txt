@@ -1,0 +1,18 @@
+
+state={
+	id=533
+	name="STATE_533"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		6549 6617 6701 6753 6817 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

@@ -1,15 +1,21 @@
+
 state={
 	id=299
 	name="STATE_299"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = {
+			6794 10 
+		}
+
+	}
+
 	provinces={
-		6782 6794 6825 6852 
+		6621 6658 6729 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000
 	state_category=pastoral
-history={
-		owner = IRE
-		add_core_of = IRE
-		victory_points = { 6794 10 }
-}
 }

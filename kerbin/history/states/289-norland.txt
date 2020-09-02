@@ -1,23 +1,26 @@
+
 state={
 	id=289
 	name="STATE_289"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=0.000
+		oil=30.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = IRE
+
+	}
+
 	provinces={
-		6786 6823 6886 
+		517 618 2532 2652 6786 6823 6886 
 	}
 	manpower=1000000
-	resources={
-		steel=0
-		aluminium=0
-		chromium=0
-		rubber=0
-		oil=30
-		tungsten=0
-	}
 	buildings_max_level_factor=1.000
 	state_category=large_city
-
-history={
-		owner = IRE
-		add_core_of = IRE
-}
 }

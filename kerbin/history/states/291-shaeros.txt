@@ -1,23 +1,26 @@
+
 state={
 	id=291
 	name="STATE_291"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=25.000
+		rubber=0.000
+		oil=0.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
 	provinces={
-		6965 6986 7003 
+		6946 6956 6976 7006 
 	}
 	manpower=1000000
-	resources={
-		steel=0
-		aluminium=0
-		chromium=25
-		rubber=0
-		oil=0
-		tungsten=0
-	}
 	buildings_max_level_factor=1.000
 	state_category=pastoral
-
-history={
-		owner = IRE
-		add_core_of = IRE
-}
 }

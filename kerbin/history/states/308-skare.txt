@@ -17,7 +17,7 @@ state={
 	state_category=pastoral
 
 history={
-		owner = IRE
-		add_core_of = IRE
+		owner = SOV
+		add_core_of = SOV
 }
 }

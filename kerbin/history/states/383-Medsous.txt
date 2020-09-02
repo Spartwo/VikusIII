@@ -1,0 +1,18 @@
+
+state={
+	id=383
+	name="STATE_383"
+
+	history={
+		owner = SOV
+		add_core_of = IRE
+
+	}
+
+	provinces={
+		455 462 468 496 500 522 552 562 610 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}
