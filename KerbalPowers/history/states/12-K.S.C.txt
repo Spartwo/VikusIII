@@ -15,26 +15,22 @@ state={
 	history={
 		owner = SOV
 		add_core_of = SOV
-		victory_points = {
-			3395 30 
-		}
-		victory_points = {
-			3338 5 
-		}
+
+		set_demilitarized_zone = yes
+		
+		victory_points = { 3395 30 }
+		victory_points = { 3338 5 }
+
 		buildings = {
+
 			infrastructure = 8
 			arms_factory = 3
 			industrial_complex = 2
 			dockyard = 2
 			air_base = 6
-			3395 = {
-				naval_base = 3
 
-			}
-			3338 = {
-				naval_base = 2
-
-			}
+			3395 = { naval_base = 3 }
+			3338 = { naval_base = 2 }
 
 		}
 
@@ -46,6 +42,4 @@ state={
 	manpower=1000000
 	buildings_max_level_factor=10.000
 	state_category=megalopolis
-
-        set_demilitarized_zone = yes
 }
