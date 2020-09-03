@@ -1,0 +1,18 @@
+
+state={
+	id=468
+	name="STATE_468"
+
+	history={
+		owner = SOV
+		add_core_of = IRE
+
+	}
+
+	provinces={
+		1179 1232 1250 1270 1294 1330 1336 1340 1357 1358 1407 1424 1468 1488 1498 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

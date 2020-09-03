@@ -1,0 +1,18 @@
+
+state={
+	id=492
+	name="STATE_492"
+
+	history={
+		owner = IRE
+		add_core_of = IRE
+
+	}
+
+	provinces={
+		1473 1536 1547 1627 1698 1706 1814 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,18 @@
+
+state={
+	id=305
+	name="STATE_305"
+
+	history={
+		owner = SOV
+		add_core_of = IRE
+
+	}
+
+	provinces={
+		260 509 535 3674 4635 5727 5885 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

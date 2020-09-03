@@ -1,0 +1,21 @@
+
+state={
+	id=469
+	name="STATE_469"
+
+	history={
+		owner = IRE
+		add_core_of = IRE
+		victory_points = {
+			871 15 
+		}
+
+	}
+
+	provinces={
+		843 851 867 871 915 921 928 953 956 961 1010 1016 1057 1100 1110 1158 1175 1189 1211 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

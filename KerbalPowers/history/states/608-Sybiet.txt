@@ -1,0 +1,16 @@
+
+state={
+	id=608
+	name="STATE_608"
+	provinces={
+		165 1124 4561 5158 5508 5597 5709 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+
+	history={
+		owner = SOV
+		add_core_of = IRE
+
+	}
+}
