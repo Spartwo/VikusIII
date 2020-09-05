@@ -16,7 +16,7 @@ state={
 		add_core_of = ARC
 		
 		victory_points = { 2798 10 }
-		victory_points = { 2784 10 }
+		victory_points = { 2784 5 }
 		
 		buildings = {
 			infrastructure = 3
