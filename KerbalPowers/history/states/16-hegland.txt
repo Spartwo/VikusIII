@@ -12,8 +12,8 @@ state={
 	}
 
 	history={
-		owner = SOV
-		add_core_of = SOV
+		owner = ZOK
+		add_core_of = ZOK
 
 	}
 

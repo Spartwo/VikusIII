@@ -16,7 +16,7 @@ state={
 	buildings_max_level_factor=1.000
 	state_category=rural
 history={
-		owner = SOV
-		add_core_of = SOV
+		owner = TEK
+		add_core_of = TEK
 	}
 }

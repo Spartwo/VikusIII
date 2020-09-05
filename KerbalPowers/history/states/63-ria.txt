@@ -19,8 +19,8 @@ state={
 #4305 capital main
 
 	history={
-		owner = SOV
-		add_core_of = SOV
+		owner = TEK
+		add_core_of = TEK
 		buildings = {
 			infrastructure = 6
 			arms_factory = 1

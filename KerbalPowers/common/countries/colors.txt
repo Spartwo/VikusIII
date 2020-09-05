@@ -1,0 +1,24 @@
+TEK = {
+	color = rgb { 0 74 127 }
+	color_ui = rgb { 0 74 127 }
+}
+
+KSC = {
+	color = rgb { 91 91 91 }
+	color_ui = rgb { 91 91 91 }
+}
+
+ARC = {
+	color = rgb { 126 1 0 }
+	color_ui = rgb { 126 1 0 }
+}
+
+AEN = {
+	color = rgb { 0 114 93 }
+	color_ui = rgb { 0 114 93 }
+}
+
+ZOK = {
+	color = rgb { 13 66 29 }
+	color_ui = rgb { 13 66 29 }
+}

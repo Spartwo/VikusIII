@@ -1,0 +1,204 @@
+ideologies = {
+	
+	cooperation = {
+	
+		types = {
+			
+			centrist_cooperation = {
+			}
+		
+			cooperative_socialism = {
+			}
+		
+			legitimist_cooperation = {
+			}
+
+			technocrat_cooperation = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_COOPERATION_1"
+			"FACTION_NAME_COOPERATION_2"
+			"FACTION_NAME_COOPERATION_3"
+			"FACTION_NAME_COOPERATION_4"
+			"FACTION_NAME_COOPERATION_5"
+			"FACTION_NAME_COOPERATION_6"
+		}
+		
+		color = { 0 0 255 }
+		
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		
+		war_impact_on_world_tension = -1.0
+		faction_impact_on_world_tension = -0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 1.00
+			join_faction_tension = 0.80
+			lend_lease_tension = 0.50
+			send_volunteers_tension = 0.50
+			guarantee_tension = 0.25
+			take_states_cost_factor = 0.25
+			annex_cost_factor = 0.5
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 #plus 50% trade opinion
+		}
+		ai_democratic = yes # uses the democratic AI behaviour
+	}
+
+
+	intervention = {
+		
+		types = {
+		
+			centrist_intervention = {
+			}
+		
+			interventionist_socialism = {
+			}
+		
+			legitimist_intervention = {
+			}
+
+			technocrat_intervention = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_INTERVENTION_1"
+			"FACTION_NAME_INTERVENTION_2"
+			"FACTION_NAME_INTERVENTION_3"
+			"FACTION_NAME_INTERVENTION_4"
+			"FACTION_NAME_INTERVENTION_5"
+		}
+		
+		color = { 255 0 0 }
+		
+		war_impact_on_world_tension = 0.75		#Commie less threatening
+		faction_impact_on_world_tension = 0.5
+		
+		ai_communist = yes # uses the commie AI behaviour
+		
+		rules = {
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		modifiers = {
+			puppet_cost_factor = -0.3
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+
+	expansion = {
+	
+		types = {
+		
+			centrist_expansion = {
+			}
+		
+			expansionist_socialism = {
+			}
+		
+			legitimist_expansion = {
+			}
+
+			technocrat_expansion = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_EXPANSION_1"
+			"FACTION_NAME_EXPANSION_2"
+			"FACTION_NAME_EXPANSION_3"
+			"FACTION_NAME_EXPANSION_4"
+			"FACTION_NAME_EXPANSION_5"
+		}
+		
+		color = { 75 175 0 }
+		
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+	
+	isolation = {
+	
+		types = {
+		
+			centrist_isolation = {
+			}
+		
+			isolationist_socialism = {
+			}
+		
+			legitimist_isolation = {
+			}
+
+			technocrat_isolation = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_ISOLATION_1"
+			"FACTION_NAME_ISOLATION_2"
+			"FACTION_NAME_ISOLATION_3"
+			"FACTION_NAME_ISOLATION_4"
+			"FACTION_NAME_ISOLATION_5"
+		}
+		
+		color = { 124 124 124 }
+		
+		
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+		
+		rules = {
+			can_force_government = no
+			can_puppet = yes
+			can_send_volunteers = no
+		}
+		
+		modifiers = {
+			increased_influence_factor = 1.2
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.4
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3	
+		}
+		
+		faction_modifiers = {
+		}
+
+		can_be_boosted = yes
+		can_collaborate = yes
+
+		ai_neutral = yes # 
+	}
+}

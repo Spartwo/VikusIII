@@ -1,0 +1,5 @@
+TEK = "countries/TEK.txt"  #TEKKIA
+KSC = “countries/KSC.txt” #DO I GOTTA EXPLAN THIS ONE
+ARC = “countries/ARC.txt” #DO I GOTTA EXPLAN THIS ONE
+AEN = “countries/AEN.txt” #DO I GOTTA EXPLAN THIS ONE
+ZOK = “countries/ZOK.txt” #DO I GOTTA EXPLAN THIS ONE

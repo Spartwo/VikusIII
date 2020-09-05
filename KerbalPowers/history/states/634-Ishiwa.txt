@@ -4,8 +4,8 @@ state={
 	name="STATE_634"
 
 	history={
-		owner = SOV
-		add_core_of = SOV
+		owner = TEK
+		add_core_of = TEK
 
 	}
 
@@ -15,8 +15,8 @@ state={
 	manpower=0
 	buildings_max_level_factor=1.000
 	history={
-		owner = SOV
-		add_core_of = SOV
+		owner = TEK
+		add_core_of = TEK
 
 	}
 }

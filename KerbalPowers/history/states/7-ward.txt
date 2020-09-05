@@ -18,8 +18,8 @@ state={
 	state_category=city
 
 history={
-		owner = SOV
-		add_core_of = SOV
+		owner = ZOK
+		add_core_of = ZOK
 
 		buildings = {
 			infrastructure = 6

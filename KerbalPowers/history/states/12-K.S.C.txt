@@ -13,8 +13,8 @@ state={
 
 
 	history={
-		owner = SOV
-		add_core_of = SOV
+		owner = KSC
+		add_core_of = KSC
 
 		set_demilitarized_zone = yes
 		

@@ -10,7 +10,7 @@ state={
 
 #4120 capital
 history={
-		owner = SOV
-		add_core_of = SOV
+		owner = TEK
+		add_core_of = TEK
 	}
 }
