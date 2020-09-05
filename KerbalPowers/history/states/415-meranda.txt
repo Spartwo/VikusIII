@@ -1,22 +1,26 @@
+
 state={
 	id=415
 	name="STATE_415"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=0.000
+		oil=0.000
+		tungsten=20.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
 	provinces={
-		4211 4228 4390 
+		2173 2487 3092 4211 4228 4368 4390 4446 4496 
 	}
 	manpower=1000000
-	resources={
-		steel=0
-		aluminium=0
-		chromium=0
-		rubber=0
-		oil=0
-		tungsten=20
-	}
 	buildings_max_level_factor=1.000
 	state_category=rural
-history={
-		owner = IRE
-		add_core_of = IRE
-	}
 }

@@ -13,12 +13,12 @@ state={
 
 	history={
 		owner = SOV
-		add_core_of = IRE
+		add_core_of = SOV
 
 	}
 
 	provinces={
-		1280 1742 1780 1880 2008 
+		1280 1742 1780 1880 2008 3017 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

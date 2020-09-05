@@ -12,8 +12,8 @@ state={
 	}
 
 	history={
-		owner = IRE
-		add_core_of = IRE
+		owner = SOV
+		add_core_of = SOV
 		victory_points = {
 			1504 20 
 		}
@@ -21,7 +21,7 @@ state={
 	}
 
 	provinces={
-		1441 1442 1525 1526 1535 1609 1619 1684 
+		1441 1442 1481 1513 1525 1535 1552 1609 1623 1624 1648 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

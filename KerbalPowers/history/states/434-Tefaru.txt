@@ -1,0 +1,26 @@
+
+state={
+	id=434
+	name="STATE_434"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=0.000
+		oil=30.000
+		tungsten=15.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		2225 2249 2257 2261 2274 2318 2332 2348 2391 2399 2400 2410 2431 2444 2459 2499 2544 2557 2558 2596 2609 2635 2669 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

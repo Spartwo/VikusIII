@@ -1,24 +1,29 @@
+
 state={
 	id=411
 	name="STATE_411"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=30.000
+		rubber=0.000
+		oil=0.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = {
+			3976 20 
+		}
+
+	}
+
 	provinces={
-		3716 3728 3792 3812 3821 3824 3851 3866 3881 3888 3919 3932 3976 4054 
+		3849 3911 3931 4002 4012 4041 4158 4159 
 	}
 	manpower=1000000
-	resources={
-		steel=0
-		aluminium=0
-		chromium=30
-		rubber=0
-		oil=0
-		tungsten=0
-	}
 	buildings_max_level_factor=1.000
 	state_category=large_town
-
-history={
-		owner = IRE
-		add_core_of = IRE
-		victory_points = { 3976 20 }
-	}
 }

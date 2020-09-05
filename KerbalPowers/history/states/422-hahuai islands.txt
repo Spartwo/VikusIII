@@ -10,6 +10,6 @@ state={
 
 history={
 		owner = SOV
-		add_core_of = IRE
+		add_core_of = SOV
 	}
 }

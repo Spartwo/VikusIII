@@ -1,23 +1,29 @@
+
 state={
 	id=476
 	name="STATE_476"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=0.000
+		oil=0.000
+		tungsten=25.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = {
+			1628 15 
+		}
+
+	}
+
 	provinces={
-		1628 1634 1658 1667 1671 1731 1747 1750 1765 1768 1789 1796 1797 1817 1824 1832 1872 1876 1891 1900 
+		1628 1671 1731 1750 1765 1789 1796 1797 1872 1876 1891 1900 1963 
 	}
 	manpower=1000000
-	resources={
-		steel=0
-		aluminium=0
-		chromium=0
-		rubber=0
-		oil=0
-		tungsten=25
-	}
 	buildings_max_level_factor=1.000
 	state_category=rural
-history={
-		owner = IRE
-		add_core_of = IRE
-		victory_points = { 1628 15 }
-	}
 }

@@ -12,13 +12,13 @@ state={
 	}
 
 	history={
-		owner = IRE
-		add_core_of = IRE
+		owner = SOV
+		add_core_of = SOV
 
 	}
 
 	provinces={
-		2150 2497 2667 4718 4900 4915 5532 
+		291 4667 4673 5192 5262 5286 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

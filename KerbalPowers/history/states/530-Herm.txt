@@ -1,0 +1,26 @@
+
+state={
+	id=530
+	name="STATE_530"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=0.000
+		oil=30.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		1634 1667 1747 1768 1817 1824 1832 1890 1899 1937 1955 1977 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

@@ -1,0 +1,16 @@
+
+state={
+	id=617
+	name="STATE_617"
+	provinces={
+		3399 3520 3578 3622 3623 3630 3675 3712 3765 3843 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+}

@@ -1,22 +1,26 @@
+
 state={
 	id=500
 	name="STATE_500"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=0.000
+		oil=0.000
+		tungsten=15.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
 	provinces={
-		2834 2925 3006 3016 3105 3133 3192 3329 3361 3364 3399 3426 
+		1075 3006 3105 3133 3192 3275 3329 3361 3364 3497 
 	}
 	manpower=1000000
-	resources={
-		steel=0
-		aluminium=15
-		chromium=0
-		rubber=0
-		oil=30
-		tungsten=0
-	}
 	buildings_max_level_factor=1.000
 	state_category=rural
-history={
-		owner = IRE
-		add_core_of = IRE
-	}
 }

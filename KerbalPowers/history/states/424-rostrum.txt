@@ -1,23 +1,26 @@
+
 state={
 	id=424
 	name="STATE_424"
+	resources={
+		steel=15.000
+		aluminium=15.000
+		chromium=0.000
+		rubber=0.000
+		oil=0.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
 	provinces={
-		3545 3567 3568 3595 3636 3655 3663 3676 3686 3718 3735 
+		3545 3567 3568 3595 3636 3655 3663 3676 3686 3718 3735 3770 
 	}
 	manpower=1000000
-	resources={
-		steel=15
-		aluminium=15
-		chromium=0
-		rubber=0
-		oil=0
-		tungsten=0
-	}
 	buildings_max_level_factor=1.000
 	state_category=city
-
-history={
-		owner = IRE
-		add_core_of = IRE
-	}
 }

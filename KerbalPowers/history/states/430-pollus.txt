@@ -1,15 +1,18 @@
+
 state={
 	id=430
 	name="STATE_430"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
 	provinces={
-		3783 3800 3815 3849 3856 3894 3911 3912 3931 3961 3982 4002 4012 4041 4049 4080 4158 4159 4196 4199 
+		2968 3022 3049 3050 3106 3123 3124 3136 3158 3183 3211 3219 3226 3264 3298 3316 3400 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000
 	state_category=rural
-
-history={
-		owner = IRE
-		add_core_of = IRE
-	}
 }
