@@ -1,15 +1,17 @@
+
 state={
 	id=571
 	name="STATE_571"
-	provinces={
-		2818 2897 2905 2923 2950 2966 2993 2999 3103 
-	}
-	manpower=0
-	buildings_max_level_factor=1.000
 
 	history={
 		owner = ARC
 		add_core_of = ARC
 
 	}
+
+	provinces={
+		2818 2897 2905 2923 2950 2966 2993 2999 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
 }
