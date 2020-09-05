@@ -1,13 +1,25 @@
-
 state={
 	id=321
 	name="STATE_321"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=0.000
+		oil=0.000
+		tungsten=0.000
+	}
 
 	history={
 		owner = ARC
 		add_core_of = ARC
-		victory_points = {
-			2798 10 
+		
+		victory_points = { 2452 10 }
+		
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
 		}
 
 	}
@@ -15,7 +27,7 @@ state={
 	provinces={
 		2418 2452 2464 2511 2579 2586 2628 2714 
 	}
-	manpower=1000000
+	manpower=44986
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=town
 }
