@@ -1,4 +1,4 @@
-﻿capital = 320
+﻿capital = 108
 
 oob = "RMAP_TEMPLATE"
 
