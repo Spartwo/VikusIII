@@ -1,0 +1,79 @@
+bookmarks = {
+	bookmark = {
+		name = "KERBIN_POWERS_NAME"
+		desc = "KERBIN_POWERS_DESC"
+		date = 2077.1.1.12
+		picture = "GFX_select_date_2050"
+		default_country = "KSC"
+		default = yes
+		
+		"ARC"={
+			history = "0AR_KERBIN_POWERS_DESC"
+			ideology = expansion
+			ideas = {
+				0UR_iuk_influence
+				0UR_cantonal_economic_divide
+				0UR_laythi_as_capital
+			}
+			focuses = {
+				0UR_centralists
+				0UR_federalists
+				0UR_iuk_focus
+			}
+		}
+
+		"AEN"={
+			history = "0FR_KERBIN_POWERS_DESC"
+			ideology = cooperation
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
+
+		"TEK"={
+			history = "0CT_KERBIN_POWERS_DESC"
+			ideology = isolation
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
+
+		"ZOK"={
+			history = "0BZ_KERBIN_POWERS_DESC"
+			ideology = intervention
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
+
+		"---"={
+			history = "OTHER_KERBIN_POWERS_DESC"
+		}
+###minors
+		"KSC"={
+			minor = yes
+			history = "0UR_KERBIN_POWERS_DESC"
+			ideology = cooperation
+			ideas = {
+				
+			}
+			focuses = {
+			
+			}
+		}
+
+		effect = {
+			randomize_weather = 12345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}
