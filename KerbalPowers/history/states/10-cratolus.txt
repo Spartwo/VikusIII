@@ -18,8 +18,8 @@ state={
 	state_category=metropolis
 
 history={
-		owner = TEK
-		add_core_of = TEK
+		owner = KSC
+		add_core_of = KSC
 		victory_points = { 4291 10 }
 		buildings = {
 			infrastructure = 5

@@ -12,13 +12,13 @@ state={
 	}
 
 	history={
-		owner = TEK
-		add_core_of = TEK
+		owner = KSC
+		add_core_of = KSC
 
 	}
 
 	provinces={
-		3987 4061 4085 4140 4150 4175 4183 4202 4214 4271 4272 4289 4377 4392 
+		3987 4061 4085 4140 4150 4175 4183 4202 4214 4271 4272 4289 4392 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

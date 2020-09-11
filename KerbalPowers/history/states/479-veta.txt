@@ -14,14 +14,17 @@ state={
 	history={
 		owner = ARC
 		add_core_of = ARC
-		
-		victory_points = { 3320 20 }
-		victory_points = { 3095 10 }
-		
+		victory_points = {
+			3320 20 
+		}
+		victory_points = {
+			3095 10 
+		}
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
 			industrial_complex = 1
+
 		}
 
 	}

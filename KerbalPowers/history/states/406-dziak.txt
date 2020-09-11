@@ -9,8 +9,8 @@ state={
 	state_category=large_town
 
 history={
-		owner = TEK
-		add_core_of = TEK
+		owner = KSC
+		add_core_of = KSC
 		victory_points = { 1665 10 }
 	}
 }

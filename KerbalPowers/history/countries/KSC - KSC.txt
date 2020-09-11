@@ -37,29 +37,21 @@ set_technology = {
 	base_strike = 1 }
 
 set_politics = {
-#replace question marks with numbers adding up to 100
-	parties = {
-		cooperation = { 
-			popularity = 25
-		}
-
-		expansion = {
-			popularity = 25
-		}
-		
-		intervention = {
-			popularity = 25
-		}
-
-		isolation = { 
-			popularity = 70
-		}
-	}
 	#can replace ruling party, election frequency is in months
 	ruling_party = isolation
 	last_election = "2048.1.24"
 	election_frequency = 48
 	elections_allowed = yes
+}
+
+
+set_popularities = {
+	statism = 5
+	isolationism = 5
+	neoconservativism = 12
+	nationalism = 8
+	corporatism = 10
+	liberalism = 60
 }
 
 	#name the leader, the day they may be planned to die, and pick the specific ideology
@@ -68,7 +60,7 @@ create_country_leader = {
 	
 	picture = "GFX_leader_unknown.dds"
 	expire = "9999.1.1"
-	ideology = centrist_isolation
+	ideology = communism
 	traits = {
 		
 	}
@@ -78,7 +70,7 @@ create_country_leader = {
 	
 	picture = "GFX_leader_unknown.dds"
 	expire = "9999.1.1"
-	ideology = centrist_cooperation
+	ideology = social_democracy
 	traits = {
 		
 	}
@@ -88,17 +80,17 @@ create_country_leader = {
 	
 	picture = "GFX_leader_unknown.dds"
 	expire = "9999.1.1"
-	ideology = centrist_intervention
+	ideology = irridentism
 	traits = {
 		
 	}
 
 create_country_leader = {
-	name = "Tim Kerman"
+	name = "Valentina Kerman"
 	
 	picture = "GFX_leader_unknown.dds"
 	expire = "9999.1.1"
-	ideology = centrist_expansion
+	ideology = expansionism
 	traits = {
 		
 	}

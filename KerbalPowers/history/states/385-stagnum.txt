@@ -4,13 +4,13 @@ state={
 	name="STATE_385"
 
 	history={
-		owner = TEK
-		add_core_of = TEK
+		owner = KSC
+		add_core_of = KSC
 
 	}
 
 	provinces={
-		3303 3356 3362 3380 3391 3441 3448 3458 3459 3482 3513 3548 3550 3607 3608 3671 6957 
+		3264 3303 3356 3362 3380 3391 3441 3448 3458 3459 3482 3513 3548 3550 3607 3608 3671 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

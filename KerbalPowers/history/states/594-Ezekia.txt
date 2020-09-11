@@ -6,7 +6,8 @@ state={
 		3963 4160 4188 4221 4247 4251 4268 4273 4300 4357 4374 4384 4413 4421 4452 4456 4480 
 	}
 	manpower=0
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1.000 
+ 	 state_category=wasteland
 	history={
 		owner = ZOK
 		add_core_of = ZOK

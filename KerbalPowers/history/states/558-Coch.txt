@@ -12,8 +12,8 @@ state={
 	}
 
 	history={
-		owner = TEK
-		add_core_of = TEK
+		owner = KSC
+		add_core_of = KSC
 
 	}
 
@@ -21,6 +21,7 @@ state={
 		6461 6559 6560 6652 6659 6693 6712 6737 6792 6810 
 	}
 	manpower=1000000
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1.000 
+ 	 state_category=wasteland
 	state_category=wasteland
 }

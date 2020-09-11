@@ -12,8 +12,8 @@ state={
 	}
 
 	history={
-		owner = TEK
-		add_core_of = TEK
+		owner = KSC
+		add_core_of = KSC
 		victory_points = {
 			7019 10 
 		}
@@ -24,6 +24,7 @@ state={
 		6083 6085 6093 6117 6121 6141 6169 6181 6188 6209 6390 7019 
 	}
 	manpower=1000000
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1.000 
+ 	 state_category=wasteland
 	state_category=pastoral
 }

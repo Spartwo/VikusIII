@@ -9,8 +9,8 @@ state={
 	state_category=rural
 
 	history={
-		owner = TEK
-		add_core_of = TEK
+		owner = KSC
+		add_core_of = KSC
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1

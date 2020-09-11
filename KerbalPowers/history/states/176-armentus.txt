@@ -12,8 +12,8 @@ state={
 	}
 
 	history={
-		owner = TEK
-		add_core_of = TEK
+		owner = KSC
+		add_core_of = KSC
 		victory_points = {
 			245 15 
 		}
@@ -21,7 +21,7 @@ state={
 	}
 
 	provinces={
-		135 189 199 200 210 223 227 243 245 257 271 276 290 
+		135 189 199 200 210 223 227 243 245 271 276 290 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

@@ -18,8 +18,8 @@ state={
 #73 Naval
 #69 capital
 history={
-		owner = TEK
-		add_core_of = TEK
+		owner = KSC
+		add_core_of = KSC
 		victory_points = { 74 5 }
 	}
 }

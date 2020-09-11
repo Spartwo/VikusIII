@@ -4,14 +4,15 @@ state={
 	name="STATE_612"
 
 	history={
-		owner = TEK
-		add_core_of = TEK
+		owner = KSC
+		add_core_of = KSC
 
 	}
 
 	provinces={
-		1393 1536 1643 1681 1698 1814 1822 1883 3352 7017 
+		1393 1473 1536 1643 1681 1698 1814 1822 1883 3352 7017 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	state_category=wasteland
 }

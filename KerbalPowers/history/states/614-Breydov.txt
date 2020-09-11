@@ -5,10 +5,11 @@ state={
 		182 687 3668 4606 4638 4725 4853 5605 6944 
 	}
 	manpower=0
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1.000 
+ 	 state_category=wasteland
 	history={
-		owner = TEK
-		add_core_of = TEK
+		owner = KSC
+		add_core_of = KSC
 
 	}
 }

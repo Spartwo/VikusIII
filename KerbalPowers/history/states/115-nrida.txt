@@ -18,7 +18,7 @@ state={
 	state_category=megalopolis
 
 history={
-		owner = TEK
-		add_core_of = TEK
+		owner = KSC
+		add_core_of = KSC
 	}
 }

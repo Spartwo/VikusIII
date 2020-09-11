@@ -4,8 +4,8 @@ state={
 	name="STATE_144"
 
 	history={
-		owner = TEK
-		add_core_of = TEK
+		owner = KSC
+		add_core_of = KSC
 		buildings = {
 			infrastructure = 5
 			arms_factory = 0
@@ -22,7 +22,7 @@ state={
 	}
 
 	provinces={
-		393 428 434 453 477 486 493 494 536 556 559 591 601 619 633 
+		393 428 434 453 477 486 493 494 536 556 559 601 619 633 791 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

@@ -5,10 +5,11 @@ state={
 		1753 1773 1808 1840 1847 1867 1892 1919 1942 1947 1984 
 	}
 	manpower=0
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1.000 
+ 	 state_category=wasteland
 	history={
-		owner = TEK
-		add_core_of = TEK
+		owner = KSC
+		add_core_of = KSC
 
 	}
 }

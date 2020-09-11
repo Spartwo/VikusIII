@@ -5,10 +5,11 @@ state={
 		1028 1037 1044 1114 1125 1126 1131 1134 1209 1220 1226 1237 1573 
 	}
 	manpower=0
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1.000 
+ 	 state_category=wasteland
 	history={
-		owner = TEK
-		add_core_of = TEK
+		owner = KSC
+		add_core_of = KSC
 
 	}
 }
