@@ -38,7 +38,7 @@ set_technology = {
 
 set_politics = {
 	#can replace ruling party, election frequency is in months
-	ruling_party = isolation
+	ruling_party = neutrality
 	last_election = "2048.1.24"
 	election_frequency = 48
 	elections_allowed = yes
@@ -46,12 +46,12 @@ set_politics = {
 
 
 set_popularities = {
-	statism = 5
-	isolationism = 5
+	communism = 5 #statism
+	neutrality = 5 #isolationism
 	neoconservativism = 12
-	nationalism = 8
+	fascism = 8 #Nationalism
 	corporatism = 10
-	liberalism = 60
+	democratic = 60 #Liberalism
 }
 
 	#name the leader, the day they may be planned to die, and pick the specific ideology

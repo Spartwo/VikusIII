@@ -3,7 +3,7 @@ state={
 	id=14
 	name="STATE_14"
 	resources={
-		steel=25.000
+		steel=0.000
 		aluminium=0.000
 		chromium=0.000
 		rubber=0.000
@@ -39,6 +39,6 @@ state={
 		3556 3633 3651 3758 3793 3874 3962 4109 4122 4222 4250 
 	}
 	manpower=1000000
-	buildings_max_level_factor=10.000
-	state_category=large_town
+	buildings_max_level_factor=0.000
+	state_category=city
 }

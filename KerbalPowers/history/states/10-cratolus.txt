@@ -14,7 +14,7 @@ state={
 		tungsten=0
 	}
 
-	buildings_max_level_factor=10.000
+	buildings_max_level_factor=0.000
 	state_category=metropolis
 
 history={

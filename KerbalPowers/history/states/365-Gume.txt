@@ -14,7 +14,7 @@ state={
 		tungsten=30
 	}
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=rural
 history={
 		owner = KSC
 		add_core_of = KSC

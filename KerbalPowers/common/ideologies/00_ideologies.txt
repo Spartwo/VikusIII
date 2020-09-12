@@ -1,6 +1,6 @@
 ideologies = {
 
-statism = {
+communism = {
                 color = { 154 54 57 }
                 can_host_government_in_exile = yes
                 war_impact_on_world_tension = 0.5
@@ -12,7 +12,7 @@ statism = {
 types = {  
                         theocratic_socialism = { }
                         socialist_nationalism = { }
-                        communism =  { }
+                        stihlism =  { }
                         absolutism = { }
                 }
 
@@ -46,7 +46,7 @@ modifiers = {
                 ai_communist = yes # uses the commie AI behaviour
         }
 
-isolationism = {
+neutrality = {
                 color = { 195 195 195 }
                 can_host_government_in_exile = yes
                 war_impact_on_world_tension = 0.25 #no major danger
@@ -56,10 +56,9 @@ isolationism = {
                 
                 
 types = {  
-                        neutrality = { }
+                        centrism = { }
                         syndicalism = { }
-                        indepentism =  { }
-                        soltism = { }
+                        isolationism = { }
                 }
 
 dynamic_faction_names = {
@@ -92,7 +91,7 @@ modifiers = {
                 ai_neutral = yes # 
         }
 
-nationalism = {
+fascism = {
                 color = { 127 111 169 }
                 can_host_government_in_exile = yes
                 war_impact_on_world_tension = 1.0
@@ -146,7 +145,7 @@ neoconservativism = {
                 
 types = {  
                         stratocracy = { }
-                        traditionalism_libertarianism = { }
+                        libertarianism = { }
                         neomonarchism =  { }
                 }
 
@@ -225,7 +224,7 @@ modifiers = {
                 ai_democratic = yes # uses the democratic AI behaviour
         }
 
-liberalism = {
+democratic = {
                 color = { 170 203 158 }
                 can_host_government_in_exile = yes
                 war_impact_on_world_tension = 0.1

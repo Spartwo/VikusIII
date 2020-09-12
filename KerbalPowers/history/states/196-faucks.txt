@@ -4,7 +4,7 @@ state={
 	id=196
 	name="STATE_196"
 	resources={
-		steel=25.000
+		steel=0.000
 		aluminium=0.000
 		chromium=0.000
 		rubber=0.000
@@ -23,5 +23,5 @@ state={
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_town
 }

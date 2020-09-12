@@ -38,38 +38,28 @@ set_technology = {
 }
 
 set_politics = {
-
-	parties = {
-		cooperation = { 
-			popularity = 0
-		}
-
-		expansion = {
-			popularity = 2
-		}
-		
-		intervention = {
-			popularity = 75
-		}
-
-		isolation = { 
-			popularity = 23
-		}
-	}
 	
-	ruling_party = isolation
+	ruling_party = neutrality
 	last_election = "2047.3.1"
 	election_frequency = 60
 	elections_allowed = no
 }
 
+set_popularities = {
+	communism = 75 #statism
+	neutrality = 23 #isolationism
+	neoconservativism = 0
+	fascism = 2 #Nationalism
+	corporatism = 0
+	democratic = 0 #Liberalism
+}
 	
 create_country_leader = {
 	name = "Georgy Stihlovich"
 	
 	
 	expire = "99991.3.1"
-	ideology = isolationist_socialism
+	ideology = isolationism
 	traits = {
 		
 	}
@@ -79,7 +69,7 @@ create_country_leader = {
 	
 	
 	expire = "9999.3.1"
-	ideology = interventionist_socialism
+	ideology = stihlism
 	traits = {
 
 	}

@@ -16,7 +16,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 5101;5066;sea;4817;-1;-1;-1;-1;;Lod
 4630;4581;sea;4659;-1;-1;-1;-1;;Istma-Exillia
 4630;4680;sea;4659;-1;-1;-1;-1;;Istma
-4603;4680;sea;4659;-1;-1;-1;-1;;Istma-Doend
+4630;4603;sea;4659;-1;-1;-1;-1;;Istma-Doend
 3554;3527;sea;3185;-1;-1;-1;-1;;Pures
 3240;3338;sea;3058;-1;-1;-1;-1;;KSC Island
 423;474;sea;439;-1;-1;-1;-1;;Tora
@@ -24,7 +24,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 4022;4114;sea;3985;-1;-1;-1;-1;;Aontas Strait
 3657;3600;sea;3409;-1;-1;-1;-1;;Mede
 3336;4013;sea;2585;-1;-1;-1;-1;;Jefair
-3213;4013;sea;2585;-1;-1;-1;-1;;Jefair
 1262;1178;sea;1133;-1;-1;-1;-1;;Rivere-Panseria
 1121;1210;sea;1133;-1;-1;-1;-1;;Rivere-Panseria
 1147;1238;sea;;-1;-1;-1;-1;;Calida-Panseria
@@ -32,16 +31,15 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 679;738;sea;553;-1;-1;-1;-1;;Hook Islands
 72;95;sea;47;-1;-1;-1;-1;;Beagans
 87;95;sea;47;-1;-1;-1;-1;;Beagans
-120;95;sea;47;-1;-1;-1;-1;;Beagans
 710;773;sea;511;-1;-1;-1;-1;;Rivanna-Melfta
 789;852;sea;511;-1;-1;-1;-1;;Rivanna-Melfta
 2659;2793;sea;2253;-1;-1;-1;-1;;Parznet-Gary
 2979;2973;sea;2980;-1;-1;-1;-1;;Alec-Gary
-2751;2691;sea;2253;-1;-1;-1;-1;;Gary
 2356;2457;sea;2127;-1;-1;-1;-1;;Notillian-Korfu
 2702;2687;sea;2427;-1;-1;-1;-1;;Algand-Nautilus
 2559;2401;sea;2427;-1;-1;-1;-1;;Notillian-Algand
 2549;2401;sea;2427;-1;-1;-1;-1;;Notillian-Nautilus
+5028;5122;sea;4946;-1;-1;-1;-1;;Psylets
 
 
 515;1133;;-1;-1;-1;-1;-1;GREAT_LAKES;Ye

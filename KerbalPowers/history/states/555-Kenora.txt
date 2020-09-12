@@ -3,7 +3,7 @@ state={
 	id=555
 	name="STATE_555"
 	resources={
-		steel=20.000
+		steel=0.000
 		aluminium=0.000
 		chromium=0.000
 		rubber=0.000
@@ -22,6 +22,6 @@ state={
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000 
- 	 state_category=wasteland
+ 	 state_category=pastoral
 	state_category=pastoral
 }
