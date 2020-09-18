@@ -5,7 +5,7 @@ state={
 	provinces={
 		1714 1715 1924 1933 2004 2110 2176 7018 
 	}
-	manpower=0
+	manpower=100000
 	buildings_max_level_factor=1.000 
  	 state_category=pastoral
 	history={

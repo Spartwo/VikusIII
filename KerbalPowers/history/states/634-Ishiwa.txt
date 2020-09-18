@@ -12,12 +12,7 @@ state={
 	provinces={
 		2607 2657 2745 2811 2834 2839 2925 3016 3028 
 	}
-	manpower=0
+	manpower=100000
 	buildings_max_level_factor=1.000 
- 	 state_category=wasteland
-	history={
-		owner = KSC
-		add_core_of = KSC
-
-	}
+ 	state_category=wasteland
 }

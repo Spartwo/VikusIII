@@ -1,0 +1,110 @@
+
+ technology_sharing_group = {
+
+	id = KAFTA_research
+	name = KAFTA_research_name
+	desc = KAFTA_research_desc
+	picture = GFX_technology_sharing_default
+    
+	research_sharing_per_country_bonus = 0.1
+
+    available = {
+        is_in_faction_with = TEK
+        is_in_faction_with = MEC
+        is_in_faction_with = SOL
+    }
+
+}
+
+technology_sharing_group = {
+
+	id = Kalban_research
+	name = Kalban_research_name
+	desc = Kalban_research_desc
+	picture = GFX_technology_sharing_default
+    
+	research_sharing_per_country_bonus = 0.1
+
+    available = {
+        is_in_faction_with = KAL
+    }
+
+}
+
+technology_sharing_group = {
+
+	id = PAKT_research
+	name = PAKT_research_name
+	desc = PAKT_research_desc
+	picture = GFX_technology_sharing_default
+    
+	research_sharing_per_country_bonus = 0.1
+
+    available = {
+        is_in_faction_with = ARC
+    }
+
+}
+
+
+technology_sharing_group = {
+
+	id = Zokesian_research
+	name = Zokesian_research_name
+	desc = Zokesian_research_desc
+	picture = GFX_technology_sharing_default
+    
+	research_sharing_per_country_bonus = 0.1
+
+    available = {
+        is_in_faction_with = ZOK
+    }
+
+}
+
+technology_sharing_group = {
+
+	id = NEOCON_research
+	name = NEOCON_research_name
+	desc = NEOCON_research_desc
+	picture = GFX_technology_sharing_default
+    
+	research_sharing_per_country_bonus = 0.1
+
+    available = {
+        is_in_faction_with = AEN
+        is_in_faction_with = ERU
+    }
+
+}
+
+technology_sharing_group = {
+
+	id = NEOCON_research
+	name = NEOCON_research_name
+	desc = NEOCON_research_desc
+	picture = GFX_technology_sharing_default
+    
+	research_sharing_per_country_bonus = 0.1
+
+    available = {
+        is_in_faction_with = NMC
+    }
+
+}
+
+technology_sharing_group = {
+
+	id = continuous_tech_share
+	name = continuous_tech_share_group_name
+	desc = continuous_tech_share_group_desc
+	picture = GFX_technology_sharing_default
+    
+	research_sharing_per_country_bonus = 0.1
+	is_faction_sharing = yes
+
+    available = {
+        is_in_faction = yes
+    }
+
+}

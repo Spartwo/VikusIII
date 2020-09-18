@@ -19,8 +19,8 @@ state={
 #4305 capital main
 
 	history={
-		owner = KSC
-		add_core_of = KSC
+		owner = CHO
+		add_core_of = CHO
 		buildings = {
 			infrastructure = 6
 			arms_factory = 1

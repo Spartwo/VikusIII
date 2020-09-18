@@ -3,3 +3,5 @@ KSC = "countries/KSC.txt" #DO I GOTTA EXPLAN THIS ONE
 ARC = "countries/ARC.txt" #ARCADIA
 AEN = "countries/AEN.txt" #AENIA
 ZOK = "countries/ZOK.txt" #ZOKESIA
+CHO = "countries/CHO.txt" #CHOSAINT
+GRE = "countries/GRE.txt" #GRESTIN

@@ -22,3 +22,12 @@ ZOK = {
 	color = rgb { 13 66 29 }
 	color_ui = rgb { 13 66 29 }
 }
+CHO = {
+	color = rgb { 224 150 47 }
+	color_ui = rgb { 224 150 47 }
+}
+
+GRE = {
+	color = rgb { 63 158 96 }
+	color_ui = rgb { 63 158 96 }
+}

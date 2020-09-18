@@ -45,5 +45,8 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 515;1133;;-1;-1;-1;-1;-1;GREAT_LAKES;Ye
 2099;1386;;-1;-1;-1;-1;-1;OWLIA_RIVER;Et
 
+3346;3390;impassable;-1;-1;-1;-1;-1;;KSC mountains
+3346;3274;impassable;-1;-1;-1;-1;-1;;KSC mountains
+3516;3546;impassable;-1;-1;-1;-1;-1;;KSC mountains
 
 -1;-1;;-1;-1;-1;-1;-1;-1

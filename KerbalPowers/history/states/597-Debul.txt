@@ -5,7 +5,7 @@ state={
 	provinces={
 		2448 2516 2527 2567 2627 2636 2660 2676 2723 2729 2733 2801 
 	}
-	manpower=0
+	manpower=100000
 	buildings_max_level_factor=1.000 
  	 state_category=city
 	history={

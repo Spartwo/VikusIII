@@ -6,6 +6,17 @@ bookmarks = {
 		picture = "GFX_select_date_2050"
 		default_country = "KSC"
 		default = yes
+
+		"KAL"={
+			history = "0FR_KERBIN_POWERS_DESC"
+			ideology = cooperation
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
 		
 		"ARC"={
 			history = "0AR_KERBIN_POWERS_DESC"
@@ -20,6 +31,12 @@ bookmarks = {
 				0UR_federalists
 				0UR_iuk_focus
 			}
+		}
+
+		
+
+		"---"={
+			history = "OTHER_KERBIN_POWERS_DESC"
 		}
 
 		"AEN"={
@@ -43,8 +60,11 @@ bookmarks = {
 
 			}
 		}
+###minors
+		
 
 		"ZOK"={
+			minor = yes
 			history = "0BZ_KERBIN_POWERS_DESC"
 			ideology = intervention
 			ideas = {
@@ -55,10 +75,6 @@ bookmarks = {
 			}
 		}
 
-		"---"={
-			history = "OTHER_KERBIN_POWERS_DESC"
-		}
-###minors
 		"KSC"={
 			minor = yes
 			history = "0UR_KERBIN_POWERS_DESC"

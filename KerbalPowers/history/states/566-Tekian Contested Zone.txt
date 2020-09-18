@@ -4,12 +4,13 @@ state={
 	provinces={
 		3965 4068 4163 4240 4336 
 	}
-	manpower=0
+	manpower=100000
 	buildings_max_level_factor=1.000 
  	 state_category=enclave
 
 	history={
-		owner = TEK
+		owner = GRE
+		add_core_of = GRE
 		add_core_of = TEK
 
 	}
