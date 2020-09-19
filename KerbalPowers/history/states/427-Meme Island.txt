@@ -9,7 +9,7 @@ state={
 	state_category=tiny_island
 
 history={
-		owner = KSC
-		add_core_of = KSC
+		#owner = KSC
+		#add_core_of = KSC
 	}
 }

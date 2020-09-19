@@ -18,8 +18,8 @@ state={
 #73 Naval
 #69 capital
 history={
-		owner = KSC
-		add_core_of = KSC
+		#owner = KSC
+		#add_core_of = KSC
 		victory_points = { 74 5 }
 	}
 }

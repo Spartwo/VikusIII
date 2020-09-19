@@ -18,8 +18,8 @@ state={
 	state_category=town
 
 	history={
-		owner = KSC
-		add_core_of = KSC
+		#owner = KSC
+		#add_core_of = KSC
 		victory_points = { 3895 15 }
 		buildings = {
 			infrastructure = 5

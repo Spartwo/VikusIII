@@ -4,8 +4,8 @@ state={
 	name="STATE_95"
 
 	history={
-		owner = KSC
-		add_core_of = KSC
+		#owner = KSC
+		#add_core_of = KSC
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1

@@ -7,7 +7,7 @@ bookmarks = {
 		default_country = "KSC"
 		default = yes
 
-		"KAL"={
+		"ZOK"={
 			history = "0FR_KERBIN_POWERS_DESC"
 			ideology = cooperation
 			ideas = {
@@ -63,7 +63,19 @@ bookmarks = {
 ###minors
 		
 
-		"ZOK"={
+		"GRE"={
+			minor = yes
+			history = "0BZ_KERBIN_POWERS_DESC"
+			ideology = intervention
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
+
+		"CHO"={
 			minor = yes
 			history = "0BZ_KERBIN_POWERS_DESC"
 			ideology = intervention

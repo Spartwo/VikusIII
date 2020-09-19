@@ -38,41 +38,28 @@ set_technology = {
 
 set_politics = {
 
-	parties = {
-		cooperation = { 
-			popularity = 50
-		}
-
-		expansion = {
-			popularity = 10
-		}
-		
-		intervention = {
-			popularity = 5
-
-		}
-
-		isolation = { 
-			popularity = 35
-		}
-	}
-
-
-	ruling_party = cooperation
-		last_election = "2049.10.6"
+	ruling_party = democratic
+		last_election = "2063.10.6"
 		election_frequency = 84
 		elections_allowed = yes
 	
 }
 
-
+set_popularities = {
+	communism = 5 #statism
+	neutrality = 35 #isolationism
+	neoconservativism = 0
+	fascism = 8 #Nationalism
+	corporatism = 2
+	democratic = 50 #Liberalism
+}
 
 create_country_leader = {
 	name = "Ludvík M Jacobs"
 	
 	
 	expire = "9999.1.1"
-	ideology = centrist_cooperation
+	ideology = confederalism
 	traits = {
 		
 	}
@@ -83,7 +70,7 @@ create_country_leader = {
 	
 	
 	expire = "9999.1.1"
-	ideology = centrist_intervention
+	ideology = socialist_nationalism
 	traits = {
 		
 	}
@@ -94,7 +81,7 @@ create_country_leader = {
 	
 	
 	expire = "9999.1.1"
-	ideology = centrist_expansion
+	ideology = irridentism
 	traits = {
 		
 	}
@@ -105,7 +92,7 @@ create_country_leader = {
 	
 	
 	expire = "9999.1.1"
-	ideology = centrist_isolation
+	ideology =  neutrality
 	traits = {
 		
 	}

@@ -31,3 +31,28 @@ GRE = {
 	color = rgb { 63 158 96 }
 	color_ui = rgb { 63 158 96 }
 }
+
+KAL = {
+	color = rgb { 237 28 36 }
+	color_ui = rgb { 237 28 36 }
+}
+
+TRO = {
+	color = rgb { 60 59 110 }
+	color_ui = rgb { 60 59 110 }
+}
+
+NMC = {
+	color = rgb { 74 53 94 }
+	color_ui = rgb { 74 53 94 }
+}
+
+AVA = {
+	color = rgb { 17 17 17 }
+	color_ui = rgb { 17 17 17 }
+}
+
+LAY = {
+	color = rgb { 122 21 14 }
+	color_ui = rgb { 122 21 14 }
+}

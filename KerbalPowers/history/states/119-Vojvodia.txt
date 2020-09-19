@@ -4,8 +4,8 @@ state={
 	name="STATE_119"
 
 	history={
-		owner = KSC
-		add_core_of = KSC
+		owner = KAL
+		add_core_of = KAL
 		buildings = {
 			infrastructure = 5
 			arms_factory = 2
@@ -17,7 +17,7 @@ state={
 	}
 
 	provinces={
-		1586 1587 1611 1647 1655 1668 1686 1733 1761 1772 1800 
+		1586 1587 1611 1655 1668 1686 1733 1761 1772 1800 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

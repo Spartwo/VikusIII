@@ -37,38 +37,26 @@ set_technology = {
 	base_strike = 1 }
 
 set_politics = {
-#replace question marks with numbers adding up to 100
-	parties = {
-		cooperation = { 
-			popularity = 62
-		}
-
-		expansion = {
-			popularity = 0
-		}
-		
-		intervention = {
-			popularity = 5
-		}
-
-		isolation = { 
-			popularity = 13
-		}
-	}
-	#can replace ruling party, election frequency is in months
-	ruling_party = cooperation
-	last_election = "2047.7.3"
+	ruling_party = democratic
+	last_election = "2060.7.3"
 	election_frequency = 48
 	elections_allowed = yes
 }
 
-	#name the leader, the day they may be planned to die, and pick the specific ideology
+set_popularities = {
+	communism = 5 #statism
+	neutrality = 13 #isolationism
+	neoconservativism = 0
+	fascism = 0 #Nationalism
+	corporatism = 0
+	democratic = 62 #Liberalism
+}
+
 create_country_leader = {
 	name = "John Richardson"
-	
-	
+	picture = "GFX_leader_unknown.dds"
 	expire = "9999.1.1"
-	ideology = centrist_cooperation
+	ideology = representative_democracy
 	traits = {
 		
 	}

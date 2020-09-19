@@ -64,6 +64,7 @@ create_country_leader = {
 	traits = {
 		
 	}
+}
 
 create_country_leader = {
 	name = "Bob Kerman"
@@ -74,6 +75,7 @@ create_country_leader = {
 	traits = {
 		
 	}
+}
 
 create_country_leader = {
 	name = "Jebidiah"
@@ -84,10 +86,10 @@ create_country_leader = {
 	traits = {
 		
 	}
+}
 
 create_country_leader = {
 	name = "Valentina Kerman"
-	
 	picture = "GFX_leader_unknown.dds"
 	expire = "9999.1.1"
 	ideology = expansionism

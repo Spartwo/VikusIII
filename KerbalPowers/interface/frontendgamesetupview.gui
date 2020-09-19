@@ -139,15 +139,15 @@ guiTypes = {
 		iconType = {
 			name = "country_flag"
 			quadTextureSprite ="GFX_shield_medium"
-			position = { x = 28 y = 42 }
+			position = { x = 34 y = 45 }
 			Orientation = "UPPER_LEFT"
 			alwaystransparent = yes
 		}		
 	
 		buttonType = {
 			name = "country"	
-			quadTextureSprite = "GFX_country_selection_minor_entry"
-			position = { x=0 y =20 }
+			quadTextureSprite = "GFX_country_selection_entry"
+			position = { x=0 y =-142 }
 			Orientation = "UPPER_LEFT"
 			clicksound = click_checkbox
 		}		
@@ -172,14 +172,14 @@ guiTypes = {
 		iconType = {
 			name = "country_flag"
 			quadTextureSprite ="GFX_flag_small2"
-			position = { x = 8 y = 7 }
+			position = { x = 5 y = 5 }
 			Orientation = "UPPER_LEFT"
 			allwaystransparent = yes
 		}
 
 		buttonType = {
 			name = "country"
-			quadTextureSprite = "GFX_small_nation_selector"
+			quadTextureSprite = "GFX_country_selection_minor_entry"
 			position = { x=0 y =0 }
 			clicksound = click_checkbox
 		}
@@ -649,14 +649,14 @@ guiTypes = {
 
 		containerWindowType = {
 			name ="countries"
-			position = { x = 45 y = 60 }
+			position = { x = 69 y = 35 }
 			size = { width = -15 height = 120}
 			
 			gridboxType = {
 				name ="countries_grid"
 				position = { x = 0 y = 0 }
 				size = { width = 100% height = 100% }
-				slotsize = { width = 245 height = 0 }
+				slotsize = { width = 235 height = 0 }
 				add_horizontal = yes
 				max_slots_vertical = 1
 				format = "UPPER_LEFT"
@@ -666,16 +666,16 @@ guiTypes = {
 			
 		containerWindowType = {
 			name ="countries_medium"
-			position = { x = 45 y = 280 }
+			position = { x = 80 y = 350 }
 			size = { width = -15 height = 120}
 			
 			gridboxType = {
 				name ="countries_grid"
-				position = { x = 0 y = 0 }
+				position = { x = 510 y = -200 }
 				size = { width = 100% height = 100% }
-				slotsize = { width = 150 height = 0 }
-				add_horizontal = yes
-				max_slots_vertical = 1
+				slotsize = { width = 40 height = 40 }
+				add_horizontal = NO
+				max_slots_vertical = 5
 				format = "UPPER_LEFT"
 			}
 		}

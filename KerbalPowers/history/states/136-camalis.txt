@@ -7,20 +7,20 @@ state={
 		aluminium=0.000
 		chromium=0.000
 		rubber=0.000
-		oil=30.000
+		oil=0.000
 		tungsten=0.000
 	}
 
 	history={
-		owner = KSC
-		add_core_of = KSC
+		owner = TRO
+		add_core_of = TRO
 		victory_points = {
-			939 20 
+			894 20 
 		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
-			939 = {
+			894 = {
 				naval_base = 8
 
 			}
