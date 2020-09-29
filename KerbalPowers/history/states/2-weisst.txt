@@ -20,8 +20,8 @@ state={
 	state_category=city
 
 history={
-		#owner = KSC
-		#add_core_of = KSC
+		owner = PUG
+		add_core_of = PUG
 
 		buildings = {
 			infrastructure = 5

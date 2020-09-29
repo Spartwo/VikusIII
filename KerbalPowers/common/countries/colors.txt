@@ -1,58 +1,124 @@
+ZZZ = {
+	color = rgb { 222 222 222 }
+	color_ui = rgb { 0 0 0 }
+}
+
 TEK = {
-	color = rgb { 0 74 127 }
+	color = rgb { 69 120 156 }
 	color_ui = rgb { 0 74 127 }
 }
 
 KSC = {
-	color = rgb { 91 91 91 }
+	color = rgb { 132 132 132 }
 	color_ui = rgb { 91 91 91 }
 }
 
 ARC = {
-	color = rgb { 126 1 0 }
+	color = rgb { 156 70 69 }
 	color_ui = rgb { 126 1 0 }
 }
 
 AEN = {
-	color = rgb { 0 114 93 }
+	color = rgb { 69 147 133 }
 	color_ui = rgb { 0 114 93 }
 }
 
 ZOK = {
-	color = rgb { 13 66 29 }
+	color = rgb { 79 123 92 }
 	color_ui = rgb { 13 66 29 }
 }
+
 CHO = {
-	color = rgb { 224 150 47 }
+	color = rgb { 223 172 101 }
 	color_ui = rgb { 224 150 47 }
 }
 
 GRE = {
-	color = rgb { 63 158 96 }
+	color = rgb { 95 178 69 }
 	color_ui = rgb { 63 158 96 }
 }
 
+GAG = {
+	color = rgb { 219 200 117 }
+	color_ui = rgb { 219 191 70 }
+}
+
 KAL = {
-	color = rgb { 237 28 36 }
+	color = rgb { 244 69 69 }
 	color_ui = rgb { 237 28 36 }
 }
 
 TRO = {
-	color = rgb { 60 59 110 }
+	color = rgb { 110 110 145 }
 	color_ui = rgb { 60 59 110 }
 }
 
 NMC = {
-	color = rgb { 74 53 94 }
+	color = rgb { 120 106 134 }
 	color_ui = rgb { 74 53 94 }
 }
 
 AVA = {
-	color = rgb { 17 17 17 }
+	color = rgb { 81 81 81 }
 	color_ui = rgb { 17 17 17 }
 }
 
 LAY = {
-	color = rgb { 122 21 14 }
+	color = rgb { 174 69 69 }
 	color_ui = rgb { 122 21 14 }
+}
+
+KRO = {
+	color = rgb { 69 156 79 }
+	color_ui = rgb { 0 127 14 }
+}
+
+SOL = {
+	color = rgb { 213 206 155 }
+	color_ui = rgb { 209 200 125 }
+}
+
+CEL = {
+	color = rgb { 69 171 244 }
+	color_ui = rgb { 0 148 255 }
+}
+
+TRE = {
+	color = rgb { 131 69 120 }
+	color_ui = rgb { 90 0 74 }
+}
+
+PUG = {
+	color = rgb { 107 161 200 }
+	color_ui = rgb { 55 134 190 }
+}
+
+GRA = {
+	color = rgb { 147 127 211 }
+	color_ui = rgb { 113 84 206 }
+}
+
+AQU = {
+	color = rgb { 69 196 228 }
+	color_ui = rgb { 0 185 232 }
+}
+
+COM = {
+	color = rgb { 117 117 144 }
+	color_ui = rgb { 69 69 109 }
+}
+
+BEH = {
+	color = rgb { 69 147 119 }
+	color_ui = rgb { 0 127 80 }
+}
+
+KOT = {
+	color = rgb { 116 116 160 }
+	color_ui = rgb { 68 68 132 }
+}
+
+CEN = {
+	color = rgb { 104 174 244 }
+	color_ui = rgb { 51 153 255 }
 }

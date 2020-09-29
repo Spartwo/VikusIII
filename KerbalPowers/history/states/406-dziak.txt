@@ -9,8 +9,8 @@ state={
 	state_category=town
 
 history={
-		#owner = KSC
-		#add_core_of = KSC
+		owner = AQU
+		add_core_of = AQU
 		victory_points = { 1665 10 }
 	}
 }

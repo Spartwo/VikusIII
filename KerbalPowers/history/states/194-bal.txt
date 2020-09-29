@@ -17,8 +17,8 @@ state={
 	state_category=large_town
 
 history={
-		#owner = GRE
-		#add_core_of = GRE
+		owner = KRO
+		add_core_of = KRO
 		victory_points = { 3942 15 }
 	}
 }

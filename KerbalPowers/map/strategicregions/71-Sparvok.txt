@@ -6,5 +6,19 @@ strategic_region={
 		6612 6635 6641 6667 6724 6741 6755 6767 6784 6802 6806 6811 6835 6847 6860 6872 6904 6907 6925 6971 6974 6983 6994 6996 7008 
 	}
 	weather={
+		period={
+			between={ 0.0 27.11 }
+			temperature={ -10.0 35.0 }
+			temperature_day_night={ 2.0 -2.0 }
+			no_phenomenon=1.500
+			rain_light=0.250
+			rain_heavy=0.100
+			snow=0.000
+			blizzard=0.000
+			arctic_water=0.000
+			mud=0.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
 	}
 }

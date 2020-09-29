@@ -12,9 +12,8 @@ state={
 	}
 
 	history={
-		#owner = KSC
-		#add_core_of = KSC
-
+		owner = COM
+		add_core_of = COM
 	}
 
 	provinces={

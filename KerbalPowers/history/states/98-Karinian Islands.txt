@@ -17,8 +17,8 @@ state={
 	state_category=small_island
 
 history={
-		#owner = KSC
-		#add_core_of = KSC
+		owner = ZZZ
+		add_core_of = ZZZ
 		victory_points = { 801 5 }
 		buildings = {
 			801 = { naval_base = 1 }

@@ -19,8 +19,9 @@ state={
 #3701 capital
 
 	history={
-		#owner = TEK
-		#add_core_of = TEK
+		owner = GRA
+		add_core_of = GRA
+		set_demilitarized_zone = yes
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1

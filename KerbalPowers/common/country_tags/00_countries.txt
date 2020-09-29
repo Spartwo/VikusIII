@@ -1,12 +1,51 @@
-TEK = "countries/TEK.txt" #TEKKIA
-KSC = "countries/KSC.txt" #DO I GOTTA EXPLAN THIS ONE
-ARC = "countries/ARC.txt" #ARCADIA
-AEN = "countries/AEN.txt" #AENIA
+
+ZZZ = "countries/ZZZ.txt"
+
+###KAFRICA###
+AVA = "countries/AVA.txt" #AVALON
+COM = "countries/COM.txt" #COMER
+
+###KOLUS###
 ZOK = "countries/ZOK.txt" #ZOKESIA
 CHO = "countries/CHO.txt" #CHOSAINT
+GRA = "countries/GRA.txt" #GRANDERIA
+PUG = "countries/PUG.txt" #PUGE-TATAR
+KOT = "countries/KOT.txt" #KOTHEN
+
+###DOREN###
+ARC = "countries/ARC.txt" #ARCADIA
+AEN = "countries/AEN.txt" #AENIA
+
+###BASKAY###
+AQU = "countries/AQU.txt" #AQUARIA
+
+###FEGUANESIA###
+FEG = "countries/FEG.txt" FEGELAND
+
+###CALEDON###
+ZZZ = "countries/ZZZ.txt" #
+
+###KAFRAIC###
+TEK = "countries/TEK.txt" #TEKKIA
+CAB = "countries/CAB.txt" #CABRIA
+GRS = "countries/GRS.txt" #GRESTINE
+NGR = "countries/NGR.txt" #NORTH GRESTIN
+CRI = "countries/CRI.txt" #COMORRI
+SOL = "countries/SOL.txt" #SOLARIA
+LOV = "countries/LOV.txt" #LOVATICA
+KRO = "countries/KRO.txt" #KROME
+CEL = "countries/CEL.txt" #CELRAPAN
+KSC = "countries/KSC.txt" #DO I GOTTA EXPLAN THIS ONE
 GRE = "countries/GRE.txt" #GRESTIN
-AVA = "countries/AVA.txt" #AVALON
+TRE = "countries/TRE.txt" #TREPOSIA
+
+###FIRESVAR###
 NMC = "countries/NMC.txt" #GAG
+
+###VEIID###
+GAG = "countries/GAG.txt" #GAGRIEL
 KAL = "countries/KAL.txt" #KSKM
 TRO = "countries/TRO.txt" #TROAKIA
 LAY = "countries/LAY.txt" #LAYTHIA
+CEN = "countries/CEN.txt" #CENOVA
+BEH = "countries/BEH.txt" #BEHIN
