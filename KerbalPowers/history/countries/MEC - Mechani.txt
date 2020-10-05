@@ -1,0 +1,36 @@
+﻿capital = 548
+
+oob = "RMAP_TEMPLATE"
+
+set_research_slots = 2
+set_convoys = 100
+set_stability = 0.2
+
+# Starting tech
+set_technology = {
+
+}
+
+set_popularities = {
+	democratic = 45
+	fascism = 15
+	communism = 25
+	neutrality = 15
+}
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "2049.1.27"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+create_country_leader = {
+	name = "Bernard Kerman"
+	picture = "GFX_leader_unknown.dds"
+	expire = "2068.3.6"
+	ideology = socialism
+	traits = {
+		
+	}
+}

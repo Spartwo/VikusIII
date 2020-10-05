@@ -1,0 +1,48 @@
+﻿capital = 333
+
+oob = "RMAP_TEMPLATE"
+
+set_research_slots = 2
+set_convoys = 100
+set_stability = 0.2
+
+# Starting tech
+set_technology = {
+
+}
+
+set_popularities = {
+	democratic = 35
+	fascism = 15
+	communism = 60
+	neutrality = 0
+}
+
+set_politics = {
+	
+	ruling_party = democratic
+	last_election = "2048.4.9"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+	
+create_country_leader = {
+	name = "Abraxas Kerman"
+	picture = "GFX_leader_unknown.dds"
+	expire = "2061.3.1"
+	ideology = stihlism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Abraxis Kerman"
+	picture = "GFX_leader_unknown.dds"
+	expire = "2061.3.1"
+	ideology = representative_democracy
+	traits = {
+		
+	}
+}

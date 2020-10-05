@@ -1,0 +1,36 @@
+﻿capital = 339
+
+oob = "RMAP_TEMPLATE"
+
+set_research_slots = 2
+set_convoys = 100
+set_stability = 0.2
+
+# Starting tech
+set_technology = {
+
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "2049.1.2"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_popularities = {
+	democratic = 14
+	fascism = 0
+	communism = 50
+	neutrality = 36
+}
+
+create_country_leader = {
+	name = "Katia Valle"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = social_democracy
+	traits = {
+		
+	}
+}

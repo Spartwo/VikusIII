@@ -1,0 +1,38 @@
+﻿capital = 21
+
+oob = "RMAP_TEMPLATE"
+
+set_research_slots = 2
+set_convoys = 100
+set_stability = 0.2
+
+# Starting tech
+set_technology = {
+
+}
+
+set_popularities = {
+	democratic = 0
+	fascism = 80
+	communism = 20
+	neutrality = 0
+}
+
+set_politics = {
+	
+	ruling_party = fascism
+	last_election = "2050.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+	
+create_country_leader = {
+	name = "Valentina"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = overlord_subtype
+	traits = {
+		
+	}
+}

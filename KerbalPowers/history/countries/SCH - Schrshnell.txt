@@ -1,0 +1,39 @@
+﻿capital = 5
+
+oob = "RMAP_TEMPLATE"
+
+set_research_slots = 2
+set_convoys = 100
+set_stability = 0.2
+
+# Starting tech
+set_technology = {
+
+}
+
+set_popularities = {
+	democratic = 20
+	fascism = 35
+	communism = 40
+	neutrality = 5
+}
+
+set_politics = {
+	
+	ruling_party = communism
+	last_election = "2049.6.15"
+	election_frequency = 64
+	elections_allowed = yes
+}
+
+	
+create_country_leader = {
+	name = "Helena Kerman"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = despotism
+	traits = {
+		
+	}
+
+}

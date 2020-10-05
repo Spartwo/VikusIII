@@ -1,0 +1,21 @@
+state={
+	id=640
+	name="STATE_640"
+	provinces={
+		438 455 456 496 562 569 
+	}
+
+	history={
+		owner = LAY
+		add_core_of = LAY 
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

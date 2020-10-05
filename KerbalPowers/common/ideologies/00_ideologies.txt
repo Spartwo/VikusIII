@@ -1,7 +1,7 @@
 ideologies = {
 
 communism = {
-                color = { 154 54 57 }
+                color = { 110 0 0 }
                 can_host_government_in_exile = yes
                 war_impact_on_world_tension = 0.5
                 faction_impact_on_world_tension = 0.1               
@@ -9,14 +9,14 @@ communism = {
                 
                 
                 
-types = {  
+	types = {  
                         theocratic_socialism = { }
                         socialist_nationalism = { }
                         stihlism =  { }
-                        absolutism = { }
+                        socialism = { }
                 }
 
-dynamic_faction_names = {
+	dynamic_faction_names = {
                         "FACTION_NAME_STATISM_1"
                         "FACTION_NAME_STATISM_2"
                         "FACTION_NAME_STATISM_3"
@@ -24,7 +24,7 @@ dynamic_faction_names = {
                         "FACTION_NAME_STATISM_5"
                         "FACTION_NAME_STATISM_6"
                 }
-rules = {
+	rules = {
                         can_create_collaboration_government = no
                         can_declare_war_on_same_ideology = yes
                         can_force_government = yes
@@ -36,7 +36,7 @@ rules = {
                         can_join_factions = yes
                         can_create_factions = yes
                 }
-modifiers = {
+	modifiers = {
                         generate_wargoal_tension = 0.8
                         send_volunteers_tension = 0.50
                         guarantee_tension = 0.5
@@ -55,21 +55,21 @@ neutrality = {
                 
                 
                 
-types = {  
+	types = {  
                         centrism = { }
-                        syndicalism = { }
                         isolationism = { }
+                        unclaimed = { }
                 }
 
-dynamic_faction_names = {
-                        "FACTION_NAME_ISOLATIONISM_1"
-                        "FACTION_NAME_ISOLATIONISM_2"
-                        "FACTION_NAME_ISOLATIONISM_3"
-                        "FACTION_NAME_ISOLATIONISM_4"
-                        "FACTION_NAME_ISOLATIONISM_5"
-                        "FACTION_NAME_ISOLATIONISM_6"
+	dynamic_faction_names = {
+                        "FACTION_NAME_NEURTALITY_1"
+                        "FACTION_NAME_NEURTALITY_2"
+                        "FACTION_NAME_NEURTALITY_3"
+                        "FACTION_NAME_NEURTALITY_4"
+                        "FACTION_NAME_NEURTALITY_5"
+                        "FACTION_NAME_NEURTALITY_6"
                 }
-rules = {
+	rules = {
                         can_create_collaboration_government = no
                         can_declare_war_on_same_ideology = yes
                         can_force_government = no
@@ -81,7 +81,7 @@ rules = {
                         can_join_factions = no
                         can_create_factions = no
                 }
-modifiers = {
+	modifiers = {
                         generate_wargoal_tension = 0.5
                         join_faction_tension = 0.80
                         drift_defence_factor = -0.3
@@ -92,7 +92,7 @@ modifiers = {
         }
 
 fascism = {
-                color = { 127 111 169 }
+                color = { 50 132 0 }
                 can_host_government_in_exile = yes
                 war_impact_on_world_tension = 1.0
                 faction_impact_on_world_tension = 0.2               
@@ -100,13 +100,13 @@ fascism = {
                 
                 
                 
-types = {  
-                        irridentism = { }
-                        overlordship =  { }
-                        national_monarchism = { }
-                }
+	types = {  
+                irridentism = { }
+                despotism =  { }
+                nationalism = { }
+            }
 
-dynamic_faction_names = {
+	dynamic_faction_names = {
                         "FACTION_NAME_NATIONALISM_1"
                         "FACTION_NAME_NATIONALISM_2"
                         "FACTION_NAME_NATIONALISM_3"
@@ -114,7 +114,7 @@ dynamic_faction_names = {
                         "FACTION_NAME_NATIONALISM_5"
                         "FACTION_NAME_NATIONALISM_6"
                 }
-rules = {
+	rules = {
                         can_create_collaboration_government = yes
                         can_declare_war_on_same_ideology = yes
                         can_force_government = yes
@@ -126,7 +126,48 @@ rules = {
                         can_join_factions = yes
                         can_create_factions = no
                 }
-modifiers = {
+	modifiers = {
+                        annex_cost_factor = 0.25
+                        justify_war_goal_when_in_major_war_time = -0.80
+                }
+            
+                ai_fascist = yes # uses the fascist AI behaviour
+        }
+		
+overlordship = {
+                color = { 67 0 69 }
+                can_host_government_in_exile = yes
+                war_impact_on_world_tension = 1.0
+                faction_impact_on_world_tension = 0.2               
+                can_collaborate = no
+                
+                
+                
+	types = {  
+                overlord_subtype = { }
+            }
+
+	dynamic_faction_names = {
+                        "FACTION_NAME_OVERLORDSHIP_1"
+                        "FACTION_NAME_OVERLORDSHIP_2"
+                        "FACTION_NAME_OVERLORDSHIP_3"
+                        "FACTION_NAME_OVERLORDSHIP_4"
+                        "FACTION_NAME_OVERLORDSHIP_5"
+                        "FACTION_NAME_OVERLORDSHIP_6"
+                }
+	rules = {
+                        can_create_collaboration_government = yes
+                        can_declare_war_on_same_ideology = no
+                        can_force_government = no
+                        can_send_volunteers = no
+                        can_puppet = yes
+                        can_lower_tension = no
+                        can_only_justify_war_on_threat_country = no
+                        can_guarantee_other_ideologies = yes
+                        can_join_factions = yes
+                        can_create_factions = no
+                }
+	modifiers = {
                         annex_cost_factor = 0.25
                         justify_war_goal_when_in_major_war_time = -0.80
                 }
@@ -135,7 +176,7 @@ modifiers = {
         }
 
 neoconservativism = {
-                color = { 72 100 142 }
+                color = { 0 0 135 }
                 can_host_government_in_exile = yes
                 war_impact_on_world_tension = 0.5
                 faction_impact_on_world_tension = 0.1             
@@ -143,13 +184,13 @@ neoconservativism = {
                 
                 
                 
-types = {  
+	types = {  
                         stratocracy = { }
-                        libertarianism = { }
+                        neocon_subtype =  { }
                         neomonarchism =  { }
                 }
 
-dynamic_faction_names = {
+	dynamic_faction_names = {
                         "FACTION_NAME_NEOCONSERVATIVISM_1"
                         "FACTION_NAME_NEOCONSERVATIVISM_2"
                         "FACTION_NAME_NEOCONSERVATIVISM_3"
@@ -157,7 +198,7 @@ dynamic_faction_names = {
                         "FACTION_NAME_NEOCONSERVATIVISM_5"
                         "FACTION_NAME_NEOCONSERVATIVISM_6"
                 }
-rules = {
+	rules = {
                         can_create_collaboration_government = yes
                         can_declare_war_on_same_ideology = no
                         can_force_government = yes
@@ -169,7 +210,7 @@ rules = {
                         can_join_factions = yes
                         can_create_factions = yes
                 }
-modifiers = {
+	modifiers = {
                         join_faction_tension = 0.80
                         send_volunteers_tension = 0.50
                         civilian_intel_to_others = 15.0
@@ -181,7 +222,7 @@ modifiers = {
         }
 
 corporatism = {
-                color = { 236 204 121 }
+                color = { 196 204 21 }
                 can_host_government_in_exile = yes
                 war_impact_on_world_tension = 0.3
                 faction_impact_on_world_tension = 0.1               
@@ -189,12 +230,13 @@ corporatism = {
                 
                 
                 
-types = {  
+	types = {  
                         state_corporatism = { }
+                        libertarianism = { }
                         mercantilism = { }
                 }
 
-dynamic_faction_names = {
+	dynamic_faction_names = {
                         "FACTION_NAME_CORPORATISM_1"
                         "FACTION_NAME_CORPORATISM_2"
                         "FACTION_NAME_CORPORATISM_3"
@@ -202,7 +244,7 @@ dynamic_faction_names = {
                         "FACTION_NAME_CORPORATISM_5"
                         "FACTION_NAME_CORPORATISM_6"
                 }
-rules = {
+	rules = {
                         can_create_collaboration_government = no
                         can_declare_war_on_same_ideology = yes
                         can_force_government = no
@@ -214,7 +256,7 @@ rules = {
                         can_join_factions = yes
                         can_create_factions = yes
                 }
-modifiers = {
+	modifiers = {
                         send_volunteers_tension = 0.20
                         army_intel_to_others = 10.0
                         navy_intel_to_others = 10.0
@@ -225,7 +267,7 @@ modifiers = {
         }
 
 democratic = {
-                color = { 170 203 158 }
+                color = { 88 107 193 }
                 can_host_government_in_exile = yes
                 war_impact_on_world_tension = 0.1
                 faction_impact_on_world_tension = -0.1               
@@ -233,14 +275,14 @@ democratic = {
                 
                 
                 
-types = {  
+	types = {  
                         social_democracy = { }
                         representative_democracy = { }
                         confederalism =  { }
                         liquid_democracy = { }
                 }
 
-dynamic_faction_names = {
+	dynamic_faction_names = {
                         "FACTION_NAME_LIBERALISM_1"
                         "FACTION_NAME_LIBERALISM_2"
                         "FACTION_NAME_LIBERALISM_3"
@@ -248,7 +290,7 @@ dynamic_faction_names = {
                         "FACTION_NAME_LIBERALISM_5"
                         "FACTION_NAME_LIBERALISM_6"
                 }
-rules = {
+	rules = {
                         can_create_collaboration_government = no
                         can_declare_war_on_same_ideology = yes
                         can_force_government = yes
@@ -260,7 +302,7 @@ rules = {
                         can_join_factions = yes
                         can_create_factions = yes
                 }
-modifiers = {
+	modifiers = {
                         join_faction_tension = 0.80
                         lend_lease_tension = 0.50
                         guarantee_tension = 0.5

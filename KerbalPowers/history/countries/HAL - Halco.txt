@@ -1,0 +1,37 @@
+﻿capital = 362
+
+oob = "RMAP_TEMPLATE"
+
+set_research_slots = 2
+set_convoys = 100
+set_stability = 0.2
+
+# Starting tech
+set_technology = {
+
+}
+
+set_popularities = {
+	democratic = 40
+	fascism = 5
+	communism = 20
+	neutrality = 35
+}
+
+set_politics = {
+
+	ruling_party = democratic
+	last_election = "2057.7.4"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+create_country_leader = {
+	name = "Sgt Sarge Kerman"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = representative_democracy
+	traits = {
+		
+	}
+}

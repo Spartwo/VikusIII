@@ -8,33 +8,8 @@ set_stability = 0.2
 
 # Starting tech
 set_technology = {
-	infantry_weapons = 1
-	infantry_weapons1 = 1
-	tech_recon = 1
-	tech_support = 1		
-	tech_engineers = 1
-	gw_artillery = 1
-	gwtank = 1
-	early_fighter = 1
-	cv_early_fighter = 1
-	cv_naval_bomber1 = 1
-	cv_CAS1 = 1
-	naval_bomber1 = 1
-	CAS1 = 1
-	early_bomber = 1
-	early_submarine = 1
-	basic_submarine = 1
-	early_destroyer = 1
-	early_light_cruiser = 1
-	basic_light_cruiser = 1
-	early_heavy_cruiser = 1
-	early_battleship = 1
-	early_battlecruiser = 1
-	early_carrier = 1
-	basic_carrier = 1
-	transport = 1
-	superior_firepower = 1
-	base_strike = 1 }
+
+}
 
 set_politics = {
 
@@ -46,18 +21,26 @@ set_politics = {
 }
 
 set_popularities = {
-	communism = 5 #statism
-	neutrality = 35 #isolationism
+	communism = 5 #Statism
+	neutrality = 35 #Neutrality
 	neoconservativism = 0
 	fascism = 8 #Nationalism
 	corporatism = 2
 	democratic = 50 #Liberalism
 }
+create_country_leader = {
+	name = "name here"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = unclaimed
+	traits = {
+
+	}
+}
 
 create_country_leader = {
 	name = "Ludvík M Jacobs"
-	
-	
+	picture = "GFX_leader_unknown.dds"
 	expire = "9999.1.1"
 	ideology = confederalism
 	traits = {
@@ -67,10 +50,9 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Marcus White"
-	
-	
+	picture = "GFX_leader_unknown.dds"
 	expire = "9999.1.1"
-	ideology = socialist_nationalism
+	ideology = socialism
 	traits = {
 		
 	}
@@ -78,8 +60,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "William Cande"
-	
-	
+	picture = "GFX_leader_unknown.dds"
 	expire = "9999.1.1"
 	ideology = irridentism
 	traits = {
@@ -89,10 +70,9 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Ely Gaitan"
-	
-	
+	picture = "GFX_leader_unknown.dds"
 	expire = "9999.1.1"
-	ideology =  neutrality
+	ideology =  isolationism
 	traits = {
 		
 	}

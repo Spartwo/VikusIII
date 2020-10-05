@@ -8,8 +8,9 @@ state={
 	buildings_max_level_factor=1.000
 	state_category=town
 history={
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = BSL
+		add_core_of = BSL
+		add_core_of = BSK
 		victory_points = { 714 15 }
 	}
 }

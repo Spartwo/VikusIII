@@ -1,9 +1,50 @@
 
-ZZZ = "countries/ZZZ.txt"
+ZZZ = "countries/ZZZ.txt" #NORTHERN ANARCHY
+ZZY = "countries/ZZY.txt" #ANARCHY, TROOPS MOVE THROUGH AND NATIONS WILL SPAWN
+ZZX = "countries/ZZX.txt" #DOREN ANARCHY
+ZZW = "countries/ZZW.txt" #VEIID ANARCHY
+ZZV = "countries/ZZV.txt" #KOLUS ANARCHY
 
 ###KAFRICA###
-AVA = "countries/AVA.txt" #AVALON
 COM = "countries/COM.txt" #COMER
+ALB = "countries/ALB.txt" #ALBERCAUN
+LOT = "countries/LOT.txt" #LOTHBROK
+KAR = "countries/KAR.txt" #KARTHAX
+NKS = "countries/NKS.txt" #NKS
+ELY = "countries/ELY.txt" #ELYSIUM
+WES = "countries/WES.txt" #WESTRAY
+VNO = "countries/VNO.txt" #VIENO
+OWO = "countries/OWO.txt" #WO
+BLY = "countries/BLY.txt" #BLYTHERIA
+STR = "countries/STR.txt" #STRELKA
+EUR = "countries/EUR.txt" #EURAK
+#Post start release
+VOC = "countries/VOC.txt" #VOCAVIUM
+FLO = "countries/FLO.txt" #FLORACIA (IN CONTENTION WITH ALTERIX)
+ACC = "countries/ACC.txt" #ACCIPITER
+AZE = "countries/AZE.txt" #AZENIA (RELEASED FROM LOTHBROK BY FOCUS)
+KAA = "countries/KAA.txt" #KAADAR
+OSI = "countries/OSI.txt" #OSINI (TAKES MAINLAND STRELKA IF BLYATNAM LOST)
+VER = "countries/VER.txt" #VERBADY
+RAT = "countries/RAT.txt" #RATHANIA
+AUR = "countries/AUR.txt" #AURELIA
+HEI = "countries/HEI.txt" #SIBERGE
+HAR = "countries/HAR.txt" #HARTON
+KRK = "countries/KRK.txt" #KRAKEN (STATIST REBELLION IN OLD ELYSIUM #274)
+ARK = "countries/ARK.txt" #ARKERIA (NEOCONSERVATIVE REBELLION IN OCCUPIED NKS #585)
+
+###KAFRAIC###
+TEK = "countries/TEK.txt" #TEKKIA
+SOL = "countries/SOL.txt" #SOLARIA
+KRO = "countries/KRO.txt" #KROME
+CEL = "countries/CEL.txt" #CELRAPAN
+KSC = "countries/KSC.txt" #DO I GOTTA EXPLAN THIS ONE
+GRE = "countries/GRE.txt" #GRESTIN
+#Cores
+CAB = "countries/CAB.txt" #CABRIA (TEKKIAN COMPONENT STATE)
+GRS = "countries/GRS.txt" #GRESTINE (TEKKIAN PUPPET IN GRESTIN)
+NGR = "countries/NGR.txt" #NORTH GRESTIN (DECLARES INDEPENDENCE ON GRESTIN CAPITULATION)
+LOV = "countries/LOV.txt" #LOVATICA
 
 ###KOLUS###
 ZOK = "countries/ZOK.txt" #ZOKESIA
@@ -11,41 +52,152 @@ CHO = "countries/CHO.txt" #CHOSAINT
 GRA = "countries/GRA.txt" #GRANDERIA
 PUG = "countries/PUG.txt" #PUGE-TATAR
 KOT = "countries/KOT.txt" #KOTHEN
+BAS = "countries/BAS.txt" #BASTIA
+WUS = "countries/WUS.txt" #WUSTE
+VAN = "countries/VAN.txt" #VANADIA
+KYZ = "countries/KYZ.txt" #KYZAN
+SAN = "countries/SAN.txt" #SANCTUM
+COT = "countries/COT.txt" #COTMARK (KUS RUMP)
+#Post start release
+CRS = "countries/CRS.txt" #CARSDONIA (TAKES OVER LARGE CHUNKS OF POST-KUS)
+NUV = "countries/NUV.txt" #NUVALKA (TAKES OVER IN POST-KUS)
+#Crater Buggaloo
+CRA = "countries/CRA.txt" #CRATER
+VSA = "countries/VSA.txt" #VALSANG
+MAL = "countries/MAL.txt" #MALAFRAZ
+CYT = "countries/CYT.txt" #CYTHIA
+CHA = "countries/CHA.txt" #CHARUM
+#Cores
+SVC = "countries/SVC.txt" #SALVACION 
+BOS = "countries/BOS.txt" #BOSMYTH (LIKELY TO BE RELEASED IF SANCTUM BEATS ZOKESIA)
+RID = "countries/RID.txt" #ARIDIA
+VAL = "countries/VAL.txt" #VALENIA
+SCH = "countries/SCH.txt" #SCHRSCHNELL
+JUN = "countries/JUN.txt" #JUNO (OPIA RARE RUMP)
+
+###MAMB###
+MEC = "countries/MEC.txt" #MECHANI
+SWE = "countries/SWE.txt" #SWEIZE
+GUM = "countries/GUM.txt" #GUME
+#Post start release
+ION = "countries/ION.txt" #IONIA
+KYV = "countries/KYV.txt" #KYVIZ-DURVEK
+ROV = "countries/ROV.txt" #ROVOLIA
+BOT = "countries/BOT.txt" #BOTANG
+#Cores
+OPE = "countries/OPE.txt" #OPIA (BREAKS FROM ROV IF ZOK INVADE)
 
 ###DOREN###
 ARC = "countries/ARC.txt" #ARCADIA
 AEN = "countries/AEN.txt" #AENIA
+HAL = "countries/HAL.txt" #HALCO
+KAN = "countries/KAN.txt" #KANBEK
+ERA = "countries/ERA.txt" #ERADICA
+KON = "countries/KON.txt" #KONIG
+ZER = "countries/ZER.txt" #ZERAOR
+AMB = "countries/AMB.txt" #AMBER
+ZAP = "countries/ZAP.txt" #ZAPODA
+BEL = "countries/BEL.txt" #BELASRIOV
+#Post start release
+ZIM = "countries/ZIM.txt" #ZIMOR (SPAWN IN AREAS OF NIS AND DRA IF SANCTUM IS BEATEN)
+DRA = "countries/DRA.txt" #DRAVISOV (TAKES REMAINING AREA OF NIS IF ZIMOR EXIST)
+NIS = "countries/NIS.txt" #NISORIDAV
+RAD = "countries/RAD.txt" #RADIVOSA (HIGH CHANCE TO SPAWN IF ZIMOR EXISTS)
+#Cores
+AES = "countries/AES.txt" #AESERIA (REPLACES ARCADIAN CORES SOUTH OF RIVER)
+GOR = "countries/GOR.txt" #GORODSKY (SPAWNS AS A LAST STAND AFTER ARCADIAN CAPITULATION)
+
+###DORVICS###
+SLO = "countries/SLO.txt" #SLOVEN
+SAR = "countries/SAR.txt" #SARCONIA
+ZHA = "countries/ZHA.txt" #ZHASTRAM
+NOM = "countries/NOM.txt" #NOMANE
+MAR = "countries/MAR.txt" #MARYURT
+VUL = "countries/VUL.txt" #VULKANAS
+SER = "countries/SER.txt" #PANSERIA
+GIB = "countries/GIB.txt" #GIBRAZI
+NTH = "countries/NTH.txt" #AINAK
+RED = "countries/RED.txt" #REDDUS
 
 ###BASKAY###
 AQU = "countries/AQU.txt" #AQUARIA
+OWL = "countries/OWL.txt" #OWLIA
+BSL = "countries/BSL.txt" #BASIL
+ERU = "countries/ERU.txt" #ERUSIA
+DEL = "countries/DEL.txt" #DELRAS
+SPE = "countries/SPE.txt" #SPEARKA
+ZEO = "countries/ZEO.txt" #ZEOUL
+HER = "countries/HER.txt" #HERMIA
+ICO = "countries/ICO.txt" #ICONIA
+#Cores
+FIS = "countries/FIS.txt" #FISH ISLAND (BY ZOKESIAN FOCUS)
+GAL = "countries/GAL.txt" #GALEONY 
+SAL = "countries/SAL.txt" #SALRED (FELISKIA WILL TAKE ISLANDS AND FORCE SALRED OUT EARLY ON)
+CAN = "countries/CAN.txt" #CANSTANA (BREAKS FROM HERMIA)
+VLR = "countries/VLR.txt" #VALERIA (DELRAS CIVIL WAR COMMIE STANDIN)
+#ICONIA DEFECTORS
+KCA = "countries/KCA.txt" #KERCIA (BREAKS EARLY ON)
+PRO = "countries/PRO.txt" #PRODAVA (BREAKS FROM KERCIA)
+URJ = "countries/URJ.txt" #UROJF (BREAKS OUT AFTER BIG WAR TO EAT AT PRODAVA)
+POT = "countries/POT.txt" #POT STATE(RARE SPAWN)
 
 ###FEGUANESIA###
-FEG = "countries/FEG.txt" FEGELAND
+FEG = "countries/FEG.txt" #FEGELAND
+GIZ = "countries/GIZ.txt" #ALGIZA
+VEN = "countries/VEN.txt" #VENMOUS
+LAN = "countries/LAN.txt" #LANU
+REC = "countries/REC.txt" #RECIPROCITY(AND THEIR MANY VARIETIES)
+ALE = "countries/ALE.txt" #ALECTON
+#Post start release
+HKA = "countries/HKA.txt" #HKA
+#Cores
+ROS = "countries/ROS.txt" #ROSTRUM (3RD PARTY TO RECIPROCITY CIVIL WAR)
+EST = "countries/EST.txt" #ESTRELIA
+NAU = "countries/NAU.txt" #NAUTILUS (POTENTIAL COMPROMISE OUTCOME)
 
 ###CALEDON###
-ZZZ = "countries/ZZZ.txt" #
-
-###KAFRAIC###
-TEK = "countries/TEK.txt" #TEKKIA
-CAB = "countries/CAB.txt" #CABRIA
-GRS = "countries/GRS.txt" #GRESTINE
-NGR = "countries/NGR.txt" #NORTH GRESTIN
-CRI = "countries/CRI.txt" #COMORRI
-SOL = "countries/SOL.txt" #SOLARIA
-LOV = "countries/LOV.txt" #LOVATICA
-KRO = "countries/KRO.txt" #KROME
-CEL = "countries/CEL.txt" #CELRAPAN
-KSC = "countries/KSC.txt" #DO I GOTTA EXPLAN THIS ONE
-GRE = "countries/GRE.txt" #GRESTIN
+ANG = "countries/ANG.txt" #ANGVARDEN
+STM = "countries/STM.txt" #SOLTEM
+#Cores
+UNI = "countries/UNI.txt" #UNION
+IMP = "countries/IMP.txt" #IMPERIUM (ANGVARDEN COLLAPSE STATE)
+SNJ = "countries/SNJ.txt" #STRELKAN JUNTA (WHEN STRELKA IS DIVIDED)
 TRE = "countries/TRE.txt" #TREPOSIA
 
 ###FIRESVAR###
 NMC = "countries/NMC.txt" #GAG
+NOR = "countries/NOR.txt" #NORLAND
+BEN = "countries/BEN.txt" #BENINE
+JOK = "countries/JOK.txt" #JOKLA
+ART = "countries/ART.txt" #ARTICA
+MED = "countries/MED.txt" #MEDWEDIA
+#Post start release
+KER = "countries/KER.txt" #KERRAGON
+YRA = "countries/YRA.txt" #YRATSINOVA (SPAWNS INTO WAR WITH KERRAGON)
+BEI = "countries/BEI.txt" #BEIDAO
+EDV = "countries/EDV.txt" #EDVA (SPAWNS WITH A DEFEATED NMC)
+#Cores
+HEL = "countries/HEL.txt" #HELACIA-SONDERMARK (SPAWNS IF CALLED BY MEDWED TO)
+RAF = "countries/RAF.txt" #RAFLAND
+THA = "countries/THA.txt" #THANATOS
+CRY = "countries/CRY.txt" #CRYTIL (REPLACE NMC IF DESTROYED)
 
 ###VEIID###
 GAG = "countries/GAG.txt" #GAGRIEL
-KAL = "countries/KAL.txt" #KSKM
+KAL = "countries/KAL.txt" #KRBJIA
 TRO = "countries/TRO.txt" #TROAKIA
 LAY = "countries/LAY.txt" #LAYTHIA
 CEN = "countries/CEN.txt" #CENOVA
 BEH = "countries/BEH.txt" #BEHIN
+ODE = "countries/ODE.txt" #ODESIA
+IRS = "countries/IRS.txt" #IRSMUN
+#Post start release
+CAR = "countries/CAR.txt" #CARTHIA
+FEL = "countries/FEL.txt" #FELISKIA
+#Cores
+EGR = "countries/EGR.txt" #EGROS
+KAT = "countries/KAT.txt" #KATEC (LOW SPAWN CHANCE BETWEEN ODESIA AND CENOVA)
+MEN = "countries/MEN.txt" #MENTONOGRA (POST-KSKM STATE, TAKEN BY IRSMUN)
+BSK = "countries/BSK.txt" #BASKAY COMMUNE (HOOK ISLAND LAYTHIAN PUPPET IF TROAKIA JOINS KSKM OR DFK)
+TOR = "countries/TOR.txt" #DELTORA (LOW SPAWN CHANCE ALTERNATE TO CARTHIA)
+DTA = "countries/DTA.txt" #DELTA (CAN SPAWN WITHOUT DELTORA COLLAPSE)

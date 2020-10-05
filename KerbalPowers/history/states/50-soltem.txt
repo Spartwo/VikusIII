@@ -18,8 +18,8 @@ state={
 #73 Naval
 #69 capital
 history={
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = STM
+		add_core_of = STM
 		victory_points = { 74 5 }
 	}
 }

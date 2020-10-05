@@ -4,13 +4,13 @@ state={
 	name="STATE_383"
 
 	history={
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = ZZW
+		add_core_of = ZZW
 
 	}
 
 	provinces={
-		455 462 468 496 500 522 552 562 610 
+		462 468 500 522 552 610 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

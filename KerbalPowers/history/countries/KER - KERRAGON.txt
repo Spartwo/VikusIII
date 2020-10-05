@@ -1,0 +1,40 @@
+﻿capital = 108
+
+oob = "RMAP_TEMPLATE"
+set_cosmetic_tag = HIDE_COS
+
+set_research_slots = 3
+set_convoys = 100
+set_stability = 0.2
+
+# Starting tech
+set_technology = {
+
+}
+
+set_politics = {
+	
+	ruling_party = neutrality
+	last_election = "2060.3.1"
+	election_frequency = 60
+	elections_allowed = no
+}
+
+set_popularities = {
+	communism = 0 #Statism
+	neutrality = 100 #Neutrality
+	fascism = 0 #Nationalism
+	democratic = 0 #Liberalism
+	neoconservativism = 0
+	corporatism = 0
+}
+
+create_country_leader = {
+	name = "name here"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = unclaimed
+	traits = {
+		
+	}
+}

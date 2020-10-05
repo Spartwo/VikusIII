@@ -12,15 +12,15 @@ state={
 	}
 
 	history={
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = SPE
+		add_core_of = SPE
 		victory_points = {
-			99 10 
+			106 10 
 		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
-			99 = {
+			106 = {
 				naval_base = 5
 
 			}

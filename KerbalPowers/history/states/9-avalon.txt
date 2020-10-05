@@ -14,20 +14,12 @@ state={
 		tungsten=0
 	}
 
-	buildings_max_level_factor=0.000
+	buildings_max_level_factor=1.000
 	state_category=town
 
 	history={
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = VSA
+		add_core_of = VSA
 		victory_points = { 3895 15 }
-		buildings = {
-			infrastructure = 5
-			arms_factory = 1
-			industrial_complex = 2
-			dockyard = 2
-			3895 = {
-				naval_base = 3
-			}
 	}
 }

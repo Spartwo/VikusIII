@@ -4,13 +4,13 @@ state={
 	name="STATE_541"
 
 	history={
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = RAF
+		add_core_of = RAF
 
 	}
 
 	provinces={
-		6187 6417 6436 6441 6491 6496 6503 6550 6574 6592 6663 6702 6734 6801 6809 6831 6866 
+		6187 6417 6436 6441 6491 6496 6503 6550 6574 6592 6663 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

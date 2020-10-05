@@ -8,33 +8,8 @@ set_stability = 0.2
 
 # Starting tech
 set_technology = {
-	infantry_weapons = 1
-	infantry_weapons1 = 1
-	tech_recon = 1
-	tech_support = 1		
-	tech_engineers = 1
-	gw_artillery = 1
-	gwtank = 1
-	early_fighter = 1
-	cv_early_fighter = 1
-	cv_naval_bomber1 = 1
-	cv_CAS1 = 1
-	naval_bomber1 = 1
-	CAS1 = 1
-	early_bomber = 1
-	early_submarine = 1
-	basic_submarine = 1
-	early_destroyer = 1
-	early_light_cruiser = 1
-	basic_light_cruiser = 1
-	early_heavy_cruiser = 1
-	early_battleship = 1
-	early_battlecruiser = 1
-	early_carrier = 1
-	basic_carrier = 1
-	transport = 1
-	superior_firepower = 1
-	base_strike = 1 }
+
+}
 
 set_politics = {
 	#can replace ruling party, election frequency is in months
@@ -46,21 +21,30 @@ set_politics = {
 
 
 set_popularities = {
-	communism = 5 #statism
-	neutrality = 5 #isolationism
-	neoconservativism = 12
-	fascism = 8 #Nationalism
+	communism = 5 #Statism
+	neutrality = 5 #Neutrality
 	corporatism = 10
-	democratic = 60 #Liberalism
+	fascism = 8 #Nationalism
+	overlordship = 5
+	neoconservativism = 12
+	democratic = 55 #Liberalism
 }
 
-	#name the leader, the day they may be planned to die, and pick the specific ideology
 create_country_leader = {
-	name = "Bill Kerman"
-	
+	name = "name here"
 	picture = "GFX_leader_unknown.dds"
 	expire = "9999.1.1"
-	ideology = communism
+	ideology = unclaimed
+	traits = {
+
+	}
+}
+
+create_country_leader = {
+	name = "Bill Kerman"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = stihlism
 	traits = {
 		
 	}
@@ -68,7 +52,6 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Bob Kerman"
-	
 	picture = "GFX_leader_unknown.dds"
 	expire = "9999.1.1"
 	ideology = social_democracy
@@ -79,7 +62,6 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Jebidiah"
-	
 	picture = "GFX_leader_unknown.dds"
 	expire = "9999.1.1"
 	ideology = irridentism
@@ -92,7 +74,7 @@ create_country_leader = {
 	name = "Valentina Kerman"
 	picture = "GFX_leader_unknown.dds"
 	expire = "9999.1.1"
-	ideology = expansionism
+	ideology = socialism
 	traits = {
 		
 	}

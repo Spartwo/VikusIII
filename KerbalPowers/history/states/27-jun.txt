@@ -9,8 +9,9 @@ state={
 	state_category=city
 
 	history={
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = OPE
+		add_core_of = OPE
+		add_core_of = JUN
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1

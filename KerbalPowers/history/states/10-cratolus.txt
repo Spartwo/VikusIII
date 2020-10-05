@@ -18,16 +18,8 @@ state={
 	state_category=metropolis
 
 history={
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = VSA
+		add_core_of = VSA
 		victory_points = { 4291 10 }
-		buildings = {
-			infrastructure = 5
-			arms_factory = 2
-			industrial_complex = 2
-			dockyard = 1
-			4291 = {
-				naval_base = 2
-			}
 	}
 }

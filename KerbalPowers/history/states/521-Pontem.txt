@@ -1,4 +1,3 @@
-
 state={
 	id=521
 	name="STATE_521"
@@ -12,8 +11,8 @@ state={
 	}
 
 	history={
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = REC
+		add_core_of = REC
 
 	}
 
@@ -23,3 +22,4 @@ state={
 	manpower=1000000
 	buildings_max_level_factor=1.000
 	state_category=city
+}

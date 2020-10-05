@@ -1,0 +1,70 @@
+﻿capital = 115
+
+oob = "RMAP_TEMPLATE"
+set_cosmetic_tag = KAL_KSKM
+
+set_research_slots = 3
+set_convoys = 100
+set_stability = 0.2
+
+# Starting tech
+set_technology = {
+
+}
+
+set_popularities = {
+	democratic = 4
+	fascism = 4
+	communism = 70
+	neutrality = 22
+}
+		
+set_politics = {
+
+	ruling_party = communism
+	last_election = "2049.10.13"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+
+
+create_country_leader = {
+	name = "Jalia Kerman"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = socialism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Radakzic Kerman"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = socialist_nationalism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Dutman Kerman"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = nationalism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Butalovic Kerman"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = social_democracy
+	traits = {
+		
+	}
+}

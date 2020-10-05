@@ -1,0 +1,66 @@
+﻿capital = 102
+
+oob = "RMAP_TEMPLATE"
+
+set_research_slots = 2
+set_convoys = 100
+set_stability = 0.2
+
+# Starting tech
+set_technology = {
+
+}
+	
+set_popularities = {
+	democratic = 69
+	fascism = 15
+	communism = 13
+	neutrality = 3
+}
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "2046.1.2"
+	election_frequency = 48
+	elections_allowed = No
+}
+
+create_country_leader = {
+	name = "High King Billisky"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = despotism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "King Billisky"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = isolationism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Grand Emperor Billisky"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = irridentism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "King Billisky"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = representative_democracy
+	traits = {
+		
+	}
+}

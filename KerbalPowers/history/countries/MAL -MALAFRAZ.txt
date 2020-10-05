@@ -1,0 +1,39 @@
+﻿capital = 10
+
+oob = "RMAP_TEMPLATE"
+
+set_research_slots = 2
+set_convoys = 100
+set_stability = 0.2
+
+# Starting tech
+set_technology = {
+
+}
+
+set_popularities = {
+	democratic = 7
+	fascism = 0
+	communism = 3
+	neutrality = 90
+}
+
+set_politics = {
+
+	
+	ruling_party = neutrality
+	last_election = "2049.1.3"
+	election_frequency = 36
+	elections_allowed = yes
+}
+
+create_country_leader = {
+	name = "Whi Dah"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = isolationism
+	traits = {
+		
+	}
+	
+}

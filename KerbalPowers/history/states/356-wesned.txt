@@ -17,7 +17,7 @@ state={
 	state_category=city
 
 history={
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = KAR
+		add_core_of = KAR
 	}
 }

@@ -1,0 +1,38 @@
+﻿capital = 8
+
+oob = "RMAP_TEMPLATE"
+
+set_research_slots = 2
+set_convoys = 100
+set_stability = 0.2
+
+# Starting tech
+set_technology = {
+
+}
+
+set_popularities = {
+	democratic = 24
+	fascism = 45
+	communism = 0
+	neutrality = 31
+}
+
+set_politics = {
+	
+	ruling_party = fascism
+	last_election = "2049.11.21"
+	election_frequency = 52
+	elections_allowed = yes
+}
+
+	
+create_country_leader = {
+	name = "Domnic Shore"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = despotism
+	traits = {
+		
+	}
+}

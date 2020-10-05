@@ -6,9 +6,6 @@ state={
 	history={
 		owner = LAY
 		add_core_of = LAY
-		victory_points = {
-			259 5 
-		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2
@@ -18,7 +15,7 @@ state={
 	}
 
 	provinces={
-		247 263 302 313 344 349 352 353 394 398 399 405 426 438 445 452 456 651 
+		247 263 302 313 344 352 353 394 399 405 426 445 452 651 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

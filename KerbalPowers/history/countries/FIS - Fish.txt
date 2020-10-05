@@ -1,0 +1,57 @@
+﻿capital = 59
+
+oob = "RMAP_TEMPLATE"
+
+set_research_slots = 3
+set_convoys = 100
+set_stability = 0.4
+
+# Starting tech
+set_technology = {
+
+}
+
+set_popularities = {
+	democratic = 10
+	fascism = 85
+	communism = 2
+	neutrality = 3
+}
+
+set_politics = {
+
+	ruling_party = fascism
+	last_election = "2050.6.3"
+	election_frequency = 6
+	elections_allowed = yes
+}
+
+create_country_leader = {
+	name = "Spikey"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = despotism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Some Crab"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = social_democracy
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Mayor Greg"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = representative_democracy
+	traits = {
+		
+	}
+}

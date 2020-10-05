@@ -12,8 +12,8 @@ state={
 	}
 
 	history={
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = BOT
+		add_core_of = BOT
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1

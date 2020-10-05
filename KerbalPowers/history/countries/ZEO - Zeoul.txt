@@ -1,0 +1,35 @@
+﻿capital = 400
+
+oob = "RMAP_TEMPLATE"
+
+set_research_slots = 2
+set_convoys = 100
+set_stability = 0.2
+
+# Starting tech
+set_technology = {
+
+}
+set_popularities = {
+	democratic = 56
+	fascism = 7
+	communism = 20
+	neutrality = 17
+}
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "2048.8.2"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+create_country_leader = {
+	name = "Austin Kerr"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = socialism
+	traits = {
+		
+	}
+}

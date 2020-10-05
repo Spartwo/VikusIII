@@ -1,0 +1,39 @@
+﻿capital = 113
+
+oob = "RMAP_TEMPLATE"
+
+set_research_slots = 2
+set_convoys = 100
+set_stability = 0.2
+
+# Starting tech
+set_technology = {
+
+}
+
+set_popularities = {
+	democratic = 18
+	fascism = 2
+	communism = 68
+	neutrality = 12
+}
+	
+
+set_politics = {
+	
+	ruling_party = communism
+	last_election = "2047.11.23"
+	election_frequency = 60
+	elections_allowed = no
+	
+}
+
+create_country_leader = {
+	name = "King Mancuso I"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = despotism
+	traits = {
+		
+	}
+}

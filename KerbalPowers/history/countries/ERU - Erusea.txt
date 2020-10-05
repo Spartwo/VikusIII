@@ -1,0 +1,37 @@
+﻿capital = 455
+
+oob = "RMAP_TEMPLATE"
+
+set_research_slots = 2
+set_convoys = 100
+set_stability = 0.2
+
+# Starting tech
+set_technology = {
+
+}
+
+set_popularities = {
+	democratic = 64
+	fascism = 6
+	communism = 8
+	neutrality = 22
+}
+
+set_politics = {
+
+	ruling_party = democratic
+	last_election = "2049.3.9"
+	election_frequency = 24
+	elections_allowed = yes
+}
+
+create_country_leader = {
+	name = "Andrew Bolten"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = representative_democracy
+	traits = {
+		
+	}
+}

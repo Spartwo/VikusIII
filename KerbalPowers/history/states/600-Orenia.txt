@@ -10,6 +10,9 @@ state={
 	history={
 		owner = ERA
 		add_core_of = ERA
+		victory_points = {
+			4937 15 
+		}
 
 	}
 }

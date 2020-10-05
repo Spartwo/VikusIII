@@ -9,8 +9,8 @@ state={
  	 state_category=town
 
 	history={
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = ICO
+		add_core_of = ICO
 
 	}
 }

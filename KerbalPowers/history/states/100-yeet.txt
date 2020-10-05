@@ -17,7 +17,7 @@ state={
 	state_category=small_island
 
 history={
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = ANG
+		add_core_of = ANG
 	}
 }

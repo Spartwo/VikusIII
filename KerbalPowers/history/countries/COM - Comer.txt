@@ -1,0 +1,47 @@
+﻿capital = 228
+
+oob = "RMAP_TEMPLATE"
+
+set_research_slots = 2
+set_convoys = 100
+set_stability = 0.2
+
+# Starting tech
+set_technology = {
+
+}
+
+set_popularities = {
+	democratic = 55
+	fascism = 0
+	communism = 10
+	neutrality = 35
+}
+
+set_politics = {
+
+	ruling_party = democratic
+	last_election = "2049.3.6"
+	election_frequency = 96
+	elections_allowed = yes
+}
+
+create_country_leader = {
+	name = "Sylas Kerman"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = representative_democracy
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Nope Drophol III"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = isolationism
+	traits = {
+		
+	}
+}

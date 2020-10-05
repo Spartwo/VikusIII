@@ -19,6 +19,7 @@ state={
 history={
 		owner = KRO
 		add_core_of = KRO
+		add_core_of = GRE
 		victory_points = { 3942 15 }
 	}
 }

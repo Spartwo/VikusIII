@@ -1,21 +1,74 @@
 ﻿l_english:
-
-################### LAYTHIA ######################
- 0UR_subject_isolation:0 "Southeastern $OVERLORDADJ$ Dominion"
- 0UR_subject_isolation_DEF:0 "the Southeastern $OVERLORDADJ$ Dominion"
- 0UR_subject_expansion:0 "$OVERLORDADJ$ Southeastern Province"
- 0UR_subject_expansion_DEF:0 "the $OVERLORDADJ$ Southeastern Province"
- 0UR_subject_intervention:0 "$OVERLORDADJ$ Republic of Laythia"
- 0UR_subject_intervention_DEF:0 "the $OVERLORDADJ$ Republic of Laythia"
- 0UR_subject_cooperation:0 "Union of $OVERLORDADJ$ Laythian Cantonal Republics"
- 0UR_subject_cooperation_DEF:0 "the Union of $OVERLORDADJ$ Laythian Cantonal Republics"
+HIDE_COS:0 " "
+HIDE_COS_DEF:0 "The Disunified areas of $NONIDEOLOGYDEF$"
 ################### Tekkia ######################
- 0CT_subject_expansion:0 "$OVERLORDADJ$ Province of Kizantia"
- 0CT_subject_expansion_DEF:0 "the $OVERLORDADJ$ Province of Kizantia"
- 0CT_subject_cooperation:0 "$OVERLORDADJ$ Federal Republic of Tekkia"
- 0CT_subject_cooperation_DEF:0 "the $OVERLORDADJ$ Federal Republic of Tekkia"
- 0CT_subject_isolation:1 "$OVERLORDADJ$ Dominion of Tekkia"
- 0CT_subject_isolation_DEF:1 "the $OVERLORDADJ$ Dominion of Tekkia"
- 0CT_subject_intervention:0 "$OVERLORDADJ$ Tekkian Protectorate"
- 0CT_subject_intervention_DEF:0 "The $OVERLORDADJ$ Tekkian Protectorate"
-###########################
+#AON = "countries/AON.txt" #AONTAS (THICCENED TEKKIA)
+################### Reciprocity ######################
+#PHOS
+#SPIC
+#DUST
+#ACRI
+################### Karthax-Avalon ######################
+#KAF = "countries/KAF.txt" #KAFRICA (AVALONIAN AMBITIONS MANIFEST)
+################### Targeria ######################
+#SVA = "countries/SVA.txt" #FORMED BY CENTRAL FIRESVAR COUNTRIES
+################### Grestin ######################
+#SVA = "countries/SVA.txt" #SVARSK is south grestin tekkiasphered
+#NGS = "countries/SVA.txt" #A GRESTIN COSMETIC IF SOUTH GRES DIES
+################### Aenia-Arcadia ######################
+#UIF = "countries/UIF.txt" #UCF/UIF (AMB+AEN, ARCADIA MUST NOT EXIST)
+#RAV = "countries/RAV.txt" #RAVNINNY (ARC+ERA, AENIA MUST NOT EXIST)
+################### Sanctum ######################
+#PAN = "countries/PAN.txt" #PANDORICA (ZIMORI FOCUS BASED)
+#GRY = "countries/GRY.txt" #GREYDON/NEW ARCOVY (WILL TAKE OVER A DEFEATED SANCTUM IF NO ARCADIA)
+#New Arcovy
+################### Crater Shittery ######################
+################### Zoke ######################
+#AZF = "countries/AZF.txt" #THICCZOKESIA (REQUIRES OWNERSHIP OF MAX EXTENT AREAS)
+################### Comer ######################
+#LEN = "countries/LEN.txt" #LENAPE (SOLARI EXODUS OPTION FOR BIG COOMER)
+################### VienKrome ######################
+#KROME-VIENO
+################### South Eureka ######################
+#ALT = "countries/ALT.txt" #ALTERIX (IN CONTENTION WITH FLORACIA)
+#TAU = "countries/TAU.txt" #TAU (WES, WO, VOC, EUR FORMING PACIFICA)
+################### Cotmark ######################
+#KUS = "countries/KUS.txt" #KUS (KYZAN-VANAD WILL EXPAND TO COVER LARGE CHUNKS OF THE DESERT)
+################### Dorvic Greys ######################
+################### DOREN ######################
+#DOR = "countries/DOR.txt" #DOREN
+################### Junta Strelka ######################
+
+################### Belasnirov ######################
+#NIR = "countries/NIR.txt" #BELASNIROV (BEL+DRA+NIS/RAD, MUST LOSE CERTAIN STATES)
+################### Angvarden ######################
+#Caletain
+################### Kalban Mergers ######################
+#KAL_VEI
+#KAL_DFK
+#KAL_SKR
+################### Erusea Panka ######################
+#Panka
+#SALRED
+################### Narutnetflub ######################
+#NARUT (NORLAND, EDVA, JOKLA, OR ARTICA PATH)
+################### Alecton ######################
+#MAC = "countries/MAC.txt" #MACRONESIA (LOW CHANCE SPAWN)
+################### Solaria ######################
+#CRI = "countries/CRI.txt" #COMORRI (ALT EXODUS PATH)
+#SNI = "countries/SNI.txt" #SOLANI (MECHANI-SOLARIA)
+################### Surnay ######################
+Surnay:0"Surnay"
+Surnay_DEF:0"Surnish United Republic"
+Surnay_Neoconservativism_DEF:0"Empire of Surnay"
+Surnay_ADJ:0"Surnay"
+################### Teksphere ######################
+TEK_subject:0"$NONIDEOLOGY$ Federal Republic"
+TEK_subject_DEF:0"$NONIDEOLOGY$ Federal Republic"
+################### Arkadisphere ######################
+ARC_subject:0"$NONIDEOLOGYADJ$ Commune"
+ARC_subject_DEF:0"Commune of $NONIDEOLOGY$ "
+
+ COUNTRY_autonomy_collaboration_government:0 "$OVERLORDADJ$ $NONIDEOLOGY$"
+ COUNTRY_autonomy_collaboration_government_DEF:0 "$OVERLORDADJ$ $NONIDEOLOGYDEF$"
+ COUNTRY_autonomy_collaboration_government_ADJ:0 "$OVERLORDADJ$ $NONIDEOLOGYADJ$"

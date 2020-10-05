@@ -1,24 +1,26 @@
+
 state={
 	id=258
 	name="STATE_258"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=30.000
+		rubber=0.000
+		oil=0.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = VNO
+		add_core_of = VNO
+
+	}
+
 	provinces={
 		4870 4913 4955 4979 5061 5080 5131 5143 5157 5162 5231 5299 
 	}
 	manpower=1000000
-	resources={
-		steel=0
-		aluminium=0
-		chromium=30
-		rubber=0
-		oil=0
-		tungsten=0
-	}
 	buildings_max_level_factor=1.000
 	state_category=large_town
-
-history={
-		owner = ZZZ
-		add_core_of = ZZZ
-	}
-
 }

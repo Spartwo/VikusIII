@@ -18,15 +18,9 @@ state={
 	state_category=tiny_island
 
 history={
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = NMC
+		add_core_of = NMC
 		victory_points = { 5787 10 }
-		buildings = {
-			infrastructure = 4
-			industrial_complex = 1
-			5787 = {
-				naval_base = 2
-			}
 	}
 
 }

@@ -1,0 +1,28 @@
+﻿capital = 108
+set_research_slots = 0
+
+set_politics = {
+	
+	ruling_party = neutrality
+	last_election = "2060.3.1"
+	election_frequency = 60
+	elections_allowed = no
+}
+
+set_popularities = {
+	neutrality = 100 #Neutrality
+}
+
+create_country_leader = {
+	name = "Anarchy"
+	#desc = "POLITICS_ANARCHY_DESC"
+	#picture = "Portrait_ZZZ_Anarchy.dds"
+	expire = "3000.1.1"
+	ideology = unclaimed
+	traits = {
+	}
+}
+
+add_ideas = {
+	ZZZ_anarchy
+}

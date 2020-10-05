@@ -1,85 +1,59 @@
-﻿capital = 136
+﻿capital = 137
 
 oob = "RMAP_TEMPLATE"
 
-set_research_slots = 3
+set_research_slots = 2
 set_convoys = 100
 set_stability = 0.2
 
 # Starting tech
 set_technology = {
-	infantry_weapons = 1
-	infantry_weapons1 = 1
-	tech_recon = 1
-	tech_support = 1		
-	tech_engineers = 1
-	gw_artillery = 1
-	gwtank = 1
-	early_fighter = 1
-	cv_early_fighter = 1
-	cv_naval_bomber1 = 1
-	cv_CAS1 = 1
-	naval_bomber1 = 1
-	CAS1 = 1
-	early_bomber = 1
-	early_submarine = 1
-	basic_submarine = 1
-	early_destroyer = 1
-	early_light_cruiser = 1
-	basic_light_cruiser = 1
-	early_heavy_cruiser = 1
-	early_battleship = 1
-	early_battlecruiser = 1
-	early_carrier = 1
-	basic_carrier = 1
-	transport = 1
-	superior_firepower = 1
-	base_strike = 1 }
 
-set_politics = {
-
-	parties = {
-		cooperation = { 
-			popularity = 0
-		}
-
-		expansion = {
-			popularity = 80
-		}
-		
-		intervention = {
-			popularity = 20
-		}
-
-		isolation = { 
-			popularity = 0
-		}
-	}
-	
-	ruling_party = expansion
-	last_election = "2045.9.11"
-	election_frequency = 24
-	elections_allowed = no
 }
 
+set_popularities = {
+	democratic = 17
+	fascism = 0
+	communism = 33
+	neutrality = 50
+}
+
+set_politics = {
 	
+	ruling_party = neutrality
+	last_election = "2047.10.13"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+
+
 create_country_leader = {
-	name = "The Overlord"
-	
-	
+	name = "Klenpovic Kerman"
+	picture = "GFX_leader_unknown.dds"
 	expire = "9999.1.1"
-	ideology = technocrat_expansion
+	ideology = socialism
 	traits = {
 		
 	}
 }
 
 create_country_leader = {
-	name = "Bobdous Kerman"
-	
-	
+	name = "Bibac Kerman"
+	picture = "GFX_leader_unknown.dds"
 	expire = "9999.1.1"
-	ideology = legitimist_intervention
+	ideology = stihlism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Ritakovic Kerman"
+	picture = "GFX_leader_unknown.dds"
+	picture = "Ritakovic.dds"
+	expire = "9999.10.13"
+	ideology = social_democracy
 	traits = {
 		
 	}

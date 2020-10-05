@@ -1,0 +1,36 @@
+﻿capital = 60
+
+oob = "RMAP_TEMPLATE"
+
+set_research_slots = 2
+set_convoys = 100
+set_stability = 0.2
+
+# Starting tech
+set_technology = {
+
+}
+
+set_popularities = {
+	democratic = 40
+	fascism = 25
+	communism = 15
+	neutrality = 20
+}
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "2046.12.24"
+	election_frequency = 84
+	elections_allowed = yes
+}
+
+create_country_leader = {
+	name = "Josif Kerman"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = representative_democracy
+	traits = {
+		
+	}
+}

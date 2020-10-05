@@ -16,16 +16,9 @@ state={
 	buildings_max_level_factor=1.000
 	state_category=small_island
 
-history={
-		owner = ZZZ
-		add_core_of = ZZZ
+	history={
+		owner = AQU
+		add_core_of = AQU
 		victory_points = { 59 10 }
-		buildings = {
-			infrastructure = 3
-			arms_factory = 0
-			industrial_complex = 1
-		59 = {
-				naval_base = 2
-			}
 	}
 }
