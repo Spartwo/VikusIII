@@ -11,6 +11,10 @@ set_technology = {
 
 }
 
+create_faction = "UR"
+add_to_faction = BSK
+add_to_faction = ERU
+
 set_popularities = {
 	democratic = 50
 	fascism = 2

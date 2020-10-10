@@ -1,0 +1,37 @@
+﻿capital = 90
+
+oob = "RMAP_TEMPLATE"
+set_cosmetic_tag = HIDE_COS
+
+set_research_slots = 2
+set_convoys = 100
+set_stability = 0.2
+
+# Starting tech
+set_technology = {
+
+}
+
+set_popularities = {
+	democratic = 16
+	fascism = 6
+	communism = 4
+	neutrality = 64
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "2050.1.1"
+	election_frequency = 1
+	elections_allowed = yes
+}
+
+create_country_leader = {
+	name = "Daemon Captrix"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = isolationism
+	traits = {
+		
+	}
+}

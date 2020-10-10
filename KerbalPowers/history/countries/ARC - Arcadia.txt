@@ -11,6 +11,13 @@ set_technology = {
 
 }
 
+create_faction = "PAKT"
+add_to_faction = ERA
+add_to_faction = KAN
+add_to_faction = BSL
+add_to_faction = KON
+add_to_faction = OWL
+
 set_politics = {
 	
 	ruling_party = neutrality

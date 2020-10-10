@@ -28,447 +28,122 @@ WAR_RED = { color = rgb { 215 215 215 }
 WAR_AMB = { color = rgb { 225 225 225 }
     	color_ui = rgb { 225 225 225 } }
 
-TAR_COS = { color = rgb { 104 191 61 }
-    	color_ui = rgb { 104 191 61 } } #FORMING TARGERIA
+#FORMING KUS
+KUS_FORM = { color = rgb { 255 216 0 }
+    	color_ui = rgb { 255 216 0  } }
+
+#FORMING DOREN
+CPD_FORM = { color = rgb { 127 0 0 }
+    	color_ui = rgb { 127 0 0 } }
+
+#FORMING TARGERIA
+TAR_FORM = { color = rgb { 104 191 61 }
+    	color_ui = rgb { 104 191 61 } }
+
+#FORMING PACIFAY
+PAC_FORM = { color = rgb { 255 102 0 }
+    	color_ui = rgb { 255 102 0 } }
+
+#COMER CHANGING TO LENAPE
 COM_LEN = { color = rgb { 240 220 130 }
-    	color_ui = rgb { 240 220 130 } } #COMER CHANGING TO LENAPE color
+    	color_ui = rgb { 240 220 130 } }
+
+#BLUE ZOKESIA
 ZOK_BLUE = { color = rgb { 39 204 204 }
-    	color_ui = rgb { 39 204 204 } }#BLUE ZOKESIA
+    	color_ui = rgb { 39 204 204 } }
+
+#FLORACIA TO ALTERIX
 ALT_COS = { color = rgb { 39 204 204 }
-    	color_ui = rgb { 39 204 204 } }#FLORACIA TO ALTERIX
+    	color_ui = rgb { 39 204 204 } }
+
+#KARTHAX GREEN
 KAR_GREEN = { color = rgb { 17 94 51 }
-    	color_ui = rgb { 17 94 51 } }#KARTHAX GREEN
-AVA_RED = { color = rgb { 254 0 0 }
-    	color_ui = rgb { 254 0 0 } }#KARTHAX AVALON
+    	color_ui = rgb { 17 94 51 } }
+
+#KARTHAX AVALON
+KAR_RED = { color = rgb { 254 0 0 }
+    	color_ui = rgb { 254 0 0 } }
+
+#GAG REcolor
 GAG_SMC = { color = rgb { 187 158 2 }
-   	 color_ui = rgb { 187 158 2 } }#GAG REcolor
-BEL_COS = { color = rgb { 0 164 229 }
-   	 color_ui = rgb { 0 164 229 } }#BELASNIROV
-PHOS_COS = { color = rgb { 160 160 160 }
-    	color_ui = rgb { 160 160 160 } }#RECIPROCITYS
-ACRI_COS = { color = rgb { 53 157 214 }
-    	color_ui = rgb { 53 157 214 } }#RECIPROCITYS
-DUST_COS = { color = rgb { 217 138 138 }
-   	 color_ui = rgb { 217 138 138 } }#RECIPROCITYS
+   	 color_ui = rgb { 187 158 2 } }
+
+#BELASNIROV
+BEL_FORM = { color = rgb { 0 164 229 }
+   	 color_ui = rgb { 0 164 229 } }
+
+#RECIPROCITYS
+REC_PHOS = { color = rgb { 160 160 160 }
+    	color_ui = rgb { 160 160 160 } }
+REC_ACRI = { color = rgb { 53 157 214 }
+    	color_ui = rgb { 53 157 214 } }
+REC_DUST = { color = rgb { 217 138 138 }
+   	 color_ui = rgb { 217 138 138 } }
+
+#ERUSEA
 ERU_COS = { color = rgb { 45 45 45 }
-   	 color_ui = rgb { 45 45 45 } }#ERUSEA
+   	 color_ui = rgb { 45 45 45 } }
+
+#PANKA
 PKA_COS = { color = rgb { 200 16 46 }
-   	 color_ui = rgb { 200 16 46 } }#PANKA
-SAL_COS = { color = rgb { 128 128 128 }
-    	color_ui = rgb { 128 128 128 } }#SALRED
+   	 color_ui = rgb { 200 16 46 } }
+
+#RAVNINNY
 RAV_FORM = { color = rgb { 206 17 38 }
-   	 color_ui = rgb { 206 17 38 } }#RAVNINNY
+   	 color_ui = rgb { 206 17 38 } }
+
+#UIF
 UIF_FORM = { color = rgb { 19 31 56 }
-    	color_ui = rgb { 19 31 56 } }#UIF
+    	color_ui = rgb { 19 31 56 } }
+
+#AONTAS
 AON_FORM = { color = rgb { 0 74 127 }
-   	 color_ui = rgb { 0 74 127 } }#AONTAS
+   	 color_ui = rgb { 0 74 127 } }
+
+#SVARSKIAN GRESTIN
 SVA_GRE = { color = rgb { 0 74 127 }
-    	color_ui = rgb { 0 74 127 } }#SVARSKIAN GRESTIN
-SOL_FORM = { color = rgb { 27 64 124 }
-    	color_ui = rgb { 27 64 124 } }#SOLANI
-PAN_FORM = { color = rgb { 128 128 128 }
-   	 color_ui = rgb { 128 128 128 } }#PANDORICA
-KON_LIB = { color = rgb { 41 124 160 }
-   	 color_ui = rgb { 41 124 160 } }#SHADES OF KONIG
-KON_NEO = { color = rgb { 0 51 91 }
-    	color_ui = rgb { 0 51 91 } }#SHADES OF KONIG
-KON_ARC = { color = rgb { 240 240 240 }
-   	 color_ui = rgb { 240 240 240 } }#SHADES OF KONIG
-COM_COS = { color = rgb { 200 67 68 }
-   	 color_ui = rgb { 200 67 68 } }#COMORRI
-NAR_COS = { color = rgb { 128 192 192 }
-    	color_ui = rgb { 128 192 192 } }#NARUT
-SUR_FORM = { color = rgb { 209 0 0 }
-    	color_ui = rgb { 209 0 0 } }#SURNAY
-CAL_ANG = { color = rgb { 200 15 46 }
-   	 color_ui = rgb { 200 15 46 } }#CALETAIN
-KAL_KSKM = { color = rgb { 255 0 0 }
-   	 color_ui = rgb { 255 0 0 } }#KALBAN FORMS
-KAL_DFK = { color = rgb { 0 140 91 }
-   	 color_ui = rgb { 0 140 91 } }#KALBAN FORMS
-KAL_SKR = { color = rgb { 81 0 0 }
-   	 color_ui = rgb { 81 0 0 } }#KALBAN FORMS
+    	color_ui = rgb { 0 74 127 } }
 
-#GENERIC OVERLORD GIVEN colorS ONCE FULL LIST COMPILED
-
-###KAFRICA###
-COM_OVER = { color = rgb { 69 69 109 }
-	color_ui = rgb { 69 69 109 } }
-ALB_OVER = { color = rgb { 219 219 155 }
-	color_ui = rgb { 219 219 155 } }
-LOT_OVER = { color = rgb { 0 148 255 }
-	color_ui = rgb { 0 148 255 } }
-KAR_OVER = { color = rgb { 96 96 96 }
-	color_ui = rgb { 96 96 96 } }
-NKS_OVER = { color = rgb { 181 0 0 }
-	color_ui = rgb { 181 0 0 } }
-ELY_OVER = { color = rgb { 255 255 255 }
-	color_ui = rgb { 255 255 255 } }
-WES_OVER = { color = rgb { 0 51 91 }
-	color_ui = rgb { 0 51 91 } }
-VNO_OVER = { color = rgb { 255 106 0 }
-	color_ui = rgb { 255 106 0 } }
-OWO_OVER = { color = rgb { 0 38 255 }
-	color_ui = rgb { 0 38 255 } }
-BLY_OVER = { color = rgb { 178 0 255 }
-	color_ui = rgb { 178 0 255 } }
-STR_OVER = { color = rgb { 45 45 45 }
-	color_ui = rgb { 45 45 45 } }
-EUR_OVER = { color = rgb { 245 242 0 }
-	color_ui = rgb { 245 242 0 } }
-VOC_OVER = { color = rgb { 0 51 128 }
-	color_ui = rgb { 0 51 128 } }
-FLO_OVER = { color = rgb { 130 36 51 }
-	color_ui = rgb { 130 36 51 } }
-ACC_OVER = { color = rgb { 255 216 0 }
-	color_ui = rgb { 255 216 0 } }
-AZE_OVER = { color = rgb { 102 2 60 }
-	color_ui = rgb { 102 2 60 } }
-KAA_OVER = { color = rgb { 0 38 255 }
-	color_ui = rgb { 0 38 255 } }
-OSI_OVER = { color = rgb { 0 33 71 }
-	color_ui = rgb { 0 33 71 } }
-VER_OVER = { color = rgb { 238 33 12 }
-	color_ui = rgb { 238 33 12 } }
-KRK_OVER = { color = rgb { 0 4 50 }
-	color_ui = rgb { 0 4 50 } }
-ARK_OVER = { color = rgb { 0 170 212 }
-	color_ui = rgb { 0 170 212 } }
-
-###KAFRAIC###
-TEK_OVER = { color = rgb { 0 74 127 }
-	color_ui = rgb { 0 74 127 } }
-SOL_OVER = { color = rgb { 209 200 125 }
-	color_ui = rgb { 209 200 125 } }
-KRO_OVER = { color = rgb { 0 127 14 }
-	color_ui = rgb { 0 127 14 } }
-CEL_OVER = { color = rgb { 0 148 255 }
-	color_ui = rgb { 0 148 255 } }
-KSC_OVER = { color = rgb { 132 132 132 }
-	color_ui = rgb { 132 132 132 } }
-GRE_OVER = { color = rgb { 63 158 96 }
+GRESTIN
+GRE_COS = { color = rgb { 63 158 96 }
 	color_ui = rgb { 63 158 96 } }
-CAB_OVER = { color = rgb { 34 140 183 }
-	color_ui = rgb { 34 140 183 } }
-GRS_OVER = { color = rgb { 0 167 80 }
-	color_ui = rgb { 0 167 80 } 
-NGR_OVER = { color = rgb { 22 11 175 }
-	color_ui = rgb { 22 11 175 } }}
-LOV_OVER = { color = rgb { 90 145 113 }
-	color_ui = rgb { 90 145 113 } }
 
-###KOLUS###
-ZOK_OVER = { color = rgb { 13 66 29 }
-	color_ui = rgb { 13 66 29 } }
-CHO_OVER = { color = rgb { 224 150 47 }
-	color_ui = rgb { 224 150 47 } }
-GRA_OVER = { color = rgb { 113 84 206 }
-	color_ui = rgb { 113 84 206 } }
-PUG_OVER = { color = rgb { 55 134 190 }
-	color_ui = rgb { 55 134 190 } }
-KOT_OVER = { color = rgb { 68 68 132 }
-	color_ui = rgb { 68 68 132 } }
-BAS_OVER = { color = rgb { 255 106 0 }
-	color_ui = rgb { 255 106 0 } }
-WUS_OVER = { color = rgb { 226 193 127 }
-	color_ui = rgb { 226 193 127 } }
-VAN_OVER = { color = rgb { 45 45 45 }
-	color_ui = rgb { 45 45 45 } }
-KYZ_OVER = { color = rgb { 196 0 0 }
-	color_ui = rgb { 196 0 0 } }
-SAN_OVER = { color = rgb { 204 160 30 }
-	color_ui = rgb { 204 160 30 } }
-COT_OVER = { color = rgb { 0 34 229 }
-	color_ui = rgb { 0 34 229 } }
-CRS_OVER = { color = rgb { 0 19 127 }
-	color_ui = rgb { 0 34 229 } }
-NUV_OVER = { color = rgb { 0 112 192 }
-	color_ui = rgb { 0 112 192 } }
-CRA_OVER = { color = rgb { 255 255 0 }
-	color_ui = rgb { 255 255 0 } }
-VSA_OVER = { color = rgb { 114 3 2 }
-	color_ui = rgb { 114 3 2 } }
-MAL_OVER = { color = rgb { 45 45 45 }
-	color_ui = rgb { 45 45 45 } }
-SVC_OVER = { color = rgb { 70 70 70 }
-	color_ui = rgb { 70 70 70 } }
-BOS_OVER = { color = rgb { 134 165 145 }
-	color_ui = rgb { 134 165 145 } }
-RID_OVER = { color = rgb { 0 176 80 }
-	color_ui = rgb { 0 176 80 } }
-VAL_OVER = { color = rgb { 255 214 24 }
-	color_ui = rgb { 255 214 24 } }
-SCH_OVER = { color = rgb { 125 153 135 }
-	color_ui = rgb { 125 153 135 } }
-JUN_OVER = { color = rgb { 134 165 145 }
-	color_ui = rgb { 134 165 145 } }
+#PANDORICA
+PAN_FORM = { color = rgb { 128 128 128 }
+   	 color_ui = rgb { 128 128 128 } }
 
-###DOREN###
-ARC_OVER = { color = rgb { 126 1 0 }
-	color_ui = rgb { 126 1 0 } }
-AEN_OVER = { color = rgb { 0 114 93 }
-	color_ui = rgb { 0 114 93 } }
-HAL_OVER = { color = rgb { 0 127 14 }
-	color_ui = rgb { 0 127 14 } }
-KAN_OVER = { color = rgb { 201 0 0 }
-	color_ui = rgb { 201 0 0 } }
-ERA_OVER = { color = rgb { 0 19 127 }
-	color_ui = rgb { 0 19 127 } }
-KON_OVER = { color = rgb { 230 240 230 }
-	color_ui = rgb { 230 240 230 } }
-ZER_OVER = { color = rgb { 40 40 40 }
-	color_ui = rgb { 40 40 40 } }
-AMB_OVER = { color = rgb { 244 189 24 }
-	color_ui = rgb { 244 189 24 } }
-ZAP_OVER = { color = rgb { 255 216 0 }
-	color_ui = rgb { 255 216 0 } }
-BEL_OVER = { color = rgb { 0 164 229 }
-	color_ui = rgb { 0 164 229 } }
-ZIM_OVER = { color = rgb { 0 32 96 }
-	color_ui = rgb { 0 32 96 } }
-DRA_OVER = { color = rgb { 114 95 130 }
-	color_ui = rgb { 114 95 130 } }
-NIS_OVER = { color = rgb { 204 0 1 }
-	color_ui = rgb { 204 0 1 } }
-RAD_OVER = { color = rgb { 253 209 22 }
-	color_ui = rgb { 253 209 22 } }
-AES_OVER = { color = rgb { 127 0 0 }
-	color_ui = rgb { 127 0 0 } }
-GOR_OVER = { color = rgb { 180 0 0 }
-	color_ui = rgb { 180 0 0 } }
+#SHADES OF KONIG
+KON_LIB = { color = rgb { 41 124 160 }
+   	 color_ui = rgb { 41 124 160 } }
+KON_NEO = { color = rgb { 0 51 91 }
+    	color_ui = rgb { 0 51 91 } }
+KON_ARC = { color = rgb { 240 240 240 }
+   	 color_ui = rgb { 240 240 240 } }
 
-###DORVICS###
-SLO_OVER = { color = rgb { 0 82 152 }
-	color_ui = rgb { 0 82 152 } }
-SAR_OVER = { color = rgb { 91 139 180 }
-	color_ui = rgb { 91 139 180 } }
-ZHA_OVER = { color = rgb { 64 64 64 }
-	color_ui = rgb { 64 64 64 } }
-NOM_OVER = { color = rgb { 208 194 211 }
-	color_ui = rgb { 208 194 211 } }
-MAR_OVER = { color = rgb { 47 158 0 }
-	color_ui = rgb { 47 158 0 } }
-VUL_OVER = { color = rgb { 128 128 128 }
-	color_ui = rgb { 128 128 128 } }
-SER_OVER = { color = rgb { 255 106 0 }
-	color_ui = rgb { 255 106 0 } }
-GIB_OVER = { color = rgb { 187 140 172 }
-	color_ui = rgb { 187 140 172 } }
-NTH_OVER = { color = rgb { 150 196 75 }
-	color_ui = rgb { 150 196 75 } }
-RED_OVER = { color = rgb { 241 91 91 }
-	color_ui = rgb { 241 91 91 } }
+#SOLANI
+SOL_FORM = { color = rgb { 27 64 124 }
+    	color_ui = rgb { 27 64 124 } }
 
-###BASKAY###
-AQU_OVER = { color = rgb { 0 185 232 }
-	color_ui = rgb { 0 185 232 } }
-OWL_OVER = { color = rgb { 0 19 127 }
-	color_ui = rgb { 0 19 127 } }
-BSL_OVER = { color = rgb { 64 128 128 }
-	color_ui = rgb { 64 128 128 } }
-ERU_OVER = { color = rgb { 75 75 75 }
-	color_ui = rgb { 75 75 75 } }
-DEL_OVER = { color = rgb { 239 202 55 }
-    	color_ui = rgb { 239 202 55 } }
-SPE_OVER = { color = rgb { 255 201 14 }
-	color_ui = rgb { 255 201 14 } }
-ZEO_OVER = { color = rgb { 237 28 36 }
-	color_ui = rgb { 237 28 36 } }
-HER_OVER = { color = rgb { 255 216 0 }
-	color_ui = rgb { 255 216 0 } }
-ICO_OVER = { color = rgb { 0 101 189 }
-	color_ui = rgb { 0 101 189 } }
-FIS_OVER = { color = rgb { 12 128 181 }
-	color_ui = rgb { 12 128 181 } }
-GAL_OVER = { color = rgb { 232 0 0 }
-	color_ui = rgb { 232 0 0 } }
-SAL_OVER = { color = rgb { 128 128 128 }
-	color_ui = rgb { 128 128 128 } }
-VLR_OVER = { color = rgb { 139 0 204 }
-    	color_ui = rgb { 139 0 204 } }
-KCA_OVER = { color = rgb { 255 216 0 }
-	color_ui = rgb { 255 216 0 } }
-PRO_OVER = { color = rgb { 86 186 239 }
-	color_ui = rgb { 86 186 239 } }
-URJ_OVER = { color = rgb { 163 84 137 }
-	color_ui = rgb { 163 84 137 } }
-POT_OVER = { color = rgb { 206 122 77 }
-	color_ui = rgb { 206 122 77 } }
+#COMORRI
+COM_COS = { color = rgb { 200 67 68 }
+   	 color_ui = rgb { 200 67 68 } }
 
-###FEGUANESIA###
-FEG_OVER = { color = rgb { 255 0 0 }
-	color_ui = rgb { 255 0 0 } }
-GIZ_OVER = { color = rgb { 144 144 124 }
-	color_ui = rgb { 144 144 124 } }
-VEN_OVER = { color = rgb { 103 101 206 }
-	color_ui = rgb { 103 101 206 } }
-LAN_OVER = { color = rgb { 22 35 77 }
-	color_ui = rgb { 22 35 77 } }
-REC_OVER = { color = rgb { 239 232 98 }
-	color_ui = rgb { 239 232 98 } }
-ALE_OVER = { color = rgb { 0 51 91 }
-	color_ui = rgb { 0 51 91 } }
-HKA_OVER = { color = rgb { 70 149 93 }
-	color_ui = rgb { 70 149 93 } }
-ROS_OVER = { color = rgb { 121 196 237 }
-	color_ui = rgb { 70 149 93 } }
-EST_OVER = { color = rgb { 255 127 39 }
-	color_ui = rgb { 255 127 39 } }
-NAU_OVER = { color = rgb { 155 116 164 }
-	color_ui = rgb { 155 116 164 } }
+#NARUT
+NAR_FORM = { color = rgb { 128 192 192 }
+    	color_ui = rgb { 128 192 192 } }
 
-###CALEDON###
-ANG_OVER = { color = rgb { 0 64 128 }
-	color_ui = rgb { 0 64 128 } }
-STM_OVER = { color = rgb { 207 84 34 }
-	color_ui = rgb { 207 84 34 } }
-UNI_OVER = { color = rgb { 72 97 125 }
-	color_ui = rgb { 72 97 125 } }
-IMP_OVER = { color = rgb { 163 73 164 }
-	color_ui = rgb { 163 73 164 } }
-SNJ_OVER = { color = rgb { 226 189 0 }
-	color_ui = rgb { 226 189 0 } }
-TRE_OVER = { color = rgb { 90 0 74 }
-	color_ui = rgb { 90 0 74 } }
+#SURNAY
+SUR_FORM = { color = rgb { 209 0 0 }
+    	color_ui = rgb { 209 0 0 } }
 
-###FIRESVAR###
-NMC_OVER = { color = rgb { 74 53 94 }
-	color_ui = rgb { 74 53 94 } }
-NOR_OVER = { color = rgb { 6 90 67 }
-	color_ui = rgb { 6 90 67 } }
-BEN_OVER = { color = rgb { 204 101 32 }
-	color_ui = rgb { 204 101 32 } }
-JOK_OVER = { color = rgb { 27 187 151 }
-	color_ui = rgb { 27 187 15 } }
-ART_OVER = { color = rgb { 0 128 129 }
-	color_ui = rgb { 27 187 15 } }
-MED_OVER = { color = rgb { 7 72 0 }
-	color_ui = rgb { 7 72 0 } }
-KER_OVER = { color = rgb { 113 143 200 }
-	color_ui = rgb { 113 143 200 } }
-YRA_OVER = { color = rgb { 163 233 255 }
-	color_ui = rgb { 163 233 255 } }
-BEI_OVER = { color = rgb { 7 55 99 }
-	color_ui = rgb { 7 55 99 } }
-EDV_OVER = { color = rgb { 64 64 64 }
-	color_ui = rgb { 64 64 64 } }
-HEL_OVER = { color = rgb { 36 74 137 }
-	color_ui = rgb { 36 74 137 } }
-RAF_OVER = { color = rgb { 0 162 232 }
-	color_ui = rgb { 36 74 137 } }
-THA_OVER = { color = rgb { 126 0 0 }
-	color_ui = rgb { 126 0 0 } }
-CRY_OVER = { color = rgb { 243 96 103 }
-	color_ui = rgb { 243 96 103 } }
+#CALETAIN
+ANG_CAL = { color = rgb { 200 15 46 }
+   	 color_ui = rgb { 200 15 46 } }
 
-###MAMB###
-MEC_OVER = { color = rgb { 255 83 15 }
-	color_ui = rgb { 255 83 15 } }
-SWE_OVER = { color = rgb { 18 21 66 }
-	color_ui = rgb { 18 21 66 } }
-GUM_OVER = { color = rgb { 0 38 255 }
-	color_ui = rgb { 0 38 255 } }
-ION_OVER = { color = rgb { 66 150 74 }
-	color_ui = rgb { 66 150 74 } }
-KYV_OVER = { color = rgb { 25 159 253 }
-	color_ui = rgb { 25 159 253 } }
-ROV_OVER = { color = rgb { 254 221 0 }
-	color_ui = rgb { 254 221 0 } }
-BOT_OVER = { color = rgb { 14 209 69 }
-	color_ui = rgb { 14 209 69 } }
-OPE_OVER = { color = rgb { 154 159 211 }
-	color_ui = rgb { 154 159 211 } }
-
-###VEIID###
-GAG_OVER = { color = rgb { 219 191 70 }
-	color_ui = rgb { 219 191 70 } }
-KAL_OVER = { color = rgb { 127 127 127 }
-	color_ui = rgb { 127 127 127 } }
-TRO_OVER = { color = rgb { 60 59 110 }
-	color_ui = rgb { 60 59 110 } }
-LAY_OVER = { color = rgb { 122 21 14 }
-	color_ui = rgb { 122 21 14 } }
-CEN_OVER = { color = rgb { 51 153 255 }
-	color_ui = rgb { 51 153 255 } }
-BEH_OVER = { color = rgb { 0 127 80 }
-	color_ui = rgb { 0 127 80 } }
-ODE_OVER = { color = rgb { 254 221 0 }
-	color_ui = rgb { 254 221 0 } }
-IRS_OVER = { color = rgb { 84 0 94 }
-	color_ui = rgb { 84 0 94 } }
-CAR_OVER = { color = rgb { 116 170 217 }
-	color_ui = rgb { 116 170 217 } }
-FEL_OVER = { color = rgb { 0 51 91 }
-	color_ui = rgb { 0 51 91 } }
-KAT_OVER = { color = rgb { 187 158 2 }
-	color_ui = rgb { 187 158 2 } }
-MEN_OVER = { color = rgb { 0 148 255 }
-	color_ui = rgb { 0 148 255 } }
-BSK_OVER = { color = rgb { 210 210 165 }
-	color_ui = rgb { 210 210 165 } }
-TOR_OVER = { color = rgb { 45 45 45 }
-	color_ui = rgb { 45 45 45 } }
-DTA_OVER = { color = rgb { 87 97 122 }
-	color_ui = rgb { 87 97 122 } }
-	
-###FORMED NATION OVERLORD###
-TAR_COS_OVER = { color = rgb { 104 191 61 }
-    color_ui = rgb { 104 191 61 } }#FORMING TARGERIA
-COM_LEN_OVER = { color = rgb { 240 220 130 }
-    color_ui = rgb { 240 220 130 } }#COMER CHANGING TO LENAPE color
-ZOK_BLUE_OVER = { color = rgb { 39 204 204 }
-    color_ui = rgb { 39 204 204 } }#BLUE ZOKESIA
-ALT_COS_OVER = { color = rgb { 39 204 204 }
-    color_ui = rgb { 39 204 204 } }#FLORACIA TO ALTERIX
-KAR_GREEN_OVER = { color = rgb { 17 94 51 }
-    color_ui = rgb { 17 94 51 } }#KARTHAX GREEN
-AVA_RED_OVER = { color = rgb { 254 0 0 }
-    color_ui = rgb { 254 0 0 } }#KARTHAX AVALON
-GAG_SMC_OVER = { color = rgb { 187 158 2 }
-    color_ui = rgb { 187 158 2 } }#GAG REcolor
-BEL_COS_OVER = { color = rgb { 0 164 229 }
-    color_ui = rgb { 0 164 229 } }#BELASNIROV
-PHOS_COS_OVER = { color = rgb { 160 160 160 }
-    color_ui = rgb { 160 160 160 } }#RECIPROCITYS
-ACRI_COS_OVER = { color = rgb { 53 157 214 }
-    color_ui = rgb { 53 157 214 } }#RECIPROCITYS
-DUST_COS_OVER = { color = rgb { 217 138 138 }
-    color_ui = rgb { 217 138 138 } }#RECIPROCITYS
-ERU_COS_OVER = { color = rgb { 45 45 45 }
-    color_ui = rgb { 45 45 45 } }#ERUSEA
-PKA_COS_OVER = { color = rgb { 200 16 46 }
-    color_ui = rgb { 200 16 46 } }#PANKA
-SAL_COS_OVER = { color = rgb { 128 128 128 }
-    color_ui = rgb { 128 128 128 } }#SALRED
-RAV_FORM_OVER = { color = rgb { 206 17 38 }
-    color_ui = rgb { 206 17 38 } }#RAVNINNY
-UIF_FORM_OVER = { color = rgb { 19 31 56 }
-    color_ui = rgb { 19 31 56 } }#UIF
-AON_FORM_OVER = { color = rgb { 0 74 127 }
-    color_ui = rgb { 0 74 127 } }#AONTAS
-SVA_GRE_OVER = { color = rgb { 0 74 127 }
-    color_ui = rgb { 0 74 127 } }#SVARSKIAN GRESTIN
-SOL_FORM_OVER = { color = rgb { 27 64 124 }
-    color_ui = rgb { 27 64 124 } }#SOLANI
-PAN_FORM_OVER = { color = rgb { 128 128 128 }
-    color_ui = rgb { 128 128 128 } }#PANDORICA
-KON_LIB_OVER = { color = rgb { 41 124 160 }
-    color_ui = rgb { 41 124 160 } }#SHADES OF KONIG
-KON_NEO_OVER = { color = rgb { 0 51 91 }
-    color_ui = rgb { 0 51 91 } }#SHADES OF KONIG
-KON_ARC_OVER = { color = rgb { 240 240 240 }
-    color_ui = rgb { 240 240 240 } }#SHADES OF KONIG
-COM_COS_OVER = { color = rgb { 200 67 68 }
-    color_ui = rgb { 200 67 68 } }#COMORRI
-NAR_COS_OVER = { color = rgb { 128 192 192 }
-    color_ui = rgb { 128 192 192 } }#NARUT
-SUR_FORM_OVER = { color = rgb { 209 0 0 }
-    color_ui = rgb { 209 0 0 } }#SURNAY
-CAL_ANG_OVER = { color = rgb { 200 15 46 }
-    color_ui = rgb { 200 15 46 } }#CALETAIN
-KAL_KSKM_OVER = { color = rgb { 255 0 0 }
-    color_ui = rgb { 255 0 0 } }#KALBAN FORMS
-KAL_DFK_OVER = { color = rgb { 0 140 91 }
-    color_ui = rgb { 0 140 91 } }#KALBAN FORMS
-KAL_SKR_OVER = { color = rgb { 81 0 0 }
-    color_ui = rgb { 81 0 0 } }#KALBAN FORMS
+#KALBAN FORMS
+KAL_KSKM = { color = rgb { 255 0 0 }
+   	 color_ui = rgb { 255 0 0 } }
+KAL_DFK = { color = rgb { 0 140 91 }
+   	 color_ui = rgb { 0 140 91 } }
+KAL_SKR = { color = rgb { 81 0 0 }
+   	 color_ui = rgb { 81 0 0 } }

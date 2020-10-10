@@ -11,6 +11,8 @@ set_technology = {
 
 }
 
+create_faction = "TAU"
+
 set_politics = {
 
 	ruling_party = democratic

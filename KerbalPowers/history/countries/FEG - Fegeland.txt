@@ -11,6 +11,8 @@ set_technology = {
 
 }
 
+create_faction = "CFS"
+
 set_popularities = {
 	democratic = 73
 	fascism = 0

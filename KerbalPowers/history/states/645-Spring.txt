@@ -1,0 +1,18 @@
+
+state={
+	id=645
+	name="STATE_645"
+
+	history={
+		owner = SOL
+		add_core_of = SOL
+
+	}
+
+	provinces={
+		5101 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

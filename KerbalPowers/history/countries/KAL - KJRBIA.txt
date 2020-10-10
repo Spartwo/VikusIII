@@ -12,6 +12,8 @@ set_technology = {
 
 }
 
+create_faction = "NAM"
+
 set_popularities = {
 	democratic = 4
 	fascism = 4

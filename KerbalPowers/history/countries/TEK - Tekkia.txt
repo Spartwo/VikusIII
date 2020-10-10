@@ -11,6 +11,15 @@ set_technology = {
 
 }
 
+puppet = CHO
+puppet = CAB
+
+create_faction = "KAFTA"
+add_to_faction = KRO
+add_to_faction = SOL
+add_to_faction = MEC
+add_to_faction = CEL
+
 set_politics = {
 
 	ruling_party = democratic

@@ -1,12 +1,7 @@
+
 state={
 	id=27
 	name="STATE_27"
-	provinces={
-		4229 4252 4294 4329 4341 4398 4422 4474 
-	}
-	manpower=1000000
-	buildings_max_level_factor=1.000
-	state_category=city
 
 	history={
 		owner = OPE
@@ -16,7 +11,15 @@ state={
 			infrastructure = 3
 			arms_factory = 1
 			industrial_complex = 1
-			}
+
+		}
+
 	}
 
+	provinces={
+		4229 4252 4294 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=city
 }

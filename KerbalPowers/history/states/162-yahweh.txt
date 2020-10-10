@@ -14,6 +14,7 @@ state={
 	history={
 		owner = SPE
 		add_core_of = SPE
+		add_core_of = EGR
 		buildings = {
 			infrastructure = 5
 			arms_factory = 2

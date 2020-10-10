@@ -18,6 +18,9 @@ HIDE_COS_DEF:0 "The Disunified areas of $NONIDEOLOGYDEF$"
 ################### Aenia-Arcadia ######################
 #UIF = "countries/UIF.txt" #UCF/UIF (AMB+AEN, ARCADIA MUST NOT EXIST)
 #RAV = "countries/RAV.txt" #RAVNINNY (ARC+ERA, AENIA MUST NOT EXIST)
+#AEN_CRA 
+#AEN_AAF
+#AES_COS aeseria cosmetic for arcadia cores
 ################### Sanctum ######################
 #PAN = "countries/PAN.txt" #PANDORICA (ZIMORI FOCUS BASED)
 #GRY = "countries/GRY.txt" #GREYDON/NEW ARCOVY (WILL TAKE OVER A DEFEATED SANCTUM IF NO ARCADIA)
@@ -26,12 +29,14 @@ HIDE_COS_DEF:0 "The Disunified areas of $NONIDEOLOGYDEF$"
 ################### Zoke ######################
 #AZF = "countries/AZF.txt" #THICCZOKESIA (REQUIRES OWNERSHIP OF MAX EXTENT AREAS)
 ################### Comer ######################
-#LEN = "countries/LEN.txt" #LENAPE (SOLARI EXODUS OPTION FOR BIG COOMER)
+COM_LEN:0"Lenape"
+COM_LEN_ADJ:0"Lenappean"
+#COM_LEN_DEF:0"Lenape"
 ################### VienKrome ######################
 #KROME-VIENO
 ################### South Eureka ######################
 #ALT = "countries/ALT.txt" #ALTERIX (IN CONTENTION WITH FLORACIA)
-#TAU = "countries/TAU.txt" #TAU (WES, WO, VOC, EUR FORMING PACIFICA)
+#PACIFAY= "countries/TAU.txt" #TAU (WES, WO, VOC, EUR FORMING PACIFICA)
 ################### Cotmark ######################
 #KUS = "countries/KUS.txt" #KUS (KYZAN-VANAD WILL EXPAND TO COVER LARGE CHUNKS OF THE DESERT)
 ################### Dorvic Greys ######################
@@ -52,8 +57,6 @@ HIDE_COS_DEF:0 "The Disunified areas of $NONIDEOLOGYDEF$"
 #SALRED
 ################### Narutnetflub ######################
 #NARUT (NORLAND, EDVA, JOKLA, OR ARTICA PATH)
-################### Alecton ######################
-#MAC = "countries/MAC.txt" #MACRONESIA (LOW CHANCE SPAWN)
 ################### Solaria ######################
 #CRI = "countries/CRI.txt" #COMORRI (ALT EXODUS PATH)
 #SNI = "countries/SNI.txt" #SOLANI (MECHANI-SOLARIA)
@@ -63,8 +66,8 @@ Surnay_DEF:0"Surnish United Republic"
 Surnay_Neoconservativism_DEF:0"Empire of Surnay"
 Surnay_ADJ:0"Surnay"
 ################### Teksphere ######################
-TEK_subject:0"$NONIDEOLOGY$ Federal Republic"
-TEK_subject_DEF:0"$NONIDEOLOGY$ Federal Republic"
+TEK_subject:0"$NONIDEOLOGY$"
+TEK_subject_DEF:0"$NONIDEOLOGYADJ$ Federal Republic"
 ################### Arkadisphere ######################
 ARC_subject:0"$NONIDEOLOGYADJ$ Commune"
 ARC_subject_DEF:0"Commune of $NONIDEOLOGY$ "

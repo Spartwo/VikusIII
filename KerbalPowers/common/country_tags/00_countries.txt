@@ -27,7 +27,7 @@ KAA = "countries/KAA.txt" #KAADAR
 OSI = "countries/OSI.txt" #OSINI (TAKES MAINLAND STRELKA IF BLYATNAM LOST)
 VER = "countries/VER.txt" #VERBADY
 RAT = "countries/RAT.txt" #RATHANIA
-AUR = "countries/AUR.txt" #AURELIA
+AUR = "countries/AUR.txt" #AURED
 HEI = "countries/HEI.txt" #SIBERGE
 HAR = "countries/HAR.txt" #HARTON
 KRK = "countries/KRK.txt" #KRAKEN (STATIST REBELLION IN OLD ELYSIUM #274)
@@ -44,6 +44,7 @@ GRE = "countries/GRE.txt" #GRESTIN
 CAB = "countries/CAB.txt" #CABRIA (TEKKIAN COMPONENT STATE)
 GRS = "countries/GRS.txt" #GRESTINE (TEKKIAN PUPPET IN GRESTIN)
 NGR = "countries/NGR.txt" #NORTH GRESTIN (DECLARES INDEPENDENCE ON GRESTIN CAPITULATION)
+DIO = "countries/DIO.txt" #DIOSCA
 LOV = "countries/LOV.txt" #LOVATICA
 
 ###KOLUS###
@@ -55,9 +56,10 @@ KOT = "countries/KOT.txt" #KOTHEN
 BAS = "countries/BAS.txt" #BASTIA
 WUS = "countries/WUS.txt" #WUSTE
 VAN = "countries/VAN.txt" #VANADIA
-KYZ = "countries/KYZ.txt" #KYZAN
+PHO = "countries/PHO.txt" #PHOENIA
 SAN = "countries/SAN.txt" #SANCTUM
 COT = "countries/COT.txt" #COTMARK (KUS RUMP)
+VAG = "countries/VAG.txt" #VAGANI 
 #Post start release
 CRS = "countries/CRS.txt" #CARSDONIA (TAKES OVER LARGE CHUNKS OF POST-KUS)
 NUV = "countries/NUV.txt" #NUVALKA (TAKES OVER IN POST-KUS)
@@ -68,7 +70,7 @@ MAL = "countries/MAL.txt" #MALAFRAZ
 CYT = "countries/CYT.txt" #CYTHIA
 CHA = "countries/CHA.txt" #CHARUM
 #Cores
-SVC = "countries/SVC.txt" #SALVACION 
+SVC = "countries/SVC.txt" #SALMIGEL
 BOS = "countries/BOS.txt" #BOSMYTH (LIKELY TO BE RELEASED IF SANCTUM BEATS ZOKESIA)
 RID = "countries/RID.txt" #ARIDIA
 VAL = "countries/VAL.txt" #VALENIA
@@ -85,6 +87,7 @@ KYV = "countries/KYV.txt" #KYVIZ-DURVEK
 ROV = "countries/ROV.txt" #ROVOLIA
 BOT = "countries/BOT.txt" #BOTANG
 #Cores
+GOG = "countries/GOG.txt" #GOGOVIA
 OPE = "countries/OPE.txt" #OPIA (BREAKS FROM ROV IF ZOK INVADE)
 
 ###DOREN###
@@ -104,7 +107,6 @@ DRA = "countries/DRA.txt" #DRAVISOV (TAKES REMAINING AREA OF NIS IF ZIMOR EXIST)
 NIS = "countries/NIS.txt" #NISORIDAV
 RAD = "countries/RAD.txt" #RADIVOSA (HIGH CHANCE TO SPAWN IF ZIMOR EXISTS)
 #Cores
-AES = "countries/AES.txt" #AESERIA (REPLACES ARCADIAN CORES SOUTH OF RIVER)
 GOR = "countries/GOR.txt" #GORODSKY (SPAWNS AS A LAST STAND AFTER ARCADIAN CAPITULATION)
 
 ###DORVICS###
@@ -196,6 +198,8 @@ CAR = "countries/CAR.txt" #CARTHIA
 FEL = "countries/FEL.txt" #FELISKIA
 #Cores
 EGR = "countries/EGR.txt" #EGROS
+SIT = "countries/SIT.txt" #SITHEMBILE
+VEI = "countries/VEI.txt" #VEIID 
 KAT = "countries/KAT.txt" #KATEC (LOW SPAWN CHANCE BETWEEN ODESIA AND CENOVA)
 MEN = "countries/MEN.txt" #MENTONOGRA (POST-KSKM STATE, TAKEN BY IRSMUN)
 BSK = "countries/BSK.txt" #BASKAY COMMUNE (HOOK ISLAND LAYTHIAN PUPPET IF TROAKIA JOINS KSKM OR DFK)

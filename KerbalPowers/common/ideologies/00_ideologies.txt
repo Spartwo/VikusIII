@@ -186,7 +186,7 @@ neoconservativism = {
                 
 	types = {  
                         stratocracy = { }
-                        neocon_subtype =  { }
+                        traditionalism =  { }
                         neomonarchism =  { }
                 }
 

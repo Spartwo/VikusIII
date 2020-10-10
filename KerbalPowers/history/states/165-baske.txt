@@ -14,6 +14,7 @@ state={
 	history={
 		owner = SPE
 		add_core_of = SPE
+		add_core_of = EGR
 		victory_points = {
 			249 10 
 		}

@@ -1,6 +1,6 @@
-#ANARCHY
+#GALLANTE
 
 graphical_culture = western_european_gfx
 graphical_culture_2d = western_european_2d
 
-color = { 232 0 0 }
+color = { 27 60 43 }

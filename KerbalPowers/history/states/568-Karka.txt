@@ -4,8 +4,8 @@ state={
 	name="STATE_568"
 
 	history={
-		owner = EGR
-		add_core_of = EGR
+		owner = ZZW
+		add_core_of = ZZW
 
 	}
 

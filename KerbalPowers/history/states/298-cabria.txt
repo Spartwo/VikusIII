@@ -12,8 +12,8 @@ state={
 	}
 
 	history={
-		owner = HEL
-		add_core_of = HEL
+		owner = MED
+		add_core_of = MED
 
 	}
 
