@@ -22,29 +22,69 @@ set_politics = {
 }
 
 set_popularities = {
-	communism = 5 #Statism
-	neutrality = 13 #Neutrality
-	neoconservativism = 0
-	fascism = 0 #Nationalism
-	corporatism = 0
-	democratic = 62 #Liberalism
+	communism = 3 #Statism
+	neutrality = 32 #Neutrality
+	neoconservativism = 14
+	fascism = 4 #Nationalism
+	corporatism = 4
+	democratic = 43 #Liberalism
 }
 
 create_country_leader = {
-	name = "name here"
+	name = "Marcus Cyten"
 	picture = "GFX_leader_unknown.dds"
 	expire = "9999.1.1"
-	ideology = unclaimed
+	ideology = libertarianism
 	traits = {
 
 	}
 }
 
 create_country_leader = {
-	name = "John Richardson"
+	name = "Vincent Yutin"
 	picture = "GFX_leader_unknown.dds"
 	expire = "9999.1.1"
 	ideology = representative_democracy
+	traits = {
+
+	}
+}
+
+create_country_leader = {
+	name = "Enoch Fournloke"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = traditionalism
+	traits = {
+
+	}
+}
+
+create_country_leader = {
+	name = "Kev Rutherford"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = irridentism
+	traits = {
+
+	}
+}
+
+create_country_leader = {
+	name = "Sten Kerensky"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = centrism
+	traits = {
+
+	}
+}
+
+create_country_leader = {
+	name = "Elrond Stalgruf"
+	picture = "GFX_leader_unknown.dds"
+	expire = "9999.1.1"
+	ideology = stihlism
 	traits = {
 		
 	}

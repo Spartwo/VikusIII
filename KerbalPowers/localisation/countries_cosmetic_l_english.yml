@@ -1,8 +1,14 @@
 ﻿l_english:
 HIDE_COS:0 " "
 HIDE_COS_DEF:0 "The Disunified areas of $NONIDEOLOGYDEF$"
-################### Tekkia ######################
-#AON = "countries/AON.txt" #AONTAS (THICCENED TEKKIA)
+################### Aontas ######################
+AON_FORM:0 "Aontas"
+AON_FORM_DEF:0 "Aontas"
+AON_FORM_ADJ:0 "Aontan"
+AON_FORM_neoconservativism_DEF:0 "The Federation of Greater Aontas"
+AON_FORM_democratic_DEF:1 "Consolidated Aontas"
+AON_FORM_communism_DEF:0 "The Tekkian Union"
+AON_FORM_overlordship_DEF:0 "The Trapan Governate of Aontas"
 ################### Reciprocity ######################
 #PHOS
 #SPIC
@@ -18,8 +24,9 @@ HIDE_COS_DEF:0 "The Disunified areas of $NONIDEOLOGYDEF$"
 ################### Aenia-Arcadia ######################
 #UIF = "countries/UIF.txt" #UCF/UIF (AMB+AEN, ARCADIA MUST NOT EXIST)
 #RAV = "countries/RAV.txt" #RAVNINNY (ARC+ERA, AENIA MUST NOT EXIST)
-#AEN_CRA 
-#AEN_AAF
+AEN_AAF_DEF:0 "Aenian Armed Forces"
+AEN_CRA:0 "Continental Reconstruction Authority"
+AEN_CRA_DEF:0 "Continental Reconstruction Authority"
 #AES_COS aeseria cosmetic for arcadia cores
 ################### Sanctum ######################
 #PAN = "countries/PAN.txt" #PANDORICA (ZIMORI FOCUS BASED)

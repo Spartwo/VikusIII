@@ -58,6 +58,7 @@ neutrality = {
 	types = {  
                         centrism = { }
                         isolationism = { }
+                        monarchism = { }
                         unclaimed = { }
                 }
 
