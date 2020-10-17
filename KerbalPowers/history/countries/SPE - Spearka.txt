@@ -1,4 +1,4 @@
-﻿capital = 164
+﻿capital = 165
 
 oob = "RMAP_TEMPLATE"
 
@@ -28,8 +28,7 @@ set_politics = {
 
 create_country_leader = {
 	name = "Theoburry Axin"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = representative_democracy
 	traits = {
 		

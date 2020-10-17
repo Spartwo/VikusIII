@@ -1,4 +1,4 @@
-﻿capital = 59
+﻿capital = 156
 
 oob = "RMAP_TEMPLATE"
 
@@ -19,7 +19,6 @@ set_popularities = {
 }
 
 set_politics = {
-
 	ruling_party = fascism
 	last_election = "2050.6.3"
 	election_frequency = 6
@@ -29,7 +28,6 @@ set_politics = {
 create_country_leader = {
 	name = "Spikey"
 	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
 	ideology = despotism
 	traits = {
 		
@@ -39,7 +37,6 @@ create_country_leader = {
 create_country_leader = {
 	name = "Some Crab"
 	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
 	ideology = social_democracy
 	traits = {
 		
@@ -48,8 +45,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Mayor Greg"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = representative_democracy
 	traits = {
 		

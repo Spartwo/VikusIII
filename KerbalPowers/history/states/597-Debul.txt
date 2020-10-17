@@ -2,15 +2,17 @@
 state={
 	id=597
 	name="STATE_597"
-	provinces={
-		2448 2516 2527 2567 2627 2636 2660 2676 2723 2729 2733 2801 
-	}
-	manpower=100000
-	buildings_max_level_factor=1.000 
- 	 state_category=city
+
 	history={
 		owner = SAN
 		add_core_of = SAN
 
 	}
+
+	provinces={
+		2448 2516 2527 2567 2627 2636 2660 2676 2723 2729 2733 2801 2829 2856 2902 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=city
 }

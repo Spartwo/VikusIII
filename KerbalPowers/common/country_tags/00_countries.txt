@@ -17,7 +17,7 @@ VNO = "countries/VNO.txt" #VIENO
 OWO = "countries/OWO.txt" #WO
 BLY = "countries/BLY.txt" #BLYTHERIA
 STR = "countries/STR.txt" #STRELKA
-EUR = "countries/EUR.txt" #EURAK
+EUR = "countries/EUR.txt" #EUREKA
 #Post start release
 VOC = "countries/VOC.txt" #VOCAVIUM
 FLO = "countries/FLO.txt" #FLORACIA (IN CONTENTION WITH ALTERIX)
@@ -28,7 +28,7 @@ OSI = "countries/OSI.txt" #OSINI (TAKES MAINLAND STRELKA IF BLYATNAM LOST)
 VER = "countries/VER.txt" #VERBADY
 RAT = "countries/RAT.txt" #RATHANIA
 AUR = "countries/AUR.txt" #AURED
-HEI = "countries/HEI.txt" #SIBERGE
+HEI = "countries/HEI.txt" #HEINZ REPUBEANICA
 HAR = "countries/HAR.txt" #HARTON
 KRK = "countries/KRK.txt" #KRAKEN (STATIST REBELLION IN OLD ELYSIUM #274)
 ARK = "countries/ARK.txt" #ARKERIA (NEOCONSERVATIVE REBELLION IN OCCUPIED NKS #585)
@@ -41,7 +41,7 @@ CEL = "countries/CEL.txt" #CELRAPAN
 KSC = "countries/KSC.txt" #DO I GOTTA EXPLAN THIS ONE
 GRE = "countries/GRE.txt" #GRESTIN
 #Cores
-CAB = "countries/CAB.txt" #CABRIA (TEKKIAN COMPONENT STATE)
+CAB = "countries/CAB.txt" #CABRAI (TEKKIAN COMPONENT STATE)
 GRS = "countries/GRS.txt" #GRESTINE (TEKKIAN PUPPET IN GRESTIN)
 NGR = "countries/NGR.txt" #NORTH GRESTIN (DECLARES INDEPENDENCE ON GRESTIN CAPITULATION)
 DIO = "countries/DIO.txt" #DIOSCA
@@ -88,6 +88,7 @@ ROV = "countries/ROV.txt" #ROVOLIA
 BOT = "countries/BOT.txt" #BOTANG
 #Cores
 GOG = "countries/GOG.txt" #GOGOVIA
+CLO = "countries/CLO.txt" #CLOWEISH
 OPE = "countries/OPE.txt" #OPIA (BREAKS FROM ROV IF ZOK INVADE)
 
 ###DOREN###
@@ -108,6 +109,7 @@ NIS = "countries/NIS.txt" #NISORIDAV
 RAD = "countries/RAD.txt" #RADIVOSA (HIGH CHANCE TO SPAWN IF ZIMOR EXISTS)
 #Cores
 GOR = "countries/GOR.txt" #GORODSKY (SPAWNS AS A LAST STAND AFTER ARCADIAN CAPITULATION)
+GAG = "countries/GAG.txt" #GAGRIEL
 
 ###DORVICS###
 SLO = "countries/SLO.txt" #SLOVEN
@@ -133,7 +135,7 @@ HER = "countries/HER.txt" #HERMIA
 ICO = "countries/ICO.txt" #ICONIA
 #Cores
 FIS = "countries/FIS.txt" #FISH ISLAND (BY ZOKESIAN FOCUS)
-GAL = "countries/GAL.txt" #GALEONY 
+GAL = "countries/GAL.txt" #GALEONY-GALLANTE
 SAL = "countries/SAL.txt" #SALRED (FELISKIA WILL TAKE ISLANDS AND FORCE SALRED OUT EARLY ON)
 CAN = "countries/CAN.txt" #CANSTANA (BREAKS FROM HERMIA)
 VLR = "countries/VLR.txt" #VALERIA (DELRAS CIVIL WAR COMMIE STANDIN)
@@ -141,7 +143,6 @@ VLR = "countries/VLR.txt" #VALERIA (DELRAS CIVIL WAR COMMIE STANDIN)
 KCA = "countries/KCA.txt" #KERCIA (BREAKS EARLY ON)
 PRO = "countries/PRO.txt" #PRODAVA (BREAKS FROM KERCIA)
 URJ = "countries/URJ.txt" #UROJF (BREAKS OUT AFTER BIG WAR TO EAT AT PRODAVA)
-POT = "countries/POT.txt" #POT STATE(RARE SPAWN)
 
 ###FEGUANESIA###
 FEG = "countries/FEG.txt" #FEGELAND
@@ -183,9 +184,9 @@ HEL = "countries/HEL.txt" #HELACIA-SONDERMARK (SPAWNS IF CALLED BY MEDWED TO)
 RAF = "countries/RAF.txt" #RAFLAND
 THA = "countries/THA.txt" #THANATOS
 CRY = "countries/CRY.txt" #CRYTIL (REPLACE NMC IF DESTROYED)
+POT = "countries/POT.txt" #POTESTATES(RARE SPAWN)
 
 ###VEIID###
-GAG = "countries/GAG.txt" #GAGRIEL
 KAL = "countries/KAL.txt" #KRBJIA
 TRO = "countries/TRO.txt" #TROAKIA
 LAY = "countries/LAY.txt" #LAYTHIA

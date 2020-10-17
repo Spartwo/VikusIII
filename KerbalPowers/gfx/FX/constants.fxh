@@ -88,7 +88,7 @@ static const float 	ICE_NOISE_TILING  			= 0.1f; //0.068f;
 static const float WATER_COLOR_LIGHTNESS = 0.5;
 static const float WATER_RIPPLE_EFFECT = 0.0025;
 
-static const float COLORMAP_OVERLAY_STRENGTH 	= 0.60f; //0.7f;
+static const float COLORMAP_OVERLAY_STRENGTH 	= 0.6f; //0.7f;
 static const float3 FAKE_CUBEMAP_COLOR 			= float3(0.0f, 0.0f, 0.0f);
 
 // MILD_WINTER_VALUE = ###,						defines.lua   (reload defines)
@@ -188,8 +188,8 @@ static const float  SHADOW_WEIGHT_TREE   		= 0.7f;
 // ------------------    GRADIENT BORDERS   ---------------------
 // --------------------------------------------------------------
 
-static const float GB_CAM_MIN = 220.0f; // WW 100.0
-static const float GB_CAM_MAX = 225.0f; // WW 350.0
+static const float GB_CAM_MIN = 475.0f; // WW 100.0
+static const float GB_CAM_MAX = 485.0f; // WW 350.0
 static const float GB_CAM_MAX_FILLING_CLAMP = 0.8f; // 0 to 1 value for clamping the fill when camera is at max distance
 static const float GB_THRESHOLD = 0.5f; // WW 0.05 interpolation time
 static const float GB_THRESHOLD2 = 0.04f; // WW 0.25 interpolation time
@@ -201,8 +201,8 @@ static const float BORDER_NIGHT_DESATURATION_MAX = 0.2f; // how much border colo
 static const float BORDER_FOW_REMOVAL_FACTOR = .8f; // How much of the FOW that is removed from the borders. 1.0f is no FOW
 static const float BORDER_LIGHT_REMOVAL_FACTOR = 0.8f; // How much of the light calculations that are removed from the borders. 1.0f is no light
 static const float GB_STRENGTH_CH1 = 1.0; // Opacity of bottom layer
-static const float GB_STRENGTH_CH2 = 1.0; // Opacity of top layer
-static const float GB_FIRST_LAYER_PRIORITY = 0.4; // Priority for first/second layer when both are active at the same pixel
+static const float GB_STRENGTH_CH2 = 0.5; // Opacity of top layer
+static const float GB_FIRST_LAYER_PRIORITY = 0.5; // Priority for first/second layer when both are active at the same pixel
 static const float BORDER_MAP_TILE = 18000.0f;
 
 // --------------------------------------------------------------

@@ -12,8 +12,8 @@ state={
 	}
 
 	history={
-		owner = ZOK
-		add_core_of = ZOK
+		owner = EUR
+		add_core_of = EUR
 		victory_points = {
 			2646 5 
 		}

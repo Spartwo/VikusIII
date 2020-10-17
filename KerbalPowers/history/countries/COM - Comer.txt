@@ -1,4 +1,4 @@
-﻿capital = 228
+﻿capital = 576
 
 oob = "RMAP_TEMPLATE"
 
@@ -28,8 +28,7 @@ set_politics = {
 
 create_country_leader = {
 	name = "Sylas Kerman"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = representative_democracy
 	traits = {
 		
@@ -38,8 +37,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Nope Drophol III"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = isolationism
 	traits = {
 		

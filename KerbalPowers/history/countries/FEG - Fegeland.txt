@@ -1,4 +1,4 @@
-﻿capital = 419
+﻿capital = 611
 
 oob = "RMAP_TEMPLATE"
 
@@ -30,8 +30,7 @@ set_politics = {
 
 create_country_leader = {
 	name = "Emperor Namresh Kerman"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = despotism
 	traits = {
 		

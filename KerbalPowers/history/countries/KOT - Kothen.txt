@@ -30,8 +30,7 @@ set_popularities = {
 
 create_country_leader = {
 	name = "Domnic Shore"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = despotism
 	traits = {
 		

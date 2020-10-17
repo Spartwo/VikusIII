@@ -29,8 +29,7 @@ set_politics = {
 	
 create_country_leader = {
 	name = "The Overlord"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = overlord_subtype
 	traits = {
 		
@@ -39,8 +38,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Bobdous Kerman"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = despotism
 	traits = {
 		

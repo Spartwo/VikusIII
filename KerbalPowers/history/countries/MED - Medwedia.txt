@@ -1,4 +1,4 @@
-﻿capital = 255
+﻿capital = 295
 
 oob = "RMAP_TEMPLATE"
 set_cosmetic_tag = HIDE_COS
@@ -29,7 +29,6 @@ set_politics = {
 create_country_leader = {
 	name = "High Marshal Theodor Lynden"
 	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
 	ideology = irridentism
 	traits = {
 		

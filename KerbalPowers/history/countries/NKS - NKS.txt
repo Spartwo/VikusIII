@@ -1,4 +1,4 @@
-﻿capital = 356
+﻿capital = 585
 
 oob = "RMAP_TEMPLATE"
 
@@ -30,7 +30,6 @@ set_popularities = {
 create_country_leader = {
 	name = "name here"
 	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
 	ideology = unclaimed
 	traits = {
 
@@ -40,7 +39,6 @@ create_country_leader = {
 create_country_leader = {
 	name = "name here"
 	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
 	ideology = unclaimed
 	traits = {
 		

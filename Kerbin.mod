@@ -66,4 +66,4 @@ replace_path="map/trees.bmp"
 replace_path="map/definition.csv"
 replace_path="map/terrain.bmp"
 
-supported_version="1.9.*"
+supported_version="1.10.*"

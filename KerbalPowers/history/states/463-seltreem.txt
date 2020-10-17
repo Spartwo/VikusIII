@@ -12,8 +12,8 @@ state={
 	}
 
 	history={
-		owner = SIT
-		add_core_of = SIT
+		owner = KAT
+		add_core_of = KAT
 	}
 
 	provinces={

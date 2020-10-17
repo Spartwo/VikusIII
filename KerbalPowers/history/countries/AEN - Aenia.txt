@@ -32,8 +32,7 @@ set_popularities = {
 
 create_country_leader = {
 	name = "Marcus Cyten"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = libertarianism
 	traits = {
 
@@ -42,8 +41,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Vincent Yutin"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = representative_democracy
 	traits = {
 
@@ -52,8 +50,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Enoch Fournloke"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = traditionalism
 	traits = {
 
@@ -62,8 +59,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Kev Rutherford"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = irridentism
 	traits = {
 
@@ -73,7 +69,6 @@ create_country_leader = {
 create_country_leader = {
 	name = "Sten Kerensky"
 	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
 	ideology = centrism
 	traits = {
 
@@ -82,8 +77,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Elrond Stalgruf"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = stihlism
 	traits = {
 		

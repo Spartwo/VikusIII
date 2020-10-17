@@ -27,8 +27,7 @@ set_politics = {
 
 create_country_leader = {
 	name = "High King Billisky"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = despotism
 	traits = {
 		
@@ -37,8 +36,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "King Billisky"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = isolationism
 	traits = {
 		
@@ -47,8 +45,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Grand Emperor Billisky"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = irridentism
 	traits = {
 		
@@ -57,8 +54,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "King Billisky"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = representative_democracy
 	traits = {
 		

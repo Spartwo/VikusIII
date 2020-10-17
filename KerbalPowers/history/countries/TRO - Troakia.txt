@@ -31,7 +31,6 @@ set_politics = {
 create_country_leader = {
 	name = "Klenpovic Kerman"
 	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
 	ideology = socialism
 	traits = {
 		
@@ -41,7 +40,6 @@ create_country_leader = {
 create_country_leader = {
 	name = "Bibac Kerman"
 	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
 	ideology = stihlism
 	traits = {
 		
@@ -52,7 +50,6 @@ create_country_leader = {
 	name = "Ritakovic Kerman"
 	picture = "GFX_leader_unknown.dds"
 	picture = "Ritakovic.dds"
-	expire = "9999.10.13"
 	ideology = social_democracy
 	traits = {
 		

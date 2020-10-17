@@ -1,4 +1,4 @@
-﻿capital = 440
+﻿capital = 441
 
 oob = "RMAP_TEMPLATE"
 
@@ -30,7 +30,6 @@ set_politics = {
 create_country_leader = {
 	name = "name here"
 	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
 	ideology = centrism
 	traits = {
 		

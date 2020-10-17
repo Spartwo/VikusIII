@@ -12,6 +12,9 @@ AON_FORM_overlordship_DEF:0 "The Trapan Governate of Aontas"
 ################### Reciprocity ######################
 #PHOS
 #SPIC
+ #REC_democratic:0 "Spice Reciprocity"
+ #REC_democratic_DEF:0 "Lake Periphery States of the Spice Reciprocity"
+ #REC_democratic_ADJ:0 "Spican"
 #DUST
 #ACRI
 ################### Karthax-Avalon ######################
@@ -32,7 +35,6 @@ AEN_CRA_DEF:0 "Continental Reconstruction Authority"
 #PAN = "countries/PAN.txt" #PANDORICA (ZIMORI FOCUS BASED)
 #GRY = "countries/GRY.txt" #GREYDON/NEW ARCOVY (WILL TAKE OVER A DEFEATED SANCTUM IF NO ARCADIA)
 #New Arcovy
-################### Crater Shittery ######################
 ################### Zoke ######################
 #AZF = "countries/AZF.txt" #THICCZOKESIA (REQUIRES OWNERSHIP OF MAX EXTENT AREAS)
 ################### Comer ######################
@@ -46,7 +48,6 @@ COM_LEN_ADJ:0"Lenappean"
 #PACIFAY= "countries/TAU.txt" #TAU (WES, WO, VOC, EUR FORMING PACIFICA)
 ################### Cotmark ######################
 #KUS = "countries/KUS.txt" #KUS (KYZAN-VANAD WILL EXPAND TO COVER LARGE CHUNKS OF THE DESERT)
-################### Dorvic Greys ######################
 ################### DOREN ######################
 #DOR = "countries/DOR.txt" #DOREN
 ################### Junta Strelka ######################
@@ -56,22 +57,44 @@ COM_LEN_ADJ:0"Lenappean"
 ################### Angvarden ######################
 #Caletain
 ################### Kalban Mergers ######################
-#KAL_VEI
 #KAL_DFK
 #KAL_SKR
-################### Erusea Panka ######################
-#Panka
-#SALRED
+ KAL:0 "Kalbania"
+ KAL_DEF:0 "Kalbania"
+ KAL_ADJ:0 "Kalban"
+ KAL_KSKM_fascism_DEF:0 "The Kalban Bay Union"
+ KAL_KSKM_neoconservativismc:0 "FKM"
+ KAL_KSKM_neoconservativism_DEF:0 "The Federation of Kerbia and Mentonogro"
+ KAL_KSKM_communism:0 "KSKM"
+ KAL_KSKM_communism_DEF:1 "The Kalban States of Kerbia and Menton"
+ KAL_KSKM_democratic:0 "SFRK"
+ KAL_KSKM_democratic_DEF:0 "The Socialist Federated Republic of Kalbania"
+################### Erusia Panka ######################
+ ERU_COS:1 "Panka"
+ ERU_COS_DEF:1 "Panka"
+ ERU_COS_ADJ:0 "Pankan"
+ #overlordship erusia
+ ERU_COS:1 "Erusia"
+ ERU_COS_DEF:1 "Erusia"
+ ERU_COS_ADJ:0 "Erusian"
+ ERU_COS_fascism_DEF:0 "The Greater Erusian State"
+ ERU_COS_democratic_DEF:0 "The Federal Republic of Erusia"
+ ERU_COS_neoconservativism_DEF:0 "The Federal Republic of Erusia"
+ ERU_COS_communism_DEF:0 "Universalist Erusia"
 ################### Narutnetflub ######################
 #NARUT (NORLAND, EDVA, JOKLA, OR ARTICA PATH)
+ #JOK_communism_ADJ:0 "Flubban"
+ #JOK_communism_DEF:0 "Narutnetflub"
+ #JOK_fascism_DEF:0 "Narutnek"
 ################### Solaria ######################
 #CRI = "countries/CRI.txt" #COMORRI (ALT EXODUS PATH)
 #SNI = "countries/SNI.txt" #SOLANI (MECHANI-SOLARIA)
 ################### Surnay ######################
-Surnay:0"Surnay"
-Surnay_DEF:0"Surnish United Republic"
-Surnay_Neoconservativism_DEF:0"Empire of Surnay"
-Surnay_ADJ:0"Surnay"
+SUR_FORM:0"Surnay"
+SUR_FORM_DEF:0 "The Surnistan United Republic"
+SUR_FORM_Neoconservativism_DEF:0 "The Empire of Surnay"
+SUR_FORM_Fascism_DEF:0 "The Muhhattan Empire"
+SUR_FORM_ADJ:0 "Surnay"
 ################### Teksphere ######################
 TEK_subject:0"$NONIDEOLOGY$"
 TEK_subject_DEF:0"$NONIDEOLOGYADJ$ Federal Republic"

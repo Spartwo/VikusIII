@@ -12,8 +12,8 @@ state={
 	}
 
 	history={
-		owner = VAG
-		add_core_of = VAG
+		owner = ZZV
+		add_core_of = ZZV
 
 	}
 

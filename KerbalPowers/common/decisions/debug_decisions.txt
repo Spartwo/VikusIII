@@ -1,0 +1,12 @@
+generic_debug = {
+	spawn_all_nations = {
+		icon = GFX_decision_generic_form_nation
+
+		allowed = {
+			is_ai = no
+		}
+		complete_effect = {
+			log = "[GetDateText]: [Root.GetName]: Decision spawn_all_nations"
+			national_spawn_override = yes
+		}
+	}

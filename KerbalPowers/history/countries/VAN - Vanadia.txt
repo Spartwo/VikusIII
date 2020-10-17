@@ -1,4 +1,4 @@
-﻿capital = 43
+﻿capital = 44
 
 oob = "RMAP_TEMPLATE"
 set_cosmetic_tag = HIDE_COS
@@ -28,8 +28,7 @@ set_politics = {
 
 create_country_leader = {
 	name = "Aksis Memel"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = stihlism
 	traits = {
 		

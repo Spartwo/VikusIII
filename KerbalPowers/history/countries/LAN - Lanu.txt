@@ -30,8 +30,7 @@ set_politics = {
 
 create_country_leader = {
 	name = "name here"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = centrism
 	traits = {
 		

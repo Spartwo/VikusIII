@@ -1,22 +1,26 @@
+
 state={
 	id=365
 	name="STATE_365"
-	provinces={
-		6420 
-	}
-	manpower=1000000
 	resources={
-		steel=0
-		aluminium=0
-		chromium=35
-		rubber=0
-		oil=0
-		tungsten=30
+		steel=0.000
+		aluminium=0.000
+		chromium=35.000
+		rubber=0.000
+		oil=0.000
+		tungsten=30.000
 	}
-	buildings_max_level_factor=1.000
-	state_category=rural
-history={
+
+	history={
 		owner = GUM
 		add_core_of = GUM
+
 	}
+
+	provinces={
+		6420 6671 6690 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
 }

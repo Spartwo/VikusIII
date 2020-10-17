@@ -1,4 +1,4 @@
-﻿capital = 235
+﻿capital = 645
 
 oob = "RMAP_TEMPLATE"
 
@@ -29,7 +29,6 @@ set_politics = {
 create_country_leader = {
 	name = "Illandra Kerman"
 	picture = "GFX_leader_unknown.dds"
-	expire = "2064.1.1"
 	ideology = centrism
 	traits = {
 		

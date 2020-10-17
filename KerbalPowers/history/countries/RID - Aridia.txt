@@ -1,5 +1,4 @@
-﻿capital = 8
-
+﻿capital = 592
 oob = "RMAP_TEMPLATE"
 
 set_research_slots = 2
@@ -29,8 +28,7 @@ set_politics = {
 	
 create_country_leader = {
 	name = "Domnic Shore"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = despotism
 	traits = {
 		

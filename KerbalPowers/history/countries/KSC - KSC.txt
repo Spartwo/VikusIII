@@ -33,7 +33,6 @@ set_popularities = {
 create_country_leader = {
 	name = "name here"
 	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
 	ideology = unclaimed
 	traits = {
 
@@ -42,8 +41,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Bill Kerman"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = stihlism
 	traits = {
 		
@@ -52,8 +50,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Bob Kerman"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = social_democracy
 	traits = {
 		
@@ -62,8 +59,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Jebidiah"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = irridentism
 	traits = {
 		
@@ -72,8 +68,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Valentina Kerman"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = socialism
 	traits = {
 		

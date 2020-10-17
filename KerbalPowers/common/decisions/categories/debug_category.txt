@@ -1,0 +1,13 @@
+RUS_generic_debug = {
+	picture = GFX_BEN_decision_holy_crap_peter_griffin_from_family_guy_in_tno_ok_this_is_epic
+	allowed = {
+		is_ai = no
+	}
+	visible = {
+		is_debug = yes
+		is_ai = no
+	}
+	priority = {
+		base = 199
+	}
+}

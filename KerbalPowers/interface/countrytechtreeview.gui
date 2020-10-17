@@ -2139,17 +2139,7 @@ guiTypes = {
 			}			
 			
 			
-			containerWindowType = {
-				name = "tiled_research_bg"
-				position = { x=1780 y=240 }
-				size = { width = 480 height = 240 }
-				clipping = no
-	
-				background = {
-					name = "Background"
-					quadTextureSprite ="GFX_tiled_research_bg"
-				}			
-			}
+			
 				
 			gridboxtype = {
 				name = "multirole_fighter_tree"

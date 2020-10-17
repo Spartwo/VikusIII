@@ -1,0 +1,7 @@
+on_actions = {
+    on_startup = {  
+        effect = {
+		KSC = { country_event = { id = spawn.1 } }
+        }
+    }
+}

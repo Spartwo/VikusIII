@@ -1,4 +1,4 @@
-﻿capital = 90
+﻿capital = 452
 
 oob = "RMAP_TEMPLATE"
 set_cosmetic_tag = HIDE_COS
@@ -29,7 +29,6 @@ set_politics = {
 create_country_leader = {
 	name = "Daemon Captrix"
 	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
 	ideology = isolationism
 	traits = {
 		

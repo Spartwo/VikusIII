@@ -1,4 +1,4 @@
-﻿capital = 333
+﻿capital = 620
 
 oob = "RMAP_TEMPLATE"
 
@@ -30,7 +30,6 @@ set_politics = {
 create_country_leader = {
 	name = "Abraxas Kerman"
 	picture = "GFX_leader_unknown.dds"
-	expire = "2061.3.1"
 	ideology = stihlism
 	traits = {
 		
@@ -40,7 +39,6 @@ create_country_leader = {
 create_country_leader = {
 	name = "Abraxis Kerman"
 	picture = "GFX_leader_unknown.dds"
-	expire = "2061.3.1"
 	ideology = representative_democracy
 	traits = {
 		

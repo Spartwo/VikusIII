@@ -21,7 +21,7 @@ set_popularities = {
 set_politics = {
 
 	ruling_party = democratic
-	last_election = "2057.7.4"
+	last_election = "2069.7.4"
 	election_frequency = 48
 	elections_allowed = yes
 }
@@ -29,7 +29,6 @@ set_politics = {
 create_country_leader = {
 	name = "Sgt Sarge Kerman"
 	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
 	ideology = representative_democracy
 	traits = {
 		

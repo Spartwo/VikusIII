@@ -1,4 +1,4 @@
-﻿capital = 222
+﻿capital = 221
 
 oob = "RMAP_TEMPLATE"
 set_cosmetic_tag = HIDE_COS
@@ -29,8 +29,7 @@ set_politics = {
 
 create_country_leader = {
 	name = "Christen Kwartz"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = centrism
 	traits = {
 		

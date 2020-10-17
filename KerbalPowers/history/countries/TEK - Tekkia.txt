@@ -23,24 +23,23 @@ add_to_faction = CEL
 set_politics = {
 
 	ruling_party = democratic
-		last_election = "2063.10.6"
+		last_election = "2069.10.6"
 		election_frequency = 84
 		elections_allowed = yes
 	
 }
 
 set_popularities = {
-	communism = 5 #Statism
-	neutrality = 35 #Neutrality
+	communism = 4 #Statism
+	neutrality = 32 #Neutrality
 	neoconservativism = 0
-	fascism = 8 #Nationalism
-	corporatism = 2
-	democratic = 50 #Liberalism
+	fascism = 19 #Nationalism
+	corporatism = 0
+	democratic = 45 #Liberalism
 }
 create_country_leader = {
 	name = "name here"
 	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
 	ideology = unclaimed
 	traits = {
 
@@ -49,8 +48,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Ludvík M Jacobs"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = confederalism
 	traits = {
 		
@@ -58,9 +56,17 @@ create_country_leader = {
 }
 
 create_country_leader = {
+	name = "Pisti Ker"
+	picture = "GFX_leader_unknown.dds"
+	ideology = traditionalism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
 	name = "Marcus White"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = socialism
 	traits = {
 		
@@ -69,8 +75,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "William Cande"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = irridentism
 	traits = {
 		
@@ -79,8 +84,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Ely Gaitan"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology =  isolationism
 	traits = {
 		

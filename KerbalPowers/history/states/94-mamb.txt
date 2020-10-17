@@ -4,8 +4,8 @@ state={
 	name="STATE_94"
 
 	history={
-		owner = GOG
-		add_core_of = GOG
+		owner = BOT
+		add_core_of = BOT
 
 	}
 

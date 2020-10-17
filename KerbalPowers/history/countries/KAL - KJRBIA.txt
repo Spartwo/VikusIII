@@ -33,8 +33,7 @@ set_politics = {
 
 create_country_leader = {
 	name = "Jalia Kerman"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = socialism
 	traits = {
 		
@@ -43,8 +42,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Radakzic Kerman"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = socialist_nationalism
 	traits = {
 		
@@ -53,8 +51,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Dutman Kerman"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = nationalism
 	traits = {
 		
@@ -63,8 +60,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Butalovic Kerman"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	picture = "GFX_leader_unknown.dds"
 	ideology = social_democracy
 	traits = {
 		

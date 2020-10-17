@@ -37,7 +37,6 @@ set_popularities = {
 create_country_leader = {
 	name = "name here"
 	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
 	ideology = unclaimed
 	traits = {
 
@@ -47,7 +46,6 @@ create_country_leader = {
 create_country_leader = {
 	name = "Georgy Stihlovich"
 	picture = "GFX_leader_unknown.dds"
-	expire = "99991.3.1"
 	ideology = isolationism
 	traits = {
 		
@@ -56,7 +54,6 @@ create_country_leader = {
 create_country_leader = {
 	name = "Ivan Stihl"
 	picture = "GFX_leader_unknown.dds"
-	expire = "9999.3.1"
 	ideology = stihlism
 	traits = {
 

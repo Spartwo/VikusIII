@@ -1,4 +1,4 @@
-﻿capital = 28
+﻿capital = 594
 
 oob = "RMAP_TEMPLATE"
 
@@ -12,37 +12,81 @@ set_technology = {
 }
 
 set_popularities = {
-	democratic = 20
-	fascism = 30
-	communism = 45
-	neutrality = 5
+	democratic = 51
+	corporatism = 21
+	fascism = 1
+	communism = 9
+	neutrality = 18
 }
 	
 
 set_politics = {
 
-	ruling_party = communism
-	last_election = "2049.12.11"
-	election_frequency = 48
+	ruling_party = democratic
+	last_election = "2065.12.11"
+	election_frequency = 60
 	elections_allowed = yes
 }
 
 	
 create_country_leader = {
-	name = "Ella Kerman"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
-	ideology = despotism
+	name = "Ella II of Ward"
+	picture = "GFX_leader_unknown.dds"
+	ideology = neomonarchism
 	traits = {
 		
 	}
 }
 
 create_country_leader = {
-	name = "Queen Ella II"
-	picture = "GFX_leader_unknown.dds"
-	expire = "9999.1.1"
+	name = "Albert Yosif"
+	picture = "GFX_leader_unknown.dds"
+	ideology = socialism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Francisco Grail"
+	picture = "GFX_leader_unknown.dds"
 	ideology = irridentism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Zeroth Drekevak II"
+	picture = "GFX_leader_unknown.dds"
+	ideology = nationalism #fascism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Markus Kolsiniro"
+	picture = "GFX_leader_unknown.dds"
+	ideology = state_corporatism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Gordon S Kerman"
+	picture = "GFX_leader_unknown.dds"
+	ideology = traditionalism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "John Richardson"
+	picture = "GFX_leader_unknown.dds"
+	ideology = social_democracy
 	traits = {
 		
 	}

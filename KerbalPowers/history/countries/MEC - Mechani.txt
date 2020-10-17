@@ -1,4 +1,4 @@
-﻿capital = 548
+﻿capital = 549
 
 oob = "RMAP_TEMPLATE"
 
@@ -28,7 +28,6 @@ set_politics = {
 create_country_leader = {
 	name = "Bernard Kerman"
 	picture = "GFX_leader_unknown.dds"
-	expire = "2068.3.6"
 	ideology = socialism
 	traits = {
 		

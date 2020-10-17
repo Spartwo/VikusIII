@@ -1,4 +1,4 @@
-﻿capital = 108
+﻿capital = 49
 set_research_slots = 0
 
 set_politics = {
@@ -16,8 +16,7 @@ set_popularities = {
 create_country_leader = {
 	name = "Anarchy"
 	#desc = "POLITICS_ANARCHY_DESC"
-	#picture = "Portrait_ZZZ_Anarchy.dds"
-	expire = "3000.1.1"
+	#picture = "Portrait_ZZZ_Anarchy.dds"
 	ideology = unclaimed
 	traits = {
 	}

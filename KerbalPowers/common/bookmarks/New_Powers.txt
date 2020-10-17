@@ -2,14 +2,14 @@ bookmarks = {
 	bookmark = {
 		name = "KERBIN_POWERS_NAME"
 		desc = "KERBIN_POWERS_DESC"
-		date = 2065.1.1.12
+		date = 2070.1.1.12
 		picture = "GFX_select_date_2050"
 		default_country = "KSC"
 		default = yes
 
 		"ZOK"={
 			history = "0FR_KERBIN_POWERS_DESC"
-			ideology = cooperation
+			ideology = democratic
 			ideas = {
 
 			}
@@ -20,7 +20,7 @@ bookmarks = {
 		
 		"ARC"={
 			history = "0AR_KERBIN_POWERS_DESC"
-			ideology = statism
+			ideology = communism
 			ideas = {
 				0UR_iuk_influence
 				0UR_cantonal_economic_divide
@@ -41,7 +41,7 @@ bookmarks = {
 
 		"AEN"={
 			history = "0FR_KERBIN_POWERS_DESC"
-			ideology = cooperation
+			ideology = democratic
 			ideas = {
 
 			}
@@ -52,7 +52,7 @@ bookmarks = {
 
 		"TEK"={
 			history = "0CT_KERBIN_POWERS_DESC"
-			ideology = isolation
+			ideology = democratic
 			ideas = {
 
 			}
@@ -63,19 +63,7 @@ bookmarks = {
 ###minors
 		
 
-		"GRE"={
-			minor = yes
-			history = "0BZ_KERBIN_POWERS_DESC"
-			ideology = intervention
-			ideas = {
-
-			}
-			focuses = {
-
-			}
-		}
-
-		"CHO"={
+		"OWO"={
 			minor = yes
 			history = "0BZ_KERBIN_POWERS_DESC"
 			ideology = intervention
