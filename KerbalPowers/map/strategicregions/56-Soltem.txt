@@ -5,16 +5,17 @@ strategic_region={
 	provinces={
 		43 50 53 54 57 58 60 62 65 68 69 71 73 74 79 579 801 872 
 	}
+	
 	weather={
 		period={
 			between={ 0.0 27.11 }
-			temperature={ -10.0 35.0 }
+			temperature={ -15.0 10.0 }
 			temperature_day_night={ 2.0 -2.0 }
-			no_phenomenon=1.500
+			no_phenomenon=0.000
 			rain_light=0.250
 			rain_heavy=0.100
-			snow=0.000
-			blizzard=0.000
+			snow=1.000
+			blizzard=0.200
 			arctic_water=0.000
 			mud=0.000
 			sandstorm=0.000

@@ -154,7 +154,7 @@
  # Arkeria
  ARK:0 "Arkeria"
  ARK_DEF:0 "Arkeria"
- ARK_ADJ:0 "Arkerian"
+ ARK_ADJ:0 "Arkeri"
 
 
 ###KAFRAIC###
@@ -230,12 +230,12 @@
 ###KOLUS###
  # Zokesia
  ZOK:0 "Zokesia"
- ZOK_DEF:0 "Zokesia"
- ZOK_ADJ:0 "Zokesian"
- ZOK_fascism_DEF:0 "The Zokesian Empire"
- ZOK_democratic_DEF:0 "The Republic of Bosmyth and Zokesia"
- ZOK_corporatism_DEF:0 "The Zokesian Badger Printer Coalition"
- ZOK_neoconservativism_DEF:0 "The Federation of Bosmyth and Zokesia"
+ ZOK_DEF:0 "Bosmyth - Zokesia"
+ ZOK_ADJ:0 "Bosmyth Zokesian"
+ ZOK_fascism_DEF:0 "The Zokesian - Bosmyth Empire"
+ ZOK_democratic_DEF:0 "The Republic of Bosmyth and North Zokesia"
+ ZOK_corporatism_DEF:0 "The Bosmyth - Zokesian Badger Printer Coalition"
+ ZOK_neoconservativism_DEF:0 "The Federation of Bosmyth and North Zokesia"
  # Chosaint
  CHO:0 "Chosaint"
  CHO_DEF:0 "Chosaint"
@@ -664,9 +664,9 @@
  HKA_DEF:0 "Halycon Kore Accord"
  HKA_ADJ:0 "Kore"
  # Rostrum
- ROS:0 "Alecton"
- ROS_DEF:0 "Alecton"
- ROS_ADJ:0 "Alectan"
+ ROS:0 "Rostrum"
+ ROS_DEF:0 "Rostrum"
+ ROS_ADJ:0 "Rostrum"
  # Estelia
  EST:0 "Estrelia"
  EST_DEF:0 "Estrelia"
@@ -736,15 +736,10 @@
  BEN_communism:0 "Benis"
  BEN_communism_DEF:0 "Benis"
  # Jokla
- JOK_fascism:0 "Narutnek"
- JOK_democratic:0 "Republic of Jokla"
+ JOK:1 "Jokla"
+ JOK_DEF:1 "Joklaland"
+ JOK_ADJ:0 "Joklan"
  JOK_democratic_DEF:0 "The Republic of Jokla"
- JOK_neutrality:1 "Joklaland"
- JOK_neutrality_DEF:1 "Joklaland"
- JOK_communism:0 "Narutnetflub"
- JOK_fascism_ADJ:0 "Flubban"
- JOK_democratic_ADJ:0 "Joklan"
- JOK_neutrality_ADJ:0 "Joklan"
  # Artica
  ART:0 "Artica"
  ART_DEF:0 "Artica"
@@ -789,8 +784,8 @@
  CRY_ADJ:0 "Crytil"
  # Potestates
  POT:0 "Potestates"
- ZEO_DEF:0 "Zeoul"
- ZEO_ADJ:0 "Zeoulian"
+ POT_DEF:0 "Potestates"
+ POT_ADJ:0 "Pote"
 
 
 ###VEIID###
@@ -817,7 +812,7 @@
  CEN_democratic_DEF:0 "The Cenovan Confederacy"
  CEN_communism_DEF:0 "Universalist Cenova"
  CEN_fascism_DEF:0 "The Cenovan State"
-  # Behin
+ # Behin
  BEH:0 "Behin"
  BEH_DEF:0 "Behin"
  BEH_ADJ:0 "Behine"
@@ -828,7 +823,7 @@
  ODE_ADJ:0 "Odesian"
  ODE_fascism_DEF:0 "The Empire of Odesia"
  ODE_democratic_DEF:0 "The Republic of Odesia"
-  ODE_neutrality_DEF:0 "The Kingdom of Odesia"
+ ODE_neutrality_DEF:0 "The Kingdom of Odesia"
  # Irsmuncast
  IRS:0 "Irsmuncast"
  IRS_DEF:0 "Irsmuncast"
@@ -871,19 +866,13 @@
  BSK_fascism_DEF:0 "The Baskay Sea Empire"
  BSK_democratic_DEF:0 "The Baskay Commune"
  BSK_communism_DEF:0 "The Baskay Island States"
-   ####################################### DELTORA
- TOR_fascism:0 "Deltoran Empire"
+ # DELTORA
+ TOR:0 "Deltora"
+ TOR_DEF:0 "Deltora"
+ TOR_ADJ:0 "Deltoran"
  TOR_fascism_DEF:0 "The Deltoran Empire"
- TOR_democratic:0 "Deltoran Republic"
  TOR_democratic_DEF:0 "The Deltoran Republic"
- TOR_neutrality:1 "Deltora"
- TOR_neutrality_DEF:1 "Deltora"
- TOR_communism:0 "Deltora States"
- TOR_communism_DEF:0 "The Deltora States"
- TOR_fascism_ADJ:0 "Deltoran"
- TOR_democratic_ADJ:0 "Deltoran"
- TOR_neutrality_ADJ:0 "Deltoran"
- TOR_communism_ADJ:0 "Deltoran"
+ TOR_neoconservativism_DEF:0 "The Deltora States"
  # Delta
  DTA:0 "Delta"
  DTA_DEF:0 "Delta"

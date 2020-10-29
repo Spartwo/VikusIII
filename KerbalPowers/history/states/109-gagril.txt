@@ -11,5 +11,8 @@ state={
 history={
 		owner = GAG
 		add_core_of = GAG
+		add_claim_by = ARC
+		victory_points = { 2305 20 }
+		victory_points = { 2306 10 }
 	}
 }

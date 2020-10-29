@@ -10,5 +10,9 @@ state={
 history={
 		owner = KAL
 		add_core_of = KAL
+		add_core_of = MEN
+		victory_points = { 2088 10 }
+		victory_points = { 2161 10 }
+		victory_points = { 2007 10 }
 	}
 }

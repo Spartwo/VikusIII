@@ -13,12 +13,13 @@ state={
 	history={
 		owner = SAN
 		add_core_of = SAN
+		add_core_of = RID
 
 	}
 	provinces={
 		2930 2958 3069 
 	}
 	manpower=1000000
- 	state_category=enclave
+ 	state_category=pastoral
 	buildings_max_level_factor=1.000
 }

@@ -14,11 +14,12 @@ state={
 	history={
 		owner = TOR
 		add_core_of = TOR
+		add_core_of = CAR
 
 	}
 
 	provinces={
-		101 109 110 139 142 152 166 184 185 188 204 214 
+		101 109 110 139 166 184 185 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

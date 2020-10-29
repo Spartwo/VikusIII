@@ -220,10 +220,7 @@ technologies = {
 		ai_will_do = {
 			factor = 4
 			
-			modifier = {
-				factor = 2
-				anti_submarine_strategy_required_trigger = yes
-			}
+			
 		}
 		
 		categories = {
@@ -260,10 +257,7 @@ technologies = {
 		ai_will_do = {
 			factor = 4
 			
-			modifier = {
-				factor = 2
-				anti_submarine_strategy_required_trigger = yes
-			}
+			
 		}
 		
 		categories = {
@@ -299,10 +293,7 @@ technologies = {
 		ai_will_do = {
 			factor = 2
 			
-			modifier = {
-				factor = 2
-				anti_submarine_strategy_required_trigger = yes
-			}
+			
 		}
 		
 		categories = {
@@ -335,10 +326,7 @@ technologies = {
 		ai_will_do = {
 			factor = 2
 			
-			modifier = {
-				factor = 2
-				anti_submarine_strategy_required_trigger = yes
-			}
+			
 		}
 		
 		categories = {
@@ -370,10 +358,7 @@ technologies = {
 		ai_will_do = {
 			factor = 2
 			
-			modifier = {
-				factor = 2
-				anti_submarine_strategy_required_trigger = yes
-			}
+			
 		}
 		
 		categories = {
@@ -402,10 +387,7 @@ technologies = {
 		ai_will_do = {
 			factor = 2
 			
-			modifier = {
-				factor = 2
-				anti_submarine_strategy_required_trigger = yes
-			}
+			
 		}
 		
 		categories = {

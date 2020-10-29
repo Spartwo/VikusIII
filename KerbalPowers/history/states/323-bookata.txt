@@ -6,11 +6,12 @@ state={
 	history={
 		owner = IRS
 		add_core_of = IRS
+		victory_points = { 2489 10 }
 
 	}
 
 	provinces={
-		2456 2483 2484 2502 2568 2578 2593 2617 2684 2743 2769 
+		2456 2483 2484 2489 2502 2568 2578 2593 2617 2684 2743 2769 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

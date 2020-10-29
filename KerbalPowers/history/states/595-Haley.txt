@@ -6,6 +6,7 @@ state={
 	history={
 		owner = ZOK
 		add_core_of = ZOK
+		add_core_of = BOS
 
 	}
 

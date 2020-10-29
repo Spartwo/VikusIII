@@ -18,10 +18,9 @@ state={
 	}
 
 	provinces={
-		6461 6559 6560 6652 6659 6693 6712 6737 6792 6810 
+		6311 6329 6390 6397 6461 
 	}
 	manpower=1000000
-	buildings_max_level_factor=1.000 
- 	 state_category=pastoral
-	state_category=pastoral
+	buildings_max_level_factor=1.000
+	state_category=wasteland
 }

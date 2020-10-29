@@ -4,7 +4,8 @@ state={
 	name="STATE_19"
 
 	history={
-		owner = VAL
+		owner = SAN
+		add_core_of = SAN
 		add_core_of = VAL
 		
 

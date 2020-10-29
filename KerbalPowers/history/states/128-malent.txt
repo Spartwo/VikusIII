@@ -5,7 +5,7 @@ state={
 
 	history={
 		owner = KAT
-		add_core_of = ODE
+		add_claim_by = ODE
 		add_core_of = KAT
 
 	}

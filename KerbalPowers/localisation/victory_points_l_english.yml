@@ -1,49 +1,107 @@
 ﻿l_english:
  VICTORY_POINTS_TOOLTIP:0 "§G$NAME$§! victory points = §Y$POINTS$§!"
-###############################################################
 ################### LAYTHIA ###################################
-###############################################################
 # AWTHENIA #
- VICTORY_POINTS_328:0 "Commune of Awthenia"
+ VICTORY_POINTS_328:0 "Awthenia"
  VICTORY_POINTS_272:0 "Ajitweld"
  VICTORY_POINTS_383:0 "Kayduwld"
  VICTORY_POINTS_426:0 "Iften"
  # Laythi #
-  VICTORY_POINTS_426:0 "Commune of Laythi"
+  VICTORY_POINTS_426:0 "Laythi"
  # Ulkam #
  VICTORY_POINTS_494:0 "Lajitoy"
  VICTORY_POINTS_647:0 "Laje etoj"
  # Jyfael #
- VICTORY_POINTS_144:0 "Commune of Jyfael"
+ VICTORY_POINTS_144:0 "Jyfael"
  VICTORY_POINTS_272:0 "Haijfey"
  VICTORY_POINTS_262:0 "Loj ay ajetoy"
  VICTORY_POINTS_225:0 "Aft ther"
  # Kardagiv and Dzuethe #
  VICTORY_POINTS_311:0 "Kardagivey"
  VICTORY_POINTS_393:0 "Kardagiv ed ojes"
- VICTORY_POINTS_528:0 "Commune of Dzuethi"
+ VICTORY_POINTS_528:0 "Dzuethi"
  VICTORY_POINTS_405:0 "Ulkam"
  VICTORY_POINTS_582:0 "Mininey"
  # Fedithe #
-  VICTORY_POINTS_247:0 "Commune of Fedi"
+  VICTORY_POINTS_247:0 "Fedi"
   VICTORY_POINTS_282:0 "Fenejen yde"
   VICTORY_POINTS_205:0 "Koesti"
-###############################################################
-################### ARCADIA ###################################
-###############################################################
-# DOLIP #
+# ARCADIA
  VICTORY_POINTS_2721:0 "Dolip"
- # KIHRANN #
  VICTORY_POINTS_2452:0 "Kihrann"
- # BRYTNIA #
  VICTORY_POINTS_2784:0 "Brytna"
  VICTORY_POINTS_2798:0 "Yokohira"
- # NOVUM #
-  VICTORY_POINTS_2950:0 "Novum"
- # YURVAN #
+ VICTORY_POINTS_2950:0 "Novum"
  VICTORY_POINTS_3171:0 "Yurvanus"
- # VETA #
  VICTORY_POINTS_3095:0 "Veta"
  VICTORY_POINTS_3320:0 "Farbanti"
- # GORODSKY #
  VICTORY_POINTS_2389:0 "Gorodsky"
+# KONIG
+ VICTORY_POINTS_2936:0 "Konigare"
+ VICTORY_POINTS_3178:0 "Hylaide"
+ VICTORY_POINTS_3044:0 "Montegunsk"
+# STIHLAND
+ VICTORY_POINTS_5028:0 "Psylet"
+ VICTORY_POINTS_5263:0 "Chatoc"
+ VICTORY_POINTS_5179:0 "Stihlgrad"
+ VICTORY_POINTS_5213:0 "Arcovy"
+ VICTORY_POINTS_5318:0 "Anderson"
+ VICTORY_POINTS_5528:0 "Severn"
+# AENIA
+ VICTORY_POINTS_4415:0 "Meriton"
+ VICTORY_POINTS_4184:0 "Comberth"
+ VICTORY_POINTS_4414:0 "Seufer"
+ VICTORY_POINTS_4521:0 "St Arc"
+ VICTORY_POINTS_4137:0 "Silvat"
+ VICTORY_POINTS_3572:0 "Cascadus"
+ VICTORY_POINTS_3754:0 "Avellum"
+ VICTORY_POINTS_3908:0 "Apito"
+ VICTORY_POINTS_3433:0 "Canas"
+ VICTORY_POINTS_3104:0 "Tioga"
+ VICTORY_POINTS_3308:0 "Salvacion"
+ VICTORY_POINTS_3103:0 "Osten"
+ VICTORY_POINTS_3918:0 "Halbinsel"
+ VICTORY_POINTS_4011:0 "Kilad"
+# ERADICA
+ VICTORY_POINTS_4903:0 "Bogg"
+ VICTORY_POINTS_5013:0 "Troquean"
+ VICTORY_POINTS_4425:0 "Ulyanov"
+ VICTORY_POINTS_3967:0 "Coronata"
+ VICTORY_POINTS_4025:0 "Dodur"
+ VICTORY_POINTS_4688:0 "Hale"
+ VICTORY_POINTS_4328:0 "Oren"
+ VICTORY_POINTS_4482:0 "Rossaya"
+# KANBEK
+ VICTORY_POINTS_5098:0 "Kand"
+ VICTORY_POINTS_5034:0 "Cidve"
+ VICTORY_POINTS_4799:0 "Richsle"
+ VICTORY_POINTS_4962:0 "Drocoty"
+ VICTORY_POINTS_4689:0 "Arbek"
+# MARYURT
+ VICTORY_POINTS_4236:0 "Tryos"
+ VICTORY_POINTS_4236:0 "Derchulsh"
+ VICTORY_POINTS_4020:0 "Salis"
+# GAGRIEL
+ VICTORY_POINTS_2305:0 "Bobdeam"
+ VICTORY_POINTS_2306:0 "Gagril"
+# ZEROA
+ VICTORY_POINTS_3788:0 "Planace"
+ VICTORY_POINTS_3694:0 "Zeroa"
+# MENTONOGRA
+ VICTORY_POINTS_2264:0 "Vraz"
+ VICTORY_POINTS_2451:0 "Crence"
+ VICTORY_POINTS_2246:0 "Seroni"
+ VICTORY_POINTS_2238:0 "Gorika"
+ VICTORY_POINTS_2161:0 "Radz"
+ VICTORY_POINTS_2088:0 "Menton"
+ VICTORY_POINTS_2007:0 "Yivine"
+ VICTORY_POINTS_2005:0 "Rotok"
+ VICTORY_POINTS_2141:0 "Yrouis"
+ VICTORY_POINTS_2241:0 "Pirora"
+ VICTORY_POINTS_2082:0 "Ekrain"
+
+# BELASRIOV
+ VICTORY_POINTS_4443:0 "Narcell"
+ VICTORY_POINTS_4245:0 "Siblisk"
+ VICTORY_POINTS_4026:0 "Yibeyte"
+ VICTORY_POINTS_4246:0 "Larkuno"

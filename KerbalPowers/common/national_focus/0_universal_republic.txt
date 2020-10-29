@@ -13,7 +13,7 @@ focus_tree = {
 
 
 	focus = {
-		id = 0UR_centralists
+		id = LAY_centralists
 		icon = GFX_goal_generic_political_pressure
 		x = 1
 		y = 0
@@ -29,7 +29,7 @@ focus_tree = {
 	}
 
 	focus = {
-		id = 0UR_federalists
+		id = LAY_federalists
 		icon = GFX_goal_generic_political_pressure
 		x = 1
 		y = 0
@@ -46,7 +46,7 @@ focus_tree = {
 
 
 	focus = {
-		id = 0UR_iuk_focus
+		id = LAY_iuk_focus
 		icon = GFX_goal_generic_production
 		x = 1
 		y = 0

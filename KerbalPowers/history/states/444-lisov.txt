@@ -14,11 +14,12 @@ state={
 	history={
 		owner = VEN
 		add_core_of = VEN
+		add_core_of = EST
 
 	}
 
 	provinces={
-		1931 1960 1980 1988 2019 2021 2070 2086 2143 2196 
+		1931 1960 1980 2019 2021 2070 2086 2143 2196 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

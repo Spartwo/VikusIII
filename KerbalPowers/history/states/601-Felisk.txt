@@ -2,16 +2,17 @@
 state={
 	id=601
 	name="STATE_601"
-	provinces={
-		36 49 67 232 365 
-	}
-	manpower=100000
-	buildings_max_level_factor=1.000 
- 	 state_category=town
 
 	history={
 		owner = FEL
 		add_core_of = FEL
 
 	}
+
+	provinces={
+		36 49 232 365 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=large_town
 }

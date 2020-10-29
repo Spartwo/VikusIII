@@ -114,14 +114,14 @@ NUV = { color = rgb { 0 112 192 }
 	color_ui = rgb { 0 112 192 } }
 SVC = { color = rgb { 70 70 70 }
 	color_ui = rgb { 70 70 70 } }
-BOS = { color = rgb { 134 165 145 }
-	color_ui = rgb { 134 165 145 } }
+BOS = { color = rgb { 0 81 0 }
+	color_ui = rgb { 0 81 0} }
 RID = { color = rgb { 0 176 80 }
 	color_ui = rgb { 0 176 80 } }
 VAL = { color = rgb { 255 214 24 }
 	color_ui = rgb { 255 214 24 } }
-SCH = { color = rgb { 125 153 135 }
-	color_ui = rgb { 125 153 135 } }
+SCH = { color = rgb { 117 170 218 }
+	color_ui = rgb { 117 170 218 } }
 JUN = { color = rgb { 237 28 36 }
 	color_ui = rgb { 237 28 36 } }
 VAG = { color = rgb { 127 0 0 }
@@ -245,8 +245,8 @@ ALE = { color = rgb { 0 51 91 }
 	color_ui = rgb { 0 51 91 } }
 HKA = { color = rgb { 70 149 93 }
 	color_ui = rgb { 70 149 93 } }
-ROS = { color = rgb { 121 196 237 }
-	color_ui = rgb { 70 149 93 } }
+ROS = { color = rgb { 82 181 234 }
+	color_ui = rgb { 82 181 234 } }
 EST = { color = rgb { 255 127 39 }
 	color_ui = rgb { 255 127 39 } }
 NAU = { color = rgb { 155 116 164 }

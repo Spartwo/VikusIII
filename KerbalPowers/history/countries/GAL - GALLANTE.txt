@@ -13,7 +13,7 @@ set_technology = {
 }
 
 set_popularities = {
-	democratic = 16
+	democratic = 26
 	fascism = 6
 	communism = 4
 	neutrality = 64
@@ -27,7 +27,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Daemon Captrix"
+	name = "Name Here"
 	picture = "GFX_leader_unknown.dds"
 	ideology = isolationism
 	traits = {

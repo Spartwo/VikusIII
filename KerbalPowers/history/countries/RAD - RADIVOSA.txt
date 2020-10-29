@@ -1,4 +1,4 @@
-﻿capital = 160
+﻿capital = 460
 
 oob = "RMAP_TEMPLATE"
 set_cosmetic_tag = HIDE_COS

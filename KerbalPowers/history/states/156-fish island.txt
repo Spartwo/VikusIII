@@ -19,6 +19,7 @@ state={
 	history={
 		owner = AQU
 		add_core_of = AQU
+		add_core_of = FIS
 		victory_points = { 59 10 }
 	}
 }

@@ -2,16 +2,17 @@
 state={
 	id=617
 	name="STATE_617"
-	provinces={
-		3399 3520 3578 3622 3623 3630 3675 3712 3765 3843 
-	}
-	manpower=100000
-	buildings_max_level_factor=1.000 
- 	 state_category=pastoral
 
 	history={
 		owner = MAR
 		add_core_of = MAR
 
 	}
+
+	provinces={
+		3399 3520 3578 3623 3630 3675 3712 3765 3843 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

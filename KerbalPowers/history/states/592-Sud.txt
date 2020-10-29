@@ -6,6 +6,7 @@ state={
 	history={
 		owner = SAN
 		add_core_of = SAN
+		add_core_of = RID
 
 	}
 

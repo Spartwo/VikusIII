@@ -13,6 +13,7 @@ state={
 	history={
 		owner = GOG
 		add_core_of = GOG
+		add_core_of = CLO
 
 	}
 	provinces={

@@ -14,6 +14,7 @@ state={
 	history={
 		owner = SIT
 		add_core_of = SIT
+		add_claim_by = KAT
 
 	}
 

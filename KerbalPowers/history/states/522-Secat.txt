@@ -14,7 +14,6 @@ state={
 	history={
 		owner = REC
 		add_core_of = REC
-		
 
 	}
 

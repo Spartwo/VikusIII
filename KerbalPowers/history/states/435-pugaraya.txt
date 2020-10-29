@@ -6,6 +6,7 @@ state={
 	history={
 		owner = VEN
 		add_core_of = VEN
+		add_core_of = EST
 		victory_points = {
 			1990 30 
 		}
@@ -13,7 +14,7 @@ state={
 	}
 
 	provinces={
-		1910 1990 2090 2117 2149 2165 2190 2250 2276 2279 2308 2333 2349 
+		1910 1990 2090 2117 2149 2165 2190 2250 2276 2279 2333 2349 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

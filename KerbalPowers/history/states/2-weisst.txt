@@ -22,6 +22,7 @@ state={
 history={
 		owner = PUG
 		add_core_of = PUG
+		add_core_of = VAN
 
 		buildings = {
 			infrastructure = 5

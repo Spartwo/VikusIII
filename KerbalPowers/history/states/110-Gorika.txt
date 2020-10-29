@@ -20,5 +20,11 @@ state={
 history={
 		owner = KAL
 		add_core_of = KAL
+		add_core_of = MEN
+		add_claim_by = IRS
+		victory_points = { 2264 10 }
+		victory_points = { 2451 10 }
+		victory_points = { 2246 10 }
+		victory_points = { 2238 20 }
 	}
 }

@@ -14,6 +14,7 @@ state={
 	history={
 		owner = ARC
 		add_core_of = ARC
+		add_claim_by = VUL
 		
 		victory_points = { 2721 15 }
 		

@@ -29,8 +29,8 @@ COM_LEN = { color = rgb { 240 220 130 }
     	color_ui = rgb { 240 220 130 } }
 
 #BLUE ZOKESIA
-ZOK_BLUE = { color = rgb { 39 204 204 }
-    	color_ui = rgb { 39 204 204 } }
+ZOK_BLUE = { color = rgb { 28 39 85 }
+    	color_ui = rgb { 28 39 85 } }
 
 #FLORACIA TO ALTERIX
 ALT_COS = { color = rgb { 39 204 204 }

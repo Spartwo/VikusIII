@@ -14,12 +14,11 @@ state={
 	history={
 		owner = ODE
 		add_core_of = ODE
-		
 
 	}
 
 	provinces={
-		2948 2949 3014 3035 3041 3080 3121 3125 3155 3202 3280 3301 3417 
+		3014 3035 3041 3080 3121 3125 3155 3202 3280 3301 3417 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

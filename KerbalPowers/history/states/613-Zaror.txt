@@ -6,11 +6,17 @@ state={
 	history={
 		owner = ZER
 		add_core_of = ZER
+		victory_points = {
+			3694 15 
+		}
+		victory_points = {
+			3788 10 
+		}
 
 	}
 
 	provinces={
-		3491 3579 3614 3689 3694 3698 3788 3791 3868 3924 
+		3491 3579 3614 3694 3698 3788 3791 3868 3924 
 	}
 	manpower=100000
 	buildings_max_level_factor=1.000

@@ -14,6 +14,10 @@ state={
 	history={
 		owner = AEN
 		add_core_of = AEN
+		victory_points = { 4415 10 }
+		victory_points = { 4184 10 }
+		victory_points = { 4414 10 }
+		victory_points = { 4521 10 }
 
 	}
 

@@ -14,6 +14,7 @@ state={
 	history={
 		owner = OPE
 		add_core_of = OPE
+		add_claim_by = ROV
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
