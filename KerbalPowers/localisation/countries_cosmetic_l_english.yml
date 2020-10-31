@@ -39,17 +39,10 @@ TAR_FORM:0 "Targeria"
 TAR_FORM_DEF:0 "Targeria"
 TAR_FORM_ADJ:0 "Targerian"
 ################### Grestin ######################
-#SVARSK (south grestin tekkiad)
+#SVARSK (south grestin tekkia'd)
 SVA_GRE:0 "Svarsk"
 SVA_GRE_COS_DEF:0 "Svarskian Grestin"
 SVA_GRE_COS_ADJ:0 "Svarskian"
-#A GRESTIN COSMETIC IF SOUTH GRES DIES
-GRE_COS:0 "Grestin"
-GRE_COS_DEF:0 "New Grestin"
-GRE_COS_ADJ:0 "Grestinian"
-GRE_COS_fascism_DEF:0 "The Grestin National Union"
-GRE_COS_democratic_DEF:0 "The New Grestin States"
-GRE_COS_neoconservativism_DEF:0 "The Unified State of Grestin"
 ################### Aenia-Arcadia ######################
 #UCF/UIF
 UIF_FORM:0 "UCF"

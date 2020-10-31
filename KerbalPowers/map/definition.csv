@@ -44,7 +44,7 @@
 43;60;37;71;land;true;plains;4
 44;222;98;133;land;false;mountain;1
 45;127;33;9;land;true;plains;1
-46;117;32;240;land;false;lakes;1
+46;117;32;240;lake;false;lakes;1
 47;70;0;232;sea;true;ocean;0
 48;139;166;112;land;false;hills;1
 49;5;6;236;land;false;lakes;1
@@ -65,7 +65,7 @@
 64;42;189;93;land;true;plains;1
 65;21;194;90;land;false;plains;4
 66;132;186;189;land;false;hills;1
-67;55;0;232;land;false;plains;1
+67;55;0;232;lake;false;plains;1
 68;105;161;117;land;true;plains;4
 69;130;107;206;land;true;plains;4
 70;140;52;103;land;true;plains;1

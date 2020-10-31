@@ -3,14 +3,10 @@ HIDE_COS = {
 	color = rgb { 0 0 0 }
     	color_ui = rgb { 0 0 0 } 
 }
-DORV_COS = { 
-	color = rgb { 0 0 0 }
-    	color_ui = rgb { 0 0 0 } 
-}
 
 #FORMING KUS
 KUS_FORM = { color = rgb { 255 216 0 }
-    	color_ui = rgb { 255 216 0  } }
+    	color_ui = rgb { 255 216 0 } }
 
 #FORMING DOREN
 CPD_FORM = { color = rgb { 127 0 0 }
@@ -84,9 +80,6 @@ AON_FORM = { color = rgb { 0 74 127 }
 SVA_GRE = { color = rgb { 0 74 127 }
     	color_ui = rgb { 0 74 127 } }
 
-#GRESTIN
-GRE_COS = { color = rgb { 63 158 96 }
-	color_ui = rgb { 63 158 96 } }
 #LATER NORTH GREST
 NGR_COS = { color = rgb { 226 189 0}
 	color_ui = rgb { 226 189 0} }
