@@ -16,7 +16,7 @@ state={
 		add_core_of = TRO
 		add_core_of = BSK
 		victory_points = {
-			625 10 
+			679 10 
 		}
 
 	}

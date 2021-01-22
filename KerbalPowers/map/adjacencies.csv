@@ -9,17 +9,21 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 748;785;sea;513;-1;-1;-1;-1;;Baskaia
 769;781;sea;515;-1;-1;-1;-1;;Syx-Rhus
 2088;2058;sea;1851;-1;-1;-1;-1;;Radz
+7022;2058;sea;1851;-1;-1;-1;-1;;Radz
 1904;1985;sea;1936;-1;-1;-1;-1;;Traes-Adrea
 3873;3789;sea;3649;-1;-1;-1;-1;;Littorial-Pegan
 2488;2459;sea;2309;-1;-1;-1;-1;;Dolren-Tefaru
 2488;2349;sea;2309;-1;-1;-1;-1;;Dolren-Pugaraya
 5101;5066;sea;4817;-1;-1;-1;-1;;Lod
 4630;4581;sea;4659;-1;-1;-1;-1;;Istma-Exillia
-4630;4680;sea;4659;-1;-1;-1;-1;;Istma
-4630;4603;sea;4659;-1;-1;-1;-1;;Istma-Doend
+7026;4680;sea;4659;-1;-1;-1;-1;;Istma
+7026;4603;sea;4659;-1;-1;-1;-1;;Istma-Doend
 3554;3527;sea;3185;-1;-1;-1;-1;;Pures
 3240;3338;sea;3058;-1;-1;-1;-1;;KSC Island
+7027;4961;sea;4883;-1;-1;-1;-1;;Westray
+7024;4017;sea;3796;-1;-1;-1;-1;;Butun
 423;474;sea;439;-1;-1;-1;-1;;Tora
+7023;3048;sea;2779;-1;-1;-1;-1;;Pogo
 3658;3715;sea;3505;-1;-1;-1;-1;;Angus
 4022;4114;sea;3985;-1;-1;-1;-1;;Aontas Strait
 3657;3600;sea;3409;-1;-1;-1;-1;;Mede
@@ -42,8 +46,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 5028;5122;sea;4946;-1;-1;-1;-1;;Psylets
 
 
-515;1133;;-1;-1;-1;-1;-1;GREAT_LAKES;Ye
-2099;1386;;-1;-1;-1;-1;-1;OWLIA_RIVER;Et
 
 3346;3390;impassable;-1;-1;-1;-1;-1;;KSC mountains
 3346;3274;impassable;-1;-1;-1;-1;-1;;KSC mountains

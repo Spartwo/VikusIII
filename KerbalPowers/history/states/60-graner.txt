@@ -15,12 +15,11 @@ state={
 	}
 	buildings_max_level_factor=1.000
 	state_category=rural
-#3745 Naval
-#3701 capital
 
 	history={
 		owner = GRA
 		add_core_of = GRA
+		victory_points = { 3701 10 }
 		set_demilitarized_zone = yes
 		buildings = {
 			infrastructure = 3

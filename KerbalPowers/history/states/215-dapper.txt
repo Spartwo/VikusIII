@@ -15,7 +15,7 @@ state={
 		owner = KRO
 		add_core_of = KRO
 		victory_points = {
-			5016 10 
+			4882 10 
 		}
 
 	}

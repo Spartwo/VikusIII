@@ -11,6 +11,6 @@ history={
 		owner = BSL
 		add_core_of = BSL
 		add_core_of = BSK
-		victory_points = { 714 15 }
+		victory_points = { 699 15 }
 	}
 }

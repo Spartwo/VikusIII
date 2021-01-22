@@ -14,9 +14,8 @@ state={
 	history={
 		owner = TEK
 		add_core_of = TEK
-		victory_points = {
-			4022 20 
-		}
+		victory_points = { 4022 20 }
+		victory_points = { 4123 10 }
 
 	}
 

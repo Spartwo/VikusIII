@@ -8,9 +8,9 @@ state={
 	buildings_max_level_factor=1.000
 	state_category=large_town
 
-#4120 capital
 history={
 		owner = TEK
 		add_core_of = TEK
+		victory_points = { 4120 10 }
 	}
 }

@@ -1,0 +1,21 @@
+
+state={
+	id=649
+	name="STATE_649"
+
+	history={
+		owner = EUR
+		add_core_of = EUR
+		victory_points = {
+			4017 5 
+		}
+
+	}
+
+	provinces={
+		4017 7024 
+	}
+	manpower=10
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

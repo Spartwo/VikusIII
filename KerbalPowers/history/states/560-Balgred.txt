@@ -1,14 +1,26 @@
+
 state={
 	id=560
 	name="STATE_560"
-	provinces={
-		1276 1364 1380 1439 1471 1486 
-	}
-	manpower=100000
-	buildings_max_level_factor=1.000 
- 	 state_category=megalopolis
-history={
+
+	history={
 		owner = KAL
 		add_core_of = KAL
+		victory_points = {
+			1380 10 
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 3
+
+		}
+
 	}
+
+	provinces={
+		1534 1608 1630 1683 1688 1726 1757 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
 }

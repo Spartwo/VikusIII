@@ -16,7 +16,7 @@ state={
 		add_core_of = KRO
 		add_core_of = GRE
 		victory_points = {
-			3942 15 
+			3917 15 
 		}
 
 	}

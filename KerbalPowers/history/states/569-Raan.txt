@@ -12,6 +12,7 @@ state={
 	history={
 		owner = CEL
 		add_core_of = CEL
+		victory_points = { 4643 10 }
 
 	}
 }

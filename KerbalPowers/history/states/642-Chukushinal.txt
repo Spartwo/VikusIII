@@ -17,6 +17,7 @@ state={
 		owner = KRO
 		add_core_of = KRO
 		add_core_of = GRE
+		victory_points = { 3829 10 }
 
 	}
 	manpower=10

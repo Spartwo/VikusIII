@@ -15,11 +15,17 @@ state={
 		owner = TEK
 		add_core_of = TEK
 		add_core_of = CAB
+		victory_points = {
+			2876 10 
+		}
+		victory_points = {
+			3127 10 
+		}
 
 	}
 
 	provinces={
-		2843 2849 2876 2943 3019 3055 3120 3127 3167 
+		2843 2849 2876 2943 3019 3055 3120 3127 3167 7023 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

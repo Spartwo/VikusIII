@@ -7,7 +7,7 @@ state={
 		owner = CHO
 		add_core_of = CHO
 		victory_points = {
-			3990 15 
+			4182 15 
 		}
 
 	}

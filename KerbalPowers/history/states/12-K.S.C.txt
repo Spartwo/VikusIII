@@ -1,3 +1,4 @@
+
 state={
 	id=12
 	name="STATE_12"
@@ -13,22 +14,30 @@ state={
 	history={
 		owner = KSC
 		add_core_of = KSC
-
 		set_demilitarized_zone = yes
-		
-		victory_points = { 3395 30 }
-		victory_points = { 3338 5 }
-
+		victory_points = {
+			3395 30 
+		}
+		victory_points = {
+			3338 5 
+		}
 		buildings = {
 			infrastructure = 8
 			arms_factory = 3
 			industrial_complex = 2
 			dockyard = 2
 			air_base = 6
+			3395 = {
+				naval_base = 3
 
-			3395 = { naval_base = 3 }
-			3338 = { naval_base = 2 }
+			}
+			3338 = {
+				naval_base = 2
+
+			}
+
 		}
+
 	}
 
 	provinces={

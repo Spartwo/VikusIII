@@ -19,5 +19,7 @@ state={
 history={
 		owner = GRE
 		add_core_of = GRE
+		victory_points = { 3415 10 }
+		victory_points = { 3332 10 }
 	}
 }

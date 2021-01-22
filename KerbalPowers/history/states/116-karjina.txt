@@ -14,16 +14,17 @@ state={
 	history={
 		owner = KAL
 		add_core_of = KAL
-		buildings = {
-			infrastructure = 5
-			arms_factory = 3
-
+		victory_points = {
+			1683 10 
+		}
+		victory_points = {
+			1534 10 
 		}
 
 	}
 
 	provinces={
-		1534 1608 1630 1683 1688 1726 1757 
+		1276 1364 1380 1439 1471 1486 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

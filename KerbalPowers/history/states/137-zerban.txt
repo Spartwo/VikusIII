@@ -14,6 +14,9 @@ state={
 	history={
 		owner = TRO
 		add_core_of = TRO
+		victory_points = { 747 10 }
+		victory_points = { 726 10 }
+		victory_points = { 810 10 }
 
 	}
 

@@ -7,13 +7,13 @@ state={
 		owner = KRO
 		add_core_of = KRO
 		victory_points = {
-			3756 10 
+			3245 10 
 		}
 
 	}
 
 	provinces={
-		3245 3756 4017 
+		3245 3756 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

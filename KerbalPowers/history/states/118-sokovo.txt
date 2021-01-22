@@ -6,9 +6,9 @@ state={
 	history={
 		owner = KAL
 		add_core_of = KAL
-		victory_points = {
-			1403 30 
-		}
+		victory_points = { 1316 10 }
+		victory_points = { 1142 10 }
+		victory_points = { 1153 10 }
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 2

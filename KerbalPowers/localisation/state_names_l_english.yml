@@ -208,7 +208,7 @@
  STATE_207:2 "Alleghany"
  STATE_208:2 "Zambillia"
  STATE_209:2 "Rinn"
- STATE_210:2 "Zambillia"
+ STATE_210:2 "Kin"
  STATE_211:2 "Thiar"
  STATE_212:3 "Teorann"
  STATE_213:2 "Parp"
@@ -647,3 +647,4 @@
  STATE_646:0 "Kole"
  STATE_647:0 "Aridian Mountains"
  STATE_648:0 "Pupilgia"
+ STATE_649:0 "Butun Islands"

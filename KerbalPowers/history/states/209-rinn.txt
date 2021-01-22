@@ -1,16 +1,24 @@
+
 state={
 	id=209
 	name="STATE_209"
+
+	history={
+		owner = KRO
+		add_core_of = KRO
+		victory_points = {
+			4039 20 
+		}
+		victory_points = {
+			3973 10 
+		}
+
+	}
+
 	provinces={
-		3973 4039 4064 4084 4157 4192 4243 4318 
+		3973 4039 4064 4084 4157 4192 4243 4318 7025 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000
 	state_category=city
-
-history={
-		owner = KRO
-		add_core_of = KRO
-		victory_points = { 4192 20 }
-	}
 }

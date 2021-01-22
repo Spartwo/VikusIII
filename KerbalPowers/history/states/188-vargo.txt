@@ -21,6 +21,8 @@ history={
 		owner = TEK
 		add_core_of = TEK
 		add_core_of = CAB
+		victory_points = { 3394 10 }
+		victory_points = { 3378 10 }
 
 	}
 }
