@@ -1,7 +1,6 @@
-
 state={
-	id=461
-	name="STATE_461"
+	id=651
+	name="STATE_651"
 	resources={
 		steel=0.000
 		aluminium=0.000
@@ -10,21 +9,16 @@ state={
 		oil=0.000
 		tungsten=0.000
 	}
-
 	history={
-		owner = BEL
-		add_core_of = BEL
+		owner = ERA
+		add_core_of = ERA
 		victory_points = {
-			4245 10 
-		}
-		victory_points = {
-			4371 10 
+			4328 10 
 		}
 
 	}
-
 	provinces={
-		4245 4280 4281 4297 4323 4371 4372 4394 4434 4439 4443 4464 4479 
+		4151 4248 4277 4314 4328 4360 4383 4433 4515 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

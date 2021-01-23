@@ -1,7 +1,7 @@
-
 state={
-	id=461
-	name="STATE_461"
+	id=650
+	name="STATE_650"
+
 	resources={
 		steel=0.000
 		aluminium=0.000
@@ -15,16 +15,13 @@ state={
 		owner = BEL
 		add_core_of = BEL
 		victory_points = {
-			4245 10 
-		}
-		victory_points = {
-			4371 10 
+			4026 10 
 		}
 
 	}
 
 	provinces={
-		4245 4280 4281 4297 4323 4371 4372 4394 4434 4439 4443 4464 4479 
+		4018 4026 4063 4095 4119 4126 4169 4187 4205 4210 4225 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000
