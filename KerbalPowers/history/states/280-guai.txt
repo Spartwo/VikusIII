@@ -14,6 +14,7 @@ state={
 	history={
 		owner = NMC
 		add_core_of = NMC
+		add_core_of = BEN
 		victory_points = {
 			5836 15 
 		}

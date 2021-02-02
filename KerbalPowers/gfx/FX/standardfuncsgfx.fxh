@@ -869,7 +869,7 @@ PixelShader =
 		vCh = lerp( vCh, vGBDist.rgb, max( vMaxGradient, vThick )* vStrength);
 
 		// Compensate the brightness since the 2nd layer is now black (not white) although it's alpha is 0
-		vCh *= 1.15f;
+		vCh *= 1.015f;
 		vCh = min( vCh, float3( 1, 1, 1 ) );
 
 		// Make the outline edge darker
@@ -916,7 +916,7 @@ PixelShader =
 		// when applying season coloring overlay 
 		// (we don't want to affect the colors especially when camera is zoomed out, and
 		//  everything is 100% filled)
-		vBloomAlpha = 1.0f - max( vAlpha1, vAlpha2 );
+		vBloomAlpha = 0.90f - max( vAlpha1, vAlpha2 );
 	}
 
 	/*
@@ -974,7 +974,7 @@ PixelShader =
 
 		float vOccupationMask = CalculateOccupationMask( vUV );
 		vOccupationMask *= vColorMask.a;
-		vBloomAlpha = vBloomAlpha * ( 1.0f - vOccupationMask );
+		vBloomAlpha = vBloomAlpha * ( 0.90f - vOccupationMask );
 		vColor = lerp( vColor, vColorMask.rgb, vOccupationMask );
 	}
 

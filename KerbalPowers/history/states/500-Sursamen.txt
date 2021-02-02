@@ -12,8 +12,8 @@ state={
 	}
 
 	history={
-		owner = ZHA
-		add_core_of = ZHA
+		owner = ZZX
+		add_core_of = ZZX
 	}
 
 	provinces={

@@ -5,7 +5,8 @@ state={
 
 	history={
 		owner = ICO
-		add_core_of = ZICO
+		add_core_of = ICO
+		add_core_of = URJ
 
 	}
 

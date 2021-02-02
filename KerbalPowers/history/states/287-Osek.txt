@@ -12,8 +12,8 @@ state={
 	}
 
 	history={
-		owner = RAF
-		add_core_of = RAF
+		owner = CRY
+		add_core_of = CRY
 		victory_points = {
 			6401 15 
 		}

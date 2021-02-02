@@ -8,6 +8,7 @@ state={
 		add_core_of = ZZW
 
 	}
+	
 
 	provinces={
 		830 904 917 990 1065 1447 

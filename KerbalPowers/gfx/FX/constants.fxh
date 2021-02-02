@@ -85,10 +85,10 @@ static const float 	SNOW_FROST_MIN_EFFECT  		= 0.4f;
 static const float3 ICE_COLOR 					= float3( 0.5f, 0.6f, 0.9f );
 static const float 	ICE_NOISE_TILING  			= 0.1f; //0.068f;
 
-static const float WATER_COLOR_LIGHTNESS = 0.5;
+static const float WATER_COLOR_LIGHTNESS = 0.6;
 static const float WATER_RIPPLE_EFFECT = 0.0025;
 
-static const float COLORMAP_OVERLAY_STRENGTH 	= 0.6f; //0.7f;
+static const float COLORMAP_OVERLAY_STRENGTH 	= 0.6f; //0.6f;
 static const float3 FAKE_CUBEMAP_COLOR 			= float3(0.0f, 0.0f, 0.0f);
 
 // MILD_WINTER_VALUE = ###,						defines.lua   (reload defines)
@@ -96,7 +96,7 @@ static const float3 FAKE_CUBEMAP_COLOR 			= float3(0.0f, 0.0f, 0.0f);
 // SEVERE_WINTER_VALUE = ###,					defines.lua   (reload defines)
 
 
-static const float 	BORDER_TILE					= 0.4f;
+static const float 	BORDER_TILE					= 0.3f;//0.3
 // BORDER_WIDTH		= ###						defines.lua   (reload defines)
 
 
@@ -126,7 +126,7 @@ static const float 	TREE_ROUGHNESS = 0.6f;
 
 //static const float  WATER_TILE					= 4.0f;
 static const float  WATER_TIME_SCALE			= 1.0f / 50.0f;
-static const float  WATER_HEIGHT = 9.5f;
+static const float  WATER_HEIGHT = 9.7f;
 static const float  WATER_HEIGHT_RECP = 1.0f / WATER_HEIGHT;
 static const float  WATER_HEIGHT_RECP_SQUARED = WATER_HEIGHT_RECP * WATER_HEIGHT_RECP;
 
@@ -194,7 +194,7 @@ static const float GB_CAM_MAX_FILLING_CLAMP = 0.8f; // 0 to 1 value for clamping
 static const float GB_THRESHOLD = 0.5f; // WW 0.05 interpolation time
 static const float GB_THRESHOLD2 = 0.04f; // WW 0.25 interpolation time
 //static const float3 GB_OUTLINE_COLOR = float3( 0.0f, 0.0f, 0.0f );
-static const float GB_OUTLINE_CUTOFF_SEA = 0.1990f; // Magic number to balance cutoff on edges without neighbor (over Sea)
+static const float GB_OUTLINE_CUTOFF_SEA = 0.01990f; // Magic number to balance cutoff on edges without neighbor (over Sea)
 static const float GB_OPACITY_NEAR = 1.0f; // Transparency when camera is near
 static const float GB_OPACITY_FAR = 0.9f;  // Transparency when camera is far
 static const float BORDER_NIGHT_DESATURATION_MAX = 0.2f; // how much border colors can get desaturated at night. 1.0f is full grey

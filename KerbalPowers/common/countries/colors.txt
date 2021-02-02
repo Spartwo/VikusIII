@@ -1,13 +1,14 @@
-ZZZ = { color = rgb { 0 0 0 }
-	color_ui = rgb { 0 0 0 } }
-ZZY = { color = rgb { 0 0 0 }
-	color_ui = rgb { 0 0 0 } }
-ZZX = { color = rgb { 0 0 0 }
-	color_ui = rgb { 0 0 0 } }
-ZZW = { color = rgb { 0 0 0 }
-	color_ui = rgb { 0 0 0 } }
-ZZV = { color = rgb { 0 0 0 }
-	color_ui = rgb { 0 0 0 } }
+
+ZZZ = { color = rgb { 68 81 51 }
+    	color_ui = rgb { 10 10 10 } }
+ZZY = { color = rgb { 68 81 51 }
+    	color_ui = rgb { 10 10 10 } }
+ZZX = { color = rgb { 68 81 51 }
+    	color_ui = rgb { 10 10 10 } }
+ZZW = { color = rgb { 68 81 51 }
+    	color_ui = rgb { 10 10 10 } }
+ZZV = { color = rgb { 68 81 51 }
+    	color_ui = rgb { 10 10 10 } }
 
 ###KAFRICA###
 COM = { color = rgb { 69 69 109 }

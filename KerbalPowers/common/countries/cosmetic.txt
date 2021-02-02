@@ -1,7 +1,7 @@
 #Hidden States
 HIDE_COS = { 
-	color = rgb { 0 0 0 }
-    	color_ui = rgb { 0 0 0 } 
+	color = rgb { 83 99 72 }
+    	color_ui = rgb { 10 10 10 } 
 }
 
 #FORMING KUS

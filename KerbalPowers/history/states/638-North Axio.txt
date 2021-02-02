@@ -14,7 +14,7 @@ state={
 	history={
 		owner = VNO
 		add_core_of = VNO
-		add_core_of = KRO
+		add_claim_by = KRO
 		buildings = {
 
 		}

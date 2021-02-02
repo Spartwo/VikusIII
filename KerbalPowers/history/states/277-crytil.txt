@@ -11,6 +11,7 @@ state={
 history={
 		owner = NMC
 		add_core_of = NMC
+		add_claim_by = GIB
 		victory_points = { 4683 20 }
 	}
 }

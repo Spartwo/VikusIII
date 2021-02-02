@@ -10,6 +10,7 @@ state={
 		oil=0.000
 		tungsten=30.000
 	}
+	
 
 	history={
 		owner = ZZW
