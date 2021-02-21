@@ -14,6 +14,8 @@ state={
 	history={
 		owner = BLY
 		add_core_of = BLY
+        victory_points = { 6144 10 } #Wolfe
+        victory_points = { 6252 10 } #Kerite
 
 	}
 

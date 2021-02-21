@@ -14,9 +14,8 @@ state={
 	history={
 		owner = AQU
 		add_core_of = AQU
-		victory_points = {
-			1652 5 
-		}
+        victory_points = { 1520 10 } #Ahcurt
+        victory_points = { 1759 10 } #Lavran
 
 	}
 

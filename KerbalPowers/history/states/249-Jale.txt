@@ -14,8 +14,12 @@ state={
 	history={
 		owner = LOT
 		add_core_of = LOT
+		add_core_of = KAA
+        victory_points = { 6829 10 } #Jale
+        victory_points = { 6750 10 } #Fore
+        victory_points = { 6840 10 } #Boyark
 		buildings = {
-			6873 = {
+			6862 = {
 				naval_base = 2
 
 			}

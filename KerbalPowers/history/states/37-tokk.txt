@@ -6,6 +6,9 @@ state={
 	history={
 		owner = PHO
 		add_core_of = PHO
+		victory_points = { 3135 10 }#Tahu
+		victory_points = { 4013 10 }#Culceth
+		victory_points = { 3213 10 }#Mlay
 
 	}
 

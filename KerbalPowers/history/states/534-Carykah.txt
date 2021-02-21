@@ -12,13 +12,14 @@ state={
 	}
 
 	history={
-		owner = POT
-		add_core_of = POT
+		owner = VON
+		add_core_of = VON
+		victory_points = { 6815 10 } #Carykah
 
 	}
 
 	provinces={
-		6804 6815 6875 6900 
+		6815 6875 6900 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

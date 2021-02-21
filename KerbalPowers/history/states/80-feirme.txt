@@ -14,6 +14,7 @@ state={
 	history={
 		owner = ZZV
 		add_core_of = ZZV
+		victory_points = { 4691 10 } #Feirme
 
 	}
 

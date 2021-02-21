@@ -14,6 +14,9 @@ state={
 	history={
 		owner = KYV
 		add_core_of = KYV
+		victory_points = { 5924 20 } #Beyazkale
+		victory_points = { 6334 10 } #Makav
+		victory_points = { 6011 10 } #Asam
 
 	}
 

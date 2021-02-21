@@ -12,16 +12,17 @@ state={
 	}
 
 	history={
-		owner = FEL
-		add_core_of = FEL
+		owner = DTA
+		add_core_of = DTA
+		victory_points = { 451 10 } #Kerocus
 		
 
 	}
 
 	provinces={
-		18 35 38 39 56 64 219 451 
+		18 38 39 56 64 219 451 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=pastoral
 }

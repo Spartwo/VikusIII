@@ -12,12 +12,14 @@ state={
 	}
 
 	history={
-		owner = POT
-		add_core_of = POT
+		owner = VON
+		add_core_of = VON
+		victory_points = { 6798 10 } #Waid
+
 	}
 
 	provinces={
-		6771 6787 6798 
+		6771 6787 6798 6993 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

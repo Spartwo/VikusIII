@@ -6,6 +6,8 @@ state={
 	history={
 		owner = KRO
 		add_core_of = KRO
+		add_core_of = LOV
+		add_core_of = DIO
 		victory_points = {
 			4039 20 
 		}

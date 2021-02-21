@@ -14,11 +14,14 @@ state={
 	history={
 		owner = OWL
 		add_core_of = OWL
+		victory_points = {
+			1091 10 
+		}
 
 	}
 
 	provinces={
-		913 942 959 1009 1032 1055 1077 1091 1147 
+		1032 1055 1062 1077 1091 1132 1147 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

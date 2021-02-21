@@ -14,6 +14,8 @@ state={
 	history={
 		owner = VER
 		add_core_of = VER
+		victory_points = { 6246 10 } #Fargol
+		victory_points = { 6119 10 } #Vleisdorp
 
 	}
 

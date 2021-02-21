@@ -8,6 +8,7 @@ state={
 	history={
 		owner = LAY
 		add_core_of = LAY 
+		victory_points = { 456 10 } #Okal
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1

@@ -12,5 +12,8 @@ history={
 		owner = SAN
 		add_core_of = SAN
 		add_core_of = VAL
+		victory_points = { 2479 10 } #Linne
+		victory_points = { 2506 10 } #Cidve
+		victory_points = { 2728 10 } #Algand
 	}
 }

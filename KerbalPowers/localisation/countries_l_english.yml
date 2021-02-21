@@ -18,7 +18,7 @@
  ZZX:0 " "
  ZZX_DEF:0 "The Dorvic Unclaimed Zone"
  ZZX_ADJ:0 "Dorvic"
- # VEIID ANARCHY
+ # Ur ANARCHY
  ZZW:0 " "
  ZZW_DEF:0 "The Veiidi Unclaimed Zone"
  ZZW_ADJ:0 "Veiidi"
@@ -79,7 +79,7 @@
  OWO:0 "Wò"
  OWO_ADJ:0 "Wovian"
  OWO_DEF:0 "Wò"
- OWO_neoconservativism_DEF:0 "United Wò"
+ OWO_neocon_DEF:0 "United Wò"
  OWO_democratic_DEF:0 "The Republic of Wò"
  OWO_communism_DEF:0 "The Wò Democratic Republic"
  # Blyat
@@ -88,7 +88,7 @@
  BLY_ADJ:0 "Blyat"
  BLY_democratic_DEF:0 "The Republic of Blytheria"
  BLY_communism_DEF:0 "The Northern States of Blytheria"
- BLY_neoconservativism_DEF:0 "The Grand Federation of Blytheria"
+ BLY_neocon_DEF:0 "The Grand Federation of Blytheria"
  # Strelka
  STR:0 "Strelka"
  STR_DEF:0 "Strelka"
@@ -101,7 +101,7 @@
  VOC:0 "Vocavium"
  VOC_DEF:0 "Vocavium"
  VOC_ADJ:0 "Vocavian"
- VOC_neoconservativism_DEF:0 "Vocavian Federation"
+ VOC_neocon_DEF:0 "Vocavian Federation"
  # Floracia
  FLO:0 "Floracia"
  FLO_DEF:0 "Floracia"
@@ -133,10 +133,6 @@
  RAT:0 "Rathania"
  RAT_DEF:0 "Rathania"
  RAT_ADJ:0 "Rath"
- # Aured
- AUR:0 "Aured"
- AUR_DEF:0 "Aured"
- AUR_ADJ:0 "Aured"
  # Heims
  HEI:0 "Heims"
  HEI_DEF:0 "Heims"
@@ -155,6 +151,11 @@
  ARK:0 "Arkeria"
  ARK_DEF:0 "Arkeria"
  ARK_ADJ:0 "Arkeri"
+ # Thanatos
+ THA:0 "Thanatos"
+ THA_DEF:0 "Thanatos"
+ THA_democratic_DEF:0 "The New Thanetian Republic"
+ THA_ADJ:0 "Thanetian"
 
 
 ###KAFRAIC###
@@ -177,7 +178,7 @@
  KRO_DEF:0 "Krome"
  KRO_ADJ:0 "Kroman"
  KRO_fascism_DEF:0 "Imperium Kromana"
- KRO_neoconservativism_DEF:0 "The Kroman Federation"
+ KRO_neocon_DEF:0 "The Kroman Federation"
  KRO_neutrality_DEF:0 "The Republic of Krome"
  KRO_overlordship_DEF:0 "Kromium"
  # Celrapan
@@ -186,18 +187,18 @@
  CEL_ADJ:0 "Celrepani"
  CEL_fascism_DEF:0 "Free Celrapan"
  CEL_democratic_DEF:0 "The Republic of Celrapan"
- CEL_neoconservativism_DEF:0 "United Celrapan"
+ CEL_neocon_DEF:0 "United Celrapan"
  # KSC
  KSC:0 "KSC"
  KSC_DEF:0 "The Kerbal Space Center"
  KSC_ADJ:0 "Kerbal"
  # Grestin
- GRE:1 "Grestin"
- GRE_DEF:1 "New Grestin"
- GRE_ADJ:1 "Grestinian"
+ GRE:0 "Grestin"
+ GRE_DEF:0 "New Grestin"
+ GRE_ADJ:0 "Grestinian"
  GRE_fascism_DEF:0 "The Grestin National Union"
  GRE_democratic_DEF:0 "The New Grestin States"
- GRE_neoconservativism_DEF:0 "The Unified State of Grestin"
+ GRE_neocon_DEF:0 "The Unified State of Grestin"
  # Cabrai
  CAB:0 "Cabrai"
  CAB_DEF:0 "Cabrai"
@@ -211,14 +212,14 @@
  NGR:0 "North Grestin"
  NGR_DEF:0 "North Grestin"
  NGR_ADJ:0 "Grestinian"
- NGR_neoconservativism_DEF:0 "The North Grestin States"
+ NGR_neocon_DEF:0 "The North Grestin States"
  NGR_democratic_DEF:0 "The North Grestin Confederacy"
  # Diosca
  DIO:0 "Diosca"
  DIO_DEF:0 "Diosca"
  DIO_ADJ:0 "Dioscan"
  DIO_democratic_DEF:0 "The New Republic of Diosca"
- DIO_neoconservativism_DEF:0 "The New Dioscan State"
+ DIO_neocon_DEF:0 "The New Dioscan State"
  # Lovatica
  LOV:0 "Lovatica"
  LOV_DEF:0 "Lovatica"
@@ -235,7 +236,7 @@
  ZOK_fascism_DEF:0 "The Zokesian - Bosmyth Empire"
  ZOK_democratic_DEF:0 "The Republic of Bosmyth and North Zokesia"
  ZOK_corporatism_DEF:0 "The Bosmyth - Zokesian Badger Printer Coalition"
- ZOK_neoconservativism_DEF:0 "The Federation of Bosmyth and North Zokesia"
+ ZOK_neocon_DEF:0 "The Federation of Bosmyth and North Zokesia"
  # Chosaint
  CHO:0 "Chosaint"
  CHO_DEF:0 "Chosaint"
@@ -243,7 +244,7 @@
  CHO_fascism_DEF:0 "The Chosaint State"
  CHO_democratic_DEF:0 "The Chosaint Republic"
  CHO_communism_DEF:0 "The Chosaint Union"
- CHO_neoconservativism_DEF:0 "Provential Chosaint"
+ CHO_neocon_DEF:0 "Provential Chosaint"
  # Granderia
  GRA:0 "Granderia"
  GRA_DEF:0 "Granderia"
@@ -361,7 +362,7 @@
  SWE_DEF:0 "Sweize"
  SWE_neutrality_DEF:0 "The Sweize Confederacy"
  SWE_fascism_DEF:0 "The Free State of Sweize"
- SWE_neoconservativism_DEF:0 "The United Provinces of Sweize"
+ SWE_neocon_DEF:0 "The United Provinces of Sweize"
  # Gume
  GUM:0 "Guma"
  GUM_DEF:0 "Guma"
@@ -395,6 +396,10 @@
  OPE:0 "Opia"
  OPE_DEF:0 "Opia"
  OPE_ADJ:0 "Opian"
+ # Fidelis
+ FID:0 "Fidelis"
+ FID_DEF:0 "The Holy Fidelis Federacy"
+ FID_ADJ:0 "Fidelian"
 
 
 ###DOREN###
@@ -405,7 +410,7 @@
  ARC_fascism_DEF:0 "Ultranationalist Arcadia"
  ARC_democratic_DEF:0 "The Republic of Arcadia"
  ARC_communism_DEF:0 "Union of Arcadian Socialist Repubics"
- ARC_neoconservativism_DEF:0 "The Arcadian Imperial Union"
+ ARC_neocon_DEF:0 "The Arcadian Imperial Union"
  # Aenia
  AEN:0 "Aenia"
  AEN_DEF:0 "Aenia"
@@ -413,7 +418,7 @@
  AEN_fascism_DEF:0 "Aenian Konig-State"
  AEN_democratic_DEF:0 "Federal Republic of Aenia" 
  AEN_communism_DEF:0 "Aenian Democratic Republic"
- AEN_neoconservativism_DEF:0 "Federation of Central Aenia"
+ AEN_neocon_DEF:0 "Federation of Central Aenia"
  AEN_corporatism_DEF:0 "The Ravninny Trade Collective"
  # Halco
  HAL:1 "Halco"
@@ -421,7 +426,7 @@
  HAL_ADJ:0 "Halcian"
  HAL_fascism_DEF:0 "Halcian Empire"
  HAL_democratic_DEF:0 "The United Republic of Halco"
- HAL_neoconservativism_DEF:0 "The Halcian States"
+ HAL_neocon_DEF:0 "The Halcian States"
  # Kanbek
  KAN:1 "Kanbek"
  KAN_DEF:1 "Kanbek"
@@ -429,7 +434,7 @@
  KAN_fascism_DEF:0 "Free Kanbek"
  KAN_democratic_DEF:0 "The Kanbek Republic"
  KAN_communism_DEF:0 "The Commune of Kanbek"
- KAN_neoconservativism_DEF:0 "The Kanbek Commonwealth"
+ KAN_neocon_DEF:0 "The Kanbek Commonwealth"
  # Eradica
  ERA:0 "Eradica"
  ERA_DEF:0 "Eradica"
@@ -445,8 +450,8 @@
  KON_communism_DEF:0 "Union of Arcadian Communes"
  KON_corporatism_DEF:0 "The Ravninny Trade Collective"
  # Zeraor
- ZER:0 "Zeraor"
- ZER_DEF:0 "Zeraor"
+ ZER:0 "Zeroa"
+ ZER_DEF:0 "Zeroa"
  ZER_ADJ:0 "Zeran"
  # Amber
  AMB:0 "Amber"
@@ -455,7 +460,7 @@
  # Zapoda
  ZAP:0 "Zapoda"
  ZAP_DEF:0 "Zapoda"
- ZAP_ADJ:0 "Ilidag"
+ ZAP_ADJ:0 "Zapode"
  # Belasriov
  BEL:0 "Belasriov"
  BEL_DEF:0 "Belasriov"
@@ -471,7 +476,7 @@
  # Nisoridav
  NIS:0 "Nisoridav"
  NIS_DEF:0 "Nisoridav"
- NIS_ADJ:0 "Nisoridavn"
+ NIS_ADJ:0 "Nisoridav"
  # Radivosa
  RAD:0 "Radivosa"
  RAD_DEF:0 "Radivosa"
@@ -480,6 +485,10 @@
  GOR:0 "Gorodsky"
  GOR_DEF:0 "Gorodsky"
  GOR_ADJ:0 "Gorodskite"
+ # Essen
+ ESS:0 "Essen"
+ ESS_DEF:0 "The Confederal Republic of Essen"
+ ESS_ADJ:0 "Essen"
  # Gagriel
  GAG:0 "Gagriel"
  GAG_DEF:0 "Gagriel"
@@ -503,10 +512,10 @@
  ZHA:0 "Zhastram"
  ZHA_DEF:0 "Zhastram"
  ZHA_ADJ:0 "Zhastrame"
- # Nomane
- NOM:0 "Nomane"
- NOM_DEF:0 "Nomane"
- NOM_ADJ:0 "Nomani"
+ # Feniks
+ FEN:0 "Feniks"
+ FEN_DEF:0 "Feniks"
+ FEN_ADJ:0 "Fennik"
  # Maryurt
  MAR:0 "Maryurt"
  MAR_DEF:0 "Maryurt"
@@ -521,18 +530,10 @@
  SER:0 "Panseria"
  SER_DEF:0 "Panseria"
  SER_ADJ:0 "Panserrian"
- # Gibrazi stova
- GIB:0 "Gibrazi"
- GIB_DEF:0 "Gibrazi Stova"
- GIB_ADJ:0 "Stovan"
  # Ainak
- NTH:0 "Ainak"
- NTH_DEF:0 "Ainak"
- NTH_ADJ:0 "Ainak"
- # Reddus
- RED:0 "Reddus"
- RED_DEF:0 "Reddus"
- RED_ADJ:0 "Reddan"
+ AIN:0 "Ainak"
+ AIN_DEF:0 "Ainak"
+ AIN_ADJ:0 "Ainak"
 
 
 ###BASKAY###
@@ -547,7 +548,7 @@
  OWL_ADJ:0 "Owlian"
  OWL_democratic_DEF:1 "The Owlian Union"
  OWL_communism_DEF:1 "The Owlian Union"
- OWL_neoconservativism_DEF:0 "United Owlia"
+ OWL_neocon_DEF:0 "United Owlia"
  # Basil
  BSL:1 "Basil"
  BSL_DEF:1 "Basil"
@@ -570,7 +571,7 @@
  SPE_ADJ:0 "Spearkan"
  SPE_fascism_DEF:0 "The Spearkan Empire"
  SPE_democratic_DEF:1 "The Spearkan Federation"
- SPE_neoconservativism_DEF:1 "The Spearkan Federation"
+ SPE_neocon_DEF:1 "The Spearkan Federation"
  SPE_communism_DEF:0 "The Spearkan Union"
  # Zeoul
  ZEO:0 "Zeoul"
@@ -582,7 +583,7 @@
  HER_ADJ:0 "Hermian"
  HER_communism_DEF:0 "The Union of Hermian Republics"
  HER_democratic_DEF:0 "The United Republic of Hermia"
- HER_neoconservativism_DEF:0 "The Hermian Federation"
+ HER_neocon_DEF:0 "The Hermian Federation"
  # Iconia
  ICO:0 "Iconia"
  ICO_DEF:0 "Iconia"
@@ -597,7 +598,7 @@
  GAL:0 "Gallante"
  GAL_DEF:0 "Gallante"
  GAL_ADJ:0 "Galeon"
- GAL_neoconservativism_DEF:0 "The Gallante Federation"
+ GAL_neocon_DEF:0 "The Gallante Federation"
  GAL_democratic_DEF:0 "The Gallante Federation"
  GAL_corporatism:0 "Galeony-Anglerland"
  GAL_corporatism_DEF:1 "The Profitable Confederation of Galeony and the Anglerland League"
@@ -620,9 +621,9 @@
  KRC_ADJ:0 "Zeoulian"
  KRC_democratic_DEF:0 "The Kercian Constitutional Republic"
  # Prodava
- PRO:0 "Zeoul"
- PRO_DEF:0 "Zeoul"
- PRO_ADJ:0 "Zeoulian"
+ PRO:0 "Prodava"
+ PRO_DEF:0 "Prodava"
+ PRO_ADJ:0 "Prodavan"
  PRO_democratic_DEF:0 "The Parliamentary Republic of Prodava"
  # Urjof
  URJ:0 "Uröjf"
@@ -651,6 +652,16 @@
  LAN:0 "Lanu"
  LAN_DEF:0 "Moagalanu"
  LAN_ADJ:0 "Lanu"
+ # Seifare
+ SEI:0 "Seifare"
+ SEI_DEF:0 "Seifare"
+ SEI_neutrality_DEF:0 "The Province of Seifare"
+ SEI_ADJ:0 "Seifairn"
+ # Equatoria
+ EQU:0 "Equatoria"
+ EQU_DEF:0 "Equatoria"
+ EQU_neutrality_DEF:0 "The City of Equatoria"
+ EQU_ADJ:0 "Equatorian"
  # Reciprocity
  REC:0 "Reciprocity"
  REC_DEF:0 "The Reciprocity"
@@ -675,7 +686,7 @@
  NAU:0 "Nautilus"
  NAU_DEF:0 "Nautilus"
  NAU_ADJ:0 "Nautillian"
- NAU_neoconservativism_DEF:0 "The Commonwealth of Nautilus"
+ NAU_neocon_DEF:0 "The Commonwealth of Nautilus"
 
 
 ###CALEDON###
@@ -727,6 +738,7 @@
  NOR_DEF:0 "Norland"
  NOR_ADJ:0 "Norlander"
  NOR_democratic_DEF:0 "The Norlander Republic"
+ NOR_fascism_DEF:0 "The Empire of Norlaw"
  # Benine
  BEN:0 "Benine"
  BEN_DEF:0 "Benine"
@@ -748,6 +760,10 @@
  MED:0 "Medwedia"
  MED_DEF:0 "Medwedia"
  MED_ADJ:0 "Medwed"
+ # Gibrazi stova
+ GIB:0 "Gibrazi"
+ GIB_DEF:0 "Gibrazi Stova"
+ GIB_ADJ:0 "Stovan"
  # Kerragon
  KER:0 "Kerragon"
  KER_DEF:0 "Kerragon"
@@ -765,7 +781,10 @@
  # Edva
  EDV:0 "Edva"
  EDV_DEF:0 "Nova Edva Dominica"
- EDV_ADJ:0 "Edva"
+ EDV_ADJ:0 "Edvan"
+ EDV_fascism:0 "Elohim"
+ EDV_fascism_DEF:0 "Empire of New Elohim"
+ EDV_fascism_ADJ:0 "Elohim"
  # Helacia - Sondermark
  HEL:0 "Helacia - Sondermark"
  HEL_DEF:0 "Helacia - Sondermark"
@@ -774,21 +793,19 @@
  RAF:0 "Rafland"
  RAF_DEF:0 "Rafland"
  RAF_ADJ:0 "Raf"
- # Thanatos
- THA:0 "Thanatos"
- THA_DEF:0 "Thanatos"
- THA_ADJ:0 "Thanetian"
  # Crytil
  CRY:0 "Crytil"
  CRY_DEF:0 "Crytil"
+ CRY_democratic_DEF:0 "The Semuyic Republic of Crytil"
  CRY_ADJ:0 "Crytil"
- # Potestates
- POT:0 "Potestates"
- POT_DEF:0 "Potestates"
- POT_ADJ:0 "Pote"
+ # Vonia
+ VON:0 "Vonia"
+ VON_DEF:0 "Vonia"
+ VON_democratic_DEF:0 "The Vonian Great Republic"
+ VON_ADJ:0 "Vonian"
 
 
-###VEIID###
+###Ur###
  # Krbjia
  KAL:0 "Krbjia"
  KAL_DEF:0 "Krbjia"
@@ -830,10 +847,11 @@
  IRS_ADJ:0 "Irsmun"
  IRS_corporatism_DEF:0 "The Corporate Dominion of Irsmuncast"
  IRS_democratic_DEF:0 "The United Dominions of Irsmuncast"
- IRS_neoconservativism_DEF:0 "The United Dominions of Irsmuncast"
+ IRS_neocon_DEF:0 "The United Dominions of Irsmuncast"
  # Carthia
  CAR:0 "Carthia"
  CAR_DEF:0 "Carthia"
+ CAR_democratic_DEF:0 "The Federal Republic of Carthia"
  CAR_ADJ:0 "Carthian"
  # Feliskia
  FEL:0 "Feliskia"
@@ -843,18 +861,14 @@
  EGR:0 "Egros"
  EGR_DEF:0 "Egros"
  EGR_ADJ:0 "Egroan"
- # Sithembile
- SIT:0 "Sithembile"
- SIT_DEF:0 "Sithembile"
- SIT_ADJ:0 "Billic"
- # Veiid
- VEI:0 "Veiid"
- VEI_DEF:0 "Veiid"
- VEI_ADJ:0 "Veiidi"
- # Katec
- KAT:0 "Katec"
- KAT_DEF:0 "Katec"
- KAT_ADJ:0 "Katecian"
+ # Uswait
+ USE:0 "Uswait"
+ USE_DEF:0 "Uswait"
+ USE_ADJ:0 "Uswait"
+ # Ur
+ URR:0 "Ur"
+ URR_DEF:0 "Free People's Democratic Republic of Ur"
+ URR_ADJ:0 "Urvine"
  # Mentonogra
  MEN:0 "Mentonogra"
  MEN_DEF:0 "Mentonogra"
@@ -872,7 +886,7 @@
  TOR_ADJ:0 "Deltoran"
  TOR_fascism_DEF:0 "The Deltoran Empire"
  TOR_democratic_DEF:0 "The Deltoran Republic"
- TOR_neoconservativism_DEF:0 "The Deltora States"
+ TOR_neocon_DEF:0 "The Deltora States"
  # Delta
  DTA:0 "Delta"
  DTA_DEF:0 "Delta"

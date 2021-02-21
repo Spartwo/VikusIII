@@ -16,7 +16,10 @@ state={
 	buildings_max_level_factor=1.000
 	state_category=city
 history={
-		owner = HER
-		add_core_of = HER
+		owner = CAN
+		add_core_of = CAN
+		victory_points = { 1472 20 } #Kenslav
+		victory_points = { 1433 10 } #Rotomagia
+		victory_points = { 1309 10 } #Casta
 	}
 }

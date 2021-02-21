@@ -14,7 +14,7 @@ state={
 	history={
 		owner = SAR
 		add_core_of = SAR
-		
+        	victory_points = { 2050 10 } #Esperi
 
 	}
 

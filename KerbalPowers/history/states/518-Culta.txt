@@ -6,6 +6,8 @@ state={
 	history={
 		owner = REC
 		add_core_of = REC
+		victory_points = { 4199 10 } #Pysre
+		victory_points = { 4054 10 } #Sckken
 
 	}
 

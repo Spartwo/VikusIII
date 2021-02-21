@@ -6,6 +6,7 @@ state={
 	history={
 		owner = ZZV
 		add_core_of = ZZV
+		victory_points = { 4607 10 } #Noelin
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1

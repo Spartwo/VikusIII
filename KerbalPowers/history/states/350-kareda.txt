@@ -14,6 +14,8 @@ state={
 	history={
 		owner = LOT
 		add_core_of = LOT
+		add_core_of = KAA
+        victory_points = { 6873 10 } #Kareda
 
 	}
 

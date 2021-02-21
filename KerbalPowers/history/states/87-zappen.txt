@@ -6,9 +6,8 @@ state={
 	history={
 		owner = ROV
 		add_core_of = ROV
-		victory_points = {
-			4905 5 
-		}
+		add_core_of = OPE
+		victory_points = { 4803 10 } #Zappen
 		buildings = {
 			infrastructure = 5
 			arms_factory = 1

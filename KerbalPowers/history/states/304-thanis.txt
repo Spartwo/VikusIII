@@ -14,9 +14,9 @@ state={
 	history={
 		owner = HAL
 		add_core_of = HAL
-		victory_points = {
-			5887 5 
-		}
+		victory_points = { 437 10 } #Thanis
+		victory_points = { 6092 10 } #Backmark
+		victory_points = { 6098 10 } #Portwa
 
 	}
 

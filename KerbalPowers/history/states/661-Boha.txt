@@ -1,0 +1,21 @@
+state={
+	id=661
+	name="STATE_661"
+	provinces={
+		764 777 781 819 820 840 875 880 910 913 942 959 1009 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+ 	state_category=large_town
+	history={
+		owner = OWL
+		add_core_of = OWL
+		victory_points = {
+			777 10 
+		}
+		victory_points = {
+			959 10 
+		}
+
+	}
+}

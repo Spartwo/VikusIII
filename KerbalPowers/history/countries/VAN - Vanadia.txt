@@ -1,7 +1,7 @@
 ﻿capital = 44
 
 oob = "RMAP_TEMPLATE"
-set_cosmetic_tag = HIDE_COS
+
 
 set_research_slots = 2
 set_convoys = 100
@@ -20,7 +20,7 @@ set_popularities = {
 }
 
 set_politics = {
-	ruling_party = communism
+	ruling_party = fascism
 	last_election = "2048.5.8"
 	election_frequency = 84
 	elections_allowed = yes

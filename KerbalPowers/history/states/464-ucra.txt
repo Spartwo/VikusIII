@@ -15,7 +15,7 @@ state={
 		owner = ZZX
 		add_core_of = ZZX
 		victory_points = {
-			2125 20 
+			2125 10 
 		}
 
 	}

@@ -14,9 +14,9 @@ state={
 	history={
 		owner = LAN
 		add_core_of = LAN
-		victory_points = {
-			2126 10 
-		}
+		victory_points = { 2200 10 } #Vaima
+		victory_points = { 2030 10 } #Tahuitl
+		victory_points = { 2075 10 } #Toraima
 
 	}
 

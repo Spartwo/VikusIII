@@ -6,6 +6,8 @@ state={
 	history={
 		owner = EUR
 		add_core_of = EUR
+		add_core_of = TRE
+		add_claim_by = UNI
 		victory_points = {
 			2552 5 
 		}

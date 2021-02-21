@@ -11,6 +11,9 @@ state={
 	history={
 		owner = ICO
 		add_core_of = ICO
+		add_core_of = KCA
+		add_core_of = URJ
+        victory_points = { 279 10 } #Dua
 
 	}
 }

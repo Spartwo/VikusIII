@@ -24,7 +24,7 @@ set_popularities = {
 	neutrality = 31 #Neutrality
 	fascism = 45 #Nationalism
 	democratic = 24 #Liberalism
-	neoconservativism = 0
+	neocon = 0
 	corporatism = 0
 }
 

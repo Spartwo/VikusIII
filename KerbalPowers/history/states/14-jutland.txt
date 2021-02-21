@@ -14,9 +14,8 @@ state={
 	history={
 		owner = VSA
 		add_core_of = VSA
-		victory_points = {
-			3633 20 
-		}
+		victory_points = { 3633 10 } #Cyteh
+		victory_points = { 3962 10 } #Jutland
 		buildings = {
 			infrastructure = 5
 			arms_factory = 0

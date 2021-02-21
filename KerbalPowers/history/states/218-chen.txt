@@ -12,14 +12,14 @@ state={
 	}
 
 	history={
-		owner = NOM
-		add_core_of = NOM
+		owner = ZZY
+		add_core_of = ZZY
 		add_core_of = SLO
-
+        	victory_points = { 2142 10 } #Covska
 	}
 
 	provinces={
-		1994 2033 2079 2142 2145 2231 2255 
+		1994 2033 2079 2142 2145 2164 2231 2255 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

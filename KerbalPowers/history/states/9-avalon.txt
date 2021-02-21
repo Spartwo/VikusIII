@@ -20,6 +20,6 @@ state={
 	history={
 		owner = VSA
 		add_core_of = VSA
-		victory_points = { 3895 15 }
+		victory_points = { 3895 15 } #Avalon
 	}
 }

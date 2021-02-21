@@ -6,6 +6,9 @@ state={
 	history={
 		owner = LOT
 		add_core_of = LOT
+        victory_points = { 6696 10 } #Silcona
+        victory_points = { 6692 10 } #Rore
+        victory_points = { 6762 10 } #Graet
 
 	}
 

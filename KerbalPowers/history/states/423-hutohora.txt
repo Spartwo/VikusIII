@@ -19,5 +19,6 @@ state={
 history={
 		owner = FEG
 		add_core_of = FEG
+		victory_points = { 4299 10 } #Hutohora
 	}
 }

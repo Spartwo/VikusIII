@@ -1,0 +1,28 @@
+state={
+	id=659
+	name="STATE_659"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=0.000
+		oil=30.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = ZAP
+		add_core_of = ZAP
+		victory_points = { 5099 20 } #Toppan
+		victory_points = { 1409 10 } #Ralsa
+		victory_points = { 5234 10 } #Todra
+
+	}
+
+	provinces={
+		1409 3360 3687 3897 5099 5234 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

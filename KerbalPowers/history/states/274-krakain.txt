@@ -7,6 +7,8 @@ state={
 		owner = ELY
 		add_core_of = ELY
 		add_claim_by = KAR
+		add_core_of = ARK
+		victory_points = { 6052 10 }
 
 	}
 

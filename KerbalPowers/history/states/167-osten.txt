@@ -14,9 +14,7 @@ state={
 	history={
 		owner = SPE
 		add_core_of = SPE
-		victory_points = {
-			161 20 
-		}
+		victory_points = { 134 10 } #Osten
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1

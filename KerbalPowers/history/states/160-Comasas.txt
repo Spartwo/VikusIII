@@ -14,8 +14,8 @@ state={
 	history={
 		owner = BAS
 		add_core_of = BAS
-		
-
+		victory_points = { 2218 10 } #Bonatillo
+		victory_points = { 2055 10 } #Comasas
 	}
 
 	provinces={

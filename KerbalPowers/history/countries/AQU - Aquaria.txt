@@ -27,7 +27,7 @@ set_politics = {
 
 create_country_leader = {
 	name = "Lambchop Kerman"
-	picture = "GFX_leader_unknown.dds"
+	picture = "GFX_leader_unknown.dds"
 	ideology = socialism
 	traits = {
 		

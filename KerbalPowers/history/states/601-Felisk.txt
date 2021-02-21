@@ -6,13 +6,15 @@ state={
 	history={
 		owner = FEL
 		add_core_of = FEL
+		victory_points = { 232 10 } #Punkt
+		victory_points = { 36 10 } #Felisk
 
 	}
 
 	provinces={
-		36 49 232 365 
+		36 232 365 
 	}
 	manpower=100000
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=town
 }

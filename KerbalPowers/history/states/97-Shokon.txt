@@ -14,6 +14,8 @@ state={
 	history={
 		owner = ANG
 		add_core_of = ANG
+		victory_points = { 433 10 } #Veran
+		victory_points = { 460 10 } #Shokon
 	}
 
 	provinces={

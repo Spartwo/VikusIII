@@ -6,6 +6,9 @@ state={
 	history={
 		owner = RAD
 		add_core_of = RAD
+		victory_points = { 4473 10 } #Priyenat
+		victory_points = { 4403 10 } #Breynabri
+		victory_points = { 4215 10 } #Kaichira
 
 	}
 

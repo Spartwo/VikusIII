@@ -6,6 +6,10 @@ state={
 	history={
 		owner = ION
 		add_core_of = ION
+		victory_points = { 5826 10 } #Manra
+		victory_points = { 5647 20 } #Ionas
+		victory_points = { 5460 10 } #Adlard
+		victory_points = { 5788 10 } #Namane
 
 	}
 

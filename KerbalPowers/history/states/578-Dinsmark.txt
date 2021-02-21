@@ -10,5 +10,6 @@ state={
 history={
 		owner = STR
 		add_core_of = STR
+		victory_points = { 5995 10 }
 	}
 }

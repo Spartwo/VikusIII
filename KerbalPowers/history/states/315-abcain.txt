@@ -6,11 +6,12 @@ state={
 	history={
 		owner = HEL
 		add_core_of = HEL
+		victory_points = { 6928 10 } #Abcain
 
 	}
 
 	provinces={
-		492 6421 6599 6928 7020 
+		492 6599 6928 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

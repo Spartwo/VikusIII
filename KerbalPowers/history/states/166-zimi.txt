@@ -6,9 +6,8 @@ state={
 	history={
 		owner = SPE
 		add_core_of = SPE
-		victory_points = {
-			337 15 
-		}
+		victory_points = { 274 10 } #Poletch
+		victory_points = { 425 10 } #Rimis
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1

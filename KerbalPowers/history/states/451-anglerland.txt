@@ -6,6 +6,8 @@ state={
 	history={
 		owner = GAL
 		add_core_of = GAL
+		victory_points = { 1235 10 } #Angla
+		victory_points = { 1275 10 } #Bolzana
 
 	}
 

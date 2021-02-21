@@ -15,6 +15,10 @@ state={
 		owner = VEN
 		add_core_of = VEN
 		add_core_of = EST
+		victory_points = { 2669 10 } #Maupiti
+		victory_points = { 2399 10 } #Ayannas
+		victory_points = { 2257 10 } #Kold
+		victory_points = { 2558 20 } #Psyca
 
 	}
 

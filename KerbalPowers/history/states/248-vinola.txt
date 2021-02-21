@@ -6,6 +6,7 @@ state={
 	history={
 		owner = HEI
 		add_core_of = HEI
+		victory_points = { 6814 10 } #Vinola
 
 	}
 

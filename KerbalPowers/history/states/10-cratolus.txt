@@ -20,6 +20,7 @@ state={
 history={
 		owner = VSA
 		add_core_of = VSA
-		victory_points = { 4291 10 }
+		victory_points = { 4291 10 } #Bumer
+		victory_points = { 4066 10 } #Cratolus
 	}
 }

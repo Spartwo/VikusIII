@@ -15,9 +15,9 @@ state={
 		owner = OPE
 		add_core_of = OPE
 		add_core_of = CLO
-		victory_points = {
-			5181 10 
-		}
+		victory_points = { 5205 10 } #Clowe
+		victory_points = { 5181 10 } #Drek
+		victory_points = { 5439 10 } #Sesea
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1

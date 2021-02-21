@@ -1,3 +1,4 @@
+
 state={
 	id=647
 	name="STATE_647"
@@ -14,12 +15,16 @@ state={
 		owner = SAN
 		add_core_of = SAN
 		add_core_of = RID
+		victory_points = {
+			3069 10 
+		}
 
 	}
+
 	provinces={
-		2930 2958 3069 
+		2902 2930 2958 3069 
 	}
 	manpower=1000000
- 	state_category=pastoral
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

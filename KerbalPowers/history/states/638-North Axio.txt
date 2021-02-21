@@ -15,6 +15,9 @@ state={
 		owner = VNO
 		add_core_of = VNO
 		add_claim_by = KRO
+		add_core_of = VOC
+		add_core_of = LOV
+		victory_points = { 4777 5 }
 		buildings = {
 
 		}

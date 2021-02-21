@@ -10,6 +10,7 @@ state={
 	history={
 		owner = VNO
 		add_core_of = VNO
+		victory_points = { 5452 10 }
 
 	}
 }

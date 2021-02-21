@@ -15,8 +15,9 @@ state={
 		owner = AEN
 		add_core_of = AEN
 		add_core_of = ARC
-		victory_points = { 5528 10 }
-		victory_points = { 5318 10 }
+		victory_points = { 5528 10 } #Severn
+		victory_points = { 5318 10 } #Anderson
+		#Stihlgrad
 	}
 
 	provinces={

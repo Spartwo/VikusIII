@@ -14,11 +14,12 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
+		victory_points = { 6858 10 } #Posta
 
 	}
 
 	provinces={
-		6736 6770 6795 6858 6859 6874 6883 6926 6936 
+		6736 6770 6795 6858 6859 6874 6883 6936 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

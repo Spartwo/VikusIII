@@ -14,11 +14,15 @@ state={
 	history={
 		owner = REC
 		add_core_of = REC
+		add_core_of = ROS
+		victory_points = {
+			3654 10 
+		}
 
 	}
 
 	provinces={
-		3538 3544 3562 3604 3615 3632 3654 3706 3717 3729 3734 3777 3789 
+		3538 3544 3562 3580 3604 3615 3632 3654 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

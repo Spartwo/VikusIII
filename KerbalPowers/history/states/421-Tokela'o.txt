@@ -14,14 +14,13 @@ state={
 	history={
 		owner = FEG
 		add_core_of = FEG
-		victory_points = {
-			3455 15 
-		}
+		victory_points = { 3412 10 } #Tokela'o
+		victory_points = { 3195 10 } #Fatau
 
 	}
 
 	provinces={
-		3040 3098 3099 3108 3174 3195 3210 3286 3300 3304 3334 3372 3388 3412 3451 3455 
+		3040 3098 3099 3108 3174 3195 3210 3286 3300 3304 3334 3372 3388 3412 3455 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

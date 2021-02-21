@@ -1,15 +1,19 @@
+
 state={
 	id=622
 	name="STATE_622"
-	provinces={
-		3078 3130 3208 3220 3272 3311 3348 3357 3421 3477 
-	}
-	manpower=100000
-	buildings_max_level_factor=1.000 
- 	 state_category=rural
+
 	history={
-		owner = NTH
-		add_core_of = NTH
+		owner = AIN
+		add_core_of = AIN
+        	victory_points = { 3272 10 } #Talyoak
 
 	}
+
+	provinces={
+		3078 3130 3208 3220 3272 3348 3357 3421 3477 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=rural
 }

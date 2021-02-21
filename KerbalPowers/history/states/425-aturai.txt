@@ -6,9 +6,7 @@ state={
 	history={
 		owner = FEG
 		add_core_of = FEG
-		victory_points = {
-			2727 50 
-		}
+		victory_points = { 2956 10 } #Aitur'i
 
 	}
 

@@ -7,6 +7,9 @@ state={
 		owner = ZOK
 		add_core_of = ZOK
 		add_core_of = BOS
+		victory_points = { 4247 20 } #Ezekialgrad
+		victory_points = { 4452 10 } #Freetowne
+		victory_points = { 4374 10 } #Ellagrad
 
 	}
 

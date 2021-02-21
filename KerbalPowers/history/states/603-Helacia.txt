@@ -11,6 +11,7 @@ state={
 	history={
 		owner = MED
 		add_core_of = MED
+		victory_points = { 1096 10 } #Helacia
 
 	}
 }

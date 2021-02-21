@@ -4,13 +4,14 @@ state={
 	name="STATE_617"
 
 	history={
-		owner = MAR
-		add_core_of = MAR
+		owner = ZZX
+		add_core_of = ZZX
+		victory_points = { 3630 10 } #Nagan
 
 	}
 
 	provinces={
-		3399 3520 3578 3623 3630 3675 3712 3765 3843 
+		3399 3520 3578 3623 3630 3675 3712
 	}
 	manpower=100000
 	buildings_max_level_factor=1.000

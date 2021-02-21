@@ -14,12 +14,13 @@ state={
 		tungsten=0
 	}
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=city
 #73 Naval
 #69 capital
 history={
 		owner = STM
 		add_core_of = STM
-		victory_points = { 74 5 }
+		victory_points = { 57 10 } #Sol
+		victory_points = { 74 5 } #Lupis
 	}
 }

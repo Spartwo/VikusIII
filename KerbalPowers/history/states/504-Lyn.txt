@@ -4,16 +4,14 @@ state={
 	name="STATE_504"
 
 	history={
-		owner = KAT
-		add_core_of = KAT
-		victory_points = {
-			1640 30 
-		}
+		owner = ZZY
+		add_core_of = ZZY
+		victory_points = { 1705 10 } #Lyn
 
 	}
 
 	provinces={
-		1500 1511 1561 1585 1617 1640 1662 1685 1705 1724 1740 
+		1500 1511 1561 1571 1585 1617 1640 1662 1674 1685 1705 1724 1740 1771 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

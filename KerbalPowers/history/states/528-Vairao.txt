@@ -14,6 +14,8 @@ state={
 	history={
 		owner = FEG
 		add_core_of = FEG
+		victory_points = { 2673 10 } #Waikilua
+		victory_points = { 2835 10 } #Vairao
 
 	}
 

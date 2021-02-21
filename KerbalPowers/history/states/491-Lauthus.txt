@@ -12,8 +12,10 @@ state={
 	}
 
 	history={
-		owner = ZZX
-		add_core_of = ZZX
+		owner = ZHA
+		add_core_of = ZHA
+        	victory_points = { 2314 20 } #Lauth
+        	victory_points = { 2344 10 } #Almat
 
 	}
 

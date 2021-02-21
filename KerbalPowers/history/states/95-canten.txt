@@ -6,6 +6,7 @@ state={
 	history={
 		owner = ZZV
 		add_core_of = ZZV
+		victory_points = { 5416 10 } #Canten
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1

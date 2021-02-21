@@ -12,9 +12,9 @@ state={
 		owner = AEN
 		add_core_of = AEN
 		add_core_of = ARC
-		victory_points = { 5263 10 }
-		victory_points = { 5179 10 }
-		victory_points = { 5213 10 }
+		victory_points = { 5263 10 } #Chatoc
+		victory_points = { 5179 10 } #Suze
+		victory_points = { 5213 10 } #Arcovy
 
 	}
 }

@@ -11,6 +11,7 @@ state={
 	history={
 		owner = ICO
 		add_core_of = ICO
+		victory_points = { 1110 10 } #Tao
 
 	}
 }

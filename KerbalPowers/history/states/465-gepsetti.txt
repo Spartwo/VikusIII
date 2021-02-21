@@ -6,6 +6,8 @@ state={
 	history={
 		owner = BEL
 		add_core_of = BEL
+		victory_points = { 4573 10 } #Gepsetti
+		victory_points = { 4471 10 } #Siblisk
 
 	}
 

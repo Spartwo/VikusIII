@@ -11,5 +11,7 @@ state={
 history={
 		owner = ANG
 		add_core_of = ANG
+		victory_points = { 761 20 } #Rivon
+		victory_points = { 709 10 } #Albilun
 	}
 }

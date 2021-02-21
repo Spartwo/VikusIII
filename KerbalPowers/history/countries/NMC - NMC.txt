@@ -13,14 +13,15 @@ set_technology = {
 
 set_popularities = {
 	democratic = 0
-	fascism = 80
-	communism = 20
-	neutrality = 0	
+	fascism = 10
+	overlordship = 70
+	communism = 0
+	neutrality = 20	
 }
 
 set_politics = {
 	
-	ruling_party = fascism
+	ruling_party = overlordship
 	last_election = "2045.9.11"
 	election_frequency = 24
 	elections_allowed = no

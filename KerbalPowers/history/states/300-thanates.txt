@@ -14,11 +14,13 @@ state={
 	history={
 		owner = HEL
 		add_core_of = HEL
+		victory_points = { 1328 10 } #Rudmark
+		victory_points = { 6331 10 } #Hauken
 
 	}
 
 	provinces={
-		444 1056 1328 6331 6342 6412 6979 
+		1056 1328 6331 6342 6979 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

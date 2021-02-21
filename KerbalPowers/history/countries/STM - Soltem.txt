@@ -14,14 +14,14 @@ set_technology = {
 set_popularities = {
 	communism = 0 #Statism
 	neutrality = 100 #Neutrality
-	neoconservativism = 0
+	neocon = 0
 	fascism = 0 #Nationalism
 	corporatism = 0
 	democratic = 0 #Liberalism
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = hermitism
 	last_election = "2046.1.2"
 	election_frequency = 48
 	elections_allowed = yes

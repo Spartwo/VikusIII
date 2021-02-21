@@ -15,6 +15,7 @@ state={
 		owner = TOR
 		add_core_of = TOR
 		add_core_of = CAR
+		victory_points = { 227 10 } #Stell
 
 	}
 

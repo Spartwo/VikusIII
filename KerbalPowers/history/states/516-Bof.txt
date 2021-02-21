@@ -4,16 +4,18 @@ state={
 	name="STATE_516"
 
 	history={
-		owner = ZZW
-		add_core_of = ZZW
+		owner = BEH
+		add_core_of = BEH
+		victory_points = {
+			1152 10 
+		}
 
 	}
-	
 
 	provinces={
-		830 904 917 990 1065 1447 
+		1129 1152 1170 1216 1257 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=pastoral
 }

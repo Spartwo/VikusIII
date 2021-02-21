@@ -6,6 +6,7 @@ state={
 	history={
 		owner = ZZW
 		add_core_of = ZZW
+		victory_points = { 454 10 } #Iroa
 
 	}
 	

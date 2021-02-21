@@ -14,6 +14,9 @@ state={
 	history={
 		owner = OWL
 		add_core_of = OWL
+		victory_points = { 785 10 } #Baskaia
+		victory_points = { 707 10 } #Bradley
+		victory_points = { 596 10 } #Libre
 
 	}
 

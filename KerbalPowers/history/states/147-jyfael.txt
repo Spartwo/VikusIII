@@ -14,9 +14,8 @@ state={
 	history={
 		owner = LAY
 		add_core_of = LAY
-		victory_points = {
-			144 25 
-		}
+		victory_points = { 193 25 } #Jyfael
+		victory_points = { 144 25 } #Kayduwld
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1

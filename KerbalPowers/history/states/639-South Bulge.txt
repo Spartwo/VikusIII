@@ -15,9 +15,7 @@ state={
 		owner = SAN
 		add_core_of = SAN
 		add_claim_by = OWL
-		buildings = {
-
-		}
+		victory_points = { 2210 10 } #Bulge
 
 	}
 

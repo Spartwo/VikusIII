@@ -6,6 +6,9 @@ state={
 	history={
 		owner = ROV
 		add_core_of = ROV
+		add_core_of = OPE
+		victory_points = { 4543 10 } #Rovol
+		victory_points = { 4982 10 } #Ryze
 
 	}
 

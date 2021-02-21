@@ -14,13 +14,15 @@ state={
 	history={
 		owner = EDV
 		add_core_of = EDV
+		victory_points = { 6951 10 } #Drablavs
+		victory_points = { 6927 10 } #Vestmark
 
 	}
 
 	provinces={
-		6927 6937 6951 6968 
+		1318 6927 6937 6951 6968 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=town
 }

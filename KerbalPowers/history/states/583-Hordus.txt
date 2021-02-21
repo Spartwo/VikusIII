@@ -8,8 +8,9 @@ state={
 	buildings_max_level_factor=1.000 
  	 state_category=town
 	history={
-		owner = AUR
-		add_core_of = AUR
+		owner = VER
+		add_core_of = VER
+		victory_points = { 6304 10 } #Hodua
 
 	}
 }

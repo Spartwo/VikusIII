@@ -6,6 +6,8 @@ state={
 	history={
 		owner = REC
 		add_core_of = REC
+		victory_points = { 3873 10 } #Litore
+		victory_points = { 3949 10 } #Praceps
 
 	}
 
@@ -14,5 +16,5 @@ state={
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=town
 }

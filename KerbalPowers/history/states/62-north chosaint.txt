@@ -6,7 +6,8 @@ state={
 	history={
 		owner = VAG
 		add_core_of = VAG
-
+		victory_points = { 4676 15 }
+		victory_points = { 4640 10 }
 	}
 
 	provinces={

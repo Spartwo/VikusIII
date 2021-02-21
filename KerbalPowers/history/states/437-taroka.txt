@@ -16,7 +16,10 @@ state={
 	buildings_max_level_factor=1.000
 	state_category=large_town
 history={
-		owner = HER
-		add_core_of = HER
+		owner = CAN
+		add_core_of = CAN
+		victory_points = { 1224 10 } #Candido
+		victory_points = { 1116 10 } #Narbo
+		victory_points = { 1070 10 } #Taroka
 	}
 }

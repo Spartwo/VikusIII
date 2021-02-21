@@ -4,9 +4,10 @@ state={
 	name="STATE_495"
 
 	history={
-		owner = RED
-		add_core_of = RED
-		add_core_of = SAR
+		owner = ZZY
+		add_core_of = ZZY
+        	victory_points = { 2299 10 } #Rzyenad
+        	victory_points = { 2321 20 } #Rairch
 
 	}
 
@@ -15,5 +16,5 @@ state={
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=large_town
 }

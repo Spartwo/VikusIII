@@ -19,7 +19,9 @@ state={
 history={
 		owner = ANG
 		add_core_of = ANG
-		victory_points = { 801 5 }
+		add_core_of = IMP
+		victory_points = { 872 10 } #Normanna
+		victory_points = { 801 10 } #Bjo
 		buildings = {
 			801 = { naval_base = 1 }
 		}

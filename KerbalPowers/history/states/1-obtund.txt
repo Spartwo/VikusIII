@@ -20,6 +20,11 @@ state={
 	history={
 		owner = KOT
 		add_core_of = KOT
+		add_claim_by = PUG
+		victory_points = { 2981 10 } #Marlton
+		victory_points = { 2918 10 } #Saban
+		victory_points = { 2734 10 } #Guthram
+		victory_points = { 2632 20 } #Obtund
 
 	}
 

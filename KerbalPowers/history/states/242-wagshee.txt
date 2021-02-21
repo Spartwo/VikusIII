@@ -4,10 +4,9 @@ state={
 	name="STATE_242"
 
 	history={
-		owner = AUR
-		add_core_of = AUR
-		
-
+		owner = THA
+		add_core_of = THA
+		victory_points = { 6025 10 } #Wagshee
 	}
 
 	provinces={

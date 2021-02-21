@@ -14,11 +14,14 @@ state={
 	history={
 		owner = NOR
 		add_core_of = NOR
+		victory_points = { 517 10 } #Puranolad
+		victory_points = { 6886 20 } #Nore
+		victory_points = { 2652 10 } #Sulund
 
 	}
 
 	provinces={
-		517 618 2275 2532 2652 6786 6823 6886 
+		517 618 2275 2532 2652 6786 6823 6886 6999 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

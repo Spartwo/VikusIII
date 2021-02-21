@@ -11,6 +11,8 @@ state={
 	history={
 		owner = HAL
 		add_core_of = HAL
+		victory_points = { 4672 10 } #Neder
+		victory_points = { 4647 10 } #Vojarn
 
 	}
 }

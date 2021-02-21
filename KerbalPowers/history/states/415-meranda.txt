@@ -14,6 +14,8 @@ state={
 	history={
 		owner = DRA
 		add_core_of = DRA
+		victory_points = { 4228 10 } #Boryet
+		victory_points = { 4368 10 } #Nadyaran
 
 	}
 

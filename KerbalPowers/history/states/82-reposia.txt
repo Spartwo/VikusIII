@@ -19,5 +19,7 @@ state={
 history={
 		owner = MEC
 		add_core_of = MEC
+		victory_points = { 5423 10 } #Reposia
+		victory_points = { 5308 10 } #Ela
 	}
 }

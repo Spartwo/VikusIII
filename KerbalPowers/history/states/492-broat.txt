@@ -6,6 +6,7 @@ state={
 	history={
 		owner = ZZX
 		add_core_of = ZZX
+		victory_points = { 1680 10 } #Broat
 
 	}
 

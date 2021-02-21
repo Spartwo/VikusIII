@@ -4,8 +4,9 @@ state={
 	name="STATE_632"
 
 	history={
-		owner = RED
-		add_core_of = RED
+		owner = AIN
+		add_core_of = AIN
+        	victory_points = { 3116 10 } #Pirov
 
 	}
 
@@ -13,6 +14,6 @@ state={
 		2844 2887 2951 2991 3001 3007 3025 3116 3128 3137 3206 3251 
 	}
 	manpower=100000
-	buildings_max_level_factor=1.000 
- 	 state_category=rural
+	buildings_max_level_factor=1.000
+	state_category=rural
 }

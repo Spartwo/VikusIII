@@ -14,11 +14,14 @@ state={
 	history={
 		owner = BEL
 		add_core_of = BEL
+		victory_points = { 3968 10 } #Ubiyed
+		victory_points = { 5047 10 } #Nezydoc
+		victory_points = { 4623 10 } #Krotzgrad
 
 	}
 
 	provinces={
-		3968 4623 4703 4964 4970 5047 5099 5191 5363 
+		3968 4623 4703 4964 4970 5047 5191 5363 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

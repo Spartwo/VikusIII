@@ -14,9 +14,8 @@ state={
 	history={
 		owner = ANG
 		add_core_of = ANG
-		victory_points = {
-			457 10 
-		}
+		victory_points = { 442 10 } #Mann
+		victory_points = { 532 10 } #Mangozu
 
 	}
 

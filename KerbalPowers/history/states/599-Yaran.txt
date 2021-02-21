@@ -10,5 +10,6 @@ state={
 	history={
 		owner = BOT
 		add_core_of = BOT
+		victory_points = { 5390 10 }#Yaran
 	}
 }

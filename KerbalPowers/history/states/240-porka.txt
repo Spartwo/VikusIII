@@ -4,8 +4,10 @@ state={
 	name="STATE_240"
 
 	history={
-		owner = AUR
-		add_core_of = AUR
+		owner = THA
+		add_core_of = THA
+		victory_points = { 6082 10 } #Hawer
+		victory_points = { 5791 10 } #Llandudno
 
 	}
 

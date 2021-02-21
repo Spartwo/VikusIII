@@ -19,5 +19,7 @@ state={
 history={
 		owner = ALE
 		add_core_of = ALE
+		victory_points = { 1758 10 } #Obten
+		victory_points = { 1776 10 } #Sangrie
 	}
 }

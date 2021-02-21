@@ -15,6 +15,9 @@ state={
 		owner = VEN
 		add_core_of = VEN
 		add_core_of = GAL
+		victory_points = { 1479 10 } #Aquinum
+		victory_points = { 1578 10 } #Dorek
+		victory_points = { 1434 10 } #Galeony
 
 	}
 

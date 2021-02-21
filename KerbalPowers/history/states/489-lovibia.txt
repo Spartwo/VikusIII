@@ -12,15 +12,17 @@ state={
 	}
 
 	history={
-		owner = RED
-		add_core_of = RED
+		owner = ZZY
+		add_core_of = ZZY
+        	victory_points = { 2872 10 } #Hors
+        	victory_points = { 2685 10 } #Lovib
 
 	}
 
 	provinces={
-		2685 2705 2757 2821 2854 2872 2907 2928 2969 2970 2978 2983 3085 3107 3129 3207 3235 3252 
+		2685 2705 2757 2821 2854 2872 2928 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 }

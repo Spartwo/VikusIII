@@ -14,6 +14,7 @@ state={
 	history={
 		owner = GOG
 		add_core_of = GOG
+		victory_points = { 5592 10 } #Hund
 
 	}
 

@@ -6,11 +6,13 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
+		victory_points = { 6784 10 } #Nuev
+		victory_points = { 6847 10 } #Iqaluit
 
 	}
 
 	provinces={
-		6767 6784 6802 6806 6811 6835 6847 6860 6872 6904 6907 6925 
+		6767 6784 6802 6806 6811 6835 6847 6872 6904 6907 6925 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

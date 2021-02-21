@@ -1,7 +1,7 @@
 ﻿capital = 536
 
 oob = "RMAP_TEMPLATE"
-set_cosmetic_tag = HIDE_COS
+
 
 set_research_slots = 3
 set_convoys = 100
@@ -25,7 +25,7 @@ set_popularities = {
 	neutrality = 100 #Neutrality
 	fascism = 0 #Nationalism
 	democratic = 0 #Liberalism
-	neoconservativism = 0
+	neocon = 0
 	corporatism = 0
 }
 

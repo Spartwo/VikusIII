@@ -14,6 +14,8 @@ state={
 	history={
 		owner = NKS
 		add_core_of = NKS
+		add_core_of = KRK
+        victory_points = { 6193 10 } #Stell
 
 	}
 

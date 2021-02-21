@@ -14,11 +14,13 @@ state={
 	history={
 		owner = PHO
 		add_core_of = PHO
+		victory_points = { 6526 10 }#Iro
+		victory_points = { 3826 10 }#Adish
 
 	}
 
 	provinces={
-		212 3599 3826 6526 6743 
+		212 3599 3826 5834 6526 6743 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

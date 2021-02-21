@@ -4,11 +4,9 @@ state={
 	name="STATE_537"
 
 	history={
-		owner = THA
-		add_core_of = THA
-		victory_points = {
-			6706 20 
-		}
+		owner = VON
+		add_core_of = VON
+		victory_points = { 6634 10 } #Thuisca
 
 	}
 

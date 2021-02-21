@@ -6,6 +6,8 @@ state={
 	history={
 		owner = GIZ
 		add_core_of = GIZ
+		victory_points = { 3367 10 } #Algize
+		victory_points = { 3387 10 } #Sankatto
 
 	}
 

@@ -14,6 +14,8 @@ state={
 	history={
 		owner = KRO
 		add_core_of = KRO
+		add_core_of = LOV
+		add_claim_by = VNO
 		victory_points = {
 			4882 10 
 		}

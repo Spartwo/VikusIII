@@ -6,6 +6,7 @@ state={
 	history={
 		owner = VER
 		add_core_of = VER
+		victory_points = { 6424 10 } #Gjoa
 
 	}
 

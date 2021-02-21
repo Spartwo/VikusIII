@@ -14,9 +14,9 @@ state={
 	history={
 		owner = ERU
 		add_core_of = ERU
-		victory_points = {
-			396 10 
-		}
+		victory_points = { 544 10 } #Metar
+		victory_points = { 429 10 } #Cryde
+		victory_points = { 384 10 } #Elkas
 
 	}
 

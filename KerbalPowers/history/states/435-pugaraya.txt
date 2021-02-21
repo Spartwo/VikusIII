@@ -7,9 +7,9 @@ state={
 		owner = VEN
 		add_core_of = VEN
 		add_core_of = EST
-		victory_points = {
-			1990 30 
-		}
+		victory_points = { 2349 10 } #Pugaraya
+		victory_points = { 1910 10 } #Monsur
+		victory_points = { 2165 10 } #Par
 
 	}
 

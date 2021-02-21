@@ -14,13 +14,14 @@ state={
 	history={
 		owner = ZAP
 		add_core_of = ZAP
+		victory_points = { 244 10 } #Abilith
 
 	}
 
 	provinces={
-		244 1409 3360 3543 3687 3897 4951 5029 5100 5177 5234 
+		244 3543 4951 5029 5100 5177 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=town
 }

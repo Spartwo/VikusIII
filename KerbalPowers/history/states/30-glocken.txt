@@ -12,11 +12,11 @@ state={
 	}
 
 	history={
-		owner = COT
+		owner = VAN
+		add_core_of = VAN
 		add_core_of = COT
-		victory_points = {
-			4170 20 
-		}
+		victory_points = { 4200 20 } #Kotmarker
+		victory_points = { 4092 10 } #Glocken
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1

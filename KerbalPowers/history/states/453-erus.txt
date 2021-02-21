@@ -11,6 +11,6 @@ state={
 history={
 		owner = ERU
 		add_core_of = ERU
-		victory_points = { 119 15 }
+		victory_points = { 226 20 } #Erus
 	}
 }

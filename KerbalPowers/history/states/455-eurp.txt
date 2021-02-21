@@ -14,9 +14,9 @@ state={
 	history={
 		owner = ERU
 		add_core_of = ERU
-		victory_points = {
-			749 50 
-		}
+		victory_points = { 788 10 } #Ethbor
+		victory_points = { 661 10 } #Eurp
+		victory_points = { 694 10 } #Troteo
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1

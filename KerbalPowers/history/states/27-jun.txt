@@ -7,6 +7,7 @@ state={
 		owner = OPE
 		add_core_of = OPE
 		add_core_of = JUN
+		victory_points = { 4252 10 } #Juntowne
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1

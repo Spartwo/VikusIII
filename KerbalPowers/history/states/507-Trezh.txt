@@ -6,13 +6,14 @@ state={
 	history={
 		owner = CAR
 		add_core_of = CAR
+		victory_points = { 105 10 } #Trenzh
 
 	}
 
 	provinces={
-		63 66 70 75 85 86 90 105 130 149 
+		63 66 70 85 105 130 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=pastoral
 }

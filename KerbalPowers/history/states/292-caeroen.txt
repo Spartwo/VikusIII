@@ -14,11 +14,12 @@ state={
 	history={
 		owner = EDV
 		add_core_of = EDV
+		victory_points = { 6975 10 } #Caeroen
 
 	}
 
 	provinces={
-		1318 6975 6986 7005 
+		6975 6986 7005 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

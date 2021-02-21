@@ -6,6 +6,7 @@ state={
 	history={
 		owner = BSL
 		add_core_of = BSL
+		victory_points = { 951 10 } #Kyouta
 
 	}
 

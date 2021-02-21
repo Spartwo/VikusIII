@@ -6,11 +6,14 @@ state={
 	history={
 		owner = AQU
 		add_core_of = AQU
+        victory_points = { 1223 20 } #Aitken
+        victory_points = { 1086 10 } #Laroc
+        victory_points = { 1127 10 } #Miffe
 
 	}
 
 	provinces={
-		1086 1101 1113 1127 1181 1223 1251 1252 1283 1317 
+		1041 1086 1101 1113 1127 1181 1223 1251 1252 1283 1317 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

@@ -6,6 +6,8 @@ state={
 	history={
 		owner = VAG
 		add_core_of = VAG
+		victory_points = { 4880 10 } #Dugthail
+		victory_points = { 5015 10 } #Khosa
 
 	}
 

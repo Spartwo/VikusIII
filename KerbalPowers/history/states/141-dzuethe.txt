@@ -14,8 +14,8 @@ state={
 	history={
 		owner = LAY
 		add_core_of = LAY
-		victory_points = { 582 20 }
-		victory_points = { 523 10 }
+		victory_points = { 582 20 } #Lico
+		victory_points = { 523 10 } #Dzuethi
 		buildings = {
 			infrastructure = 1
 

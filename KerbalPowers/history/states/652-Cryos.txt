@@ -1,0 +1,18 @@
+state={
+	id=652
+	name="STATE_652"
+
+	history={
+		owner = HEL
+		add_core_of = HEL
+		victory_points = { 6412 10 } #Cryos
+		victory_points = { 6421 10 } #Povallen
+
+	}
+	provinces={
+		444 6412 6421 7020 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

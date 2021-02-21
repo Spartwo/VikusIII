@@ -19,6 +19,7 @@ state={
 history={
 		owner = ALE
 		add_core_of = ALE
-		victory_points = { 2001 10 }
+		victory_points = { 2094 10 } #Katterax
+		victory_points = { 1874 10 } #Alta
 	}
 }

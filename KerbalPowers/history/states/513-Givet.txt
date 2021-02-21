@@ -14,6 +14,8 @@ state={
 	history={
 		owner = ZZW
 		add_core_of = ZZW
+		victory_points = { 348 10 } #Givet
+		victory_points = { 378 10 } #Mabillion
 
 	}
 

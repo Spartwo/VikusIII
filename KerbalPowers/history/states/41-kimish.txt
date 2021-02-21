@@ -14,6 +14,7 @@ state={
 	history={
 		owner = PHO
 		add_core_of = PHO
+		victory_points = { 3585 10 }#Kimish
 
 	}
 

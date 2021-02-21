@@ -20,7 +20,7 @@ set_popularities = {
 
 set_politics = {
 	
-	ruling_party = communism
+	ruling_party = fascism
 	last_election = "2049.6.15"
 	election_frequency = 64
 	elections_allowed = yes

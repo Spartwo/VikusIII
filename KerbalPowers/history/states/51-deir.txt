@@ -7,6 +7,7 @@ state={
 		owner = TEK
 		add_core_of = TEK
 		victory_points = { 3822 10 }
+		victory_points = { 3702 10 }
 
 	}
 

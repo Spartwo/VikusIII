@@ -6,11 +6,13 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
+		victory_points = { 6857 10 } #Korduga
+		victory_points = { 6922 10 } #Baff
 
 	}
 
 	provinces={
-		6842 6857 6887 6903 6922 
+		6842 6857 6860 6887 6903 6922 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

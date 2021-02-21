@@ -6,6 +6,10 @@ state={
 	history={
 		owner = ANG
 		add_core_of = ANG
+		victory_points = { 943 10 } #Melfta
+		victory_points = { 881 10 } #Calmor
+		victory_points = { 902 10 } #Impear
+		victory_points = { 773 10 } #Ossun
 
 	}
 

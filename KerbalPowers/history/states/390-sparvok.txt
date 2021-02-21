@@ -6,6 +6,7 @@ state={
 	history={
 		owner = ACC
 		add_core_of = ACC
+        	victory_points = { 6826 10 } #Sparvok
 
 	}
 

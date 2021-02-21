@@ -10,6 +10,10 @@ state={
 	history={
 		owner = BSL
 		add_core_of = BSL
+		victory_points = { 1984 10 } #Ghmstal
+		victory_points = { 1847 10 } #Corlac
+		victory_points = { 1840 10 } #Calliope
+		victory_points = { 1808 10 } #Bri
 
 	}
 }

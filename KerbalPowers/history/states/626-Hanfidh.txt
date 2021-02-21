@@ -10,6 +10,8 @@ state={
 	history={
 		owner = ZZX
 		add_core_of = ZZX
+		victory_points = { 3234 10 } #Hanfidh
+		victory_points = { 3000 10 } #Lowne
 
 	}
 }

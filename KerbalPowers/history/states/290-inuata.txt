@@ -14,13 +14,15 @@ state={
 	history={
 		owner = EDV
 		add_core_of = EDV
+		victory_points = { 6965 10 } #Nyskift
+		victory_points = { 6985 10 } #Norfylk
 
 	}
 
 	provinces={
-		6965 6985 7003 
+		6965 6978 6985 7003 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 }

@@ -1,7 +1,7 @@
 ideologies = {
 
-communism = {
-                color = { 110 0 0 }
+antagonism = {
+                color = { 107 0 0 }
                 can_host_government_in_exile = yes
                 war_impact_on_world_tension = 0.5
                 faction_impact_on_world_tension = 0.1               
@@ -11,8 +11,51 @@ communism = {
                 
 	types = {  
                         theocratic_socialism = { }
-                        socialist_nationalism = { }
                         stihlism =  { }
+                        dorvism =  { }
+                }
+
+	dynamic_faction_names = {
+                        "FACTION_NAME_STATISM_1"
+                        "FACTION_NAME_STATISM_2"
+                        "FACTION_NAME_STATISM_3"
+                        "FACTION_NAME_STATISM_4"
+                        "FACTION_NAME_STATISM_5"
+                        "FACTION_NAME_STATISM_6"
+                }
+	rules = {
+                        can_create_collaboration_government = no
+                        can_declare_war_on_same_ideology = yes
+                        can_force_government = yes
+                        can_send_volunteers = yes
+                        can_puppet = yes
+                        can_lower_tension = no
+                        can_only_justify_war_on_threat_country = no
+                        can_guarantee_other_ideologies = no
+                        can_join_factions = yes
+                        can_create_factions = yes
+                }
+	modifiers = {
+                        generate_wargoal_tension = 0.8
+                        send_volunteers_tension = 0.50
+                        guarantee_tension = 0.5
+                        puppet_cost_factor = -0.3
+                }
+
+                ai_communist = yes # uses the commie AI behaviour
+        }
+
+communism = {
+                color = { 178 0 0 }
+                can_host_government_in_exile = yes
+                war_impact_on_world_tension = 0.5
+                faction_impact_on_world_tension = 0.1               
+                can_collaborate = yes
+                
+                
+                
+	types = {  
+                        socialist_nationalism = { }
                         socialism = { }
                 }
 
@@ -46,8 +89,53 @@ communism = {
                 ai_communist = yes # uses the commie AI behaviour
         }
 
+hermitism = {
+                color = { 226 86 86 }
+                can_host_government_in_exile = yes
+                war_impact_on_world_tension = 0.5
+                faction_impact_on_world_tension = 0.1               
+                can_collaborate = yes
+                
+                
+                
+	types = {  
+                        syndicalism =  { }
+                        socialism = { }
+                }
+
+	dynamic_faction_names = {
+                        "FACTION_NAME_STATISM_1"
+                        "FACTION_NAME_STATISM_2"
+                        "FACTION_NAME_STATISM_3"
+                        "FACTION_NAME_STATISM_4"
+                        "FACTION_NAME_STATISM_5"
+                        "FACTION_NAME_STATISM_6"
+                }
+	rules = {
+                        can_create_collaboration_government = no
+                        can_declare_war_on_same_ideology = yes
+                        can_force_government = yes
+                        can_send_volunteers = no
+                        can_puppet = no
+                        can_lower_tension = no
+                        can_only_justify_war_on_threat_country = no
+                        can_guarantee_other_ideologies = no
+                        can_join_factions = yes
+                        can_create_factions = yes
+                }
+	modifiers = {
+                        generate_wargoal_tension = 0.6
+                        send_volunteers_tension = 0.50
+                        guarantee_tension = 0.5
+                        puppet_cost_factor = -0.3
+                        join_faction_tension = 0.80
+                }
+
+                ai_communist = yes # uses the commie AI behaviour
+        }
+
 neutrality = {
-                color = { 195 195 195 }
+                color = { 128 128 128 }
                 can_host_government_in_exile = yes
                 war_impact_on_world_tension = 0.25 #no major danger
                 faction_impact_on_world_tension = 0.1            
@@ -79,8 +167,8 @@ neutrality = {
                         can_lower_tension = yes
                         can_only_justify_war_on_threat_country = yes
                         can_guarantee_other_ideologies = yes
-                        can_join_factions = no
-                        can_create_factions = no
+                        can_join_factions = yes
+                        can_create_factions = yes
                 }
 	modifiers = {
                         generate_wargoal_tension = 0.5
@@ -92,8 +180,8 @@ neutrality = {
                 ai_neutral = yes # 
         }
 
-fascism = {
-                color = { 50 132 0 }
+fascism = { #Nationalism
+                color = { 38 37 37 }
                 can_host_government_in_exile = yes
                 war_impact_on_world_tension = 1.0
                 faction_impact_on_world_tension = 0.2               
@@ -136,7 +224,7 @@ fascism = {
         }
 		
 overlordship = {
-                color = { 67 0 69 }
+                color = { 87 0 127 }
                 can_host_government_in_exile = yes
                 war_impact_on_world_tension = 1.0
                 faction_impact_on_world_tension = 0.2               
@@ -158,14 +246,14 @@ overlordship = {
                 }
 	rules = {
                         can_create_collaboration_government = yes
-                        can_declare_war_on_same_ideology = no
+                        can_declare_war_on_same_ideology = yes
                         can_force_government = no
                         can_send_volunteers = no
                         can_puppet = no
                         can_lower_tension = no
                         can_only_justify_war_on_threat_country = no
                         can_guarantee_other_ideologies = yes
-                        can_join_factions = yes
+                        can_join_factions = no
                         can_create_factions = no
                 }
 	modifiers = {
@@ -176,8 +264,8 @@ overlordship = {
                 ai_fascist = yes # uses the fascist AI behaviour
         }
 
-neoconservativism = {
-                color = { 0 0 135 }
+neocon = {
+                color = { 0 14 209 }
                 can_host_government_in_exile = yes
                 war_impact_on_world_tension = 0.5
                 faction_impact_on_world_tension = 0.1             
@@ -222,8 +310,99 @@ neoconservativism = {
                 ai_fascist = yes # uses the fascist AI behaviour
         }
 
+democratic = {
+                color = { 25 59 255 }
+                can_host_government_in_exile = yes
+                war_impact_on_world_tension = 0.1
+                faction_impact_on_world_tension = -0.1               
+                can_collaborate = yes
+                
+                
+                
+	types = {  
+                        social_democracy = { }
+                        representative_democracy = { }
+                }
+
+	dynamic_faction_names = {
+                        "FACTION_NAME_LIBERALISM_1"
+                        "FACTION_NAME_LIBERALISM_2"
+                        "FACTION_NAME_LIBERALISM_3"
+                        "FACTION_NAME_LIBERALISM_4"
+                        "FACTION_NAME_LIBERALISM_5"
+                        "FACTION_NAME_LIBERALISM_6"
+                }
+	rules = {
+                        can_create_collaboration_government = no
+                        can_declare_war_on_same_ideology = yes
+                        can_force_government = yes
+                        can_send_volunteers = yes
+                        can_puppet = yes
+                        can_lower_tension = yes
+                        can_only_justify_war_on_threat_country = yes
+                        can_guarantee_other_ideologies = yes
+                        can_join_factions = yes
+                        can_create_factions = yes
+                }
+	modifiers = {
+                        join_faction_tension = 0.80
+                        lend_lease_tension = 0.50
+                        guarantee_tension = 0.5
+                        drift_defence_factor = 0.2
+                }
+
+                ai_democratic = yes # uses the democratic AI behaviour
+        }
+		
+
+individualism = {
+                color = { 76 103 255 }
+                can_host_government_in_exile = yes
+                war_impact_on_world_tension = 0.1
+                faction_impact_on_world_tension = -0.1               
+                can_collaborate = yes
+                
+                
+                
+	types = {  
+                        confederalism =  { }
+                        liquid_democracy = { }
+                }
+
+	dynamic_faction_names = {
+                        "FACTION_NAME_LIBERALISM_1"
+                        "FACTION_NAME_LIBERALISM_2"
+                        "FACTION_NAME_LIBERALISM_3"
+                        "FACTION_NAME_LIBERALISM_4"
+                        "FACTION_NAME_LIBERALISM_5"
+                        "FACTION_NAME_LIBERALISM_6"
+                }
+	rules = {
+                        can_create_collaboration_government = no
+                        can_declare_war_on_same_ideology = yes
+                        can_force_government = yes
+                        can_send_volunteers = yes
+                        can_puppet = yes
+                        can_lower_tension = yes
+                        can_only_justify_war_on_threat_country = yes
+                        can_guarantee_other_ideologies = yes
+                        can_join_factions = yes
+                        can_create_factions = yes
+                }
+	modifiers = {
+                        join_faction_tension = 0.80
+                        lend_lease_tension = 0.50
+                        guarantee_tension = 0.5
+                        drift_defence_factor = 0.2
+                }
+
+                ai_democratic = yes # uses the democratic AI behaviour
+        }
+		
+
+
 corporatism = {
-                color = { 196 204 21 }
+                color = { 0 158 15 }
                 can_host_government_in_exile = yes
                 war_impact_on_world_tension = 0.3
                 faction_impact_on_world_tension = 0.1               
@@ -267,50 +446,4 @@ corporatism = {
                 ai_democratic = yes # uses the democratic AI behaviour
         }
 
-democratic = {
-                color = { 88 107 193 }
-                can_host_government_in_exile = yes
-                war_impact_on_world_tension = 0.1
-                faction_impact_on_world_tension = -0.1               
-                can_collaborate = yes
-                
-                
-                
-	types = {  
-                        social_democracy = { }
-                        representative_democracy = { }
-                        confederalism =  { }
-                        liquid_democracy = { }
-                }
-
-	dynamic_faction_names = {
-                        "FACTION_NAME_LIBERALISM_1"
-                        "FACTION_NAME_LIBERALISM_2"
-                        "FACTION_NAME_LIBERALISM_3"
-                        "FACTION_NAME_LIBERALISM_4"
-                        "FACTION_NAME_LIBERALISM_5"
-                        "FACTION_NAME_LIBERALISM_6"
-                }
-	rules = {
-                        can_create_collaboration_government = no
-                        can_declare_war_on_same_ideology = yes
-                        can_force_government = yes
-                        can_send_volunteers = yes
-                        can_puppet = yes
-                        can_lower_tension = yes
-                        can_only_justify_war_on_threat_country = yes
-                        can_guarantee_other_ideologies = yes
-                        can_join_factions = yes
-                        can_create_factions = yes
-                }
-	modifiers = {
-                        join_faction_tension = 0.80
-                        lend_lease_tension = 0.50
-                        guarantee_tension = 0.5
-                        drift_defence_factor = 0.2
-                }
-
-                ai_democratic = yes # uses the democratic AI behaviour
-        }
-		
 		}

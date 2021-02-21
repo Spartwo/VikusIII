@@ -11,6 +11,9 @@ state={
 	history={
 		owner = OWL
 		add_core_of = OWL
+		victory_points = { 765 10 } #Mahoma
+		victory_points = { 635 10 } #Daowl
+		victory_points = { 795 10 } #Oark
 
 	}
 }

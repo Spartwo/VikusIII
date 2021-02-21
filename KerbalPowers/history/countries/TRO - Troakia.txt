@@ -20,7 +20,7 @@ set_popularities = {
 
 set_politics = {
 	
-	ruling_party = neutrality
+	ruling_party = communism
 	last_election = "2047.10.13"
 	election_frequency = 48
 	elections_allowed = yes

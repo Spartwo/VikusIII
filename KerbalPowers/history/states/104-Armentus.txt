@@ -6,9 +6,9 @@ state={
 	history={
 		owner = ANG
 		add_core_of = ANG
-		victory_points = {
-			719 15 
-		}
+		victory_points = { 719 15 } #Angvar
+		victory_points = { 667 10 } #Armentus
+		victory_points = { 573 10 } #Corrigon
 
 	}
 

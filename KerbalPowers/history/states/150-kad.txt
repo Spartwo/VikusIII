@@ -12,16 +12,16 @@ state={
 	}
 
 	history={
-		owner = SIT
-		add_core_of = SIT
-		add_claim_by = KAT
+		owner = ZZW
+		add_core_of = ZZW
+		victory_points = { 904 10 } #Kad
 
 	}
 
 	provinces={
-		1385 1437 1463 1475 1505 1548 1568 1569 1594 
+		830 904 917 990 1065 1447 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=wasteland
 }

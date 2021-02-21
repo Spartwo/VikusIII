@@ -27,7 +27,6 @@ KAA = "countries/KAA.txt" #KAADAR
 OSI = "countries/OSI.txt" #OSINI (TAKES MAINLAND STRELKA IF BLYATNAM LOST)
 VER = "countries/VER.txt" #VERBADY
 RAT = "countries/RAT.txt" #RATHANIA
-AUR = "countries/AUR.txt" #AURED
 HEI = "countries/HEI.txt" #HEINZ REPUBEANICA
 HAR = "countries/HAR.txt" #HARTON
 KRK = "countries/KRK.txt" #KRAKEN (STATIST REBELLION IN OLD ELYSIUM #274)
@@ -81,6 +80,7 @@ JUN = "countries/JUN.txt" #JUNO (OPIA RARE RUMP)
 MEC = "countries/MEC.txt" #MECHANI
 SWE = "countries/SWE.txt" #SWEIZE
 GUM = "countries/GUM.txt" #GUME
+FID = "countries/FID.txt" #FIDELIS
 #Post start release
 ION = "countries/ION.txt" #IONIA
 KYV = "countries/KYV.txt" #KYVIZ-DURVEK
@@ -102,6 +102,7 @@ ZER = "countries/ZER.txt" #ZERAOR
 AMB = "countries/AMB.txt" #AMBER
 ZAP = "countries/ZAP.txt" #ZAPODA
 BEL = "countries/BEL.txt" #BELASRIOV
+ESS = "countries/ESS.txt" #ESSEN
 #Post start release
 ZIM = "countries/ZIM.txt" #ZIMOR (SPAWN IN AREAS OF NIS AND DRA IF SANCTUM IS BEATEN)
 DRA = "countries/DRA.txt" #DRAVISOV (TAKES REMAINING AREA OF NIS IF ZIMOR EXIST)
@@ -115,13 +116,12 @@ GAG = "countries/GAG.txt" #GAGRIEL
 SLO = "countries/SLO.txt" #SLOVEN
 SAR = "countries/SAR.txt" #SARCONIA
 ZHA = "countries/ZHA.txt" #ZHASTRAM
-NOM = "countries/NOM.txt" #NOMANE
 MAR = "countries/MAR.txt" #MARYURT
 VUL = "countries/VUL.txt" #VULKANAS
 SER = "countries/SER.txt" #PANSERIA
 GIB = "countries/GIB.txt" #GIBRAZI
-NTH = "countries/NTH.txt" #AINAK
-RED = "countries/RED.txt" #REDDUS
+AIN = "countries/AIN.txt" #AINAK
+FEN = "countries/FEN.txt" #FENIKS
 
 ###BASKAY###
 AQU = "countries/AQU.txt" #AQUARIA
@@ -151,6 +151,8 @@ VEN = "countries/VEN.txt" #VENMOUS
 LAN = "countries/LAN.txt" #LANU
 REC = "countries/REC.txt" #RECIPROCITY(AND THEIR MANY VARIETIES)
 ALE = "countries/ALE.txt" #ALECTON
+EQU = "countries/EQU.txt" #EQUATORIA
+SEI = "countries/SEI.txt" #SEIFARE
 #Post start release
 HKA = "countries/HKA.txt" #HKA
 #Cores
@@ -184,7 +186,7 @@ HEL = "countries/HEL.txt" #HELACIA-SONDERMARK (SPAWNS IF CALLED BY MEDWED TO)
 RAF = "countries/RAF.txt" #RAFLAND
 THA = "countries/THA.txt" #THANATOS
 CRY = "countries/CRY.txt" #CRYTIL (REPLACE NMC IF DESTROYED)
-POT = "countries/POT.txt" #POTESTATES(RARE SPAWN)
+VON = "countries/VON.txt" #VONIA(RARE SPAWN)
 
 ###VEIID###
 KAL = "countries/KAL.txt" #KRBJIA
@@ -199,9 +201,8 @@ CAR = "countries/CAR.txt" #CARTHIA
 FEL = "countries/FEL.txt" #FELISKIA
 #Cores
 EGR = "countries/EGR.txt" #EGROS
-SIT = "countries/SIT.txt" #SITHEMBILE
-VEI = "countries/VEI.txt" #VEIID 
-KAT = "countries/KAT.txt" #KATEC (LOW SPAWN CHANCE BETWEEN ODESIA AND CENOVA)
+URR = "countries/URR.txt" #UR
+USE = "countries/USE.txt" #USWAIT 
 MEN = "countries/MEN.txt" #MENTONOGRA (POST-KSKM STATE, TAKEN BY IRSMUN)
 BSK = "countries/BSK.txt" #BASKAY COMMUNE (HOOK ISLAND LAYTHIAN PUPPET IF TROAKIA JOINS KSKM OR DFK)
 TOR = "countries/TOR.txt" #DELTORA (LOW SPAWN CHANCE ALTERNATE TO CARTHIA)

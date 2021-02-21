@@ -14,6 +14,9 @@ state={
 	history={
 		owner = EUR
 		add_core_of = EUR
+		add_core_of = VOC
+		victory_points = { 4633 10 }
+		victory_points = { 4685 10 }
 
 	}
 

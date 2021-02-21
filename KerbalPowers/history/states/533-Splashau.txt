@@ -4,13 +4,14 @@ state={
 	name="STATE_533"
 
 	history={
-		owner = THA
-		add_core_of = THA
+		owner = ZZY
+		add_core_of = ZZY
+		victory_points = { 6549 10 } #Pobreize
 
 	}
 
 	provinces={
-		6549 6617 6701 6753 
+		307 6549 6701 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

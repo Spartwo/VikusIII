@@ -14,6 +14,7 @@ state={
 	history={
 		owner = ZHA
 		add_core_of = ZHA
+        	victory_points = { 2504 10 } #Zhastram
 
 	}
 

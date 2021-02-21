@@ -14,11 +14,12 @@ state={
 	history={
 		owner = BSL
 		add_core_of = BSL
+		victory_points = { 1115 10 } #Grancia
 
 	}
 
 	provinces={
-		933 986 992 1008 1051 1052 1062 1076 1115 1132 1154 1173 1278 7011 
+		933 986 992 1008 1051 1052 1076 1115 1154 1173 1278 7011 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

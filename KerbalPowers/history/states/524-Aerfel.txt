@@ -14,6 +14,8 @@ state={
 	history={
 		owner = SAR
 		add_core_of = SAR
+        	victory_points = { 3518 10 } #Aerfel
+        	victory_points = { 2248 10 } #Koyma
 		
 
 	}
@@ -23,5 +25,5 @@ state={
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=town
 }

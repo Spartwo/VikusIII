@@ -6,6 +6,7 @@ state={
 	history={
 		owner = SPE
 		add_core_of = SPE
+		victory_points = { 387 10 } #Dores
 
 	}
 

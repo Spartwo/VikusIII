@@ -14,14 +14,12 @@ state={
 	history={
 		owner = PHO
 		add_core_of = PHO
-		victory_points = {
-			3437 15 
-		}
+		victory_points = { 3437 15 }#Ostwurst
 
 	}
 
 	provinces={
-		3144 3437 6495 
+		3144 3376 3437 4524 6495 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

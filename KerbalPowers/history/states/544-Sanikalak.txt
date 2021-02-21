@@ -6,11 +6,12 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
+		victory_points = { 6915 10 } #Sani
 
 	}
 
 	provinces={
-		6725 6915 6920 6921 6952 6966 6973 6999 
+		6915 6920 6921 6952 6966 6973 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

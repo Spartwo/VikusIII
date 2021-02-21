@@ -14,6 +14,8 @@ state={
 	history={
 		owner = AQU
 		add_core_of = AQU
+        victory_points = { 1584 10 } #Ojerg
+        victory_points = { 1493 10 } #Nomlas
 
 	}
 

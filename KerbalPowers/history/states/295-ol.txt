@@ -6,6 +6,7 @@ state={
 	history={
 		owner = MED
 		add_core_of = MED
+		victory_points = { 501 10 } #Olnisk
 
 	}
 

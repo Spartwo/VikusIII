@@ -1,0 +1,18 @@
+state={
+	id=658
+	name="STATE_658"
+
+	history={
+		owner = ICO
+		add_core_of = ICO
+		add_core_of = PRO
+		victory_points = { 1288 10 } #Jirov
+
+	}
+	provinces={
+		1231 1264 1281 1288 1326 1374 1377 1453 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

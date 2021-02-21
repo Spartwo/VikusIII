@@ -19,5 +19,8 @@ state={
 history={
 		owner = WES
 		add_core_of = WES
+		victory_points = { 4567 10 }
+		victory_points = { 4763 10 }
+		victory_points = { 4652 10 }
 	}
 }

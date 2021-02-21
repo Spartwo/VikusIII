@@ -14,6 +14,7 @@ state={
 	history={
 		owner = ZOK
 		add_core_of = ZOK
+		victory_points = { 3444 10 } #Hegel
 
 	}
 

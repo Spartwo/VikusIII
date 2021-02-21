@@ -14,6 +14,10 @@ state={
 	history={
 		owner = FEG
 		add_core_of = FEG
+		victory_points = { 3266 10 } #Pihiro
+		victory_points = { 3159 10 } #Cuitlnadh
+		victory_points = { 3068 10 } #Teraveino
+		victory_points = { 2995 10 } #Ha'urupai
 
 	}
 

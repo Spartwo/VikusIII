@@ -14,6 +14,9 @@ state={
 	history={
 		owner = SLO
 		add_core_of = SLO
+		victory_points = { 2397 10 } #Dal
+		victory_points = { 2548 10 } #Manahi
+		victory_points = { 2398 10 } #Kontoru
 
 	}
 

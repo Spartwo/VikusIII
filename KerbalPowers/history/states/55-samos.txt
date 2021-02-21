@@ -14,13 +14,14 @@ state={
 	history={
 		owner = TEK
 		add_core_of = TEK
-		victory_points = { 4022 20 }
-		victory_points = { 4123 10 }
+		victory_points = { 4022 10 }
+		victory_points = { 3889 10 }
+		victory_points = { 4406 20 }
 
 	}
 
 	provinces={
-		3871 3889 3928 3953 3984 3992 4022 4059 4060 4123 
+		3871 3889 3928 3953 3984 3992 4022 4059 4060 4123 4406
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

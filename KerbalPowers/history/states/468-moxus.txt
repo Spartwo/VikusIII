@@ -6,6 +6,8 @@ state={
 	history={
 		owner = ICO
 		add_core_of = ICO
+        victory_points = { 1179 10 } #Moxus
+        victory_points = { 1340 10 } #Ain
 
 	}
 

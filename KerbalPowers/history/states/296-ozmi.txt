@@ -14,11 +14,13 @@ state={
 	history={
 		owner = JOK
 		add_core_of = JOK
+		victory_points = { 6961 20 } #Ozmi
+		victory_points = { 7006 10 } #Hoy
 
 	}
 
 	provinces={
-		6961 6977 7007 
+		6961 6977 7006 7007 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

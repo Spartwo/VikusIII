@@ -1,3 +1,4 @@
+
 state={
 	id=641
 	name="STATE_641"
@@ -5,10 +6,12 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
+		victory_points = { 6702 10 } #Logil
 
 	}
+
 	provinces={
-		6702 6734 6801 6809 6831 6866 
+		6702 6734 6801 6809 6866 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

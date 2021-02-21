@@ -15,9 +15,9 @@ state={
 		owner = SPE
 		add_core_of = SPE
 		add_core_of = EGR
-		victory_points = {
-			249 10 
-		}
+		victory_points = { 288 10 } #Tuvu
+		victory_points = { 341 20 } #Baske
+		victory_points = { 249 10 } #Iubia
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2

@@ -6,6 +6,8 @@ state={
 	history={
 		owner = RAF
 		add_core_of = RAF
+		victory_points = { 6491 10 } #Kolin
+		victory_points = { 6417 10 } #Poloas
 
 	}
 

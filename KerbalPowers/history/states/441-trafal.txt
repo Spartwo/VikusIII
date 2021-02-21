@@ -6,6 +6,8 @@ state={
 	history={
 		owner = DEL
 		add_core_of = DEL
+		victory_points = { 1060 10 } #Trafal
+		victory_points = { 916 10 } #Dell
 
 	}
 

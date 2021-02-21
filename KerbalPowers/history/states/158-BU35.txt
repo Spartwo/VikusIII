@@ -14,6 +14,9 @@ state={
 	history={
 		owner = RAT
 		add_core_of = RAT
+		victory_points = { 6783 10 } #Wistar
+		victory_points = { 6709 10 } #Rankin
+		victory_points = { 6727 10 } #Baifa
 
 	}
 

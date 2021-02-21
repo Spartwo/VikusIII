@@ -15,9 +15,9 @@ state={
 		owner = KYV
 		add_core_of = KYV
 		add_core_of = CLO
-		victory_points = {
-			5604 15 
-		}
+		victory_points = { 5531 10 } #Nurulak
+		victory_points = { 5662 10 } #Oppel
+		victory_points = { 5517 10 } #Adangazi
 
 	}
 

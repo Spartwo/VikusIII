@@ -4,13 +4,15 @@ state={
 	name="STATE_155"
 
 	history={
-		owner = CAR
+		owner = DTA
+		add_core_of = DTA
 		add_core_of = CAR
+		victory_points = { 186 10 } #Maklar
 
 	}
 
 	provinces={
-		96 104 127 136 153 186 201 222 
+		75 86 90 96 104 127 136 149 153 186 201 222 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

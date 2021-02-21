@@ -11,5 +11,8 @@ state={
 history={
 		owner = SWE
 		add_core_of = SWE
+		victory_points = { 5987 10 }#Sweize
+		victory_points = { 5911 10 }#Brone
+		victory_points = { 5779 10 }#Rodern
 	}
 }

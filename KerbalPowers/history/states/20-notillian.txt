@@ -15,9 +15,9 @@ state={
 		owner = SAN
 		add_core_of = SAN
 		add_core_of = VAL
-		victory_points = {
-			2282 10 
-		}
+		victory_points = { 2356 10 } #Bersten
+		victory_points = { 2285 10 } #Tume
+		victory_points = { 2401 10 } #Notillian
 
 	}
 

@@ -12,8 +12,9 @@ state={
 	}
 
 	history={
-		owner = THA
-		add_core_of = THA
+		owner = ESS
+		add_core_of = ESS
+		victory_points = { 6422 10 } #Sondermark
 
 	}
 

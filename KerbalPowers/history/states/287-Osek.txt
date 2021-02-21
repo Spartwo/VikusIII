@@ -15,13 +15,19 @@ state={
 		owner = CRY
 		add_core_of = CRY
 		victory_points = {
-			6401 15 
+			6935 10 
+		}
+		victory_points = {
+			6270 10 
+		}
+		victory_points = {
+			6401 10 
 		}
 
 	}
 
 	provinces={
-		6270 6271 6292 6320 6373 6401 6481 6935 
+		6270 6271 6292 6320 6365 6373 6401 6481 6935 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

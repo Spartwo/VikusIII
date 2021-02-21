@@ -6,6 +6,9 @@ state={
 	history={
 		owner = REC
 		add_core_of = REC
+		victory_points = { 3303 10 } #Stagnum
+		victory_points = { 3671 10 } #Melohyne
+		victory_points = { 3513 10 } #Hanume
 
 	}
 

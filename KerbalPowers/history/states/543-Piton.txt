@@ -14,9 +14,7 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		victory_points = {
-			6878 5 
-		}
+		victory_points = { 6878 10 } #Piton
 
 	}
 

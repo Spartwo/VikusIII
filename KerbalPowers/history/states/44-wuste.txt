@@ -12,13 +12,15 @@ state={
 	}
 
 	history={
-		owner =VAN
+		owner = VAN
 		add_core_of = VAN
+		victory_points = { 3335 10 } #Vanad
+		victory_points = { 4597 10 } #Banchal
 
 	}
 
 	provinces={
-		3249 3335 3428 3510 3514 3570 
+		3249 3335 3428 3510 3514 3570 4597 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

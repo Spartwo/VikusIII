@@ -14,9 +14,10 @@ state={
 	history={
 		owner = EUR
 		add_core_of = EUR
-		victory_points = {
-			3854 20 
-		}
+		add_core_of = FLO
+		victory_points = { 3780 20 }
+		victory_points = { 4040 10 }
+		victory_points = { 3860 10 }
 
 	}
 

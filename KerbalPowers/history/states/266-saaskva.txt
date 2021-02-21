@@ -13,7 +13,9 @@ state={
 
 	history={
 		owner = BLY
-		add_core_of = ZZZ
+		add_core_of = BLY
+        victory_points = { 6006 10 } #Saaskav
+        victory_points = { 5965 10 } #Kurnush
 
 	}
 

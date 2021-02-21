@@ -14,11 +14,12 @@ state={
 	history={
 		owner = MED
 		add_core_of = MED
+		victory_points = { 6800 10 } #Tullnisk
 
 	}
 
 	provinces={
-		4493 6735 6751 6800 
+		4493 6735 6751 6800 6899 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

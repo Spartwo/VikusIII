@@ -12,8 +12,10 @@ state={
 	}
 
 	history={
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = FID
+		add_core_of = FID
+		victory_points = { 6414 10 } #Kugaruuk
+		victory_points = { 6494 10 } #Larissa
 
 	}
 

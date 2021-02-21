@@ -14,11 +14,12 @@ state={
 	history={
 		owner = JOK
 		add_core_of = JOK
+		victory_points = { 6824 10 } #Shaeroes
 
 	}
 
 	provinces={
-		6946 6956 6976 7006 
+		6799 6824 6946 6956 6976 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

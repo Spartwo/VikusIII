@@ -6,6 +6,8 @@ state={
 	history={
 		owner = BAS
 		add_core_of = BAS
+		victory_points = { 2402 10 } #Belaters
+		victory_points = { 2320 10 } #Nicion
 
 	}
 

@@ -14,9 +14,8 @@ state={
 	history={
 		owner = ANG
 		add_core_of = ANG
-		victory_points = {
-			547 25 
-		}
+		victory_points = { 458 10 } #Porkney
+		victory_points = { 430 10 } #Aguada
 
 	}
 

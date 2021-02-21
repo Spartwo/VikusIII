@@ -6,6 +6,8 @@ state={
 	history={
 		owner = ICO
 		add_core_of = ICO
+		add_core_of = KCA
+		victory_points = { 1482 10 } #Zukra
 
 	}
 

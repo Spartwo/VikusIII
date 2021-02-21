@@ -6,6 +6,7 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
+		victory_points = { 6983 10 } #Tentomero
 
 	}
 

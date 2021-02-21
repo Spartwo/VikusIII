@@ -15,6 +15,7 @@ state={
 	history={
 		owner = ZZW
 		add_core_of = ZZW
+		victory_points = { 822 10 } #Stuzz
 
 	}
 

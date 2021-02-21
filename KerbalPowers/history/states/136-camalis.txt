@@ -14,9 +14,8 @@ state={
 	history={
 		owner = TRO
 		add_core_of = TRO
-		victory_points = {
-			894 20 
-		}
+		victory_points = { 894 20 } #Camalis
+		victory_points = { 754 20 } #Sibenik
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1

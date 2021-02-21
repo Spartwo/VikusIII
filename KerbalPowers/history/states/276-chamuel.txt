@@ -6,7 +6,9 @@ state={
 	history={
 		owner = KAR
 		add_core_of = KAR
-
+		victory_points = { 5640 10 }
+		victory_points = { 5780 20 }
+		victory_points = { 5972 10 }
 	}
 
 	provinces={

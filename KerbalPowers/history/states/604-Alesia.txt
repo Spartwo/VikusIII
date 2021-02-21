@@ -1,15 +1,19 @@
+
 state={
 	id=604
 	name="STATE_604"
-	provinces={
-		6865 6899 
-	}
-	manpower=100000
-	buildings_max_level_factor=1.000 
- 	 state_category=pastoral
+
 	history={
 		owner = EDV
 		add_core_of = EDV
+		victory_points = { 6941 10 } #Ales
 
 	}
+
+	provinces={
+		6865 6941 6984 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

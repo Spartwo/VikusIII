@@ -15,13 +15,13 @@ state={
 		owner = ZZZ
 		add_core_of = ZZZ
 		victory_points = {
-			6949 5 
+			6892 10 
 		}
 
 	}
 
 	provinces={
-		6799 6819 6824 6832 6834 6863 6876 6892 6919 6929 6939 6941 6948 6949 6967 6992 
+		6819 6876 6892 6929 6939 6948 6992 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

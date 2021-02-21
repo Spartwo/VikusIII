@@ -12,6 +12,7 @@ state={
 	history={
 		owner = KER
 		add_core_of = KER
+		victory_points = { 6567 10 } #Radoun
 
 	}
 }

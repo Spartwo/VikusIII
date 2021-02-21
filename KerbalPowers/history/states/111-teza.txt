@@ -14,6 +14,7 @@ state={
 	history={
 		owner = KAL
 		add_core_of = KAL
+		add_core_of = MEN
 		victory_points = { 1830 10 }
 		victory_points = { 1915 10 }
 		buildings = {

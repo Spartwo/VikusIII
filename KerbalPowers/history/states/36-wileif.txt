@@ -6,11 +6,14 @@ state={
 	history={
 		owner = PHO
 		add_core_of = PHO
+		victory_points = { 2762 10 }#Wileif
+		victory_points = { 4690 10 }#Kecha
+		victory_points = { 4796 10 }#Tardide
 
 	}
 
 	provinces={
-		2762 3057 4541 6665 
+		2762 3057 4541 4690 4796 6665 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

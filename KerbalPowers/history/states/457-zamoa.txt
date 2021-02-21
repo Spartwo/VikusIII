@@ -6,9 +6,7 @@ state={
 	history={
 		owner = ERU
 		add_core_of = ERU
-		victory_points = {
-			519 30 
-		}
+		victory_points = { 488 10 } #Zamoa
 
 	}
 

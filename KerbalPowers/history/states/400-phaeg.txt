@@ -18,6 +18,9 @@ state={
 history={
 		owner = ZEO
 		add_core_of = ZEO
-		victory_points = { 834 15 }
+        victory_points = { 1187 10 } #Zeouli
+        victory_points = { 1180 10 } #Orde
+        victory_points = { 957 10 } #Phaeg
+        victory_points = { 981 10 } #Fesil
 	}
 }

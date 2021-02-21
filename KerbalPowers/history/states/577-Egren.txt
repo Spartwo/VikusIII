@@ -10,6 +10,8 @@ state={
 	history={
 		owner = SOL
 		add_core_of = SOL
+		victory_points = { 5450 10 } #Egren
+		victory_points = { 5610 10 } #Leithlisiu
 
 	}
 }

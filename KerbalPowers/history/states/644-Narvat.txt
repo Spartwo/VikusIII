@@ -6,6 +6,7 @@ state={
 	history={
 		owner = OPE
 		add_core_of = OPE
+		victory_points = { 4404 10 } #Narvat
 
 	}
 

@@ -14,6 +14,9 @@ state={
 	history={
 		owner = ICO
 		add_core_of = ICO
+		add_core_of = KCA
+		victory_points = { 1382 10 } #Potae
+		victory_points = { 1255 10 } #Alabuga
 
 	}
 

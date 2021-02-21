@@ -4,8 +4,12 @@ state={
 	name="STATE_380"
 
 	history={
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = FID
+		add_core_of = FID
+		victory_points = { 6539 10 } #Papam
+		victory_points = { 6608 10 } #Nanis
+		victory_points = { 6469 10 } #Loneum
+		victory_points = { 6220 10 } #Ubriet
 
 	}
 

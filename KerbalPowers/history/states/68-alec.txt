@@ -19,5 +19,9 @@ state={
 history={
 		owner = ALE
 		add_core_of = ALE
+		add_core_of = HKA
+		victory_points = { 3051 10 } #Alec
+		victory_points = { 2852 10 } #Alibun
+		victory_points = { 2881 10 } #Trishula
 	}
 }

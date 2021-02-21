@@ -15,6 +15,21 @@ state={
 		owner = SAN
 		add_core_of = SAN
 		add_core_of = SCH
+		victory_points = {
+			2462 10 
+		}
+		victory_points = {
+			2373 10 
+		}
+		victory_points = {
+			2770 10 
+		}
+		victory_points = {
+			2861 10 
+		}
+		victory_points = {
+			2688 20 
+		}
 		buildings = {
 			infrastructure = 5
 			arms_factory = 1

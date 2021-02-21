@@ -13,6 +13,7 @@ state={
 	history={
 		owner = ZZW
 		add_core_of = ZZW
+		victory_points = { 7016 10 } #Vesus
 
 	}
 }

@@ -6,6 +6,8 @@ state={
 	history={
 		owner = OWL
 		add_core_of = OWL
+		victory_points = { 1247 10 } #Serri
+		victory_points = { 1210 10 } #Darapsi
 
 	}
 

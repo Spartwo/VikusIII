@@ -14,9 +14,9 @@ state={
 	history={
 		owner = VSA
 		add_core_of = VSA
-		victory_points = {
-			3358 15 
-		}
+		victory_points = { 3243 10 } #Mottibano
+		victory_points = { 3474 10 } #Charum
+		victory_points = { 3499 10 } #Zentral
 		buildings = {
 			infrastructure = 5
 			arms_factory = 1

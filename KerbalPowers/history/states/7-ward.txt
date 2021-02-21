@@ -20,6 +20,8 @@ state={
 history={
 		owner = ZOK
 		add_core_of = ZOK
+		victory_points = { 3228 10 } #Ward
+		victory_points = { 3032 10 } #Bock
 
 		buildings = {
 			infrastructure = 6

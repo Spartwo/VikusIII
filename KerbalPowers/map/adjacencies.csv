@@ -2,19 +2,19 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 1070;1123;sea;962;-1;-1;-1;-1;;Taroka-Taroka
 922;844;sea;868;-1;-1;-1;-1;;Ponpin-Eurp
 1654;1687;sea;1570;-1;-1;-1;-1;;Sangrie-Autmalga
-1774;1759;sea;1386;-1;-1;-1;-1;;Amerb-Ahcurt
 856;940;sea;728;-1;-1;-1;-1;;Ajemla-Zeoul
 1223;1283;sea;1215;-1;-1;-1;-1;;Larnoc-Larnoc
-748;727;sea;513;-1;-1;-1;-1;;Baskaia
 748;785;sea;513;-1;-1;-1;-1;;Baskaia
 769;781;sea;515;-1;-1;-1;-1;;Syx-Rhus
 2088;2058;sea;1851;-1;-1;-1;-1;;Radz
 7022;2058;sea;1851;-1;-1;-1;-1;;Radz
 1904;1985;sea;1936;-1;-1;-1;-1;;Traes-Adrea
 3873;3789;sea;3649;-1;-1;-1;-1;;Littorial-Pegan
+1673;1701;sea;1638;-1;-1;-1;-1;;Cai
 2488;2459;sea;2309;-1;-1;-1;-1;;Dolren-Tefaru
 2488;2349;sea;2309;-1;-1;-1;-1;;Dolren-Pugaraya
 5101;5066;sea;4817;-1;-1;-1;-1;;Lod
+4630;4581;sea;4659;-1;-1;-1;-1;;Istma-Exillia
 4630;4581;sea;4659;-1;-1;-1;-1;;Istma-Exillia
 7026;4680;sea;4659;-1;-1;-1;-1;;Istma
 7026;4603;sea;4659;-1;-1;-1;-1;;Istma-Doend
@@ -22,14 +22,14 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 3240;3338;sea;3058;-1;-1;-1;-1;;KSC Island
 7027;4961;sea;4883;-1;-1;-1;-1;;Westray
 7024;4017;sea;3796;-1;-1;-1;-1;;Butun
+2311;2259;sea;2123;-1;-1;-1;-1;;Bulge
 423;474;sea;439;-1;-1;-1;-1;;Tora
 7023;3048;sea;2779;-1;-1;-1;-1;;Pogo
 3658;3715;sea;3505;-1;-1;-1;-1;;Angus
-4022;4114;sea;3985;-1;-1;-1;-1;;Aontas Strait
+4406;4114;sea;3985;-1;-1;-1;-1;;Aontas Strait
 3657;3600;sea;3409;-1;-1;-1;-1;;Mede
 3336;4013;sea;2585;-1;-1;-1;-1;;Jefair
 1262;1178;sea;1133;-1;-1;-1;-1;;Rivere-Panseria
-1121;1210;sea;1133;-1;-1;-1;-1;;Rivere-Panseria
 1147;1238;sea;;-1;-1;-1;-1;;Calida-Panseria
 698;713;sea;553;-1;-1;-1;-1;;Hook Islands
 679;738;sea;553;-1;-1;-1;-1;;Hook Islands
@@ -44,11 +44,28 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 2559;2401;sea;2427;-1;-1;-1;-1;;Notillian-Algand
 2549;2401;sea;2427;-1;-1;-1;-1;;Notillian-Nautilus
 5028;5122;sea;4946;-1;-1;-1;-1;;Psylets
+5306;5213;sea;4946;-1;-1;-1;-1;;Psylets
+1147;1238;sea;1133;-1;-1;-1;-1;;Panseria-Calida
 
 
+2008;2093;impassable;-1;-1;-1;-1;-1;;Big River
+2008;2420;impassable;-1;-1;-1;-1;-1;;Big River
+2105;2420;impassable;-1;-1;-1;-1;-1;;Big River
+2105;2050;impassable;-1;-1;-1;-1;-1;;Big River
+1462;2050;impassable;-1;-1;-1;-1;-1;;Big River
+1462;1399;impassable;-1;-1;-1;-1;-1;;Big River
+1462;2014;impassable;-1;-1;-1;-1;-1;;Big River
+927;971;impassable;-1;-1;-1;-1;-1;;Owlia River
+976;971;impassable;-1;-1;-1;-1;-1;;Owlia River
+1030;971;impassable;-1;-1;-1;-1;-1;;Owlia River
+5012;4936;impassable;-1;-1;-1;-1;-1;;Kafrica River
+5012;5008;impassable;-1;-1;-1;-1;-1;;Kafrica River
+5064;5008;impassable;-1;-1;-1;-1;-1;;Kafrica River
+3224;3308;impassable;-1;-1;-1;-1;-1;;Arcadia River
+3224;800;impassable;-1;-1;-1;-1;-1;;Arcadia River
+3122;800;impassable;-1;-1;-1;-1;-1;;Arcadia River
+1403;1450;impassable;-1;-1;-1;-1;-1;;KSKM River
+1616;1579;impassable;-1;-1;-1;-1;-1;;KSKM River
 
-3346;3390;impassable;-1;-1;-1;-1;-1;;KSC mountains
-3346;3274;impassable;-1;-1;-1;-1;-1;;KSC mountains
-3516;3546;impassable;-1;-1;-1;-1;-1;;KSC mountains
 
 -1;-1;;-1;-1;-1;-1;-1;-1

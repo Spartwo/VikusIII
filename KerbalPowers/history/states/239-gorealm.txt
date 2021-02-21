@@ -14,9 +14,8 @@ state={
 	history={
 		owner = VER
 		add_core_of = VER
-		victory_points = {
-			5701 20 
-		}
+		victory_points = { 5812 10 } #Kamunzel
+		victory_points = { 5722 10 } #Gorealm
 
 	}
 

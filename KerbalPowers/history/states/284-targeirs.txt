@@ -4,13 +4,14 @@ state={
 	name="STATE_284"
 
 	history={
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = ZZY
+		add_core_of = ZZY
+		victory_points = { 6817 10 } #Targiers
 
 	}
 
 	provinces={
-		6817 6869 6897 
+		6753 6804 6817 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

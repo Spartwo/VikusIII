@@ -1,7 +1,6 @@
 ﻿capital = 63
 
 oob = "RMAP_TEMPLATE"
-set_cosmetic_tag = TEK_subject
 
 set_research_slots = 2
 set_convoys = 100

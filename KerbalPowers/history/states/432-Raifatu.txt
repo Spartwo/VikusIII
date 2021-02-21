@@ -14,11 +14,14 @@ state={
 	history={
 		owner = GIZ
 		add_core_of = GIZ
+		victory_points = { 3525 10 } #Ri'igata
+		victory_points = { 3596 10 } #Hakura
+		victory_points = { 3473 10 } #Eihana
 
 	}
 
 	provinces={
-		3295 3349 3363 3404 3435 3471 3473 3485 3525 3530 3539 3569 3596 
+		3295 3311 3349 3363 3435 3471 3473 3525 3530 3539 3596 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

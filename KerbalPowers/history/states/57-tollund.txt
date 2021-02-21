@@ -14,6 +14,7 @@ state={
 	history={
 		owner = ZZV
 		add_core_of = ZZV
+		victory_points = { 4533 10 } #Tollund
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -21,10 +22,9 @@ state={
 		}
 
 	}
-	
 
 	provinces={
-		4401 4418 4427 4499 4505 4524 4533 4569 4597 4602 4604 4663 4731 4756 4757 
+		4401 4418 4427 4499 4505 4533 4569 4602 4604 4663 4731 4756 4757 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

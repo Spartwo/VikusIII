@@ -14,7 +14,7 @@ state={
 	history={
 		owner = ALB
 		add_core_of = ALB
-		victory_points = { 6619 10 }
+		victory_points = { 6619 10 } #Caucus
 
 	}
 

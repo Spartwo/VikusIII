@@ -5,11 +5,9 @@ state={
 
 	history={
 		owner = SPE
-		add_core_of = EGR
 		add_core_of = SPE
-		victory_points = {
-			145 30 
-		}
+		add_core_of = EGR
+		victory_points = { 145 10 } #Alania
 		buildings = {
 			infrastructure = 6
 			arms_factory = 3

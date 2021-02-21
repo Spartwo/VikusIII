@@ -6,14 +6,12 @@ state={
 	history={
 		owner = ZZX
 		add_core_of = ZZX
-		victory_points = {
-			3371 10 
-		}
+		victory_points = { 3602 10 } #Crough
 
 	}
 
 	provinces={
-		3045 3218 3284 3285 3302 3371 3407 3426 3440 3454 3490 3560 3602 3606 
+		3218 3284 3371 3407 3426 3440 3454 3490 3560 3602 3606 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

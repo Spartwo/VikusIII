@@ -4,8 +4,10 @@ state={
 	name="STATE_605"
 
 	history={
-		owner = POT
-		add_core_of = POT
+		owner = VON
+		add_core_of = VON
+		victory_points = { 6912 10 } #Dravan
+		victory_points = { 6940 10 } #Othya
 
 	}
 

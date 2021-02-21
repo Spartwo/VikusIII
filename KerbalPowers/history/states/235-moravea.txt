@@ -14,6 +14,9 @@ state={
 	history={
 		owner = SOL
 		add_core_of = SOL
+		victory_points = { 4746 20 } #Moravi
+		victory_points = { 4911 10 } #Gaothe
+		victory_points = { 4996 10 } #Earge
 
 	}
 
@@ -22,5 +25,5 @@ state={
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=large_town
 }

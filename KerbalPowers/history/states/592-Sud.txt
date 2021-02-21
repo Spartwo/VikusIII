@@ -7,6 +7,9 @@ state={
 		owner = SAN
 		add_core_of = SAN
 		add_core_of = RID
+		victory_points = {
+			3110 10 
+		}
 
 	}
 

@@ -11,6 +11,7 @@ state={
 	history={
 		owner = ZOK
 		add_core_of = ZOK
+		victory_points = { 3368 10 } #Grailtowne
 
 	}
 }

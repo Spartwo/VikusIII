@@ -2,7 +2,7 @@ state={
 	id=401
 	name="STATE_401"
 	provinces={
-		885 907 940 949 979 987 996 1012 1041 1064 1069 
+		885 907 940 949 979 987 996 1012 1064 1069 
 	}
 	manpower=1000000
 	resources={
@@ -19,5 +19,9 @@ state={
 history={
 		owner = AQU
 		add_core_of = AQU
+        victory_points = { 996 10 } #Calyx
+        victory_points = { 885 10 } #Corain
+        victory_points = { 940 10 } #Choppe
+        victory_points = { 1012 30 } #Ajemla
 	}
 }

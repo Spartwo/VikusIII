@@ -15,11 +15,13 @@ state={
 		owner = ICO
 		add_core_of = ICO
 		add_core_of = PRO
+		victory_points = { 1011 10 } #Vavatch
+		victory_points = { 1155 10 } #Dravas
 
 	}
 
 	provinces={
-		1011 1058 1111 1155 1168 1231 1264 1281 1288 1326 1374 1377 1453 
+		1011 1058 1111 1155 1168 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

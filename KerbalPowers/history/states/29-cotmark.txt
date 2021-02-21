@@ -15,6 +15,7 @@ state={
 		owner = ZOK
 		add_core_of = ZOK
 		add_core_of = BOS
+		victory_points = { 3732 10 } #Provono
 
 	}
 

@@ -6,9 +6,8 @@ state={
 	history={
 		owner = BSL
 		add_core_of = BSL
-		victory_points = {
-			1812 25 
-		}
+		victory_points = { 1749 10 } #Slanbi
+		victory_points = { 1908 10 } #Adrea
 
 	}
 

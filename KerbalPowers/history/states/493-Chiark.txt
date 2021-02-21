@@ -7,6 +7,7 @@ state={
 		owner = ICO
 		add_core_of = ICO
 		add_core_of = URJ
+        victory_points = { 1626 10 } #Chiark
 
 	}
 

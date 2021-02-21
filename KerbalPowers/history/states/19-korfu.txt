@@ -7,8 +7,8 @@ state={
 		owner = SAN
 		add_core_of = SAN
 		add_core_of = VAL
-		
-
+		victory_points = { 2535 10 } #Korfu
+		#Autumn Canton
 	}
 
 	provinces={

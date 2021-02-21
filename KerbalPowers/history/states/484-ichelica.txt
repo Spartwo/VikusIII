@@ -4,13 +4,15 @@ state={
 	name="STATE_484"
 
 	history={
-		owner = NOM
-		add_core_of = NOM
+		owner = ZZY
+		add_core_of = ZZY
+        victory_points = { 2043 10 } #Ichel
+        victory_points = { 2060 10 } #Nomanne
 
 	}
 
 	provinces={
-		1925 1944 1945 1946 1954 1976 2006 2009 2029 2043 2052 2060 2078 2096 2111 2132 2133 2163 2164 2186 2193 2267 2272 
+		1925 1944 1945 1946 1954 1976 2006 2009 2029 2043 2052 2060 2096 2111 2132 2133 2163 2193 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

@@ -21,13 +21,16 @@ set_politics = {
 
 
 set_popularities = {
-	communism = 5 #Statism
-	neutrality = 5 #Neutrality
+	communism = 10 #Statism
+	antagonism = 10
+	hermitism = 10 
+	neutrality = 10 #Neutrality
 	corporatism = 10
-	fascism = 8 #Nationalism
-	overlordship = 5
-	neoconservativism = 12
-	democratic = 55 #Liberalism
+	fascism = 10 #Nationalism
+	overlordship = 10
+	neocon = 10
+	democratic = 10 #Cooperativism
+	individualism = 10
 }
 
 create_country_leader = {

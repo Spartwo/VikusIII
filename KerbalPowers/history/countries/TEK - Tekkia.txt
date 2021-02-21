@@ -22,7 +22,7 @@ add_to_faction = CEL
 
 set_politics = {
 
-	ruling_party = democratic
+	ruling_party = individualism
 		last_election = "2069.10.6"
 		election_frequency = 84
 		elections_allowed = yes
@@ -32,7 +32,7 @@ set_politics = {
 set_popularities = {
 	communism = 4 #Statism
 	neutrality = 32 #Neutrality
-	neoconservativism = 0
+	neocon = 0
 	fascism = 19 #Nationalism
 	corporatism = 0
 	democratic = 45 #Liberalism

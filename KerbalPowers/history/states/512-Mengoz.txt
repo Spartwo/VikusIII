@@ -6,6 +6,8 @@ state={
 	history={
 		owner = DTA
 		add_core_of = DTA
+		add_core_of = CAR
+		victory_points = { 88 10 } #Vychod
 
 	}
 

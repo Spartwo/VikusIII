@@ -14,13 +14,15 @@ state={
 	history={
 		owner = KER
 		add_core_of = KER
+		add_core_of = YRA
+		victory_points = { 6573 10 } #Stolska
 
 	}
 
 	provinces={
-		6573 6769 
+		6573 6617 6769 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 }

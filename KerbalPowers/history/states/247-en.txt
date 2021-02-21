@@ -18,5 +18,6 @@ state={
 history={
 		owner = RAT
 		add_core_of = RAT
+		victory_points = { 6797 10 } #En
 	}
 }

@@ -19,5 +19,8 @@ state={
 history={
 		owner = SWE
 		add_core_of = SWE
+		victory_points = { 6408 15 }#Nordens
+		victory_points = { 6178 10 }#Fenris
+		victory_points = { 6014 10 }#Rendt
 	}
 }

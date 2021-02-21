@@ -6,6 +6,8 @@ state={
 	history={
 		owner = ERU
 		add_core_of = ERU
+		victory_points = { 177 10 } #Clawe
+		victory_points = { 359 10 } #Gratenia
 
 	}
 

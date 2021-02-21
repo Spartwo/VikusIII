@@ -12,13 +12,15 @@ state={
 	}
 
 	history={
-		owner = RED
-		add_core_of = RED
+		owner = ZZY
+		add_core_of = ZZY
+        	victory_points = { 2952 10 } #Galitan
+        	victory_points = { 2908 10 } #Te Tuturi
 
 	}
 
 	provinces={
-		2534 2623 2686 2726 2738 2799 2812 2840 2845 2878 2908 2952 2953 3023 3030 3038 
+		2534 2623 2686 2726 2738 2799 2840 2845 2878 2908 2952 2953 3023 3030 3038 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

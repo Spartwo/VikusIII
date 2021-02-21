@@ -12,8 +12,9 @@ state={
 	}
 
 	history={
-		owner = VUL
-		add_core_of = VUL
+		owner = ZZX
+		add_core_of = ZZX
+		victory_points = { 2362 10 } #Dinyol
 		
 
 	}

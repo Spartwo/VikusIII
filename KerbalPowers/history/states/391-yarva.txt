@@ -14,6 +14,9 @@ state={
 	history={
 		owner = BSL
 		add_core_of = BSL
+		victory_points = { 1089 10 } #Tendio
+		victory_points = { 865 10 } #Yarva
+		victory_points = { 744 10 } #Varad
 
 	}
 

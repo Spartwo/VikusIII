@@ -65,12 +65,12 @@ PKA_COS = { color = rgb { 200 16 46 }
    	 color_ui = rgb { 200 16 46 } }
 
 #RAVNINNY
-RAV_FORM = { color = rgb { 206 17 38 }
-   	 color_ui = rgb { 206 17 38 } }
+RAV_FORM = { color = rgb { 136 17 38 }
+   	 color_ui = rgb { 136 17 38 } }
 
 #UIF
-UIF_FORM = { color = rgb { 19 31 56 }
-    	color_ui = rgb { 19 31 56 } }
+UIF_FORM = { color = rgb { 19 31 86 }
+    	color_ui = rgb { 19 31 86 } }
 
 #AONTAS
 AON_FORM = { color = rgb { 0 74 127 }
@@ -123,3 +123,8 @@ KAL_DFK = { color = rgb { 0 140 91 }
    	 color_ui = rgb { 0 140 91 } }
 KAL_SKR = { color = rgb { 81 0 0 }
    	 color_ui = rgb { 81 0 0 } }
+
+#########SPHERES#################
+TEK_SPHERE = { color = rgb { 61 111 152 }
+   	 color_ui = rgb { 61 111 152 } }
+

@@ -14,6 +14,8 @@ state={
 	history={
 		owner = DRA
 		add_core_of = DRA
+		victory_points = { 4179 10 } #Zyey
+		victory_points = { 4107 10 } #Corcol
 		
 
 	}

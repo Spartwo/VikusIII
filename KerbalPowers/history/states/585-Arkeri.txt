@@ -12,6 +12,9 @@ state={
 	history={
 		owner = NKS
 		add_core_of = NKS
+		add_core_of = KRK
+        victory_points = { 6450 10 } #Vasco
+        victory_points = { 6534 10 } #Uace
 
 	}
 }
