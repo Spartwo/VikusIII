@@ -13,20 +13,22 @@ set_technology = {
 
 set_politics = {
 	
-	ruling_party = neutrality
+	ruling_party = communism
 	last_election = "2060.3.1"
 	election_frequency = 60
 	elections_allowed = no
 }
 
+
 set_popularities = {
-	communism = 0 #Statism
-	neutrality = 100 #Neutrality
-	neocon = 0
-	fascism = 0 #Nationalism
-	corporatism = 0
-	democratic = 0 #Liberalism
+	communism = 42 #Statism
+	neutrality = 12 #Neutrality
+	corporatism = 5
+	fascism = 6 #Nationalism
+	overlordship = 0
+	democratic = 35 #Cooperativism
 }
+
 create_country_leader = {
 	name = "name here"
 	picture = "GFX_leader_unknown.dds"

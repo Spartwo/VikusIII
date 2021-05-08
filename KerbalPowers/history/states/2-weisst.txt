@@ -24,7 +24,7 @@ history={
 		add_core_of = PUG
 		add_core_of = VAN
 		victory_points = { 3317 15 } #Weisst
-		victory_points = { 3312 10 } #Zoke
+		victory_points = { 3312 10 } #BOSe
 		victory_points = { 3259 10 } #Korton
 
 		buildings = {

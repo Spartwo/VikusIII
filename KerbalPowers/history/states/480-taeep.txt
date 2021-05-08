@@ -12,8 +12,8 @@ state={
 	}
 
 	history={
-		owner = ZZY
-		add_core_of = ZZY
+		owner = ANI
+		add_core_of = ANI
 		victory_points = { 1518 10 } #Pansere
 		victory_points = { 1457 10 } #Taeep
 

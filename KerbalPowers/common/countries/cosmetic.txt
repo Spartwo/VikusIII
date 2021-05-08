@@ -12,6 +12,10 @@ KUS_FORM = { color = rgb { 255 216 0 }
 CPD_FORM = { color = rgb { 127 0 0 }
     	color_ui = rgb { 127 0 0 } }
 
+#FORMING LAVESKA
+LAV_FORM = { color = rgb { 16 77 148 }
+	color_ui = rgb { 16 77 148 } }
+
 #FORMING TARGERIA
 TAR_FORM = { color = rgb { 104 191 61 }
     	color_ui = rgb { 104 191 61 } }
@@ -65,12 +69,16 @@ PKA_COS = { color = rgb { 200 16 46 }
    	 color_ui = rgb { 200 16 46 } }
 
 #RAVNINNY
-RAV_FORM = { color = rgb { 136 17 38 }
-   	 color_ui = rgb { 136 17 38 } }
+RAV_FORM = { color = rgb { 136 1 0 }
+   	 color_ui = rgb { 136 1 0 } }
 
 #UIF
-UIF_FORM = { color = rgb { 19 31 86 }
-    	color_ui = rgb { 19 31 86 } }
+UIF_FORM = { color = rgb { 24 39 71 }
+    	color_ui = rgb { 24 39 71 } }
+
+#THICCESIA
+AZF_FORM = { color = rgb { 17 91 38 }
+   	 color_ui = rgb { 17 91 38 } }
 
 #AONTAS
 AON_FORM = { color = rgb { 0 74 127 }

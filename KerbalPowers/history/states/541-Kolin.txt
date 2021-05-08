@@ -4,15 +4,14 @@ state={
 	name="STATE_541"
 
 	history={
-		owner = RAF
-		add_core_of = RAF
+		owner = TAE
+		add_core_of = TAE
 		victory_points = { 6491 10 } #Kolin
-		victory_points = { 6417 10 } #Poloas
 
 	}
 
 	provinces={
-		6187 6417 6436 6441 6491 6496 6503 6550 6574 6592 6663 
+		6187 6436 6441 6491 6550 6574 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

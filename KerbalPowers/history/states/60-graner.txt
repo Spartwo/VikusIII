@@ -17,8 +17,8 @@ state={
 	state_category=rural
 
 	history={
-		owner = GRA
-		add_core_of = GRA
+		owner = PHO
+		add_core_of = PHO
 		victory_points = { 3701 10 }
 		set_demilitarized_zone = yes
 		buildings = {

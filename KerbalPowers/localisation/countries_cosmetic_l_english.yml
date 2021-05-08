@@ -26,6 +26,11 @@ REC_DUST_ADJ:0 "Dust"
 REC_ACRI:0 "Acrimony"
 REC_ACRI_DEF:0 "The Acrimonious Lake Periphery States"
 REC_ACRI_ADJ:0 "Acrimone"
+################### Laveska ######################
+ LAV:0 "Laveska"
+ LAV_DEF:0 "Laveska"
+ LAV_democratic_DEF:0 "The Union of Laveska"
+ LAV_ADJ:0 "Laveskan"
 ################### Karthax-Avalon ######################
 KAR_RED:0 "Avalon"
 KAR_RED_DEF:0 "Avalon"

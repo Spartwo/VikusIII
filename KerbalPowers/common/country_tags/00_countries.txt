@@ -122,6 +122,8 @@ SER = "countries/SER.txt" #PANSERIA
 GIB = "countries/GIB.txt" #GIBRAZI
 AIN = "countries/AIN.txt" #AINAK
 FEN = "countries/FEN.txt" #FENIKS
+ANI = "countries/ANI.txt" #ANIXIA 
+NOL = "countries/NOL.txt" #NOLAND
 
 ###BASKAY###
 AQU = "countries/AQU.txt" #AQUARIA
@@ -186,6 +188,9 @@ HEL = "countries/HEL.txt" #HELACIA-SONDERMARK (SPAWNS IF CALLED BY MEDWED TO)
 RAF = "countries/RAF.txt" #RAFLAND
 THA = "countries/THA.txt" #THANATOS
 CRY = "countries/CRY.txt" #CRYTIL (REPLACE NMC IF DESTROYED)
+TAE = "countries/TAE.txt" #Taeznha
+ZAL = "countries/ZAL.txt" #ZALKENT
+CLS = "countries/CLS.txt" #CELESTA
 VON = "countries/VON.txt" #VONIA(RARE SPAWN)
 
 ###VEIID###

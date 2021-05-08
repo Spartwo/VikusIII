@@ -372,7 +372,7 @@
  SHORTCUT:0 "Shortcut: $KEY$"
  ADD_NEW_AIRWING:1 "Add new Air Wing"
  ADD_NEW_AIRWING_VOLUNTEER_BASE:0 "§RCannot create airwing in the volunteer airbase§!"
- CREATING_PROVINCE:0 "Creating Province #"
+ CREATING_PROVINCE:0 "Creating Province"
  EXECUTE_HISTORY:0 "Executing history"
  CREATING_CHKSUM:0 "Creating checksum"
  GENERATING_GRADIENT_BORDERS:0 "Generating Gradient Borders"

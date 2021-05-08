@@ -12,8 +12,8 @@ state={
 	}
 
 	history={
-		owner = VAN
-		add_core_of = VAN
+		owner = COT
+		add_claim_by = VAN
 		add_core_of = COT
 		victory_points = { 4200 20 } #Kotmarker
 		victory_points = { 4092 10 } #Glocken

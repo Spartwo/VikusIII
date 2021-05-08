@@ -1,0 +1,38 @@
+﻿capital = 303
+
+oob = "RMAP_TEMPLATE"
+
+
+set_research_slots = 2
+set_convoys = 100
+set_stability = 0.2
+
+# Starting tech
+set_technology = {
+
+}
+
+set_popularities = {
+	communism = 0 #Statism
+	neutrality = 100 #Neutrality
+	neocon = 0
+	fascism = 0 #Nationalism
+	corporatism = 0
+	democratic = 0 #Liberalism
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "2050.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+create_country_leader = {
+	name = "name here"
+	picture = "GFX_leader_unknown.dds"
+	ideology = centrism
+	traits = {
+		
+	}
+}

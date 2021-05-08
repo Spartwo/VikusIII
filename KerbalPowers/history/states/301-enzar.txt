@@ -4,8 +4,8 @@ state={
 	name="STATE_301"
 
 	history={
-		owner = ZZY
-		add_core_of = ZZY
+		owner = RAF
+		add_core_of = RAF
 		victory_points = { 1306 10 } #Dencegus
 
 	}

@@ -13,16 +13,15 @@ set_technology = {
 }
 
 set_popularities = {
-	communism = 0 #Statism
-	neutrality = 100 #Neutrality
-	neocon = 0
-	fascism = 0 #Nationalism
-	corporatism = 0
-	democratic = 0 #Liberalism
+	communism = 24 #Statism
+	neutrality = 12 #Neutrality
+	fascism = 7 #Nationalism
+	corporatism = 3
+	democratic = 54 #Liberalism
 }
 
 set_politics = {
-	ruling_party = individualism
+	ruling_party = democratic
 	last_election = "2050.1.1"
 	election_frequency = 48
 	elections_allowed = yes

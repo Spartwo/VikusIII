@@ -534,6 +534,16 @@
  AIN:0 "Ainak"
  AIN_DEF:0 "Ainak"
  AIN_ADJ:0 "Ainak"
+ # Noland
+ NOL:0 "Noland"
+ NOL_DEF:0 "Noland"
+ NOL_fascism_DEF:0 "The Province of Noland"
+ NOL_ADJ:0 "Nolander"
+ # Anixia
+ ANI:0 "Anixia"
+ ANI_DEF:0 "Anixia"
+ ANI_democratic_DEF:0 "The Oath Republic of Anixia"
+ ANI_ADJ:0 "Anix"
 
 
 ###BASKAY###
@@ -798,6 +808,21 @@
  CRY_DEF:0 "Crytil"
  CRY_democratic_DEF:0 "The Semuyic Republic of Crytil"
  CRY_ADJ:0 "Crytil"
+ # Taeznha
+ TAE:0 "Taeznha"
+ TAE_DEF:0 "Taeznha"
+ #TAE_democratic_DEF:0 "The Kingdom of Taeznha"
+ TAE_ADJ:0 "Taeznhan"
+ # Celeste
+ CLS:0 "Celeste"
+ CLS_DEF:0 "Celeste"
+ CLS_fascism_DEF:0 "Imperial Celeste"
+ CLS_ADJ:0 "Celeste"
+ # Zalkent
+ ZAL:0 "Zalkent"
+ ZAL_DEF:0 "Zalkent"
+ ZAL_democratic_DEF:0 "The Republic of Zalkent"
+ ZAL_ADJ:0 "Zalkent"
  # Vonia
  VON:0 "Vonia"
  VON_DEF:0 "Vonia"
