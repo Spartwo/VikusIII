@@ -140,6 +140,8 @@ MAL = { color = rgb { 45 45 45 }
 ###DOREN###
 ARC = { color = rgb { 126 1 0 }
 	color_ui = rgb { 126 1 0 } }
+OFE = { color = rgb { 4 105 148 }
+	color_ui = rgb { 4 105 148 } }
 AEN = { color = rgb { 0 114 93 }
 	color_ui = rgb { 0 114 93 } }
 HAL = { color = rgb { 0 127 14 }
@@ -160,6 +162,8 @@ ZAP = { color = rgb { 255 216 0 }
 	color_ui = rgb { 255 216 0 } }
 BEL = { color = rgb { 0 164 229 }
 	color_ui = rgb { 0 164 229 } }
+BEA = { color = rgb { 28 187 255 }
+	color_ui = rgb { 28 187 255 } }
 ZIM = { color = rgb { 0 32 96 }
 	color_ui = rgb { 0 32 96 } }
 DRA = { color = rgb { 114 95 130 }

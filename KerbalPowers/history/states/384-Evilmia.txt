@@ -14,7 +14,7 @@ state={
 	history={
 		owner = ACC
 		add_core_of = ACC
-        	victory_points = { 6949 10 } #Envilmia
+        	victory_points = { 6959 10 } #Envilmia
 		
 
 	}

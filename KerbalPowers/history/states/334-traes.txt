@@ -14,15 +14,16 @@ state={
 	history={
 		owner = ZZY
 		add_core_of = ZZY
-		victory_points = { 1970 10 } #Traes
-		victory_points = { 1985 10 } #Tius
+		victory_points = {
+			2040 10 
+		}
 
 	}
 
 	provinces={
-		1713 1727 1754 1805 1806 1831 1878 1886 1909 1932 1970 1973 1985 2035 2039 2040 
+		1713 1727 1754 1805 1806 1831 1878 1886 1932 1973 2035 2040 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 }

@@ -6,6 +6,7 @@ state={
 	history={
 		owner = BEL
 		add_core_of = BEL
+		add_core_of = BEA
 		victory_points = { 4246 10 }
 
 	}

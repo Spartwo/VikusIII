@@ -93,6 +93,7 @@ OPE = "countries/OPE.txt" #OPIA (BREAKS FROM ROV IF ZOK INVADE)
 
 ###DOREN###
 ARC = "countries/ARC.txt" #ARCADIA
+OFE = "countries/OFE.txt" #OFELIYA
 AEN = "countries/AEN.txt" #AENIA
 HAL = "countries/HAL.txt" #HALCO
 KAN = "countries/KAN.txt" #KANBEK
@@ -102,6 +103,7 @@ ZER = "countries/ZER.txt" #ZERAOR
 AMB = "countries/AMB.txt" #AMBER
 ZAP = "countries/ZAP.txt" #ZAPODA
 BEL = "countries/BEL.txt" #BELASRIOV
+BEA = "countries/BEA.txt" #BELAENIA
 ESS = "countries/ESS.txt" #ESSEN
 #Post start release
 ZIM = "countries/ZIM.txt" #ZIMOR (SPAWN IN AREAS OF NIS AND DRA IF SANCTUM IS BEATEN)

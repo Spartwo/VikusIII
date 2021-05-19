@@ -142,7 +142,9 @@
  # Harton
  HAR:0 "Harton"
  HAR_DEF:0 "Harton"
+ HAR_fascism_DEF:0 "Halgonia"
  HAR_ADJ:0 "Hartone"
+ HAR_fascism_ADJ:0 "Halgonian"
  # Kraken
  KRK:0 "Kraken"
  KRK_DEF:0 "Kraken"
@@ -404,21 +406,25 @@
 
 ###DOREN###
  # Arcadia
- ARC:1 "Arcadia"
- ARC_DEF:0 "Arcadia"
- ARC_ADJ:0 "Arcadian"
- ARC_fascism_DEF:0 "Ultranationalist Arcadia"
- ARC_democratic_DEF:0 "The Republic of Arcadia"
- ARC_communism_DEF:0 "Union of Arcadian Socialist Repubics"
- ARC_neocon_DEF:0 "The Arcadian Imperial Union"
+ ARC:1 "Arkadiya"
+ ARC_DEF:0 "Arkadiya"
+ ARC_ADJ:0 "Arkadii"
+ ARC_fascism_DEF:0 "Ultranationalist Arkadiya"
+ ARC_democratic_DEF:0 "The Republic of Arkadiya"
+ ARC_communism_DEF:0 "Union of Arkadii Socialist Repubics"
+ ARC_neocon_DEF:0 "The Arkadii Imperial Union"
+ # Ofeliya
+ OFE:1 "Ofeliya"
+ OFE_DEF:0 "Ofeliya"
+ OFE_ADJ:0 "Ofeli"
  # Aenia
  AEN:0 "Aenia"
  AEN_DEF:0 "Aenia"
  AEN_ADJ:0 "Aenian"
  AEN_fascism_DEF:0 "Aenian Konig-State"
  AEN_democratic_DEF:0 "Federal Republic of Aenia" 
- AEN_communism_DEF:0 "Aenian Democratic Republic"
- AEN_neocon_DEF:0 "Federation of Central Aenia"
+ AEN_communism_DEF:0 "Aeniya Democratic Republic"
+ AEN_neocon_DEF:0 "Federation of Central Aeniya"
  AEN_corporatism_DEF:0 "The Ravninny Trade Collective"
  # Halco
  HAL:1 "Halco"
@@ -465,6 +471,10 @@
  BEL:0 "Belasriov"
  BEL_DEF:0 "Belasriov"
  BEL_ADJ:0 "Belasrii"
+ # Belaenia
+ BEA:0 "Belaenia"
+ BEA_DEF:0 "Belaenia"
+ BEA_ADJ:0 "Belarcad"
  # Zimor
  ZIM:0 "Zimor"
  ZIM_DEF:0 "Zimor"
@@ -811,8 +821,8 @@
  # Taeznha
  TAE:0 "Taeznha"
  TAE_DEF:0 "Taeznha"
- #TAE_democratic_DEF:0 "The Kingdom of Taeznha"
  TAE_ADJ:0 "Taeznhan"
+ TAE_neutrality_DEF:0 "The Kingdom of Taeznha"
  # Celeste
  CLS:0 "Celeste"
  CLS_DEF:0 "Celeste"
