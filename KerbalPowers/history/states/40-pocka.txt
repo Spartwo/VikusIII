@@ -6,12 +6,14 @@ state={
 	history={
 		owner = ZZV
 		add_core_of = ZZV
-		add_core_of = CRS
-		victory_points = { 4154 10 } #Pocka
+		victory_points = {
+			4154 10 
+		}
+
 	}
 
 	provinces={
-		3721 3970 4010 4093 4154 4254 4662 
+		3970 4010 4093 4154 4662 
 	}
 	manpower=30000
 	buildings_max_level_factor=1.000

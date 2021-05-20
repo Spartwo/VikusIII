@@ -1,22 +1,21 @@
-
 state={
-	id=71
-	name="STATE_71"
+	id=667
+	name="STATE_667"
+	provinces={
+		3721 4189 4254 6404 
+	}
 
 	history={
 		owner = ZZV
 		add_core_of = ZZV
-		add_core_of = CRS
+		add_core_of = CRS 
 		victory_points = {
-			4223 10 
+			4189 10 
 		}
 
 	}
 
-	provinces={
-		4113 4172 4223 4352 4369 6453 
-	}
 	manpower=30000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=wasteland
 }

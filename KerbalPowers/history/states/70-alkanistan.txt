@@ -12,15 +12,17 @@ state={
 	}
 
 	history={
-		owner = PHO
-		add_core_of = PHO
-		victory_points = { 4189 10 }#Taewe
-		victory_points = { 4311 10 }#Alkan
+		owner = ZZV
+		add_core_of = ZZV
+		add_core_of = CRS
+		victory_points = {
+			4311 10 
+		}
 
 	}
 
 	provinces={
-		3997 4189 4207 4311 4440 5074 6404 
+		4207 4311 4440 
 	}
 	manpower=30000
 	buildings_max_level_factor=1.000

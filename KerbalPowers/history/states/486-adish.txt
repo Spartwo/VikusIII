@@ -14,6 +14,7 @@ state={
 	history={
 		owner = PHO
 		add_core_of = PHO
+		add_core_of = CRS 
 		victory_points = { 6526 10 }#Iro
 		victory_points = { 3826 10 }#Adish
 

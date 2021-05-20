@@ -6,13 +6,15 @@ state={
 	history={
 		owner = PHO
 		add_core_of = PHO
-		victory_points = { 3957 5 }#Gali
-		victory_points = { 2317 15 }#Maslov
+		add_core_of = CRS 
+		victory_points = {
+			2317 15 
+		}
 
 	}
 
 	provinces={
-		2317 3748 3831 3957 3971 
+		2317 3748 3831 
 	}
 	manpower=30000
 	buildings_max_level_factor=1.000

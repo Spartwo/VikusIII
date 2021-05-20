@@ -20,6 +20,7 @@ state={
 	history={
 		owner = PHO
 		add_core_of = PHO
+		add_core_of = GRA
 		victory_points = { 3701 10 }
 		set_demilitarized_zone = yes
 		buildings = {
