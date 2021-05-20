@@ -4,7 +4,7 @@ state={
 	provinces={
 		579 
 	}
-	manpower=400000
+	manpower=120000
 	resources={
 		steel=0
 		aluminium=0
@@ -15,7 +15,7 @@ state={
 	}
 	buildings_max_level_factor=1.000
 	state_category=small_island
-	manpower=200000
+	manpower=60000
 
 history={
 		owner = ANG

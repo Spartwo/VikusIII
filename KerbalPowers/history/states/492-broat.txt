@@ -13,7 +13,7 @@ state={
 	provinces={
 		1490 1517 1564 1574 1589 1596 1597 1627 1657 1680 1706 1739 1788 1795 1807 1868 
 	}
-	manpower=200000
+	manpower=60000
 	buildings_max_level_factor=1.000
 	state_category=wasteland
 }

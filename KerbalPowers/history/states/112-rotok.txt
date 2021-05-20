@@ -13,7 +13,7 @@ state={
 	provinces={
 		1972 2005 2018 2023 2038 2057 2082 2083 2140 2141 2144 2156 2229 2241 2270 2329 2353 
 	}
-	manpower=800000
+	manpower=250000
 	buildings_max_level_factor=0.000
 	state_category=large_city
 

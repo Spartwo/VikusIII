@@ -13,7 +13,7 @@ state={
 	provinces={
 		1748 1777 1787 1793 1841 1843 1844 1859 1896 1911 1923 
 	}
-	manpower=4000000
+	manpower=1200000
 	buildings_max_level_factor=1.000
 	state_category=large_city
 }

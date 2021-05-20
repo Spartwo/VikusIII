@@ -4,7 +4,7 @@ state={
 	provinces={
 		1687 1756 1758 1776 1799 1802 1825 1833 1865 1873 1877 1934 1935 
 	}
-	manpower=400000
+	manpower=120000
 	resources={
 		steel=0
 		aluminium=0

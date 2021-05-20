@@ -22,7 +22,7 @@ state={
 	provinces={
 		1909 1970 1985 2039  
 	}
-	manpower=2000000
+	manpower=600000
 	buildings_max_level_factor=0.000
 	state_category=rural
 }

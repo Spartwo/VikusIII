@@ -18,7 +18,7 @@ state={
 	provinces={
 		1920 1921 1929 1952 1999 2002 2024 2047 
 	}
-	manpower=800000
+	manpower=250000
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }

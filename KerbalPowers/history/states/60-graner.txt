@@ -4,7 +4,7 @@ state={
 	provinces={
 		3701 3745 3753 3779 3833 3847 3857 
 	}
-	manpower=400000
+	manpower=120000
 	resources={
 		steel=25
 		aluminium=0
@@ -15,7 +15,7 @@ state={
 	}
 	buildings_max_level_factor=1.000
 	state_category=rural
-	manpower=200000
+	manpower=60000
 
 	history={
 		owner = PHO

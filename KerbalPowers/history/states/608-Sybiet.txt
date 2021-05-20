@@ -5,7 +5,7 @@ state={
 	provinces={
 		165 1124 4561 5158 5508 5597 5709 
 	}
-	manpower=400000
+	manpower=120000
 	buildings_max_level_factor=1.000 
  	 state_category=large_town
 
