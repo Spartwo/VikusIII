@@ -22,7 +22,7 @@ state={
 	provinces={
 		6664 6668 6695 6698 6717 6726 6738 6744 6758 6764 6773 
 	}
-	manpower=1000000
+	manpower=4000000
 	buildings_max_level_factor=1.000
 	state_category=town
 }

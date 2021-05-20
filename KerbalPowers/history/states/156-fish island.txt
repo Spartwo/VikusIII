@@ -4,7 +4,7 @@ state={
 	provinces={
 		59 
 	}
-	manpower=1000000
+	manpower=400000
 	resources={
 		steel=0
 		aluminium=0
@@ -15,6 +15,7 @@ state={
 	}
 	buildings_max_level_factor=1.000
 	state_category=small_island
+	manpower=600
 
 	history={
 		owner = AQU

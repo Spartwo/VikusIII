@@ -4,7 +4,7 @@ state={
 	provinces={
 		3895 
 	}
-	manpower=1000000
+	manpower=4000000
 	resources={
 		steel=30
 		aluminium=0

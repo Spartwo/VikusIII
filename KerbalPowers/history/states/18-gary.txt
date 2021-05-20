@@ -4,7 +4,7 @@ state={
 	provinces={
 		2691 2712 2751 2788 2793 2823 2853 2860 2979 
 	}
-	manpower=1000000
+	manpower=4000000
 
 #2823 Naval
 

@@ -4,7 +4,7 @@ state={
 	provinces={
 		5969 5970 5990 5991 6016 6037 6045 6059 6064 6095 6107 6133 6179 
 	}
-	manpower=1000000
+	manpower=800000
 	resources={
 		steel=0
 		aluminium=0

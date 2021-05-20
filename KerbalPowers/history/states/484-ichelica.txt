@@ -14,7 +14,7 @@ state={
 	provinces={
 		1925 1944 1945 1946 1954 1976 2006 2009 2029 2043 2052 2060 2096 2111 2132 2133 2163 2193 
 	}
-	manpower=1000000
+	manpower=8000000
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

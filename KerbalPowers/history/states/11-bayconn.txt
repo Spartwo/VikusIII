@@ -4,7 +4,7 @@ state={
 	provinces={
 		5787 
 	}
-	manpower=1000000
+	manpower=400000
 	resources={
 		steel=15
 		aluminium=0
@@ -16,6 +16,7 @@ state={
 
 	buildings_max_level_factor=1.000
 	state_category=tiny_island
+	manpower=400000
 
 history={
 		owner = NMC

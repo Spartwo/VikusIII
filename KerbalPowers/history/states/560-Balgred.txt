@@ -20,7 +20,7 @@ state={
 	provinces={
 		1534 1608 1630 1683 1688 1726 1757 
 	}
-	manpower=100000
+	manpower=8000000
 	buildings_max_level_factor=1.000
 	state_category=megalopolis
 }

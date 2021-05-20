@@ -4,7 +4,7 @@ state={
 	provinces={
 		1544 1545 1649 1665 1691 1763 1871 
 	}
-	manpower=1000000
+	manpower=6000000
 	buildings_max_level_factor=1.000
 	state_category=town
 

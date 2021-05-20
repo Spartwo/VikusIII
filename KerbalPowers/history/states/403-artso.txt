@@ -12,7 +12,7 @@ state={
 	provinces={
 		1112 1149 1190 1213 1256 1282 1289 1337 1341 1415 1425 1426 1502 
 	}
-	manpower=1000000
+	manpower=2000000
 	buildings_max_level_factor=1.000
 	state_category=large_town
         victory_points = { 1426 10 } #Delge

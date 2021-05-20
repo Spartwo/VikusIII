@@ -4,7 +4,7 @@ state={
 	provinces={
 		6204 6240 6298 6299 6304 6384 
 	}
-	manpower=100000
+	manpower=800000
 	buildings_max_level_factor=1.000 
  	 state_category=town
 	history={
