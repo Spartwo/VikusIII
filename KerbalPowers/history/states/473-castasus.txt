@@ -18,6 +18,9 @@ state={
 		victory_points = { 229 20 } #Castasus
 		victory_points = { 287 10 } #Barcoa
 		victory_points = { 385 10 } #Stalpe
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

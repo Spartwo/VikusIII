@@ -17,6 +17,9 @@ state={
         	victory_points = { 6113 10 } #Keo
         	victory_points = { 6147 10 } #Zàpad
         	victory_points = { 6226 10 } #Prostredny
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

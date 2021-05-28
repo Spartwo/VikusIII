@@ -16,6 +16,9 @@ state={
 		owner = ZZW
 		add_core_of = ZZW
 		victory_points = { 822 10 } #Stuzz
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

@@ -16,6 +16,9 @@ state={
 		add_core_of = SAR
         	victory_points = { 3518 10 } #Aerfel
         	victory_points = { 2248 10 } #Koyma
+		buildings = {
+			infrastructure = 2
+		}
 		
 
 	}

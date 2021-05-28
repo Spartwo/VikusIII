@@ -16,6 +16,9 @@ state={
 		add_core_of = ZZY
         	victory_points = { 2872 10 } #Hors
         	victory_points = { 2685 10 } #Lovib
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

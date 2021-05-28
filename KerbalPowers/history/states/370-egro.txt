@@ -16,6 +16,9 @@ state={
 		add_core_of = SPE
 		add_core_of = EGR
 		victory_points = { 131 10 } #Egro
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

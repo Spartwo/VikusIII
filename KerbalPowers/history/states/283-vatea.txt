@@ -7,6 +7,9 @@ state={
 		owner = BEN
 		add_core_of = BEN
 		victory_points = { 6998 10 } #Vateaxe
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

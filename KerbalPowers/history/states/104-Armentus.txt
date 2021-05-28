@@ -9,6 +9,9 @@ state={
 		victory_points = { 719 15 } #Angvar
 		victory_points = { 667 10 } #Armentus
 		victory_points = { 573 10 } #Corrigon
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

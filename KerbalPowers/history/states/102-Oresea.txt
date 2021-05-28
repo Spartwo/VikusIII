@@ -7,6 +7,9 @@ state={
 		owner = ANG
 		add_core_of = ANG
 		victory_points = { 624 10 } #Oresea
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 

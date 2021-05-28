@@ -11,6 +11,9 @@ state={
 		owner = ZZX
 		add_core_of = ZZX
 		victory_points = { 2529 10 } #Camerough
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 }

@@ -12,5 +12,8 @@ history={
 		owner = OWL
 		add_core_of = OWL
 		victory_points = { 769 10 } #Palais
+		buildings = {
+			infrastructure = 2
+		}
 	}
 }

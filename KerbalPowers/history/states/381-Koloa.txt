@@ -17,6 +17,9 @@ state={
 		victory_points = { 6672 20 } #Barvia
 		victory_points = { 6607 10 } #Koloa
 		victory_points = { 6680 10 } #Florentia
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

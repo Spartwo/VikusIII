@@ -8,6 +8,9 @@ state={
 		add_core_of = THA
 		victory_points = { 6082 10 } #Hawer
 		victory_points = { 5791 10 } #Llandudno
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

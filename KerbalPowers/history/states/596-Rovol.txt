@@ -9,6 +9,9 @@ state={
 		add_core_of = OPE
 		victory_points = { 4543 10 } #Rovol
 		victory_points = { 4982 10 } #Ryze
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

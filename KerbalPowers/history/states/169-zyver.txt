@@ -9,6 +9,9 @@ state={
 		add_core_of = FLO
 		victory_points = { 3589 10 }
 		victory_points = { 3215 10 }
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 

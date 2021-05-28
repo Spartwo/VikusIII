@@ -15,6 +15,9 @@ state={
 		owner = VER
 		add_core_of = VER
 		victory_points = { 6024 10 } #Tungford
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

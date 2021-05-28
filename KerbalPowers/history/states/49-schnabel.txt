@@ -18,7 +18,7 @@ state={
 		victory_points = { 4684 10 } #Kadefiye
 		victory_points = { 4568 10 } #KSC2
 		buildings = {
-			infrastructure = 4
+			infrastructure = 0
 			arms_factory = 2
 			industrial_complex = 2
 

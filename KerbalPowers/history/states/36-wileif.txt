@@ -9,6 +9,9 @@ state={
 		victory_points = { 2762 10 }#Wileif
 		victory_points = { 4690 10 }#Kecha
 		victory_points = { 4796 10 }#Tardide
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

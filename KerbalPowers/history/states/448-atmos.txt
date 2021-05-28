@@ -21,5 +21,8 @@ history={
 		add_core_of = ALE
 		victory_points = { 2094 10 } #Katterax
 		victory_points = { 1874 10 } #Alta
+		buildings = {
+			infrastructure = 1
+		}
 	}
 }

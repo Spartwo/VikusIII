@@ -22,5 +22,8 @@ history={
 		add_core_of = OWO
 		victory_points = { 4959 15 }
 		victory_points = { 5132 10 }
+		buildings = {
+			infrastructure = 7
+		}
 	}
 }

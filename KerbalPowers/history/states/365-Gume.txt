@@ -16,6 +16,9 @@ state={
 		add_core_of = GUM
 		victory_points = { 6420 5 }#Valden
 		victory_points = { 6671 10 }#Gume
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 

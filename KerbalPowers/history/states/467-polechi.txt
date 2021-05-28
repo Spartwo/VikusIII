@@ -15,6 +15,9 @@ state={
 		owner = ICO
 		add_core_of = ICO
 		victory_points = { 1022 10 } #Polechi
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

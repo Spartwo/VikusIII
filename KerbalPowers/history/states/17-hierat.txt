@@ -13,6 +13,9 @@ history={
 		add_core_of = ZOK
 		victory_points = { 3296 10 } #Hierat
 		victory_points = { 3034 10 } #Esia
+		buildings = {
+			infrastructure = 6
+		}
 	}
 
 }

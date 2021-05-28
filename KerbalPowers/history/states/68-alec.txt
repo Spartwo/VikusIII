@@ -23,5 +23,8 @@ history={
 		victory_points = { 3051 10 } #Alec
 		victory_points = { 2852 10 } #Alibun
 		victory_points = { 2881 10 } #Trishula
+		buildings = {
+			infrastructure = 5
+		}
 	}
 }

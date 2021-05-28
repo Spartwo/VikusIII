@@ -16,6 +16,9 @@ state={
 		add_core_of = BSL
 		victory_points = { 1227 10 } #Minyca
 		victory_points = { 1107 10 } #Shimiv
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

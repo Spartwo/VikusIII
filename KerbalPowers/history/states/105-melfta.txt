@@ -10,6 +10,9 @@ state={
 		victory_points = { 881 10 } #Calmor
 		victory_points = { 902 10 } #Impear
 		victory_points = { 773 10 } #Ossun
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

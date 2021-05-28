@@ -16,6 +16,9 @@ state={
 		add_core_of = HER
 		victory_points = { 1890 10 } #Herm
 		victory_points = { 1667 10 } #Kens
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

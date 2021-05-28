@@ -18,6 +18,9 @@ state={
         victory_points = { 1280 10 } #Innanhaf
         victory_points = { 1742 10 } #Gambla
         victory_points = { 2008 20 } #Landmaeri
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

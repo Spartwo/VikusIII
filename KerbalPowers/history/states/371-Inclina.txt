@@ -15,6 +15,9 @@ state={
 		owner = ZZV
 		add_core_of = ZZV
 		victory_points = { 4892 10 } #Incliv
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

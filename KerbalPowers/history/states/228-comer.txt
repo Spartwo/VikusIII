@@ -15,6 +15,9 @@ state={
 		owner = SOL
 		add_core_of = SOL
 		victory_points = { 5451 10 } #Likaans
+		buildings = {
+			infrastructure = 5
+		}
 	}
 
 	provinces={

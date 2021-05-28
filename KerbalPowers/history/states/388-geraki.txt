@@ -15,6 +15,9 @@ state={
 		owner = ZZY
 		add_core_of = ZZY
         	victory_points = { 2364 10 } #Geraki
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

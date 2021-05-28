@@ -16,6 +16,9 @@ state={
 		add_core_of = ZZY
 		victory_points = { 1631 10 } #Seltreem
 		victory_points = { 1463 10 } #Kad
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

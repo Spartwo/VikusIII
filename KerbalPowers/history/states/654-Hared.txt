@@ -15,6 +15,9 @@ state={
 		add_core_of = NOL
         victory_points = { 1860 10 } #Qazan
         victory_points = { 1933 10 } #Kulyagi
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 	provinces={

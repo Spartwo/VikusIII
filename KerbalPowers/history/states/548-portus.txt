@@ -23,7 +23,7 @@ state={
 		victory_points = { 5850 10 } #Dhea
 		victory_points = { 5633 10 } #Portus
 		buildings = {
-			infrastructure = 7
+			infrastructure = 5
 			arms_factory = 2
 			industrial_complex = 3
 			}

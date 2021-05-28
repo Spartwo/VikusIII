@@ -17,6 +17,9 @@ state={
 		victory_points = { 2397 10 } #Dal
 		victory_points = { 2548 10 } #Manahi
 		victory_points = { 2398 10 } #Kontoru
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

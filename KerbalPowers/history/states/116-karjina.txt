@@ -15,6 +15,9 @@ state={
 		owner = KAL
 		add_core_of = KAL
 		victory_points = { 1380 10 }
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

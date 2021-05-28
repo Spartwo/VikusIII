@@ -21,7 +21,7 @@ state={
 		add_core_of = ZZV
 		victory_points = { 5539 10 } #Flustrom
 		buildings = {
-			infrastructure = 2
+			infrastructure = 1
 			arms_factory = 1
 			industrial_complex = 1
 			}

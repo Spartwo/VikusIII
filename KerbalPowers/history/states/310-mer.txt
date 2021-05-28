@@ -16,6 +16,9 @@ state={
 		add_core_of = NIS
 		victory_points = { 3501 10 } #Mozhi
 		victory_points = { 4721 10 } #Mer
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

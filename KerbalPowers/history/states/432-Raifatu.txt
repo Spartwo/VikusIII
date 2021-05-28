@@ -17,6 +17,9 @@ state={
 		victory_points = { 3525 10 } #Ri'igata
 		victory_points = { 3596 10 } #Hakura
 		victory_points = { 3473 10 } #Eihana
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

@@ -12,5 +12,8 @@ history={
 		owner = MEC
 		add_core_of = MEC
 		victory_points = { 5582 10 } #Devie
+		buildings = {
+			infrastructure = 2
+		}
 	}
 }

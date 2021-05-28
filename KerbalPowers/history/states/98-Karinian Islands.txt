@@ -23,6 +23,7 @@ history={
 		victory_points = { 872 10 } #Normanna
 		victory_points = { 801 10 } #Bjo
 		buildings = {
+			infrastructure = 3
 			801 = { naval_base = 1 }
 		}
 	}

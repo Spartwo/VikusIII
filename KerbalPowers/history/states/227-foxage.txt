@@ -16,6 +16,9 @@ state={
 		add_core_of = SOL
 		victory_points = { 5514 10 } #Voedsel
 		victory_points = { 5393 10 } #Fofellia
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

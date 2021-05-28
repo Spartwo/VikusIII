@@ -7,6 +7,9 @@ state={
 		owner = AIN
 		add_core_of = AIN
         	victory_points = { 3116 10 } #Pirov
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

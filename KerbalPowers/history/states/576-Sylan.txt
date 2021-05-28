@@ -12,6 +12,9 @@ state={
 		add_core_of = COM
 		victory_points = { 5139 10 }
 		victory_points = { 5063 10 }
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 }

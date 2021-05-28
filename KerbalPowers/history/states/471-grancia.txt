@@ -15,6 +15,9 @@ state={
 		owner = BSL
 		add_core_of = BSL
 		victory_points = { 1115 10 } #Grancia
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

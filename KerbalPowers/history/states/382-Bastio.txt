@@ -15,6 +15,9 @@ state={
 		owner = BAS
 		add_core_of = BAS
 		victory_points = { 2115 10 } #Bastio
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

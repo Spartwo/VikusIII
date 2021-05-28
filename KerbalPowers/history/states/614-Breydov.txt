@@ -13,6 +13,9 @@ state={
 		victory_points = { 4725 10 } #Breydov
 		victory_points = { 182 10 } #Yaribyet
 		victory_points = { 6944 10 } #Brezni
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 }

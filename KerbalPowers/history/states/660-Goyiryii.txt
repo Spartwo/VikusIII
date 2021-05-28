@@ -7,6 +7,9 @@ state={
 		add_core_of = NIS
 		victory_points = { 4915 10 } #Bolkar
 		victory_points = { 2150 10 } #Goyir
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 	provinces={

@@ -16,6 +16,9 @@ state={
 		add_core_of = DEL
 		victory_points = { 901 10 } #Sari
 		victory_points = { 1049 10 } #Canuk
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

@@ -15,6 +15,9 @@ state={
 		owner = ZAP
 		add_core_of = ZAP
 		victory_points = { 244 10 } #Abilith
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

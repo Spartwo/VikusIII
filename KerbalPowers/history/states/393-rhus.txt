@@ -14,8 +14,9 @@ state={
 	history={
 		owner = OWL
 		add_core_of = OWL
-		victory_points = {
-			934 10 
+		victory_points = { 934 10 }
+		buildings = {
+			infrastructure = 5
 		}
 
 	}

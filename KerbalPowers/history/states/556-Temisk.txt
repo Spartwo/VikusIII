@@ -7,6 +7,9 @@ state={
 		owner = ZZZ
 		add_core_of = ZZZ
 		victory_points = { 6054 10 } #Temisk
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

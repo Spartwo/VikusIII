@@ -16,6 +16,9 @@ state={
 		add_core_of = VER
 		victory_points = { 6058 10 } #Aberd
 		victory_points = { 5643 10 } #Arcton
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

@@ -11,6 +11,9 @@ state={
 		owner = ZAL
 		add_core_of = ZAL
 		victory_points = { 6610 10 } #Lesk
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 }

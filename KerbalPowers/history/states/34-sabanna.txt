@@ -9,6 +9,9 @@ state={
 		add_claim_by = PUG
 		victory_points = { 3090 10 } #Sabanna
 		victory_points = { 2816 10 } #Leitke
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

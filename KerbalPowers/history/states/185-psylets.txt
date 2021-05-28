@@ -21,5 +21,8 @@ history={
 		add_core_of = AEN
 		add_core_of = ARC
 		victory_points = { 5028 10 }
+		buildings = {
+			infrastructure = 3
+		}
 	}
 }

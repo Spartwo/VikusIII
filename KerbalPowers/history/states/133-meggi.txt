@@ -8,6 +8,9 @@ state={
 		add_core_of = CEN
 		add_core_of = UNI
 		victory_points = { 2298 10 }
+		buildings = {
+			infrastructure = 8
+		}
 
 	}
 

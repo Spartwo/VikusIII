@@ -15,6 +15,9 @@ state={
 		owner = ART
 		add_core_of = ART
 		victory_points = { 6980 10 } #Alubis
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

@@ -16,6 +16,9 @@ state={
 		add_core_of = REC
 		victory_points = { 3888 10 } #Secat
 		victory_points = { 3815 10 } #Iffen
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

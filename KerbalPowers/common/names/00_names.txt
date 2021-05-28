@@ -62,7 +62,7 @@ ENG = {
 	callsigns = { Stubborn Arrow "The King" Eagle Hangover Striker Chase "One Wing" Pickle Thief Thunder Lightning Storm Target Hawk Fox Dog Sparrow Sunrise "Night Owl" Butcher Cocky Hawkeye Killer Mick Brandy "The Baron" }
 }
 
-SOV = {
+ARC = {
 	male = {
 		names = { 
 			Aleksander Alexei Andrei Anton Boris Dmitry Fyodor Gennady 

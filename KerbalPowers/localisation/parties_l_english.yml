@@ -31,9 +31,9 @@
  corporatism:0 "Corporatism"
  corporatism_noun:0 "Corporatism"
  corporatism_desc:0 "Corporatist Outlook"
- overlordship:0 "Overlordship"
- overlordship_noun:0 "Overlordship"
- overlordship_desc:0 "Singular Outlook"
+ schizo:0 "schizo"
+ schizo_noun:0 "schizo"
+ schizo_desc:0 "Singular Outlook"
 
 ####################### SUB-IDEOLOGIES #######################
 	 # SUB-IDEOLOGIES - COMMUNISM
@@ -84,9 +84,9 @@
 	 libertarianism_desc:0 "yeye"
 	 mercantilism:0 "mercantilism"
 	 mercantilism_desc:0 "yeye"
-	 # SUB-IDEOLOGIES - OVERLORDSHIP
-	 overlord_subtypen:0 "Overlordship"
-	 overlord_subtype_desc:0 "yeye"
+	 # SUB-IDEOLOGIES - schizo
+	 schizo_subtype:0 "schizo"
+	 schizo_subtype_desc:0 "yeye"
 
 ####################### PARTIES #######################
  #AENIA
@@ -96,8 +96,8 @@
  AEN_neutrality_party_long:0 "Progressive Reform Alliance"
  AEN_fascism_party:0 "Alternative for Aenia"
  AEN_fascism_party_long:0 "Alternative for Aenia"
- AEN_overlordship_party:0 "Greens United"
- AEN_overlordship_party_long:0 "Greens United"
+ AEN_schizo_party:0 "Greens United"
+ AEN_schizo_party_long:0 "Greens United"
  AEN_neocon_party:0 "United Aenia"
  AEN_neocon_party_long:0 "United Aenia"
  AEN_democratic_party:0 "Republican-Federalist"
@@ -111,8 +111,8 @@
  ZOK_neutrality_party_long:0 "Peace Upon Zokesia"
  ZOK_fascism_party:0 "Steel Pact"
  ZOK_fascism_party_long:0 "Steel Pact"
- ZOK_overlordship_party:0 "Doomsdayers"
- ZOK_overlordship_party_long:0 "Doomsdayers"
+ ZOK_schizo_party:0 "Doomsdayers"
+ ZOK_schizo_party_long:0 "Doomsdayers"
  ZOK_neocon_party:0 "Royal Party"
  ZOK_neocon_party_long:0 "Zokesian Royal Party"
  ZOK_democratic_party:0 "Farmer's Coalition"
@@ -161,8 +161,8 @@
  0AR_isolation_party:0 "Stihlists"
  0AR_isolation_party_long:0 "Stihlist Party of Arcadia"
  ####################### PARTIES - NMC
- 0MC_expansion_party:0 "The Overlord"
- 0MC_expansion_party_long:0 "The Overlord"
+ 0MC_expansion_party:0 "The schizo"
+ 0MC_expansion_party_long:0 "The schizo"
  0MC_cooperation_party:0 "SMG"
  0MC_cooperation_party_long:0 "Southern Merchants Guild"
  0MC_intervention_party:0 "BRP"

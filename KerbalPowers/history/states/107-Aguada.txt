@@ -16,6 +16,9 @@ state={
 		add_core_of = ANG
 		victory_points = { 458 10 } #Porkney
 		victory_points = { 430 10 } #Aguada
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

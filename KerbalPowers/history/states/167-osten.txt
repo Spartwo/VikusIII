@@ -16,7 +16,7 @@ state={
 		add_core_of = SPE
 		victory_points = { 134 10 } #Osten
 		buildings = {
-			infrastructure = 4
+			infrastructure = 6
 			arms_factory = 1
 			industrial_complex = 1
 

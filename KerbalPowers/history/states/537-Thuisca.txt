@@ -4,9 +4,13 @@ state={
 	name="STATE_537"
 
 	history={
-		owner = VON
+		owner = RAF
+		add_core_of = RAF
 		add_core_of = VON
 		victory_points = { 6634 10 } #Thuisca
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

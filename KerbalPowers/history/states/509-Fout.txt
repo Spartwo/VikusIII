@@ -8,6 +8,9 @@ state={
 		add_core_of = ZZY
         victory_points = { 484 10 } #Delcav
         victory_points = { 482 10 } #Fout
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

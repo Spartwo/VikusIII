@@ -15,6 +15,9 @@ state={
 		owner = ZZZ
 		add_core_of = ZZZ
 		victory_points = { 6575 10 } #Pangtung
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

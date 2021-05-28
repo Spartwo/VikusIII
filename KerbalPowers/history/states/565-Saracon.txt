@@ -12,5 +12,8 @@ history={
 		add_core_of = AQU
         victory_points = { 1779 10 } #Saracon
         victory_points = { 1895 10 } #Hanvale
+		buildings = {
+			infrastructure = 3
+		}
 	}
 }

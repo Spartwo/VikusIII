@@ -9,6 +9,9 @@ state={
         victory_points = { 6696 10 } #Silcona
         victory_points = { 6692 10 } #Rore
         victory_points = { 6762 10 } #Graet
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

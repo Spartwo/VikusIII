@@ -15,6 +15,9 @@ state={
 		owner = EDV
 		add_core_of = EDV
 		victory_points = { 6975 10 } #Caeroen
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

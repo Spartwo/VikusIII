@@ -12,5 +12,8 @@ history={
 		owner = FEG
 		add_core_of = FEG
 		victory_points = { 3540 10 } #Hah Huai'i
+		buildings = {
+			infrastructure = 3
+		}
 	}
 }

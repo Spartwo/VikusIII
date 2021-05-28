@@ -16,6 +16,9 @@ state={
 		add_core_of = GRE
 		victory_points = { 4330 10 }
 		victory_points = { 4424 20 }
+		buildings = {
+			infrastructure = 8
+		}
 
 	}
 

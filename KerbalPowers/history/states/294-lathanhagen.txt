@@ -16,6 +16,9 @@ state={
 		add_core_of = MED
 		victory_points = { 6794 10 } #Veipern
 		victory_points = { 6852 20 } #Lathanhagen
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

@@ -16,6 +16,9 @@ state={
 		add_core_of = ICO
 		add_core_of = URJ
         victory_points = { 1716 10 } #Tassen
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

@@ -11,5 +11,8 @@ history={
 		owner = AQU
 		add_core_of = AQU
         victory_points = { 1416 10 } #Nidapse
+		buildings = {
+			infrastructure = 4
+		}
 	}
 }

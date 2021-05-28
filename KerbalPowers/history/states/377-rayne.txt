@@ -17,6 +17,9 @@ state={
 		add_core_of = CAR
 		victory_points = { 166 10 } #Rayne
 		victory_points = { 184 10 } #Sao
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

@@ -15,6 +15,9 @@ state={
 		owner = NKS
 		add_core_of = NKS
         victory_points = { 6074 10 } #Damabrath
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

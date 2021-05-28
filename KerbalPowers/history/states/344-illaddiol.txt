@@ -15,6 +15,9 @@ state={
 		owner = RAD
 		add_core_of = RAD
 		victory_points = { 4333 10 } #Illadol
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

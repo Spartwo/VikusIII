@@ -12,5 +12,8 @@ history={
 		owner = TEK
 		add_core_of = TEK
 		victory_points = { 4070 10 }
+		buildings = {
+			infrastructure = 5
+		}
 	}
 }

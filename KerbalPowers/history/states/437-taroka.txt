@@ -21,5 +21,8 @@ history={
 		victory_points = { 1224 10 } #Candido
 		victory_points = { 1116 10 } #Narbo
 		victory_points = { 1070 10 } #Taroka
+		buildings = {
+			infrastructure = 4
+		}
 	}
 }

@@ -16,6 +16,9 @@ state={
 		add_core_of = ELY
 		add_core_of = ARK
 		victory_points = { 5781 10 }
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

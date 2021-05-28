@@ -16,6 +16,9 @@ state={
 		add_core_of = ZZY
         victory_points = { 1376 10 } #Belli
         victory_points = { 1579 10 } #Sithem
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

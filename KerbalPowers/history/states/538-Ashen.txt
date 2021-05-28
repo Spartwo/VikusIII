@@ -16,6 +16,9 @@ state={
 		add_core_of = ZZZ
 		victory_points = { 6897 10 } #Banae
 		victory_points = { 6888 10 } #Ashen
+		buildings = {
+			infrastructure = 0
+		}
 
 	}
 

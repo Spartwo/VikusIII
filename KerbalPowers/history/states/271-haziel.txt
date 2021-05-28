@@ -16,6 +16,9 @@ state={
 		add_core_of = NKS
         victory_points = { 6380 10 } #Benbey
         victory_points = { 6253 10 } #Haziel
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

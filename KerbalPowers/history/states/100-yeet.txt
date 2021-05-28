@@ -22,5 +22,8 @@ history={
 		add_core_of = ANG
 		add_core_of = IMP
 		victory_points = { 579 10 } #Yeep
+		buildings = {
+			infrastructure = 3
+		}
 	}
 }

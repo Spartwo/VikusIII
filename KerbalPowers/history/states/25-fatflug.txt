@@ -16,6 +16,9 @@ state={
 		add_core_of = SAN
 		victory_points = { 2290 10 } #Fatflug
 		victory_points = { 2461 10 } #Ailes
+		buildings = {
+			infrastructure = 5
+		}
 	}
 
 	provinces={

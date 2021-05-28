@@ -16,6 +16,9 @@ state={
 		victory_points = { 3900 20 } #Hacren
 		victory_points = { 3824 10 } #Alurth
 		victory_points = { 3812 10 } #Novurth
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

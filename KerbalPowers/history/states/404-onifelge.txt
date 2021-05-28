@@ -15,6 +15,9 @@ state={
 		owner = AQU
 		add_core_of = AQU
         victory_points = { 1308 10 } #Onifelge
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

@@ -15,6 +15,9 @@ state={
 		owner = DTA
 		add_core_of = DTA
 		victory_points = { 37 10 } #Cerm
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

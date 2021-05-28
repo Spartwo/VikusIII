@@ -1,6 +1,6 @@
 ﻿capital = 476
 
-oob = "RMAP_TEMPLATE"
+oob = "FILLER_2070"
 
 
 set_research_slots = 3

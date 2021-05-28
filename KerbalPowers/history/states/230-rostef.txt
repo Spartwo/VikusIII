@@ -16,6 +16,9 @@ state={
 		add_core_of = SOL
 		victory_points = { 5280 10 } #Rostef
 		victory_points = { 5096 10 } #Kraudmin
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 

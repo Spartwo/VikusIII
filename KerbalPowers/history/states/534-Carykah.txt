@@ -15,6 +15,9 @@ state={
 		owner = VON
 		add_core_of = VON
 		victory_points = { 6815 10 } #Carykah
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

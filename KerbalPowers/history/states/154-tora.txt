@@ -16,6 +16,9 @@ state={
 		add_core_of = TOR
 		add_core_of = CAR
 		victory_points = { 243 10 } #Tor
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

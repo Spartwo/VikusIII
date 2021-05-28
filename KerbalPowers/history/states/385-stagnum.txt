@@ -9,6 +9,9 @@ state={
 		victory_points = { 3303 10 } #Stagnum
 		victory_points = { 3671 10 } #Melohyne
 		victory_points = { 3513 10 } #Hanume
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

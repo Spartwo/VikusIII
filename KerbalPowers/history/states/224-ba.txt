@@ -8,6 +8,9 @@ state={
 		add_core_of = SOL
 		victory_points = { 5502 20 } #Ba
 		victory_points = { 5540 10 } #Bergentun
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 

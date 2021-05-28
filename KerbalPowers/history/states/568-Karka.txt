@@ -7,6 +7,9 @@ state={
 		owner = ZZW
 		add_core_of = ZZW
 		victory_points = { 686 10 } #Karka
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

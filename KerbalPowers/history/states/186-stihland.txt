@@ -17,6 +17,9 @@ state={
 		add_core_of = ARC
 		victory_points = { 5528 10 } #Severn
 		victory_points = { 5318 10 } #Anderson
+		buildings = {
+			infrastructure = 7
+		}
 		#Stihlgrad
 	}
 

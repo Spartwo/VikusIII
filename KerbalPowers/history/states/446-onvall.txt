@@ -21,5 +21,8 @@ history={
 		add_core_of = ALE
 		victory_points = { 2288 10 } #Daryan
 		victory_points = { 2197 10 } #Onvall
+		buildings = {
+			infrastructure = 1
+		}
 	}
 }

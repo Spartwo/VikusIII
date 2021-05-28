@@ -15,6 +15,9 @@ state={
 		owner = COM
 		add_core_of = COM
 		victory_points = { 5277 10 }
+		buildings = {
+			infrastructure = 6
+		}
 	}
 
 	provinces={

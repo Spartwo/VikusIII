@@ -16,6 +16,9 @@ state={
 		add_core_of = CAR
 		victory_points = { 474 10 } #Ferram
 		victory_points = { 355 10 } #Wakira
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 	provinces={

@@ -16,6 +16,9 @@ state={
 		add_core_of = KRO
 		add_core_of = DIO
 		victory_points = { 4007 10 }
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 

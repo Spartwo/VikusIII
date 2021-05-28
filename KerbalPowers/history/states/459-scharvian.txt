@@ -8,6 +8,9 @@ state={
 		add_core_of = ALE
 		victory_points = { 1259 10 } #Imdith
 		victory_points = { 1372 10 } #Scharvian
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

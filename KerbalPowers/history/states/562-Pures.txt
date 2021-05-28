@@ -13,5 +13,8 @@ history={
 		add_core_of = URR
 		victory_points = { 3468 10 }
 		victory_points = { 3554 10 }
+		buildings = {
+			infrastructure = 6
+		}
 	}
 }

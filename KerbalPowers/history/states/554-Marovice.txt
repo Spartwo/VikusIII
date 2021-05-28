@@ -16,6 +16,9 @@ state={
 		add_core_of = KYV
 		victory_points = { 6188 10 } #Mavorice
 		victory_points = { 6181 10 } #Tachibayar
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

@@ -21,5 +21,8 @@ history={
 		victory_points = { 1472 20 } #Kenslav
 		victory_points = { 1433 10 } #Rotomagia
 		victory_points = { 1309 10 } #Casta
+		buildings = {
+			infrastructure = 4
+		}
 	}
 }

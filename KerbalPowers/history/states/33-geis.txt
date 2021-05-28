@@ -19,6 +19,9 @@ state={
 		victory_points = { 2262 10 } #Maran
 		victory_points = { 1916 10 } #Trinzal
 		victory_points = { 1964 10 } #Geis
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

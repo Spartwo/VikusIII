@@ -16,6 +16,9 @@ state={
 		add_core_of = NIS
 		victory_points = { 5073 10 } #Tysd
 		victory_points = { 5044 10 } #Jaynudra
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

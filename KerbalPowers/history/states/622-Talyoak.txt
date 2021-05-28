@@ -7,6 +7,9 @@ state={
 		owner = AIN
 		add_core_of = AIN
         	victory_points = { 3272 10 } #Talyoak
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

@@ -7,6 +7,9 @@ state={
 		owner = CLS
 		add_core_of = CLS
 		victory_points = { 6549 10 } #Pobreize
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

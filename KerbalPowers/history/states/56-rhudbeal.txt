@@ -21,5 +21,8 @@ history={
 		owner = TEK
 		add_core_of = TEK
 		victory_points = { 2027 10 } #Rhudbeal
+		buildings = {
+			infrastructure = 3
+		}
 	}
 }

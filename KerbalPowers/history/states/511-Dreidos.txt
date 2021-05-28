@@ -15,6 +15,9 @@ state={
 		owner = ZZW
 		add_core_of = ZZW
 		victory_points = { 306 10 } #Dreidos
+		buildings = {
+			infrastructure = 2
+		}
 		
 
 	}

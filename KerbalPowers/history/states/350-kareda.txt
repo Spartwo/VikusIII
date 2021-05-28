@@ -16,6 +16,9 @@ state={
 		add_core_of = LOT
 		add_core_of = KAA
         victory_points = { 6873 10 } #Kareda
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

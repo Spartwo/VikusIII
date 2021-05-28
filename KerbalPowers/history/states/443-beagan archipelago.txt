@@ -12,5 +12,8 @@ history={
 		owner = ERU
 		add_core_of = ERU
 		victory_points = { 72 10 } #Beaga
+		buildings = {
+			infrastructure = 3
+		}
 	}
 }

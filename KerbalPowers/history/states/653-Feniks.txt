@@ -16,6 +16,9 @@ state={
 		add_core_of = FEN
         	victory_points = { 3226 20 } #Strib
         	victory_points = { 3136 10 } #Persa
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

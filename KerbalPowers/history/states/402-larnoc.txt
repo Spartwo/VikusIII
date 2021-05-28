@@ -9,6 +9,9 @@ state={
         victory_points = { 1223 20 } #Aitken
         victory_points = { 1086 10 } #Laroc
         victory_points = { 1127 10 } #Miffe
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 

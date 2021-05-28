@@ -9,6 +9,9 @@ state={
 		victory_points = { 1621 10 } #Isca
 		victory_points = { 1629 10 } #Saporo
 		victory_points = { 7012 10 } #Dubra
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

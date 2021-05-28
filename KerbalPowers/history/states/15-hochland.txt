@@ -9,6 +9,9 @@ state={
 		add_core_of = BOS
 		victory_points = { 3700 10 } #Hoch
 
+		buildings = {
+			infrastructure = 6
+		}
 	}
 
 	provinces={

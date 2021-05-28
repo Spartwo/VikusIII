@@ -16,6 +16,9 @@ state={
 		add_core_of = VNO
 		victory_points = { 5527 10 }
 		victory_points = { 5166 10 }
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

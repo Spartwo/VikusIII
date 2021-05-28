@@ -13,7 +13,10 @@ state={
 		add_core_of = ZOK
 		add_core_of = BOS
 		add_core_of = VSA
-		victory_points = { 3368 10 } #Grailtowne (need older name)
+		victory_points = { 3368 10 } #Grailtowne
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 }

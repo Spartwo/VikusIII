@@ -11,5 +11,8 @@ state={
 		owner = BLY
 		add_core_of = BLY
         victory_points = { 5806 10 } #Zirot
+		buildings = {
+			infrastructure = 5
+		}
 	}
 }

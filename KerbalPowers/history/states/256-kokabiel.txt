@@ -16,6 +16,9 @@ state={
 		add_core_of = THA
 		victory_points = { 6186 10 } #Blythi
 		victory_points = { 6274 10 } #Kokabiel
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

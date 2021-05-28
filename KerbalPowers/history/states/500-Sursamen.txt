@@ -15,6 +15,9 @@ state={
 		owner = ZZX
 		add_core_of = ZZX
 		victory_points = { 3329 10 } #Sursa
+		buildings = {
+			infrastructure = 1
+		}
 	}
 
 	provinces={

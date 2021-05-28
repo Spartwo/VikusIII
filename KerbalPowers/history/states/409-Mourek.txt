@@ -15,6 +15,9 @@ state={
 		owner = MAR
 		add_core_of = MAR
 		victory_points = { 4236 10 }
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

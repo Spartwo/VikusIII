@@ -17,7 +17,7 @@ state={
 		victory_points = { 193 25 } #Jyfael
 		victory_points = { 144 25 } #Kayduwld
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 			arms_factory = 1
 
 		}

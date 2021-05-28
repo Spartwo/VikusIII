@@ -7,6 +7,9 @@ state={
 		owner = GRE
 		add_core_of = GRE
 		victory_points = { 4006 10 }
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 

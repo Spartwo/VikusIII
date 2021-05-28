@@ -13,6 +13,9 @@ state={
 		add_core_of = BEN
 		victory_points = { 6355 10 } #Cistay
 		victory_points = { 6149 10 } #Kortices
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 }

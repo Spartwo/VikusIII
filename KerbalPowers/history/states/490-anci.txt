@@ -16,6 +16,9 @@ state={
 		add_core_of = ICO
 		add_core_of = KCA
 		victory_points = { 1422 10 } #Anci
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

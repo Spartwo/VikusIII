@@ -16,6 +16,9 @@ state={
 		add_core_of = REC
 		victory_points = { 4101 10 } #Rougin
 		victory_points = { 4042 10 } #Havres
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

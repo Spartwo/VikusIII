@@ -15,6 +15,9 @@ state={
 		owner = CEL
 		add_core_of = CEL
 		victory_points = { 4805 10 }
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

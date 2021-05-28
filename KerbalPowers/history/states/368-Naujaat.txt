@@ -16,6 +16,9 @@ state={
 		add_core_of = ZZZ
 		victory_points = { 6464 10 } #Brecon
 		victory_points = { 6283 10 } #Naujaat
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

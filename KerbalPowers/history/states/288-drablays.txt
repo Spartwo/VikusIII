@@ -16,6 +16,9 @@ state={
 		add_core_of = EDV
 		victory_points = { 6951 10 } #Drablavs
 		victory_points = { 6927 10 } #Vestmark
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

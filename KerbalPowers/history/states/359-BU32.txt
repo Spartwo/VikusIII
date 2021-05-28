@@ -15,6 +15,9 @@ state={
 		owner = HEI
 		add_core_of = HEI
 		victory_points = { 6885 10 } #Prenkey
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

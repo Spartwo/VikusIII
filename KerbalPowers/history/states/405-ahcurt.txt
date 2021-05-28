@@ -16,6 +16,9 @@ state={
 		add_core_of = AQU
         victory_points = { 1520 10 } #Ahcurt
         victory_points = { 1759 10 } #Lavran
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

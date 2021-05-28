@@ -12,5 +12,8 @@ history={
 		owner = ANG
 		add_core_of = ANG
 		victory_points = { 644 10 } #Tel
+		buildings = {
+			infrastructure = 4
+		}
 	}
 }

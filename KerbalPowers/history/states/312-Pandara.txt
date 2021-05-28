@@ -15,6 +15,9 @@ state={
 		owner = HAL
 		add_core_of = HAL
 		victory_points = { 5579 10 } #Pandar
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

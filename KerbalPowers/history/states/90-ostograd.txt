@@ -16,7 +16,7 @@ state={
 		add_core_of = GOG
 		victory_points = { 5631 10 } #Fatihya
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 			arms_factory = 1
 			industrial_complex = 1
 

@@ -7,6 +7,9 @@ state={
 		owner = ERU
 		add_core_of = ERU
 		victory_points = { 488 10 } #Zamoa
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

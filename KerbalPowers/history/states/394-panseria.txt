@@ -9,6 +9,9 @@ state={
 		add_core_of = ANI
 		victory_points = { 1247 10 } #Serri
 		victory_points = { 1210 10 } #Darapsi
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

@@ -16,6 +16,9 @@ state={
 		add_core_of = CHO
 		victory_points = { 4436 10 }
 		victory_points = { 4306 10 }
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

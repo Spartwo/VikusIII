@@ -4,9 +4,13 @@ state={
 	name="STATE_507"
 
 	history={
-		owner = CAR
+		owner = DTA
+		add_core_of = DTA
 		add_core_of = CAR
 		victory_points = { 105 10 } #Trenzh
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

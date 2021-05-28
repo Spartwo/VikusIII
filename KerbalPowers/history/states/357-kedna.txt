@@ -16,6 +16,9 @@ state={
 		add_core_of = KAR
 		victory_points = { 5249 10 }
 		victory_points = { 5437 10 }
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

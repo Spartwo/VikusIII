@@ -15,6 +15,9 @@ state={
 		owner = FEG
 		add_core_of = FEG
 		victory_points = { 3142 10 } #Rai'fatu
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

@@ -9,6 +9,9 @@ state={
 		victory_points = { 1060 10 } #Trafal
 		victory_points = { 916 10 } #Dell
 
+		buildings = {
+			infrastructure = 5
+		}
 	}
 
 	provinces={

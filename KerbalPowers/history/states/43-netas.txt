@@ -16,6 +16,9 @@ state={
 		add_core_of = WUS
 		victory_points = { 6545 10 } #Netas
 		victory_points = { 3672 10 } #Kopesh
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

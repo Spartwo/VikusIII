@@ -16,6 +16,9 @@ state={
 		add_core_of = MEC
 		victory_points = { 5444 10 } #Shive
 		victory_points = { 5418 10 } #Fairraige
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

@@ -15,8 +15,9 @@ state={
 		owner = VUL
 		add_core_of = VUL
 		victory_points = { 1525 10 } #Argrad
-		
-
+		buildings = {
+			infrastructure = 2
+		}
 	}
 
 	provinces={

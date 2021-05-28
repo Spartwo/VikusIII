@@ -10,6 +10,9 @@ state={
 		victory_points = { 6608 10 } #Nanis
 		victory_points = { 6469 10 } #Loneum
 		victory_points = { 6220 10 } #Ubriet
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

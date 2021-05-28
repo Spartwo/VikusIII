@@ -22,5 +22,8 @@ state={
 		add_core_of = AQU
 		add_core_of = FIS
 		victory_points = { 59 10 } #Haols
+		buildings = {
+			infrastructure = 1
+		}
 	}
 }

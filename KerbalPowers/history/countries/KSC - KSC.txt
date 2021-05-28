@@ -1,6 +1,6 @@
 ﻿capital = 12
 
-oob = "RMAP_TEMPLATE"
+oob = "FILLER_2070"
 
 set_research_slots = 2
 set_convoys = 100
@@ -27,7 +27,7 @@ set_popularities = {
 	neutrality = 10 #Neutrality
 	corporatism = 10
 	fascism = 10 #Nationalism
-	overlordship = 10
+	schizo = 10
 	neocon = 10
 	democratic = 10 #Cooperativism
 	individualism = 10

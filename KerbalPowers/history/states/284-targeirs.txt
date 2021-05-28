@@ -7,6 +7,9 @@ state={
 		owner = CLS
 		add_core_of = CLS
 		victory_points = { 6817 10 } #Targiers
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

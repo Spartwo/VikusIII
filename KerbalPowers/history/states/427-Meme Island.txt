@@ -12,4 +12,7 @@ history={
 		owner = GAL
 		add_core_of = GAL
 	}
+		buildings = {
+			infrastructure = 3
+		}
 }

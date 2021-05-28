@@ -21,6 +21,9 @@ history={
 		add_core_of = KRO
 		add_claim_by = CEL
 		victory_points = { 4563 10 }
+		buildings = {
+			infrastructure = 5
+		}
 	}
 
 }

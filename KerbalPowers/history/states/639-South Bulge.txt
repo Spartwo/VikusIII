@@ -16,6 +16,9 @@ state={
 		add_core_of = SAN
 		add_claim_by = OWL
 		victory_points = { 2210 10 } #Bulge
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

@@ -8,8 +8,11 @@ state={
 	buildings_max_level_factor=1.000
 	state_category=tiny_island
 
-history={
-		owner = MED
-		add_core_of = MED
-}
+	history={
+			owner = MED
+			add_core_of = MED
+			buildings = {
+				infrastructure = 3
+			}
+	}
 }

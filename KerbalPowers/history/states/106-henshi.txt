@@ -8,8 +8,7 @@ state={
 		add_core_of = ANG
 		victory_points = { 742 10 } #Henshi
 		buildings = {
-			
-
+			infrastructure = 3
 		}
 
 	}

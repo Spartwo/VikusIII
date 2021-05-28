@@ -12,6 +12,9 @@ state={
 		owner = GRE
 		add_core_of = GRE
 		add_claim_by = TEK
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 }

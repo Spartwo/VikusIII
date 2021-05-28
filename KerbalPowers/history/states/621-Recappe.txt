@@ -12,6 +12,9 @@ state={
 		add_core_of = BSL
 		victory_points = { 1131 10 } #Recappe
 		victory_points = { 1226 10 } #Abraxe
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 }

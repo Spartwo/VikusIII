@@ -16,6 +16,9 @@ state={
 		add_core_of = TRO
 		add_core_of = BSK
 		victory_points = { 679 10 } #Hooke
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

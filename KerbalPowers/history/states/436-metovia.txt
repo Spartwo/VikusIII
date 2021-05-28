@@ -9,6 +9,9 @@ state={
 		victory_points = { 1722 10 } #Tolosa
 		victory_points = { 1959 10 } #Deva
 		victory_points = { 2048 10 } #Metov
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

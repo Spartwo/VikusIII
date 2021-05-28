@@ -7,6 +7,9 @@ state={
 		owner = HEL
 		add_core_of = HEL
 		victory_points = { 6928 10 } #Abcain
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

@@ -7,11 +7,15 @@ state={
 		owner = NMC
 		add_core_of = NMC
 		add_core_of = GIB
+		add_claim_by = CRY
 		victory_points = {
 			5058 10 
 		}
 		victory_points = {
 			4683 10 
+		}
+		buildings = {
+			infrastructure = 4
 		}
 
 	}

@@ -14,9 +14,13 @@ state={
 	history={
 		owner = IRS
 		add_core_of = IRS
+		add_core_of = USE
 		victory_points = { 3283 10 }
 		victory_points = { 3156 10 }
 		victory_points = { 3418 10 }
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 

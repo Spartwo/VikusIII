@@ -26,5 +26,8 @@ history={
 		victory_points = { 2451 10 }
 		victory_points = { 2246 10 }
 		victory_points = { 2238 20 }
+		buildings = {
+			infrastructure = 6
+		}
 	}
 }

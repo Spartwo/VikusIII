@@ -15,6 +15,9 @@ state={
 		owner = KAR
 		add_core_of = KAR
 		victory_points = { 5403 5 }
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

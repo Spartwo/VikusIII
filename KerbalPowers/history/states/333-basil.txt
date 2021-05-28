@@ -17,6 +17,9 @@ state={
 		victory_points = { 1588 10 } #Basillica
 		victory_points = { 1632 10 } #Laienau
 		victory_points = { 1506 10 } #Hydebean
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

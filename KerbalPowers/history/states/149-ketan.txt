@@ -12,10 +12,14 @@ state={
 	}
 
 	history={
-		owner = FEL
+		owner = DTA
+		add_core_of = DTA
 		add_core_of = FEL
 		victory_points = { 19 10 } #Ketan
 		victory_points = { 389 10 } #Rund
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

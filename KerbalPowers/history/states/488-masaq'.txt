@@ -16,6 +16,9 @@ state={
 		add_core_of = TRO
 		victory_points = { 1014 10 } #Masaq
 		victory_points = { 720 10 } #Kosna
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

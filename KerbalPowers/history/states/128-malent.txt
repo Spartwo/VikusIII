@@ -9,6 +9,9 @@ state={
 		add_core_of = ZZY
 		victory_points = { 2184 10 }
 		victory_points = { 1989 10 }
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

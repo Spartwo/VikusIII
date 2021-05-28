@@ -21,5 +21,8 @@ history={
 		add_core_of = KRO
 		add_core_of = LOV
 		victory_points = { 4491 10 }
+		buildings = {
+			infrastructure = 6
+		}
 	}
 }

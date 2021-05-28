@@ -15,6 +15,9 @@ state={
 		owner = JOK
 		add_core_of = JOK
 		victory_points = { 6898 10 } #Skare
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

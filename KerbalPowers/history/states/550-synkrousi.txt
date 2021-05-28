@@ -15,6 +15,9 @@ state={
 		owner = MEC
 		add_core_of = MEC
 		victory_points = { 5878 10 } #Synkrousi
+		buildings = {
+			infrastructure = 3
+		}
 		
 
 	}

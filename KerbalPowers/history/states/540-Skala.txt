@@ -15,6 +15,9 @@ state={
 		owner = ZZZ
 		add_core_of = ZZZ
 		victory_points = { 6893 10 } #Skala
+		buildings = {
+			infrastructure = 0
+		}
 
 	}
 

@@ -15,6 +15,9 @@ state={
 		owner = KAN
 		add_core_of = KAN
 		victory_points = { 4689 10 }
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

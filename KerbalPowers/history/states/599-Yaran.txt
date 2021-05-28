@@ -6,10 +6,14 @@ state={
 	}
 	manpower=300000
 	buildings_max_level_factor=1.000 
- 	 state_category=town
+ 	state_category=town
+	 
 	history={
 		owner = BOT
 		add_core_of = BOT
 		victory_points = { 5390 10 }#Yaran
+		buildings = {
+			infrastructure = 2
+		}
 	}
 }

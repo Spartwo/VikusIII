@@ -14,11 +14,15 @@ state={
 	history={
 		owner = NMC
 		add_core_of = NMC
+		add_claim_by = CRY
 		victory_points = {
 			5737 10 
 		}
 		victory_points = {
 			5375 10 
+		}
+		buildings = {
+			infrastructure = 3
 		}
 
 	}

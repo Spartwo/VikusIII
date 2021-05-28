@@ -7,6 +7,9 @@ state={
 		owner = ZZX
 		add_core_of = ZZX
 		victory_points = { 3285 10 } #Moysin
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

@@ -1,5 +1,5 @@
 ﻿capital = 592
-oob = "RMAP_TEMPLATE"
+oob = "FILLER_2070"
 
 set_research_slots = 2
 set_convoys = 100

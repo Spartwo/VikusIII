@@ -7,6 +7,9 @@ state={
 		owner = THA
 		add_core_of = THA
 		victory_points = { 6025 10 } #Wagshee
+		buildings = {
+			infrastructure = 4
+		}
 	}
 
 	provinces={

@@ -7,6 +7,9 @@ state={
 		owner = ERA
 		add_core_of = ERA
 		victory_points = { 4425 10 }
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

@@ -15,6 +15,9 @@ state={
 		add_core_of = GIZ
 		add_core_of = EQU
 		victory_points = { 3569 10 } #Kantapuha'i
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 	provinces={

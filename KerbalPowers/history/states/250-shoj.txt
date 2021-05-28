@@ -16,6 +16,9 @@ state={
 		add_core_of = LOT
 		add_core_of = KAA
         victory_points = { 6764 10 } #Shoj
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

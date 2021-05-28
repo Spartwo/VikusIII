@@ -14,6 +14,9 @@ state={
 		victory_points = { 3340 10 } #Halemau
 		victory_points = { 3100 20 } #Fegua
 		victory_points = { 3492 10 } #Tōhare
+		buildings = {
+			infrastructure = 8
+		}
 
 	}
 }

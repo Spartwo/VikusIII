@@ -16,6 +16,9 @@ state={
 		add_core_of = ANG
 		victory_points = { 480 10 } #Forreston
 		victory_points = { 540 10 } #Inselle
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

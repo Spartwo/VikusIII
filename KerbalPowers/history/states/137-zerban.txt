@@ -17,6 +17,9 @@ state={
 		victory_points = { 747 10 } #Cedo
 		victory_points = { 726 10 } #Zerban
 		victory_points = { 810 10 } #Ram
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

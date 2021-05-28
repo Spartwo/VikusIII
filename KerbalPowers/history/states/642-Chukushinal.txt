@@ -19,6 +19,9 @@ state={
 		add_core_of = GRE
 		add_core_of = DIO
 		victory_points = { 3829 10 }
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 	manpower=1200000

@@ -16,6 +16,9 @@ state={
 		add_core_of = SAR
         	victory_points = { 2014 10 } #Lam
         	victory_points = { 1975 10 } #Kalini
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

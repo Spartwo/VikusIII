@@ -16,6 +16,9 @@ state={
 		add_core_of = JOK
 		victory_points = { 6961 20 } #Ozmi
 		victory_points = { 7006 10 } #Hoy
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

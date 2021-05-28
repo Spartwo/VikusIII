@@ -18,6 +18,9 @@ state={
 		victory_points = { 2667 10 } #Tysd
 		victory_points = { 2894 10 } #Nodyi
 		victory_points = { 4900 20 } #Kobyeda
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

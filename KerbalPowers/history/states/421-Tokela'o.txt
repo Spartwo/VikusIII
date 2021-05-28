@@ -16,6 +16,9 @@ state={
 		add_core_of = FEG
 		victory_points = { 3412 10 } #Tokela'o
 		victory_points = { 3195 10 } #Fatau
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 

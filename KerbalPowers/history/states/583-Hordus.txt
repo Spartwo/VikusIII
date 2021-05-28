@@ -11,6 +11,9 @@ state={
 		owner = VER
 		add_core_of = VER
 		victory_points = { 6304 10 } #Hodua
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 }

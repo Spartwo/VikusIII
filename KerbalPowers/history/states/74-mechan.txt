@@ -15,6 +15,9 @@ state={
 		owner = MEC
 		add_core_of = MEC
 		victory_points = { 5093 10 } #Mechan
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

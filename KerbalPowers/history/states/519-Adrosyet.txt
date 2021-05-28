@@ -9,13 +9,16 @@ state={
 		victory_points = { 3489 10 } #Artod
 		victory_points = { 5024 10 } #Aricyet
 		victory_points = { 4816 10 } #Adrosyet
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 
 	provinces={
 		590 3328 3403 3489 4675 4816 4863 4932 5024 
 	}
-	manpower=1800000
+	manpower=1200000
 	buildings_max_level_factor=1.000
 	state_category=large_city
 }

@@ -14,9 +14,13 @@ state={
 	history={
 		owner = HAL
 		add_core_of = HAL
+		add_core_of = ESS
 		victory_points = { 437 10 } #Thanis
 		victory_points = { 6092 10 } #Backmark
 		victory_points = { 6098 10 } #Portwa
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

@@ -7,6 +7,9 @@ state={
 		owner = RAF
 		add_core_of = RAF
 		victory_points = { 1306 10 } #Dencegus
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

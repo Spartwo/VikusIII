@@ -15,6 +15,9 @@ state={
 		owner = LOT
 		add_core_of = LOT
         victory_points = { 6501 10 } #Vassage
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

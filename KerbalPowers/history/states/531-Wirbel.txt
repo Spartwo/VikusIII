@@ -15,6 +15,9 @@ state={
 		owner = ZZZ
 		add_core_of = ZZZ
 		victory_points = { 6991 10 } #Wirbel
+		buildings = {
+			infrastructure = 0
+		}
 
 	}
 

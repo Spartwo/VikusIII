@@ -16,6 +16,9 @@ state={
 		add_core_of = HER
 		victory_points = { 1731 10 } #Harris
 		victory_points = { 1891 10 } #Tamakia
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

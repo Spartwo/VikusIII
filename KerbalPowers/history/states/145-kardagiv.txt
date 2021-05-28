@@ -16,7 +16,7 @@ state={
 		add_core_of = LAY
 		victory_points = { 379 10 } #Kardagiv
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
 
 		}
 

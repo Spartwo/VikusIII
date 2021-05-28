@@ -16,6 +16,9 @@ state={
 		victory_points = { 5099 20 } #Toppan
 		victory_points = { 1409 10 } #Ralsa
 		victory_points = { 5234 10 } #Todra
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

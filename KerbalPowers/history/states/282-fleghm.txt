@@ -15,6 +15,9 @@ state={
 		owner = KER
 		add_core_of = KER
 		victory_points = { 6363 10 } #Rutra
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

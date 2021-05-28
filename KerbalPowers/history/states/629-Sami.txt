@@ -8,6 +8,9 @@ state={
 		add_core_of = AIN
         	victory_points = { 3460 10 } #Ainak
         	victory_points = { 3427 10 } #Zilo
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

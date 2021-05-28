@@ -17,6 +17,9 @@ state={
 		add_core_of = KRK
         victory_points = { 6525 10 } #Klink
         victory_points = { 6362 10 } #Ostlich
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 

@@ -6,8 +6,9 @@ state={
 	history={
 		owner = ZZX
 		add_core_of = ZZX
-		victory_points = {
-			2234 10 
+		victory_points = {2234 10 }
+		buildings = {
+			infrastructure = 1
 		}
 
 	}

@@ -10,6 +10,9 @@ state={
 		victory_points = { 4247 20 } #Ezekialgrad
 		victory_points = { 4452 10 } #Freetowne
 		victory_points = { 4374 10 } #Ellagrad
+		buildings = {
+			infrastructure = 8
+		}
 
 	}
 

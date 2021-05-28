@@ -18,6 +18,9 @@ state={
 		add_core_of = GRE
 		add_claim_by = KRO
 		victory_points = { 3823 10 }
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 	manpower=300000

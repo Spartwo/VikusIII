@@ -16,6 +16,9 @@ state={
 		add_core_of = ZZZ
 		victory_points = { 6568 10 } #Rhyl
 		victory_points = { 6190 10 } #Kugul
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

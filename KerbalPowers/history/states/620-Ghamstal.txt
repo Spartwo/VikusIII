@@ -14,6 +14,9 @@ state={
 		victory_points = { 1847 10 } #Corlac
 		victory_points = { 1840 10 } #Calliope
 		victory_points = { 1808 10 } #Bri
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 }

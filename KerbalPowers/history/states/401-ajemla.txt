@@ -23,5 +23,8 @@ history={
         victory_points = { 885 10 } #Corain
         victory_points = { 940 10 } #Choppe
         victory_points = { 1012 30 } #Ajemla
+		buildings = {
+			infrastructure = 8
+		}
 	}
 }

@@ -15,6 +15,9 @@ state={
 		owner = VON
 		add_core_of = VON
 		victory_points = { 6798 10 } #Waid
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

@@ -7,6 +7,9 @@ state={
 		add_core_of = ICO
 		add_core_of = PRO
 		victory_points = { 1288 10 } #Jirov
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 	provinces={

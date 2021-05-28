@@ -8,6 +8,9 @@ state={
 		add_core_of = ZOK
 		add_core_of = BOS
 		victory_points = { 4009 10 } #Cortuga
+		buildings = {
+			infrastructure = 5
+		}
 	}
 
 	provinces={

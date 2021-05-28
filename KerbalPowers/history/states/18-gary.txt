@@ -18,5 +18,8 @@ history={
 		victory_points = { 2691 15 } #Aegis
 		victory_points = { 2853 10 } #Halbret
 		victory_points = { 2751 10 } #Gary
+		buildings = {
+			infrastructure = 5
+		}
 	}
 }

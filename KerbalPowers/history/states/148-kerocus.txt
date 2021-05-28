@@ -15,6 +15,9 @@ state={
 		owner = DTA
 		add_core_of = DTA
 		victory_points = { 451 10 } #Kerocus
+		buildings = {
+			infrastructure = 1
+		}
 		
 
 	}

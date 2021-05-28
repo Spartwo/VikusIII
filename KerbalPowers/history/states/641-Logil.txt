@@ -7,6 +7,9 @@ state={
 		owner = ZZZ
 		add_core_of = ZZZ
 		victory_points = { 6702 10 } #Logil
+		buildings = {
+			infrastructure = 0
+		}
 
 	}
 

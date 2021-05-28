@@ -4,10 +4,14 @@ state={
 	name="STATE_601"
 
 	history={
-		owner = FEL
+		owner = DTA
+		add_core_of = DTA
 		add_core_of = FEL
 		victory_points = { 232 10 } #Punkt
 		victory_points = { 36 10 } #Felisk
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

@@ -15,6 +15,9 @@ state={
 		owner = REC
 		add_core_of = REC
 		victory_points = { 4002 10 } #Ganis
+		buildings = {
+			infrastructure = 4
+		}
 		
 
 	}

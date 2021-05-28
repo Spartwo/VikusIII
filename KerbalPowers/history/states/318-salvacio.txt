@@ -16,6 +16,9 @@ state={
 		add_core_of = AEN
 		victory_points = { 3308 15 }
 		victory_points = { 3103 10 }
+		buildings = {
+			infrastructure = 8
+		}
 
 	}
 

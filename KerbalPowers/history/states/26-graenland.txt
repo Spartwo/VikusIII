@@ -17,6 +17,9 @@ state={
 		add_core_of = BOS
 		victory_points = { 4129 10 } #Sonne
 		victory_points = { 4268 10 } #Graen
+		buildings = {
+			infrastructure = 7
+		}
 
 	}
 

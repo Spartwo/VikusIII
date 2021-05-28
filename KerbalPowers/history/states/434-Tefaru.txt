@@ -19,6 +19,9 @@ state={
 		victory_points = { 2399 10 } #Ayannas
 		victory_points = { 2257 10 } #Kold
 		victory_points = { 2558 20 } #Psyca
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

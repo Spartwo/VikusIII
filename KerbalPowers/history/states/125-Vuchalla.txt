@@ -8,6 +8,9 @@ state={
 		add_core_of = BAS
 		victory_points = { 2754 10 } #Hauriel
 		victory_points = { 2605 10 } #Vuchalla
+		buildings = {
+			infrastructure = 4
+		}
 	}
 
 	provinces={

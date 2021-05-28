@@ -7,6 +7,9 @@ state={
 		add_core_of = HEL
 		victory_points = { 6412 10 } #Cryos
 		victory_points = { 6421 10 } #Povallen
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 	provinces={

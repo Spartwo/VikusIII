@@ -223,7 +223,7 @@ fascism = { #Nationalism
                 ai_fascist = yes # uses the fascist AI behaviour
         }
 		
-overlordship = {
+schizo = {
                 color = { 87 0 127 }
                 can_host_government_in_exile = yes
                 war_impact_on_world_tension = 1.0
@@ -233,16 +233,16 @@ overlordship = {
                 
                 
 	types = {  
-                overlord_subtype = { }
+                schizo_subtype = { }
             }
 
 	dynamic_faction_names = {
-                        "FACTION_NAME_OVERLORDSHIP_1"
-                        "FACTION_NAME_OVERLORDSHIP_2"
-                        "FACTION_NAME_OVERLORDSHIP_3"
-                        "FACTION_NAME_OVERLORDSHIP_4"
-                        "FACTION_NAME_OVERLORDSHIP_5"
-                        "FACTION_NAME_OVERLORDSHIP_6"
+                        "FACTION_NAME_schizo_1"
+                        "FACTION_NAME_schizo_2"
+                        "FACTION_NAME_schizo_3"
+                        "FACTION_NAME_schizo_4"
+                        "FACTION_NAME_schizo_5"
+                        "FACTION_NAME_schizo_6"
                 }
 	rules = {
                         can_create_collaboration_government = yes

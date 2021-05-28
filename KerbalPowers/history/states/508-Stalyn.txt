@@ -16,6 +16,9 @@ state={
 		add_core_of = ZZY
         victory_points = { 1233 10 } #Staylon
         victory_points = { 1043 10 } #Andol
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

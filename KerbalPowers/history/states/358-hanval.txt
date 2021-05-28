@@ -21,5 +21,8 @@ history={
 		add_core_of = ELY
 		victory_points = { 5429 10 }
 		victory_points = { 5544 10 }
+		buildings = {
+			infrastructure = 6
+		}
 	}
 }

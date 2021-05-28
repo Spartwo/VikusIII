@@ -16,6 +16,9 @@ state={
 		add_core_of = MAR
 		victory_points = { 4048 10 }
 		victory_points = { 4020 20 }
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

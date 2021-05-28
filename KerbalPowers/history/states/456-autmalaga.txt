@@ -16,6 +16,9 @@ state={
 		add_core_of = ALE
 		victory_points = { 1646 10 } #Aut
 		victory_points = { 1523 10 } #Zalev
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

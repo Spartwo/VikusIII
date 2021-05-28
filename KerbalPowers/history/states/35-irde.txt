@@ -7,6 +7,9 @@ state={
 		owner = BAS
 		add_core_of = BAS
 		victory_points = { 2808 10 }#Irde
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

@@ -15,6 +15,9 @@ state={
 		add_core_of = GOG
 		add_core_of = CLO
 		victory_points = { 5570 10 } #Kole
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 	provinces={

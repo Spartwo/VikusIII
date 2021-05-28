@@ -16,6 +16,9 @@ state={
 		add_core_of = VAN
 		victory_points = { 3335 10 } #Vanad
 		victory_points = { 4597 10 } #Banchal
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

@@ -7,6 +7,9 @@ state={
 		owner = EDV
 		add_core_of = EDV
 		victory_points = { 6941 10 } #Ales
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

@@ -15,6 +15,9 @@ state={
 		owner = HEI
 		add_core_of = HEI
 		victory_points = { 6902 10 } #Lenova
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

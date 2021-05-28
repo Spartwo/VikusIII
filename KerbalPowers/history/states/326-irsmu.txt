@@ -16,6 +16,9 @@ state={
 		add_core_of = IRS
 		victory_points = { 2741 10 }
 		victory_points = { 2539 10 }
+		buildings = {
+			infrastructure = 5
+		}
 	}
 
 	provinces={

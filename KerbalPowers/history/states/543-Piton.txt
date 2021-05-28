@@ -15,6 +15,9 @@ state={
 		owner = ZZZ
 		add_core_of = ZZZ
 		victory_points = { 6878 10 } #Piton
+		buildings = {
+			infrastructure = 0
+		}
 
 	}
 

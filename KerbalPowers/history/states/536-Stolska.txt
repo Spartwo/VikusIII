@@ -16,6 +16,9 @@ state={
 		add_core_of = KER
 		add_core_of = YRA
 		victory_points = { 6573 10 } #Stolska
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

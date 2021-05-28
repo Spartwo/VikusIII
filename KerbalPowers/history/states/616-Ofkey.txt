@@ -7,6 +7,9 @@ state={
 		add_core_of = MAR
 		victory_points = { 3837 10 } #Alta
 		victory_points = { 3720 10 } #Ofkey
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

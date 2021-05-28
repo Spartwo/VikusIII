@@ -17,6 +17,9 @@ state={
 		victory_points = { 6345 15 } #Albere
 		victory_points = { 6266 10 } #Bore
 		victory_points = { 6394 10 } #Leam
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

@@ -16,6 +16,9 @@ state={
 		add_core_of = ZZV
 		victory_points = { 4365 10 } #Vagan
 		victory_points = { 4310 10 } #Vandite
+		buildings = {
+			infrastructure = 0
+		}
 
 	}
 

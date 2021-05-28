@@ -14,11 +14,15 @@ state={
 		tungsten=0
 	}
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=small_island
 	manpower=30000
+	
 history={
 		owner = ANG
 		add_core_of = ANG
 		victory_points = { 43 10 } #Minivivi
+		buildings = {
+			infrastructure = 3
+		}
 	}
 }

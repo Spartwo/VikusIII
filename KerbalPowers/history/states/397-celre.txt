@@ -16,6 +16,9 @@ state={
 		add_core_of = OWL
 		victory_points = { 927 10 } #Celre
 		victory_points = { 866 30 } #River City
+		buildings = {
+			infrastructure = 7
+		}
 
 	}
 

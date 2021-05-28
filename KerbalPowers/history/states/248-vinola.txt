@@ -7,6 +7,9 @@ state={
 		owner = HEI
 		add_core_of = HEI
 		victory_points = { 6814 10 } #Vinola
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

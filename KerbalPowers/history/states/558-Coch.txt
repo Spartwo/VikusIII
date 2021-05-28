@@ -15,6 +15,9 @@ state={
 		owner = KYV
 		add_core_of = KYV
 		victory_points = { 6390 10 } #Coch
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

@@ -16,6 +16,9 @@ state={
 		add_core_of = CEL
 		victory_points = { 4935 10 }
 		victory_points = { 4752 10 }
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 

@@ -14,6 +14,9 @@ state={
 		owner = GOG
 		add_core_of = GOG
 		victory_points = { 5168 10 } #Derschulsh
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 	provinces={

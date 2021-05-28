@@ -16,6 +16,9 @@ state={
 		add_core_of = ODE
 		victory_points = { 2455 10 }
 		victory_points = { 2633 10 }
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

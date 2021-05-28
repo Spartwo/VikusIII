@@ -14,10 +14,14 @@ state={
 	history={
 		owner = ODE
 		add_core_of = ODE
+		add_claim_by = IRS
 		victory_points = { 3181 10 }
 		victory_points = { 3148 10 }
 		victory_points = { 3076 10 }
 		victory_points = { 2885 10 }
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 

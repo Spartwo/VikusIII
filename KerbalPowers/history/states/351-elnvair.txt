@@ -16,6 +16,9 @@ state={
 		add_core_of = NKS
         victory_points = { 6232 10 } #Elnvair
         victory_points = { 6124 10 } #Moukov
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 

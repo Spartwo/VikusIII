@@ -15,6 +15,9 @@ state={
 		owner = ACC
 		add_core_of = ACC
         	victory_points = { 6959 10 } #Envilmia
+		buildings = {
+			infrastructure = 2
+		}
 		
 
 	}

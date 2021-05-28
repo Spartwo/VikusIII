@@ -12,6 +12,9 @@ history={
 		add_core_of = ACC
         	victory_points = { 6932 10 } #Burun
         	victory_points = { 6816 10 } #Lagan
+		buildings = {
+			infrastructure = 3
+		}
 }
 
 }

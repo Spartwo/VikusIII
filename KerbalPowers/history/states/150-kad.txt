@@ -16,6 +16,9 @@ state={
 		add_core_of = ZZW
 		victory_points = { 904 10 } #Kad
 
+		buildings = {
+			infrastructure = 1
+		}
 	}
 
 	provinces={

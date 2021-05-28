@@ -16,7 +16,7 @@ state={
 		add_core_of = ZZV
 		victory_points = { 4943 10 } #Bordova
 		buildings = {
-			infrastructure = 2
+			infrastructure = 0
 			arms_factory = 1
 			industrial_complex = 1
 

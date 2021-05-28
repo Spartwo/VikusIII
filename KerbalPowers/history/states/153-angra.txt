@@ -16,6 +16,9 @@ state={
 		add_core_of = DTA
 		add_core_of = CAR
 		victory_points = { 16 10 } #Angra
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

@@ -17,6 +17,9 @@ state={
 		add_core_of = VOC
 		victory_points = { 5018 10 }
 		victory_points = { 4931 10 }
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 

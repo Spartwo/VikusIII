@@ -15,6 +15,9 @@ state={
 		owner = VUL
 		add_core_of = VUL
 		victory_points = { 1526 10 } #Blaenau
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

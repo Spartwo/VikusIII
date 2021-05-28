@@ -8,6 +8,9 @@ state={
 		add_core_of = ICO
 		victory_points = { 871 10 } #Telrena
 		victory_points = { 956 10 } #Tuvu
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

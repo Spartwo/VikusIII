@@ -14,5 +14,8 @@ history={
 		add_core_of = HKA
 		victory_points = { 2512 10 } #Parznet
 		victory_points = { 2659 10 } #Cadmus
+		buildings = {
+			infrastructure = 4
+		}
 	}
 }

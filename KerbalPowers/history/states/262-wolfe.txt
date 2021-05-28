@@ -16,6 +16,9 @@ state={
 		add_core_of = BLY
         victory_points = { 6144 10 } #Wolfe
         victory_points = { 6252 10 } #Kerite
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

@@ -12,5 +12,8 @@ history={
 		add_core_of = KAL
 		add_core_of = MEN
 		victory_points = { 1918 10 }
+		buildings = {
+			infrastructure = 5
+		}
 	}
 }

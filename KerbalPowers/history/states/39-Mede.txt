@@ -15,6 +15,9 @@ state={
 		owner = PHO
 		add_core_of = PHO
 		victory_points = { 3600 10 }#Mede
+		buildings = {
+			infrastructure = 4
+		}
 	}
 
 	provinces={

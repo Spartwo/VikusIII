@@ -15,6 +15,9 @@ state={
 		victory_points = { 5263 10 } #Chatoc
 		victory_points = { 5179 10 } #Suze
 		victory_points = { 5213 10 } #Arcovy
+		buildings = {
+			infrastructure = 8
+		}
 
 	}
 }

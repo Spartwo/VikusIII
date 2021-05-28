@@ -4,7 +4,7 @@
 #democratic = liberalism
 #neutrality = isolationism mainly but also monarchies and papal shit
 #neoconservativisism = conservative democracies, god emperors, and juntas
-#overlordship = no
+#schizo = no
 ############################## NEUTRAL ##########################################
  # NORTHERN ANARCHY
  ZZZ:0 " "
@@ -167,7 +167,7 @@
  TEK_ADJ:0 "Tekkia"
  TEK_fascism_DEF:0 "Revivalist Tekkia"
  TEK_democratic_DEF:1 "Consolidated Tekkia"
- TEK_overlordship_DEF:0 "The Trapan Governate of Tekkia"
+ TEK_schizo_DEF:0 "The Trapan Governate of Tekkia"
  # Solari
  SOL:0 "Solaria"
  SOL_DEF:0 "Solaria"
@@ -182,7 +182,7 @@
  KRO_fascism_DEF:0 "Imperium Kromana"
  KRO_neocon_DEF:0 "The Kroman Federation"
  KRO_neutrality_DEF:0 "The Republic of Krome"
- KRO_overlordship_DEF:0 "Kromium"
+ KRO_schizo_DEF:0 "Kromium"
  # Celrapan
  CEL:0 "Celrapan"
  CEL_DEF:0 "Celrapan"
@@ -506,7 +506,7 @@
  GAG_fascism_DEF:0 "The State of Gagriel"
  GAG_communism_DEF:0 "The Arcadian Republic of Gagaria"
  GAG_communism_ADJ:0 "Gagarian"
- GAG_overlordship_DEF:0 "The Bobdean monitorship of Gagriel"
+ GAG_schizo_DEF:0 "The Bobdean monitorship of Gagriel"
 
 
 ###DORVICS###
@@ -742,8 +742,8 @@
 
 ###FIRESVAR###
  # NMC/WMC/EMC/SMC # WTF do I do here
- NMC_overlordship:1 "NMC"
- NMC_overlordship_DEF:1 "The Northern Mercantile Collective"
+ NMC_schizo:1 "NMC"
+ NMC_schizo_DEF:1 "The Northern Mercantile Collective"
  NMC_fascism:1 "NMC"
  NMC_fascism_DEF:1 "The Northern Mercantile Collective"
  NMC_democratic:0 "WMC"

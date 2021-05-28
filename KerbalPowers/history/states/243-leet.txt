@@ -15,6 +15,9 @@ state={
 		owner = THA
 		add_core_of = THA
 		victory_points = { 5760 10 } #Leath
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

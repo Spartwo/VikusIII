@@ -17,6 +17,9 @@ state={
 		victory_points = { 672 10 } #Yaeng
 		victory_points = { 737 10 } #Bathcha
 		victory_points = { 811 15 } #Voobel
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

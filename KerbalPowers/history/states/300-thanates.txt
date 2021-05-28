@@ -16,6 +16,9 @@ state={
 		add_core_of = HEL
 		victory_points = { 1328 10 } #Rudmark
 		victory_points = { 6331 10 } #Hauken
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

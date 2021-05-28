@@ -15,13 +15,16 @@ state={
 		owner = ZZX
 		add_core_of = ZZX
 		victory_points = { 2764 10 } #Panem
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 
 	provinces={
 		2546 2569 2630 2671 2694 2711 2760 2764 2803 2827 2863 2865 2924 
 	}
-	manpower=1800000
+	manpower=600000
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

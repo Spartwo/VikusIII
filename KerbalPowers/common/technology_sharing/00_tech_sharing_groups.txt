@@ -42,6 +42,7 @@ technology_sharing_group = {
 
     available = {
         is_in_faction_with = ARC
+        is_in_faction_with = ERA
     }
 
 }
@@ -73,16 +74,15 @@ technology_sharing_group = {
 
     available = {
         is_in_faction_with = AEN
-        is_in_faction_with = ERU
     }
 
 }
 
 technology_sharing_group = {
 
-	id = NEOCON_research
-	name = NEOCON_research_name
-	desc = NEOCON_research_desc
+	id = Over_research
+	name = Over_research_name
+	desc = Over_research_desc
 	picture = GFX_technology_sharing_default
     
 	research_sharing_per_country_bonus = 0.1

@@ -17,6 +17,9 @@ state={
 		victory_points = { 517 10 } #Puranolad
 		victory_points = { 6886 20 } #Nore
 		victory_points = { 2652 10 } #Sulund
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

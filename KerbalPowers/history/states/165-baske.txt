@@ -19,7 +19,7 @@ state={
 		victory_points = { 341 20 } #Baske
 		victory_points = { 249 10 } #Iubia
 		buildings = {
-			infrastructure = 3
+			infrastructure = 6
 			industrial_complex = 2
 
 		}

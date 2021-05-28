@@ -15,6 +15,9 @@ state={
 		owner = DRA
 		add_core_of = DRA
 		victory_points = { 2160 10 } #Kyeshdet
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

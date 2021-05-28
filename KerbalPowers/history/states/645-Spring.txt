@@ -7,6 +7,9 @@ state={
 		owner = SOL
 		add_core_of = SOL
 		victory_points = { 5101 20 }
+		buildings = {
+			infrastructure = 8
+		}
 
 	}
 

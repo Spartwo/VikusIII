@@ -17,6 +17,9 @@ state={
 		victory_points = { 922 20 } #Almea
 		victory_points = { 1166 10 } #Ponpin
 		victory_points = { 1103 10 } #Napoca
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

@@ -16,6 +16,9 @@ state={
 		add_core_of = EDV
 		victory_points = { 6965 10 } #Nyskift
 		victory_points = { 6985 10 } #Norfylk
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

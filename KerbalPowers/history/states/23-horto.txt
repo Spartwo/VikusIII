@@ -9,6 +9,9 @@ state={
 		add_core_of = VAL
 		victory_points = { 2327 10 } #Horto
 		victory_points = { 2137 10 } #Thenia
+		buildings = {
+			infrastructure = 6
+		}
 	}
 
 	provinces={

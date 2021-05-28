@@ -7,6 +7,9 @@ state={
 		owner = TAE
 		add_core_of = TAE
 		victory_points = { 6491 10 } #Kolin
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

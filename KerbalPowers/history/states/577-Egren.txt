@@ -12,6 +12,9 @@ state={
 		add_core_of = SOL
 		victory_points = { 5450 10 } #Egren
 		victory_points = { 5610 10 } #Leithlisiu
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 }

@@ -18,7 +18,7 @@ technologies = {
 		}
 		
 		research_cost = 1
-		start_year = 1936
+		start_year = 1958
 		folder = {
 			name = electronics_folder
 			position = { x = 0 y = 0 }
@@ -76,7 +76,7 @@ technologies = {
 			}
 			modifier = {
 				factor = 5
-				date > "1939.8.1"
+				date > "1962.8.1"
 			}
 		}
 		
@@ -129,7 +129,7 @@ technologies = {
 		}
 		
 		research_cost = 1.25
-		start_year = 1938
+		start_year = 1960
 		enable_equipment_modules = { 
 			ship_radar_1
 		}
@@ -148,7 +148,7 @@ technologies = {
 				factor = 5
 			}
 			modifier = {
-				date < "1938.1.1"
+				date < "1960.1.1"
 				factor = 0.5
 			}
 		}
@@ -182,7 +182,7 @@ technologies = {
 		}
 		
 		research_cost = 1.25
-		start_year = 1939
+		start_year = 1962
 		
 		folder = {
 			name = electronics_folder
@@ -199,7 +199,7 @@ technologies = {
 				factor = 5
 			}
 			modifier = {
-				date < "1939.1.1"
+				date < "1962.1.1"
 				factor = 0.5
 			}
 		}
@@ -230,7 +230,7 @@ technologies = {
 		}
 		
 		research_cost = 1.25
-		start_year = 1940
+		start_year = 1963
 		
 		folder = {
 			name = electronics_folder
@@ -247,7 +247,7 @@ technologies = {
 				factor = 4
 			}
 			modifier = {
-				date < "1940.1.1"
+				date < "1963.1.1"
 				factor = 0.5
 			}
 		}
@@ -276,7 +276,7 @@ technologies = {
 		}
 		
 		research_cost = 1.25
-		start_year = 1941
+		start_year = 1964
 		
 		folder = {
 			name = electronics_folder
@@ -293,7 +293,7 @@ technologies = {
 				factor = 4
 			}
 			modifier = {
-				date < "1941.1.1"
+				date < "1964.1.1"
 				factor = 0.5
 			}
 		}
@@ -319,7 +319,7 @@ technologies = {
 		static_anti_air_hit_chance_factor = 0.2
 		
 		research_cost = 1.25
-		start_year = 1942
+		start_year = 1965
 		
 		folder = {
 			name = electronics_folder
@@ -397,7 +397,7 @@ technologies = {
 			research_cost_coeff = 1
 		}
 		research_cost = 2.5
-		start_year = 1938
+		start_year = 1960
 		
 		folder = {
 			name = electronics_folder
@@ -409,12 +409,12 @@ technologies = {
 			
 			modifier = {
 				factor = 3
-				date > "1938.1.6"
+				date > "1960.1.6"
 			}
 			
 			modifier = {
 				factor = 3
-				date > "1939.1.1"
+				date > "1962.1.1"
 			}
 		}
 		
@@ -450,7 +450,7 @@ technologies = {
 		}
 		
 		research_cost = 2.5
-		start_year = 1940
+		start_year = 1963
 		
 		folder = {
 			name = electronics_folder
@@ -462,12 +462,12 @@ technologies = {
 			
 			modifier = {
 				factor = 3
-				date > "1940.1.6"
+				date > "1963.1.6"
 			}
 			
 			modifier = {
 				factor = 3
-				date > "1941.1.1"
+				date > "1964.1.1"
 			}
 
 			modifier = {
@@ -499,7 +499,7 @@ technologies = {
 		}
 		
 		research_cost = 2.5
-		start_year = 1942
+		start_year = 1965
 		
 		folder = {
 			name = electronics_folder
@@ -511,7 +511,7 @@ technologies = {
 			
 			modifier = {
 				factor = 3
-				date > "1942.1.6"
+				date > "1965.1.6"
 			}
 			
 			modifier = {
@@ -534,7 +534,7 @@ technologies = {
 		encryption = 1
 		
 		research_cost = 1
-		start_year = 1938
+		start_year = 1960
 		allow_branch = {
 			NOT = { has_dlc = "La Resistance" }
 		}
@@ -579,7 +579,7 @@ technologies = {
 			NOT = { has_dlc = "La Resistance" }
 		}
 		research_cost = 1
-		start_year = 1940
+		start_year = 1963
 		
 		folder = {
 			name = electronics_folder
@@ -622,7 +622,7 @@ technologies = {
 			NOT = { has_dlc = "La Resistance" }
 		}
 		research_cost = 1
-		start_year = 1942
+		start_year = 1965
 		
 		folder = {
 			name = electronics_folder
@@ -665,7 +665,7 @@ technologies = {
 			NOT = { has_dlc = "La Resistance" }
 		}
 		research_cost = 1.5
-		start_year = 1938
+		start_year = 1960
 		
 		folder = {
 			name = electronics_folder
@@ -704,7 +704,7 @@ technologies = {
 			NOT = { has_dlc = "La Resistance" }
 		}
 		research_cost = 1.5
-		start_year = 1940
+		start_year = 1963
 		
 		folder = {
 			name = electronics_folder
@@ -743,7 +743,7 @@ technologies = {
 			NOT = { has_dlc = "La Resistance" }
 		}
 		research_cost = 1.5
-		start_year = 1942
+		start_year = 1965
 		
 		folder = {
 			name = electronics_folder
@@ -957,7 +957,7 @@ technologies = {
 		}
 		
 		research_cost = 2
-		start_year = 1944
+		start_year = 1970
 		
 		folder = {
 			name = electronics_folder
@@ -1072,7 +1072,7 @@ technologies = {
 			position = { x = 2 y = 2 }
 		}
 		
-		start_year = 1944
+		start_year = 1970
 		research_cost = 2
 
 		folder = {
@@ -1105,7 +1105,7 @@ technologies = {
 			research_cost_coeff = 1
 		}
 		
-		start_year = 1940
+		start_year = 1963
 		research_cost = 5
 		
 		folder = {
@@ -1118,12 +1118,12 @@ technologies = {
 			
 			modifier = {
 				factor = 1.2
-				date > "1941.1.1"
+				date > "1964.1.1"
 			}
 			
 			modifier = {
 				factor = 1.2
-				date > "1942.1.1"
+				date > "1965.1.1"
 			}
 			
 			modifier = {
@@ -1211,7 +1211,7 @@ technologies = {
 	lar_decryption_bonus_tech = {
 				
 		research_cost = 1.5 #Carrier Variant
-		start_year = 1944
+		start_year = 1970
 
 		# only from focus!!! #####
 		allow = {

@@ -10,6 +10,9 @@ state={
 		victory_points = { 2349 10 } #Pugaraya
 		victory_points = { 1910 10 } #Monsur
 		victory_points = { 2165 10 } #Par
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

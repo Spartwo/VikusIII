@@ -8,6 +8,9 @@ state={
 		add_core_of = ZOK
 		add_core_of = BOS
 		victory_points = { 3853 10 } #Haley
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 

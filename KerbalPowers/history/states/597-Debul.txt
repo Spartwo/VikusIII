@@ -6,8 +6,9 @@ state={
 	history={
 		owner = SAN
 		add_core_of = SAN
-		victory_points = {
-			2448 10 
+		victory_points = { 2448 10 } #Debulist
+		buildings = {
+			infrastructure = 5
 		}
 
 	}

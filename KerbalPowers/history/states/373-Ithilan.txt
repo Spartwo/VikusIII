@@ -16,6 +16,9 @@ state={
 		add_core_of = ZZZ
 		victory_points = { 6559 10 } #Ihly
 		victory_points = { 6774 10 } #Ithilan
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

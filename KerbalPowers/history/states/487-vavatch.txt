@@ -17,6 +17,9 @@ state={
 		add_core_of = PRO
 		victory_points = { 1011 10 } #Vavatch
 		victory_points = { 1155 10 } #Dravas
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

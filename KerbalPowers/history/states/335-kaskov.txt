@@ -8,6 +8,9 @@ state={
 		add_core_of = AMB
 		victory_points = { 3397 10 } #Kaskov
 		victory_points = { 3590 10 } #Versbi
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

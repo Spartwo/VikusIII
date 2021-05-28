@@ -11,6 +11,9 @@ state={
 		owner = REC
 		add_core_of = REC
 		victory_points = { 3561 10 } #Falenhout
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 }

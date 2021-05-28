@@ -15,6 +15,9 @@ state={
 		owner = HAL
 		add_core_of = HAL
 		victory_points = { 566 10 } #Gomlon
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

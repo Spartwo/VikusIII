@@ -15,6 +15,9 @@ state={
 		owner = KYV
 		add_core_of = KYV
 		victory_points = { 5861 10 } #Kenoa
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

@@ -9,6 +9,9 @@ state={
 		victory_points = { 1678 10 } #Avelt
 		victory_points = { 1870 10 } #Sirmium
 		victory_points = { 1703 10 } #Perugia
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

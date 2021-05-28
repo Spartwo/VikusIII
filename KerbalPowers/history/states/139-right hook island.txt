@@ -12,5 +12,8 @@ history={
 		add_core_of = BSL
 		add_core_of = BSK
 		victory_points = { 699 15 } #Wortham
+		buildings = {
+			infrastructure = 5
+		}
 	}
 }

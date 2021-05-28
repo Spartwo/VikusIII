@@ -1,6 +1,6 @@
 ﻿capital = 277
 
-oob = "RMAP_TEMPLATE"
+oob = "FILLER_2070"
 
 set_research_slots = 3
 set_convoys = 100
@@ -14,14 +14,14 @@ set_technology = {
 set_popularities = {
 	democratic = 0
 	fascism = 10
-	overlordship = 70
+	schizo = 70
 	communism = 0
 	neutrality = 20	
 }
 
 set_politics = {
 	
-	ruling_party = overlordship
+	ruling_party = schizo
 	last_election = "2045.9.11"
 	election_frequency = 24
 	elections_allowed = no
@@ -31,7 +31,7 @@ set_politics = {
 create_country_leader = {
 	name = "The Overlord"
 	picture = "GFX_leader_unknown.dds"
-	ideology = overlord_subtype
+	ideology = schizo_subtype
 	traits = {
 		
 	}

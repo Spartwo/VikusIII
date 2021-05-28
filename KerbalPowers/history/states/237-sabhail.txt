@@ -16,6 +16,9 @@ state={
 		add_core_of = SOL
 		victory_points = { 5330 10 } #Sabhail
 		victory_points = { 5526 10 } #Tark
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

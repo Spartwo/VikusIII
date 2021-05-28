@@ -8,6 +8,9 @@ state={
 		add_core_of = VAG
 		victory_points = { 4676 15 }
 		victory_points = { 4640 10 }
+		buildings = {
+			infrastructure = 3
+		}
 	}
 
 	provinces={

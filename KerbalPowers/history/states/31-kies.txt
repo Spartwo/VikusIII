@@ -18,7 +18,7 @@ state={
 		victory_points = { 4398 10 } #Kies
 		victory_points = { 4535 10 } #Qerbingolu
 		buildings = {
-			infrastructure = 3
+			infrastructure = 4
 			arms_factory = 1
 			industrial_complex = 1
 

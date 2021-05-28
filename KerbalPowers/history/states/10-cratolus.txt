@@ -22,5 +22,8 @@ history={
 		add_core_of = VSA
 		victory_points = { 4291 10 } #Bumer
 		victory_points = { 4066 10 } #Cratolus
+		buildings = {
+			infrastructure = 7
+		}
 	}
 }

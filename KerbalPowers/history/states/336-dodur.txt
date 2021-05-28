@@ -8,6 +8,9 @@ state={
 		add_core_of = ERA
 		victory_points = { 3967 50 }
 		victory_points = { 4025 10 }
+		buildings = {
+			infrastructure = 7
+		}
 
 	}
 

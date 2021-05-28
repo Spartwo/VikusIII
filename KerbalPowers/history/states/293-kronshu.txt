@@ -15,6 +15,9 @@ state={
 		owner = MED
 		add_core_of = MED
 		victory_points = { 6796 10 } #Kronshu
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

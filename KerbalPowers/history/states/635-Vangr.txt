@@ -11,6 +11,9 @@ state={
 		owner = SAR
 		add_core_of = SAR
         	victory_points = { 2158 10 } #Vang
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 }

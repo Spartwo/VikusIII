@@ -8,6 +8,9 @@ state={
 		add_core_of = ZZZ
 		victory_points = { 6857 10 } #Korduga
 		victory_points = { 6922 10 } #Baff
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

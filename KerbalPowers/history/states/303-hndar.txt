@@ -12,9 +12,13 @@ state={
 	}
 
 	history={
-		owner = CLS
+		owner = RAF
+		add_core_of = RAF
 		add_core_of = CLS
 		victory_points = { 4867 10 } #Hndar
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

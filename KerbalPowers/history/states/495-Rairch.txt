@@ -8,6 +8,9 @@ state={
 		add_core_of = ZZY
         	victory_points = { 2299 10 } #Rzyenad
         	victory_points = { 2321 20 } #Rairch
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

@@ -10,6 +10,9 @@ state={
 		victory_points = { 5647 20 } #Ionas
 		victory_points = { 5460 10 } #Adlard
 		victory_points = { 5788 10 } #Namane
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 

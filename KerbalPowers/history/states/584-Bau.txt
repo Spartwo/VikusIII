@@ -12,6 +12,9 @@ state={
 		add_core_of = LOT
 		add_claim_by = KAA
         victory_points = { 6669 10 } #Baue
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 }

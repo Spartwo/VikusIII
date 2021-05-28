@@ -15,6 +15,9 @@ state={
 		owner = BSL
 		add_core_of = BSL
 		victory_points = { 1304 10 } #Vycuda
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

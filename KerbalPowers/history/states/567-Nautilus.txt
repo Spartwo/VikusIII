@@ -15,5 +15,8 @@ history={
 		victory_points = { 2611 10 } #Greyche
 		victory_points = { 2618 10 } #Nautillus
 		victory_points = { 2722 10 } #Triosca
+		buildings = {
+			infrastructure = 6
+		}
 	}
 }

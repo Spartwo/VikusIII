@@ -15,6 +15,9 @@ state={
 		owner = ODE
 		add_core_of = ODE
 		victory_points = { 2022 10 }
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

@@ -16,6 +16,9 @@ state={
 		add_core_of = ZOK
 		add_core_of = BOS
 		victory_points = { 3444 10 } #Hegel
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 

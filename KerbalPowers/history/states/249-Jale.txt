@@ -19,6 +19,7 @@ state={
         victory_points = { 6750 10 } #Fore
         victory_points = { 6840 10 } #Boyark
 		buildings = {
+			infrastructure = 4
 			6862 = {
 				naval_base = 2
 

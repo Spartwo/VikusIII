@@ -8,6 +8,9 @@ state={
 		add_core_of = BSL
 		victory_points = { 1354 10 } #Bounder
 		victory_points = { 1258 10 } #Exster
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

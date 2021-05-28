@@ -25,6 +25,9 @@ state={
 		victory_points = { 2918 10 } #Saban
 		victory_points = { 2734 10 } #Guthram
 		victory_points = { 2632 20 } #Obtund
+		buildings = {
+			infrastructure = 6
+		}
 
 	}
 

@@ -19,7 +19,7 @@ state={
 		add_core_of = LOV
 		victory_points = { 4777 5 }
 		buildings = {
-
+			infrastructure = 5
 		}
 
 	}

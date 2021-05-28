@@ -16,6 +16,9 @@ state={
 		add_core_of = PHO
 		add_core_of = GRA
 		victory_points = { 3998 10 }
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

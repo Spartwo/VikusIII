@@ -7,6 +7,9 @@ state={
 		owner = ACC
 		add_core_of = ACC
         	victory_points = { 6953 10 } #Zai
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

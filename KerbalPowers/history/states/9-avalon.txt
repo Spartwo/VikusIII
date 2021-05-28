@@ -21,5 +21,8 @@ state={
 		owner = VSA
 		add_core_of = VSA
 		victory_points = { 3895 15 } #Avalon
+		buildings = {
+			infrastructure = 5
+		}
 	}
 }

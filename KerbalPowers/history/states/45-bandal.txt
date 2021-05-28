@@ -15,6 +15,9 @@ state={
 		owner = VAN
 		add_core_of = VAN
 		victory_points = { 3920 10 } #Bandal
+		buildings = {
+			infrastructure = 1
+		}
 
 	}
 

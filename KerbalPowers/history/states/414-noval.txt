@@ -16,6 +16,9 @@ state={
 		add_core_of = REC
 		victory_points = { 4134 10 } #Rugnare
 		victory_points = { 4043 10 } #Novalis
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

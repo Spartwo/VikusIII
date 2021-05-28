@@ -15,6 +15,9 @@ state={
 		owner = MEC
 		add_core_of = MEC
 		victory_points = { 5505 10 } #Nexa
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

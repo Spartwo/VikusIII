@@ -9,6 +9,9 @@ state={
 		victory_points = { 4473 10 } #Priyenat
 		victory_points = { 4403 10 } #Breynabri
 		victory_points = { 4215 10 } #Kaichira
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

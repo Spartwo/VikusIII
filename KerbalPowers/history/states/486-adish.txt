@@ -17,6 +17,9 @@ state={
 		add_core_of = CRS 
 		victory_points = { 6526 10 }#Iro
 		victory_points = { 3826 10 }#Adish
+		buildings = {
+			infrastructure = 3
+		}
 
 	}
 

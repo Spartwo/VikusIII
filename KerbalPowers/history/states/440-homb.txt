@@ -17,6 +17,9 @@ state={
 		victory_points = { 1104 10 } #Hombas
 		victory_points = { 805 10 } #Sangro
 		victory_points = { 857 10 } #Cinet
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

@@ -1,6 +1,6 @@
 ﻿capital = 21
 
-oob = "RMAP_TEMPLATE"
+oob = "FILLER_2070"
 
 set_research_slots = 2
 set_convoys = 100
@@ -30,7 +30,7 @@ set_politics = {
 create_country_leader = {
 	name = "Valentina"
 	picture = "GFX_leader_unknown.dds"
-	ideology = overlord_subtype
+	ideology = schizo_subtype
 	traits = {
 		
 	}

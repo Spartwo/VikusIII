@@ -15,6 +15,9 @@ state={
 		owner = NKS
 		add_core_of = NKS
         victory_points = { 6579 10 } #Negation
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

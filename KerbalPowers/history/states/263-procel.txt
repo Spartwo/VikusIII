@@ -16,6 +16,9 @@ state={
 		add_core_of = LOT
         victory_points = { 6662 10 } #Procel
         victory_points = { 6604 10 } #Plecesy
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

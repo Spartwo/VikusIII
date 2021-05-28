@@ -16,6 +16,9 @@ state={
 		add_core_of = ZZY
         	victory_points = { 2952 10 } #Galitan
         	victory_points = { 2908 10 } #Te Tuturi
+		buildings = {
+			infrastructure = 2
+		}
 
 	}
 

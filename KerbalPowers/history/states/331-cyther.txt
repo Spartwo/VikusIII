@@ -14,8 +14,9 @@ state={
 	history={
 		owner = OFE
 		add_core_of = OFE
-		victory_points = {
-			2198 10 
+		victory_points = {2198 10 }
+		buildings = {
+			infrastructure = 5
 		}
 
 	}

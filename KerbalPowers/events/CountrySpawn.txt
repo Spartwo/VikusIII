@@ -86,7 +86,7 @@ country_event = {
 	
 	option = {
 		name = test.3.a
-		RAJ = {
+		ZOK = {
 			add_autonomy_score = {
 				value = 5
 				localization = "TEST_EVENT_3_OPTION: $VAL|+=2$"

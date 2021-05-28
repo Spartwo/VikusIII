@@ -16,6 +16,9 @@ state={
 		add_core_of = ANG
 		victory_points = { 442 10 } #Mann
 		victory_points = { 532 10 } #Mangozu
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 

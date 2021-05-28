@@ -14,5 +14,8 @@ history={
 		add_claim_by = ARC
 		victory_points = { 2305 20 }
 		victory_points = { 2306 10 }
+		buildings = {
+			infrastructure = 8
+		}
 	}
 }

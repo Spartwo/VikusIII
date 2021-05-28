@@ -15,6 +15,9 @@ state={
 		owner = ZZX
 		add_core_of = ZZX
 		victory_points = { 2362 10 } #Dinyol
+		buildings = {
+			infrastructure = 1
+		}
 		
 
 	}

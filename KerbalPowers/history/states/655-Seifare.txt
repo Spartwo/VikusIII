@@ -16,6 +16,9 @@ state={
 		add_core_of = SEI
 		victory_points = { 3404 10 } #Seipura
 		victory_points = { 3451 10 } #Ranga Ray
+		buildings = {
+			infrastructure = 6
+		}
 	}
 	provinces={
 		2078 3404 3451 

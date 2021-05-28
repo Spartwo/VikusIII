@@ -7,6 +7,9 @@ state={
 		owner = IRS
 		add_core_of = IRS
 		victory_points = { 2489 10 }
+		buildings = {
+			infrastructure = 5
+		}
 
 	}
 

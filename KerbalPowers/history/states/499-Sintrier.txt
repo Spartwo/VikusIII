@@ -7,6 +7,9 @@ state={
 		owner = AMB
 		add_core_of = AMB
 		victory_points = { 3830 10 } #Sintrier
+		buildings = {
+			infrastructure = 4
+		}
 
 	}
 
