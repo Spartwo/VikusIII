@@ -10,6 +10,7 @@ state={
 		victory_points = { 5540 10 } #Bergentun
 		buildings = {
 			infrastructure = 6
+			5502 = { naval_base = 1 }
 		}
 
 	}

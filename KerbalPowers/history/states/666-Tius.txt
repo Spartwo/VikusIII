@@ -17,13 +17,14 @@ state={
 			1985 10 
 		}
 		buildings = {
-			infrastructure = 4
+			infrastructure = 4 
+			1985 = { naval_base = 1 }
 		}
 
 	}
 
 	provinces={
-		1909 1970 1985 2039  
+		1985 2039 2109 2120 2198 2239
 	}
 	manpower=600000
 	buildings_max_level_factor=0.000

@@ -18,6 +18,7 @@ state={
 		victory_points = { 866 30 } #River City
 		buildings = {
 			infrastructure = 7
+			866 = { naval_base = 1 }
 		}
 
 	}

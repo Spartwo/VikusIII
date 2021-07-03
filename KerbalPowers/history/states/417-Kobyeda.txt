@@ -20,6 +20,7 @@ state={
 		victory_points = { 4900 20 } #Kobyeda
 		buildings = {
 			infrastructure = 5
+			4900 = { naval_base = 1 }
 		}
 
 	}

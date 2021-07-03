@@ -23,12 +23,20 @@ state={
 		}
 		buildings = {
 			infrastructure = 6
+			3127 = {
+				naval_base = 1
+			}
+			2876 = {
+				naval_base = 1
+
+			}
+
 		}
 
 	}
 
 	provinces={
-		2843 2849 2876 2943 3019 3055 3120 3127 3167 7023 
+		2843 2849 2876 2943 3019 3055 3120 3127 3167
 	}
 	manpower=600000
 	buildings_max_level_factor=1.000

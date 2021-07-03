@@ -19,6 +19,7 @@ state={
 		victory_points = { 6727 10 } #Baifa
 		buildings = {
 			infrastructure = 3
+			6709 = { naval_base = 1 }
 		}
 
 	}

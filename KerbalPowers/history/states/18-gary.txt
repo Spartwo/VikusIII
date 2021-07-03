@@ -20,6 +20,7 @@ history={
 		victory_points = { 2751 10 } #Gary
 		buildings = {
 			infrastructure = 5
+			2751 = { naval_base = 1 }
 		}
 	}
 }

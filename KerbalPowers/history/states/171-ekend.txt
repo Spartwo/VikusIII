@@ -7,12 +7,11 @@ state={
 		owner = EUR
 		add_core_of = EUR
 		add_core_of = FLO
-		victory_points = {
-			3861 10 
-		}
+		victory_points = { 3861 10 }
 		victory_points = { 3767 10 }
 		buildings = {
 			infrastructure = 6
+			3861 = { naval_base = 1 }
 		}
 
 	}

@@ -11,6 +11,7 @@ state={
         victory_points = { 1127 10 } #Miffe
 		buildings = {
 			infrastructure = 6
+			1086 = { naval_base = 1 }
 		}
 
 	}

@@ -19,6 +19,7 @@ state={
 		victory_points = { 2652 10 } #Sulund
 		buildings = {
 			infrastructure = 5
+			6886 = { naval_base = 1 }
 		}
 
 	}

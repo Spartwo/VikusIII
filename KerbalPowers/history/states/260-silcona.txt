@@ -11,6 +11,7 @@ state={
         victory_points = { 6762 10 } #Graet
 		buildings = {
 			infrastructure = 5
+			6762 = { naval_base = 1 }
 		}
 
 	}
@@ -20,5 +21,5 @@ state={
 	}
 	manpower=600000
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=large_town
 }

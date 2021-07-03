@@ -19,6 +19,7 @@ state={
         	victory_points = { 6226 10 } #Prostredny
 		buildings = {
 			infrastructure = 4
+			6226 = { naval_base = 1 }
 		}
 
 	}

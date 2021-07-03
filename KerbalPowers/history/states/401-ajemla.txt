@@ -25,6 +25,7 @@ history={
         victory_points = { 1012 30 } #Ajemla
 		buildings = {
 			infrastructure = 8
+			1012 = { naval_base = 1 }
 		}
 	}
 }

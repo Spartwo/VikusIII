@@ -9,6 +9,7 @@ state={
 		victory_points = { 6911 10 } #Timorri
 		buildings = {
 			infrastructure = 3
+			6911 = { naval_base = 1 }
 		}
 
 	}

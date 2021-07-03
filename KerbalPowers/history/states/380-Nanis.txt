@@ -12,6 +12,7 @@ state={
 		victory_points = { 6220 10 } #Ubriet
 		buildings = {
 			infrastructure = 2
+			6539 = { naval_base = 1 }
 		}
 
 	}

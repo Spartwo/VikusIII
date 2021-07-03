@@ -1,28 +1,40 @@
+
 state={
 	id=192
 	name="STATE_192"
+	resources={
+		steel=0.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=0.000
+		oil=15.000
+		tungsten=0.000
+	}
+
+	history={
+		owner = GRE
+		add_core_of = GRE
+		victory_points = {
+			3415 10 
+		}
+		victory_points = {
+			3332 10 
+		}
+		buildings = {
+			infrastructure = 8
+			3415 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
 	provinces={
 		3291 3332 3337 3390 3415 3425 3495 3546 
 	}
 	manpower=2500000
-	resources={
-		steel=0
-		aluminium=0
-		chromium=0
-		rubber=0
-		oil=15
-		tungsten=0
-	}
 	buildings_max_level_factor=1.000
 	state_category=metropolis
-
-history={
-		owner = GRE
-		add_core_of = GRE
-		victory_points = { 3415 10 }
-		victory_points = { 3332 10 }
-		buildings = {
-			infrastructure = 8
-		}
-	}
 }

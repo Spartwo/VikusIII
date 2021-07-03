@@ -18,6 +18,7 @@ state={
 		victory_points = { 4107 10 } #Corcol
 		buildings = {
 			infrastructure = 3
+			4107 = { naval_base = 1 }
 		}
 		
 

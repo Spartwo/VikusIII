@@ -13,6 +13,7 @@ state={
 		victory_points = { 3561 10 } #Falenhout
 		buildings = {
 			infrastructure = 3
+			3651 = { naval_base = 1 }
 		}
 
 	}

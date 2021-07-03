@@ -23,6 +23,7 @@ history={
 		victory_points = { 1776 10 } #Sangrie
 		buildings = {
 			infrastructure = 1
+			1758 = { naval_base = 1 }
 		}
 	}
 }

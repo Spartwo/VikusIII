@@ -12,8 +12,8 @@ state={
 	}
 
 	history={
-		owner = ZZY
-		add_core_of = ZZY
+		owner = VIB
+		add_core_of = VIB
         	victory_points = { 2872 10 } #Hors
         	victory_points = { 2685 10 } #Lovib
 		buildings = {

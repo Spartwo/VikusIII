@@ -13,6 +13,7 @@ history={
         victory_points = { 1416 10 } #Nidapse
 		buildings = {
 			infrastructure = 4
+			1416 = { naval_base = 1 }
 		}
 	}
 }

@@ -18,6 +18,7 @@ state={
         victory_points = { 6778 10 } #Vupus
 		buildings = {
 			infrastructure = 5
+			6778 = { naval_base = 1 }
 		}
 
 	}

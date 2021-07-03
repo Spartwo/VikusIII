@@ -10,6 +10,7 @@ state={
 		victory_points = { 1372 10 } #Scharvian
 		buildings = {
 			infrastructure = 1
+			1259 = { naval_base = 1 }
 		}
 
 	}

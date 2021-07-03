@@ -14,6 +14,8 @@ history={
 		victory_points = { 3540 10 } #Hah Huai'i
 		buildings = {
 			infrastructure = 3
+			3540 = { naval_base = 1 }
+			3695 = { naval_base = 1 }
 		}
 	}
 }

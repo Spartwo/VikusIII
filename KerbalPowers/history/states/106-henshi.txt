@@ -9,6 +9,9 @@ state={
 		victory_points = { 742 10 } #Henshi
 		buildings = {
 			infrastructure = 3
+			742 = { naval_base = 1 }
+			853 = { naval_base = 1 }
+			859 = { naval_base = 1 }
 		}
 
 	}

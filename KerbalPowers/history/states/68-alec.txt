@@ -25,6 +25,7 @@ history={
 		victory_points = { 2881 10 } #Trishula
 		buildings = {
 			infrastructure = 5
+			2852 = { naval_base = 1 }
 		}
 	}
 }

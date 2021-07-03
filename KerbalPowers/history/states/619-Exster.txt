@@ -10,12 +10,13 @@ state={
 		victory_points = { 1258 10 } #Exster
 		buildings = {
 			infrastructure = 2
+			1258 = { naval_base = 1 }
 		}
 
 	}
 
 	provinces={
-		1258 1274 1287 1334 1354 1366 1413 1467 
+		1258 1274 1287 1334 1354 1366 1413 1467 1490 
 	}
 	manpower=250000
 	buildings_max_level_factor=1.000

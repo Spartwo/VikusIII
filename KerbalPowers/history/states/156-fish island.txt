@@ -24,6 +24,7 @@ state={
 		victory_points = { 59 10 } #Haols
 		buildings = {
 			infrastructure = 1
+			59 = { naval_base = 1 }
 		}
 	}
 }

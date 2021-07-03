@@ -17,6 +17,7 @@ state={
         victory_points = { 6534 10 } #Uace
 		buildings = {
 			infrastructure = 7
+			6534 = { naval_base = 1 }
 		}
 
 	}

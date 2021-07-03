@@ -5,6 +5,7 @@ state={
 	history={
 		owner = HEL
 		add_core_of = HEL
+		add_core_of = ESS
 		victory_points = { 6412 10 } #Cryos
 		victory_points = { 6421 10 } #Povallen
 		buildings = {

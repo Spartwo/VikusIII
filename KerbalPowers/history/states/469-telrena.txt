@@ -10,6 +10,7 @@ state={
 		victory_points = { 956 10 } #Tuvu
 		buildings = {
 			infrastructure = 4
+			871 = { naval_base = 1 }
 		}
 
 	}

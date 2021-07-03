@@ -23,6 +23,7 @@ history={
 		victory_points = { 1070 10 } #Taroka
 		buildings = {
 			infrastructure = 4
+			1116 = { naval_base = 1 }
 		}
 	}
 }

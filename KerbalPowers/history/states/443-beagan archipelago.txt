@@ -14,6 +14,7 @@ history={
 		victory_points = { 72 10 } #Beaga
 		buildings = {
 			infrastructure = 3
+			72 = { naval_base = 1 }
 		}
 	}
 }

@@ -18,6 +18,7 @@ state={
 		victory_points = { 355 10 } #Wakira
 		buildings = {
 			infrastructure = 3
+			474 = { naval_base = 1 }
 		}
 
 	}

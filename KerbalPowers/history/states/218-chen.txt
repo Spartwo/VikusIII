@@ -12,8 +12,8 @@ state={
 	}
 
 	history={
-		owner = ZZY
-		add_core_of = ZZY
+		owner = RED
+		add_core_of = RED
 		add_core_of = SLO
         	victory_points = { 2142 10 } #Covska
 		buildings = {

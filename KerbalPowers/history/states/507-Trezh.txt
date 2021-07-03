@@ -10,6 +10,7 @@ state={
 		victory_points = { 105 10 } #Trenzh
 		buildings = {
 			infrastructure = 3
+			70 = { naval_base = 1 }
 		}
 
 	}

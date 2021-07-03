@@ -9,10 +9,11 @@ state={
 	state_category=tiny_island
 
 	history={
-			owner = MED
-			add_core_of = MED
-			buildings = {
-				infrastructure = 3
-			}
+		owner = MED
+		add_core_of = MED
+		buildings = {
+			infrastructure = 3
+			7004 = { naval_base = 1 }
+		}
 	}
 }

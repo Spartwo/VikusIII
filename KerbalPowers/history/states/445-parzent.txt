@@ -16,6 +16,7 @@ history={
 		victory_points = { 2659 10 } #Cadmus
 		buildings = {
 			infrastructure = 4
+			2659 = { naval_base = 1 }
 		}
 	}
 }

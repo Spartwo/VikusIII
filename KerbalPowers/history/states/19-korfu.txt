@@ -10,6 +10,7 @@ state={
 		victory_points = { 2535 10 } #Korfu
 		buildings = {
 			infrastructure = 5
+			2535 = { naval_base = 1 }
 		}
 		#Autumn Canton
 	}

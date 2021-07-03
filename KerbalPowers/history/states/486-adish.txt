@@ -19,6 +19,7 @@ state={
 		victory_points = { 3826 10 }#Adish
 		buildings = {
 			infrastructure = 3
+			6526 = { naval_base = 1 }
 		}
 
 	}

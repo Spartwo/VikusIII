@@ -25,6 +25,7 @@ history={
 		victory_points = { 5787 10 } #Bayconn
 		buildings = {
 			infrastructure = 3
+			5787 = { naval_base = 1 }
 		}
 	}
 

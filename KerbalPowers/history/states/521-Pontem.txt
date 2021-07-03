@@ -18,6 +18,7 @@ state={
 		victory_points = { 3812 10 } #Novurth
 		buildings = {
 			infrastructure = 4
+			3900 = { naval_base = 1 }
 		}
 
 	}

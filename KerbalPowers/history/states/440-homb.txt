@@ -19,6 +19,8 @@ state={
 		victory_points = { 857 10 } #Cinet
 		buildings = {
 			infrastructure = 5
+			857 = { naval_base = 1 }
+			1104 = { naval_base = 1 }
 		}
 
 	}

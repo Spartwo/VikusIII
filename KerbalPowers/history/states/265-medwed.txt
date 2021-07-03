@@ -10,6 +10,7 @@ state={
 		victory_points = { 6581 10 } #Cerfessa
 		buildings = {
 			infrastructure = 3
+			6581 = { naval_base = 1 }
 		}
 
 	}

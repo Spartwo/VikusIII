@@ -18,6 +18,7 @@ state={
 		victory_points = { 1078 10 } #Yascta
 		buildings = {
 			infrastructure = 6
+			1078 = { naval_base = 1 }
 		}
 
 	}

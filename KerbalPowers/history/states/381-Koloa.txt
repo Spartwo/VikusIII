@@ -19,6 +19,7 @@ state={
 		victory_points = { 6680 10 } #Florentia
 		buildings = {
 			infrastructure = 1
+			6672 = { naval_base = 1 }
 		}
 
 	}

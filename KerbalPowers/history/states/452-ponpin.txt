@@ -19,6 +19,7 @@ state={
 		victory_points = { 1103 10 } #Napoca
 		buildings = {
 			infrastructure = 3
+			922 = { naval_base = 1 }
 		}
 
 	}

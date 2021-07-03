@@ -73,6 +73,7 @@ SVC = "countries/SVC.txt" #SALMIGEL
 BOS = "countries/BOS.txt" #BOSMYTH (LIKELY TO BE RELEASED IF SANCTUM BEATS ZOKESIA)
 RID = "countries/RID.txt" #ARIDIA
 VAL = "countries/VAL.txt" #VALENIA
+SAH = "countries/SAH.txt" #SAHRLAND
 SCH = "countries/SCH.txt" #SCHRSCHNELL
 JUN = "countries/JUN.txt" #JUNO (OPIA RARE RUMP)
 
@@ -124,6 +125,8 @@ SER = "countries/SER.txt" #PANSERIA
 GIB = "countries/GIB.txt" #GIBRAZI
 AIN = "countries/AIN.txt" #AINAK
 FEN = "countries/FEN.txt" #FENIKS
+VIB = "countries/VIB.txt" #LOVIBIA
+RED = "countries/RED.txt" #RED
 ANI = "countries/ANI.txt" #ANIXIA 
 NOL = "countries/NOL.txt" #NOLAND
 

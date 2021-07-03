@@ -19,6 +19,8 @@ state={
         victory_points = { 6362 10 } #Ostlich
 		buildings = {
 			infrastructure = 6
+			6525 = { naval_base = 1 }
+			6362 = { naval_base = 1 }
 		}
 
 	}

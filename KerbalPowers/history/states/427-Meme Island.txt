@@ -14,5 +14,6 @@ history={
 	}
 		buildings = {
 			infrastructure = 3
+			1532 = { naval_base = 1 }
 		}
 }

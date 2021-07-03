@@ -19,6 +19,7 @@ state={
 		victory_points = { 6011 10 } #Asam
 		buildings = {
 			infrastructure = 4
+			6011 = { naval_base = 1 }
 		}
 
 	}

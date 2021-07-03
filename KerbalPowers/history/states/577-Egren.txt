@@ -14,6 +14,7 @@ state={
 		victory_points = { 5610 10 } #Leithlisiu
 		buildings = {
 			infrastructure = 5
+			5450 = { naval_base = 1 }
 		}
 
 	}

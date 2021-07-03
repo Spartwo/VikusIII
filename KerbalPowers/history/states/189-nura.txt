@@ -6,15 +6,18 @@ state={
 	history={
 		owner = GRE
 		add_core_of = GRE
-		victory_points = { 3424 10 }
+		victory_points = {
+			3424 10 
+		}
 		buildings = {
 			infrastructure = 5
+
 		}
 
 	}
 
 	provinces={
-		3327 3359 3424 3487 3541 3587 
+		3327 3359 3424 3487 3587 
 	}
 	manpower=300000
 	buildings_max_level_factor=1.000

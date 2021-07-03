@@ -2,7 +2,7 @@ state={
 	id=188
 	name="STATE_188"
 	provinces={
-		3239 3246 3269 3377 3378 3394 3457 3486 3531 3637 
+		3239 3246 3269 3377 3378 3394 3457 3486 3531 3541 3637 
 	}
 	manpower=1800000
 	resources={
@@ -21,10 +21,11 @@ history={
 		owner = TEK
 		add_core_of = TEK
 		add_core_of = CAB
-		victory_points = { 3394 10 }
-		victory_points = { 3378 10 }
+		victory_points = { 3394 10 } #Vargo
+		victory_points = { 3378 10 } #Nura
 		buildings = {
 			infrastructure = 8
+			3394 = { naval_base = 1 }
 		}
 
 	}

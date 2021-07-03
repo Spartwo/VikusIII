@@ -10,6 +10,7 @@ state={
 		victory_points = { 2605 10 } #Vuchalla
 		buildings = {
 			infrastructure = 4
+			2605 = { naval_base = 1 }
 		}
 	}
 

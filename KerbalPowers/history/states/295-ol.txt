@@ -9,6 +9,7 @@ state={
 		victory_points = { 501 10 } #Olnisk
 		buildings = {
 			infrastructure = 4
+			501 = { naval_base = 1 }
 		}
 
 	}

@@ -16,9 +16,10 @@ state={
 		add_core_of = TEK
 		victory_points = { 4022 10 }
 		victory_points = { 3889 10 }
-		victory_points = { 4406 20 }
+		victory_points = { 4406 20 } #Samos
 		buildings = {
 			infrastructure = 7
+			4022 = { naval_base = 1 }
 		}
 
 	}

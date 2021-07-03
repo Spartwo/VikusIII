@@ -19,6 +19,8 @@ state={
 		victory_points = { 5318 10 } #Anderson
 		buildings = {
 			infrastructure = 7
+			5528 = { naval_base = 1 }
+			5318 = { naval_base = 1 }
 		}
 		#Stihlgrad
 	}

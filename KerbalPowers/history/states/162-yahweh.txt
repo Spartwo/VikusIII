@@ -24,6 +24,7 @@ state={
 			dockyard = 2
 			anti_air_building = 3
 			air_base = 1
+			283 = { naval_base = 1 }
 
 		}
 

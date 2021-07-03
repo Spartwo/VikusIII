@@ -18,6 +18,7 @@ state={
 		victory_points = { 430 10 } #Aguada
 		buildings = {
 			infrastructure = 4
+			458 = { naval_base = 1 }
 		}
 
 	}

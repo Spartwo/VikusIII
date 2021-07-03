@@ -19,6 +19,7 @@ state={
 		victory_points = { 1155 10 } #Dravas
 		buildings = {
 			infrastructure = 4
+			1011 = { naval_base = 1 }
 		}
 
 	}

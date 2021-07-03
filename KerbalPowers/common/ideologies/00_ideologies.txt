@@ -10,7 +10,6 @@ antagonism = {
                 
                 
 	types = {  
-                        theocratic_socialism = { }
                         stihlism =  { }
                         dorvism =  { }
                 }
@@ -56,6 +55,7 @@ communism = {
                 
 	types = {  
                         socialist_nationalism = { }
+                        theocratic_socialism = { }
                         socialism = { }
                 }
 
@@ -234,6 +234,7 @@ schizo = {
                 
 	types = {  
                 schizo_subtype = { }
+                overlordship = { }
             }
 
 	dynamic_faction_names = {
@@ -321,6 +322,7 @@ democratic = {
                 
 	types = {  
                         social_democracy = { }
+                        conservative_democracy = { }
                         representative_democracy = { }
                 }
 
@@ -367,6 +369,7 @@ individualism = {
 	types = {  
                         confederalism =  { }
                         liquid_democracy = { }
+                        libertarianism = { }
                 }
 
 	dynamic_faction_names = {
@@ -402,7 +405,7 @@ individualism = {
 
 
 corporatism = {
-                color = { 0 158 15 }
+                color = { 226 189 0 }
                 can_host_government_in_exile = yes
                 war_impact_on_world_tension = 0.3
                 faction_impact_on_world_tension = 0.1               
@@ -412,7 +415,6 @@ corporatism = {
                 
 	types = {  
                         state_corporatism = { }
-                        libertarianism = { }
                         mercantilism = { }
                 }
 

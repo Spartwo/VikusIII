@@ -10,6 +10,8 @@ state={
 		victory_points = { 359 10 } #Gratenia
 		buildings = {
 			infrastructure = 4
+			177 = { naval_base = 1 }
+			359 = { naval_base = 1 }
 		}
 
 	}

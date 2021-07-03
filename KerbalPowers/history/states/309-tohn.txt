@@ -18,6 +18,7 @@ state={
 		victory_points = { 164 10 } #Thar
 		buildings = {
 			infrastructure = 4
+			1088 = { naval_base = 1 }
 		}
 
 	}

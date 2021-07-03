@@ -15,6 +15,7 @@ state={
 		add_core_of = ARC
 		
 		victory_points = { 2452 10 }
+		victory_points = { 2784 5 }
 		
 		buildings = {
 			infrastructure = 6
@@ -25,9 +26,9 @@ state={
 	}
 
 	provinces={
-		2418 2452 2464 2511 2579 2586 2628 2714 
+		2418 2452 2464 2485 2511 2541 2562 2579 2586 2628 2649 2665 2666 2714 2784 
 	}
-	manpower=600000
+	manpower=1200000
 	buildings_max_level_factor=1.000
 	state_category=city
 }

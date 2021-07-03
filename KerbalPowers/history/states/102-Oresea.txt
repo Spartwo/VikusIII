@@ -9,6 +9,7 @@ state={
 		victory_points = { 624 10 } #Oresea
 		buildings = {
 			infrastructure = 6
+			703 = { naval_base = 1 }
 		}
 
 	}

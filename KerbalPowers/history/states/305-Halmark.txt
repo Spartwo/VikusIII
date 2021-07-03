@@ -6,11 +6,13 @@ state={
 	history={
 		owner = HAL
 		add_core_of = HAL
+		add_core_of = ESS
 		victory_points = { 5885 20 } #Hallmark
 		victory_points = { 3674 10 } #Sasse
 		victory_points = { 4635 10 } #Pertsch
 		buildings = {
 			infrastructure = 5
+			4635 = { naval_base = 1 }
 		}
 
 	}

@@ -18,6 +18,7 @@ state={
 		victory_points = { 131 10 } #Egro
 		buildings = {
 			infrastructure = 5
+			131 = { naval_base = 1 }
 		}
 
 	}

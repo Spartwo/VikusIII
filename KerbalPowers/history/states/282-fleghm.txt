@@ -17,6 +17,7 @@ state={
 		victory_points = { 6363 10 } #Rutra
 		buildings = {
 			infrastructure = 2
+			6363 = { naval_base = 1 }
 		}
 
 	}

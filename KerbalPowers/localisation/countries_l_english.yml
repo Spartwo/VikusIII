@@ -153,9 +153,9 @@
  ARK:0 "Arkeria"
  ARK_DEF:0 "Arkeria"
  ARK_ADJ:0 "Arkeri"
- # Thanatos
- THA:0 "Thanatos"
- THA_DEF:0 "Thanatos"
+ # Thanat
+ THA:0 "Thanat"
+ THA_DEF:0 "Thanat"
  THA_democratic_DEF:0 "The New Thanetian Republic"
  THA_ADJ:0 "Thanetian"
 
@@ -198,7 +198,7 @@
  GRE:0 "Grestin"
  GRE_DEF:0 "New Grestin"
  GRE_ADJ:0 "Grestinian"
- GRE_fascism_DEF:0 "The Grestin National Union"
+ GRE_fascism_DEF:0 "The Newest State of Grestin"
  GRE_democratic_DEF:0 "The New Grestin States"
  GRE_neocon_DEF:0 "The Unified State of Grestin"
  # Cabrai
@@ -293,6 +293,11 @@
  VAG:0 "Vagani"
  VAG_DEF:0 "Vagani"
  VAG_ADJ:0 "Vagan"
+ # Sahrland
+ SAH:0 "Sahr"
+ SAH_DEF:0 "Sahrland"
+ SAH_neutrality_DEF:0 "The Sahr Principality"
+ SAH_ADJ:0 "Sahren"
  # Carsdonia
  CRS:0 "Carsdonia"
  CRS_DEF:0 "Carsdonia"
@@ -366,8 +371,8 @@
  SWE_fascism_DEF:0 "The Free State of Sweize"
  SWE_neocon_DEF:0 "The United Provinces of Sweize"
  # Gume
- GUM:0 "Guma"
- GUM_DEF:0 "Guma"
+ GUM:0 "Gume"
+ GUM_DEF:0 "Gume"
  GUM_ADJ:0 "Gume"
  # Ionia
  ION:0 "Iyonia"
@@ -411,7 +416,8 @@
  ARC_ADJ:0 "Arkadii"
  ARC_fascism_DEF:0 "Ultranationalist Arkadiya"
  ARC_democratic_DEF:0 "The Republic of Arkadiya"
- ARC_communism_DEF:0 "Union of Arkadii Socialist Repubics"
+ ARC_communism_DEF:0 "The Union of Arkadii Socialist Republics"
+ ARC_antagonism_DEF:0 "The Socialist Federation of Arkadiya"
  ARC_neocon_DEF:0 "The Arkadii Imperial Union"
  # Ofeliya
  OFE:1 "Ofeliya"
@@ -537,15 +543,23 @@
  VUL_fascism_DEF:0 "The Empire of Vulkanas"
  VUL_communism_DEF:0 "The Union of Vulkanas"
  # Panseria
- SER:0 "Panseria"
+ SER:0 "[Panseria]"
  SER_DEF:0 "Panseria"
  SER_ADJ:0 "Panserrian"
  # Ainak
- AIN:0 "Ainak"
+ AIN:0 "[Ainak]"
  AIN_DEF:0 "Ainak"
  AIN_ADJ:0 "Ainak"
+ # Red
+ RED:0 "[Red]"
+ RED_DEF:0 "Red"
+ RED_ADJ:0 "Red"
+ # Lovibia
+ VIB:0 "[Lovibia]"
+ VIB_DEF:0 "Lovibia"
+ VIB_ADJ:0 "Lovibian"
  # Noland
- NOL:0 "Noland"
+ NOL:0 "[Noland]"
  NOL_DEF:0 "Noland"
  NOL_fascism_DEF:0 "The Province of Noland"
  NOL_ADJ:0 "Nolander"
@@ -742,8 +756,9 @@
 
 ###FIRESVAR###
  # NMC/WMC/EMC/SMC # WTF do I do here
- NMC_schizo:1 "NMC"
- NMC_schizo_DEF:1 "The Northern Mercantile Collective"
+ NMC:1 "NMC"
+ NMC_DEF:1 "The Northern Mercantile Collective"
+ NMC_ADJ:0 "Mercan" 
  NMC_fascism:1 "NMC"
  NMC_fascism_DEF:1 "The Northern Mercantile Collective"
  NMC_democratic:0 "WMC"
@@ -752,7 +767,6 @@
  NMC_neutrality_DEF:0 "The Eastern Mercantile Collective"
  NMC_communism:0 "SMC"
  NMC_communism_DEF:0 "The Southern Mercantile Collective"
- NMC_ADJ:0 "Mercan" 
  # Norland
  NOR:0 "Norland"
  NOR_DEF:0 "Norland"
@@ -840,7 +854,7 @@
  VON_ADJ:0 "Vonian"
 
 
-###Ur###
+###Veiid###
  # Krbjia
  KAL:0 "Krbjia"
  KAL_DEF:0 "Krbjia"

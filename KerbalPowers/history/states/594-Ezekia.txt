@@ -12,6 +12,8 @@ state={
 		victory_points = { 4374 10 } #Ellagrad
 		buildings = {
 			infrastructure = 8
+			4452 = { naval_base = 5 }
+			4247 = { naval_base = 1 }
 		}
 
 	}

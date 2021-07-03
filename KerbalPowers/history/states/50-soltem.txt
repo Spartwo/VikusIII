@@ -23,6 +23,8 @@ history={
 		victory_points = { 74 5 } #Lupis
 		buildings = {
 			infrastructure = 6
+			57 = { naval_base = 1 }
+			74 = { naval_base = 1 }
 		}
 	}
 }

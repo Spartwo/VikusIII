@@ -9,6 +9,7 @@ state={
 		victory_points = { 387 10 } #Dores
 		buildings = {
 			infrastructure = 6
+			387 = { naval_base = 1 }
 		}
 
 	}

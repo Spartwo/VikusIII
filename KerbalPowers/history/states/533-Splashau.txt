@@ -9,6 +9,7 @@ state={
 		victory_points = { 6549 10 } #Pobreize
 		buildings = {
 			infrastructure = 2
+			6549 = { naval_base = 1 }
 		}
 
 	}

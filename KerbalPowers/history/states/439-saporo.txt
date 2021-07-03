@@ -11,6 +11,7 @@ state={
 		victory_points = { 7012 10 } #Dubra
 		buildings = {
 			infrastructure = 3
+			1629 = { naval_base = 1 }
 		}
 
 	}

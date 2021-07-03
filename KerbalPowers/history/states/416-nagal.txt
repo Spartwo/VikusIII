@@ -18,6 +18,7 @@ state={
 		victory_points = { 5262 10 } #Bresnt
 		buildings = {
 			infrastructure = 3
+			4673 = { naval_base = 1 }
 		}
 
 	}

@@ -20,13 +20,14 @@ state={
 			infrastructure = 8
 			arms_factory = 1
 			industrial_complex = 1
+			3320 = { naval_base = 1 }
 
 		}
 
 	}
 
 	provinces={
-		2912 2961 3009 3020 3095 3112 3113 3122 3223 3224 3292 3320 
+		3009 3020 3095 3112 3113 3122 3223 3224 3292 3320 
 	}
 	manpower=2500000
 	buildings_max_level_factor=1.000

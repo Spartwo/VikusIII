@@ -23,6 +23,7 @@ history={
 		victory_points = { 1309 10 } #Casta
 		buildings = {
 			infrastructure = 4
+			1472 = { naval_base = 1 }
 		}
 	}
 }

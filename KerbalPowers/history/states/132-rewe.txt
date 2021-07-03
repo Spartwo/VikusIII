@@ -24,6 +24,7 @@ history={
 		victory_points = { 2124 10 }
 		buildings = {
 			infrastructure = 7
+			2124 = { naval_base = 1 }
 		}
 	}
 }

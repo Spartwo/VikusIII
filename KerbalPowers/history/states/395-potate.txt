@@ -19,6 +19,7 @@ state={
 		victory_points = { 1255 10 } #Alabuga
 		buildings = {
 			infrastructure = 2
+			1255 = { naval_base = 1 }
 		}
 
 	}

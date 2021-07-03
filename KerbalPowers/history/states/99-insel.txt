@@ -18,6 +18,7 @@ state={
 		victory_points = { 540 10 } #Inselle
 		buildings = {
 			infrastructure = 4
+			540 = { naval_base = 1 }
 		}
 
 	}

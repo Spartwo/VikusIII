@@ -10,6 +10,7 @@ state={
 		victory_points = { 3949 10 } #Praceps
 		buildings = {
 			infrastructure = 3
+			3873 = { naval_base = 1 }
 		}
 
 	}

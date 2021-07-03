@@ -20,6 +20,8 @@ state={
 		victory_points = { 385 10 } #Stalpe
 		buildings = {
 			infrastructure = 3
+			385 = { naval_base = 1 }
+			229 = { naval_base = 1 }
 		}
 
 	}

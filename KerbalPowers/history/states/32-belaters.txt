@@ -10,6 +10,7 @@ state={
 		victory_points = { 2320 10 } #Nicion
 		buildings = {
 			infrastructure = 4
+			2402 = { naval_base = 1 }
 		}
 
 	}

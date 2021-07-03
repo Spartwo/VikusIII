@@ -14,11 +14,12 @@ state={
 	history={
 		owner = TEK
 		add_core_of = TEK
-		victory_points = { 4307 10 }
+		victory_points = { 4307 10 } #Cath
 		victory_points = { 4396 10 }
 		victory_points = { 4263 10 }
 		buildings = {
 			infrastructure = 8
+			4307 = { naval_base = 1 }
 		}
 
 	}

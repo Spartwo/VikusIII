@@ -18,6 +18,7 @@ state={
 		victory_points = { 6473 10 } #Pristav
 		buildings = {
 			infrastructure = 2
+			6473 = { naval_base = 1 }
 		}
 
 	}

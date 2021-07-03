@@ -19,6 +19,8 @@ state={
 		victory_points = { 4996 10 } #Earge
 		buildings = {
 			infrastructure = 5
+			4746 = { naval_base = 1 }
+			4911 = { naval_base = 1 }
 		}
 
 	}

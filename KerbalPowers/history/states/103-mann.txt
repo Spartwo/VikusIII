@@ -18,6 +18,7 @@ state={
 		victory_points = { 532 10 } #Mangozu
 		buildings = {
 			infrastructure = 4
+			442 = { naval_base = 1 }
 		}
 
 	}

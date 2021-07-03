@@ -17,6 +17,7 @@ state={
         victory_points = { 681 10 } #Legg
 		buildings = {
 			infrastructure = 2
+			681 = { naval_base = 1 }
 		}
 
 	}

@@ -18,6 +18,7 @@ state={
 		victory_points = { 6142 10 } #Killiniq
 		buildings = {
 			infrastructure = 2
+			6142 = { naval_base = 1 }
 		}
 
 	}

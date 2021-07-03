@@ -15,6 +15,7 @@ state={
 		victory_points = { 2488 10 } #Dolren
 		buildings = {
 			infrastructure = 3
+			2488 = { naval_base = 1 }
 		}
 
 	}

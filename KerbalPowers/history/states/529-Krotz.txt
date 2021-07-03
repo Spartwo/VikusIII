@@ -19,6 +19,7 @@ state={
 		victory_points = { 4623 10 } #Krotzgrad
 		buildings = {
 			infrastructure = 7
+			3968 = { naval_base = 1 }
 		}
 
 	}

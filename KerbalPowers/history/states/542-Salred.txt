@@ -19,6 +19,7 @@ state={
 		victory_points = { 811 15 } #Voobel
 		buildings = {
 			infrastructure = 5
+			737 = { naval_base = 1 }
 		}
 
 	}

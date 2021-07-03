@@ -23,6 +23,7 @@ history={
 		victory_points = { 43 10 } #Minivivi
 		buildings = {
 			infrastructure = 3
+			101 = { naval_base = 1 }
 		}
 	}
 }

@@ -14,6 +14,7 @@ history={
 		victory_points = { 644 10 } #Tel
 		buildings = {
 			infrastructure = 4
+			644 = { naval_base = 1 }
 		}
 	}
 }

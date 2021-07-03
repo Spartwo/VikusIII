@@ -11,6 +11,7 @@ state={
 		victory_points = { 5765 10 } #Bashe
 		buildings = {
 			infrastructure = 4
+			5765 = { naval_base = 1 }
 		}
 
 	}

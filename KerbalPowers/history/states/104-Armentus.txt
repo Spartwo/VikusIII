@@ -11,6 +11,8 @@ state={
 		victory_points = { 573 10 } #Corrigon
 		buildings = {
 			infrastructure = 5
+			573 = { naval_base = 1 }
+			719 = { naval_base = 1 }
 		}
 
 	}

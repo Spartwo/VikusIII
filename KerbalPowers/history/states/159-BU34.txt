@@ -14,6 +14,7 @@ history={
         	victory_points = { 6816 10 } #Lagan
 		buildings = {
 			infrastructure = 3
+			6816 = { naval_base = 1 }
 		}
 }
 

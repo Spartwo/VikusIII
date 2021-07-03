@@ -21,6 +21,8 @@ state={
 		victory_points = { 1964 10 } #Geis
 		buildings = {
 			infrastructure = 4
+			1964 = { naval_base = 1 }
+			2045 = { naval_base = 1 }
 		}
 
 	}

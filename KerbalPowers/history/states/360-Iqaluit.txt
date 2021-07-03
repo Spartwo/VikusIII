@@ -10,6 +10,7 @@ state={
 		victory_points = { 6847 10 } #Iqaluit
 		buildings = {
 			infrastructure = 0
+			6784 = { naval_base = 1 }
 		}
 
 	}

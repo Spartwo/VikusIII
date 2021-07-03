@@ -9,6 +9,7 @@ state={
         	victory_points = { 6826 10 } #Sparvok
 		buildings = {
 			infrastructure = 2
+			6826 = { naval_base = 1 }
 		}
 
 	}

@@ -19,6 +19,7 @@ state={
 		victory_points = { 1506 10 } #Hydebean
 		buildings = {
 			infrastructure = 5
+			1506 = { naval_base = 1 }
 		}
 
 	}

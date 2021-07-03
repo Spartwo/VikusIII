@@ -11,6 +11,7 @@ state={
 		victory_points = { 2137 10 } #Thenia
 		buildings = {
 			infrastructure = 6
+			2137 = { naval_base = 1 }
 		}
 	}
 

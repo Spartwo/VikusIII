@@ -8,6 +8,11 @@ HIDE_COS = {
 KUS_FORM = { color = rgb { 255 216 0 }
     	color_ui = rgb { 255 216 0 } }
 
+
+#FORMING FORSETTI
+FOR_FORM = { color = rgb { 255 180 43 }
+    	color_ui = rgb { 255 180 43 } }
+
 #FORMING DOREN
 CPD_FORM = { color = rgb { 127 0 0 }
     	color_ui = rgb { 127 0 0 } }
@@ -44,6 +49,10 @@ KAR_GREEN = { color = rgb { 17 94 51 }
 KAR_RED = { color = rgb { 254 0 0 }
     	color_ui = rgb { 254 0 0 } }
 
+#FORMING KAFRICA
+KAF_FORM = { color = rgb { 254 0 0 }
+    	color_ui = rgb { 254 0 0 } }
+
 #GAG REcolor
 GAG_SMC = { color = rgb { 187 158 2 }
    	 color_ui = rgb { 187 158 2 } }
@@ -75,6 +84,13 @@ RAV_FORM = { color = rgb { 136 1 0 }
 #UIF
 UIF_FORM = { color = rgb { 24 39 71 }
     	color_ui = rgb { 24 39 71 } }
+
+#FORMING LAVESKA
+LAV_FORM = { color = rgb { 21 104 198 }
+    	color_ui = rgb { 21 104 198 } }
+
+LAV_ZER = { color = rgb { 16 77 148 }
+    	color_ui = rgb { 16 77 148 } }
 
 #THICCESIA
 AZF_FORM = { color = rgb { 17 91 38 }
@@ -119,6 +135,10 @@ NAR_FORM = { color = rgb { 128 192 192 }
 #SURNAY
 SUR_FORM = { color = rgb { 209 0 0 }
     	color_ui = rgb { 209 0 0 } }
+
+#BURRFED
+BUR_FORM = { color = rgb { 39 151 220 }
+    	color_ui = rgb { 39 151 220 } }
 
 #CALETAIN
 ANG_CAL = { color = rgb { 200 15 46 }

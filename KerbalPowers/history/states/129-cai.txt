@@ -9,6 +9,7 @@ state={
 		victory_points = { 1903 10 } #Nipp
 		buildings = {
 			infrastructure = 4
+			1903 = { naval_base = 1 }
 		}
 
 	}

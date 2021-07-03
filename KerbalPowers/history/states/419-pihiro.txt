@@ -20,6 +20,8 @@ state={
 		victory_points = { 2995 10 } #Ha'urupai
 		buildings = {
 			infrastructure = 7
+			2995 = { naval_base = 1 }
+			3159 = { naval_base = 1 }
 		}
 
 	}

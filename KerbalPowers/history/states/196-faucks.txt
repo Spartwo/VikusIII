@@ -1,5 +1,4 @@
 
-
 state={
 	id=196
 	name="STATE_196"
@@ -15,9 +14,12 @@ state={
 	history={
 		owner = GRE
 		add_core_of = GRE
-		victory_points = { 3516 10 }
+		victory_points = {
+			3516 10 
+		}
 		buildings = {
 			infrastructure = 3
+
 		}
 
 	}
@@ -27,5 +29,5 @@ state={
 	}
 	manpower=120000
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=town
 }

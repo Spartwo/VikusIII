@@ -125,6 +125,8 @@ JUN = { color = rgb { 237 28 36 }
 	color_ui = rgb { 237 28 36 } }
 VAG = { color = rgb { 127 0 0 }
 	color_ui = rgb { 127 0 0 } }
+SAH = { color = rgb { 236 28 36 }
+	color_ui = rgb { 236 28 36 } }
 #Crater buggaloo
 CRA = { color = rgb { 255 255 0 }
 	color_ui = rgb { 255 255 0 } }
@@ -192,6 +194,10 @@ SER = { color = rgb { 255 106 0 }
 	color_ui = rgb { 255 106 0 } }
 GIB = { color = rgb { 187 140 172 }
 	color_ui = rgb { 187 140 172 } }
+RED = { color = rgb { 127 0 0 }
+	color_ui = rgb { 127 0 0 } }
+VIB = { color = rgb { 255 255 255 }
+	color_ui = rgb { 255 255 255 } }
 AIN = { color = rgb { 150 196 75 }
 	color_ui = rgb { 150 196 75 } }
 ANI = { color = rgb { 206 17 38 }

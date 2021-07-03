@@ -18,6 +18,7 @@ state={
 		victory_points = { 4867 10 } #Hndar
 		buildings = {
 			infrastructure = 2
+			4867 = { naval_base = 1 }
 		}
 
 	}

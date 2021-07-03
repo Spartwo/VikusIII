@@ -14,10 +14,12 @@ state={
 	history={
 		owner = HEL
 		add_core_of = HEL
+		add_core_of = ESS
 		victory_points = { 1328 10 } #Rudmark
 		victory_points = { 6331 10 } #Hauken
 		buildings = {
 			infrastructure = 3
+			6331 = { naval_base = 1 }
 		}
 
 	}

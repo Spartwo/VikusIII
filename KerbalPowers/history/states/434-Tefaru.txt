@@ -21,6 +21,7 @@ state={
 		victory_points = { 2558 20 } #Psyca
 		buildings = {
 			infrastructure = 3
+			2669 = { naval_base = 1 }
 		}
 
 	}

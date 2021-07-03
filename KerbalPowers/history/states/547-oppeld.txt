@@ -20,6 +20,7 @@ state={
 		victory_points = { 5517 10 } #Adangazi
 		buildings = {
 			infrastructure = 7
+			5517 = { naval_base = 1 }
 		}
 
 	}

@@ -23,6 +23,7 @@ history={
 		victory_points = { 2197 10 } #Onvall
 		buildings = {
 			infrastructure = 1
+			2288 = { naval_base = 1 }
 		}
 	}
 }

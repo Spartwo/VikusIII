@@ -4,8 +4,8 @@ state={
 	name="STATE_631"
 
 	history={
-		owner = ZZY
-		add_core_of = ZZY
+		owner = RED
+		add_core_of = RED
         	victory_points = { 2900 10 } #Kwang
         	victory_points = { 3131 10 } #Avellum
 		buildings = {
