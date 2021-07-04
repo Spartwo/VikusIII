@@ -14,8 +14,9 @@ state={
 	history={
 		owner = JOK
 		add_core_of = JOK
-		victory_points = { 6961 20 } #Ozmi
+		victory_points = { 6961 20 } #Nuvar
 		victory_points = { 7006 10 } #Hoy
+		victory_points = { 6977 5 } #Ozmi
 		buildings = {
 			infrastructure = 2
 		}

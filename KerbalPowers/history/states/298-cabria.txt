@@ -15,6 +15,7 @@ state={
 		owner = MED
 		add_core_of = MED
 		victory_points = { 6800 10 } #Tullnisk
+		victory_points = { 6899 5 } #Vestmark
 		buildings = {
 			infrastructure = 2
 		}

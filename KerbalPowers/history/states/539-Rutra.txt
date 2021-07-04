@@ -15,6 +15,7 @@ state={
 		owner = ZZZ
 		add_core_of = ZZZ
 		victory_points = { 6858 10 } #Posta
+		victory_points = { 6736 10 } #Hoy
 		buildings = {
 			infrastructure = 0
 		}

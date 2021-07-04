@@ -5,9 +5,8 @@ HIDE_COS = {
 }
 
 #FORMING KUS
-KUS_FORM = { color = rgb { 255 216 0 }
-    	color_ui = rgb { 255 216 0 } }
-
+KUS_FORM = { color = rgb { 234 202 39 }
+    	color_ui = rgb { 234 202 39 } }
 
 #FORMING FORSETTI
 FOR_FORM = { color = rgb { 255 180 43 }
@@ -91,10 +90,6 @@ LAV_FORM = { color = rgb { 21 104 198 }
 
 LAV_ZER = { color = rgb { 16 77 148 }
     	color_ui = rgb { 16 77 148 } }
-
-#THICCESIA
-AZF_FORM = { color = rgb { 17 91 38 }
-   	 color_ui = rgb { 17 91 38 } }
 
 #AONTAS
 AON_FORM = { color = rgb { 0 74 127 }

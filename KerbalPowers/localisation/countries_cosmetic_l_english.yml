@@ -49,6 +49,10 @@ TAR_FORM:0 "Targeria"
 TAR_FORM_DEF:0 "Targeria"
 TAR_FORM_ADJ:0 "Targerian"
 ################### Grestin ######################
+#KOSTEL
+KOS_FORM:0 "Kosta"
+KOS_FORM_DEF:0 "Kosta"
+KOS_FORM_ADJ:0 "Kostel"
 #SVARSK (south grestin tekkia'd)
 SVA_GRE:0 "Svarsk"
 SVA_GRE_COS_DEF:0 "Svarskian Grestin"

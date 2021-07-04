@@ -787,9 +787,10 @@
  JOK_ADJ:0 "Joklan"
  JOK_democratic_DEF:0 "The Republic of Jokla"
  # Artica
- ART:0 "Artica"
- ART_DEF:0 "Artica"
- ART_ADJ:0 "Artican"
+ ART:0 "Enkara"
+ ART_democratic_DEF:0 "The Enkaran Federation"
+ ART_DEF:0 "Enkara"
+ ART_ADJ:0 "Enkara"
  # Medwedia
  MED:0 "Medwedia"
  MED_DEF:0 "Medwedia"

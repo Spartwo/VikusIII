@@ -291,8 +291,8 @@ BEN = { color = rgb { 204 101 32 }
 	color_ui = rgb { 204 101 32 } }
 JOK = { color = rgb { 27 187 151 }
 	color_ui = rgb { 27 187 15 } }
-ART = { color = rgb { 0 128 129 }
-	color_ui = rgb { 27 187 15 } }
+ART = { color = rgb { 72 97 125 }
+	color_ui = rgb { 72 97 125 } }
 MED = { color = rgb { 7 72 0 }
 	color_ui = rgb { 7 72 0 } }
 KER = { color = rgb { 113 143 200 }
