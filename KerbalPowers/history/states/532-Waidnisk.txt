@@ -14,16 +14,18 @@ state={
 	history={
 		owner = VON
 		add_core_of = VON
-		victory_points = { 6798 10 } #Waid
-		victory_points = { 6771 5 } #Drablavs
+		victory_points = {
+			6798 10 
+		}
 		buildings = {
 			infrastructure = 2
+
 		}
 
 	}
 
 	provinces={
-		6771 6787 6798 6993 
+		6798 6891 6993 
 	}
 	manpower=60000
 	buildings_max_level_factor=1.000

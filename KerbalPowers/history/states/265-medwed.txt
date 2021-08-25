@@ -6,17 +6,25 @@ state={
 	history={
 		owner = RAT
 		add_core_of = RAT
-		victory_points = { 6661 10 } #Kalus
-		victory_points = { 6581 10 } #Cerfessa
+		victory_points = {
+			6661 10 
+		}
+		victory_points = {
+			6581 10 
+		}
 		buildings = {
 			infrastructure = 3
-			6581 = { naval_base = 1 }
+			6581 = {
+				naval_base = 1
+
+			}
+
 		}
 
 	}
 
 	provinces={
-		6533 6581 6601 6625 6639 6650 6661 6678 
+		6533 6581 6601 6625 6650 6661 6678 
 	}
 	manpower=300000
 	buildings_max_level_factor=1.000

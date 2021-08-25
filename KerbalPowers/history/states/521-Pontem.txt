@@ -1,3 +1,4 @@
+
 state={
 	id=521
 	name="STATE_521"
@@ -13,12 +14,22 @@ state={
 	history={
 		owner = REC
 		add_core_of = REC
-		victory_points = { 3900 20 } #Hacren
-		victory_points = { 3824 10 } #Alurth
-		victory_points = { 3812 10 } #Novurth
+		victory_points = {
+			3900 20 
+		}
+		victory_points = {
+			3824 10 
+		}
+		victory_points = {
+			3812 10 
+		}
 		buildings = {
 			infrastructure = 4
-			3900 = { naval_base = 1 }
+			3900 = {
+				naval_base = 1
+
+			}
+
 		}
 
 	}

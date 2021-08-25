@@ -6,11 +6,19 @@ state={
 	history={
 		owner = REC
 		add_core_of = REC
-		victory_points = { 3873 10 } #Litore
-		victory_points = { 3949 10 } #Praceps
+		victory_points = {
+			3873 10 
+		}
+		victory_points = {
+			3949 10 
+		}
 		buildings = {
 			infrastructure = 3
-			3873 = { naval_base = 1 }
+			3873 = {
+				naval_base = 1
+
+			}
+
 		}
 
 	}

@@ -14,15 +14,21 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		victory_points = { 6892 10 } #Kivitook
+		victory_points = {
+			6892 10 
+		}
+		victory_points = {
+			6774 10 
+		}
 		buildings = {
 			infrastructure = 0
+
 		}
 
 	}
 
 	provinces={
-		6819 6876 6892 6929 6939 6948 6992 
+		6774 6819 6821 6851 6876 6892 6939 6948 6992 
 	}
 	manpower=30000
 	buildings_max_level_factor=1.000

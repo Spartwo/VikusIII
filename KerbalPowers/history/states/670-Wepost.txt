@@ -1,3 +1,4 @@
+
 state={
 	id=670
 	name="STATE_670"
@@ -7,13 +8,15 @@ state={
 		add_core_of = GRE
 		buildings = {
 			infrastructure = 4
+
 		}
-	}
+
+	} 
 
 	provinces={
-		3197 4327 7023 
+		3197 3327 4327 
 	}
-	manpower=100000
-	state_category=pastoral
+	manpower=50000
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

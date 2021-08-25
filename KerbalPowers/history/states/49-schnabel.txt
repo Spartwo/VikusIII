@@ -14,9 +14,12 @@ state={
 	history={
 		owner = ZZV
 		add_core_of = ZZV
-		victory_points = { 4923 10 } #Schnabel
-		victory_points = { 4684 10 } #Kadefiye
-		victory_points = { 4568 10 } #KSC2
+		victory_points = {
+			4923 10 
+		}
+		victory_points = {
+			4684 10 
+		}
 		buildings = {
 			infrastructure = 0
 			arms_factory = 2
@@ -27,7 +30,7 @@ state={
 	}
 
 	provinces={
-		4430 4568 4639 4684 4751 4767 4780 4788 4801 4814 4874 4923 4965 4993 5026 5048 
+		4639 4684 4751 4767 4780 4788 4801 4814 4874 4923 4965 4993 5026 5048 
 	}
 	manpower=120000
 	buildings_max_level_factor=0.000

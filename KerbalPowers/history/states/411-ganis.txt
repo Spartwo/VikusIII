@@ -14,18 +14,20 @@ state={
 	history={
 		owner = REC
 		add_core_of = REC
-		victory_points = { 4002 10 } #Ganis
+		victory_points = {
+			4002 10 
+		}
 		buildings = {
 			infrastructure = 4
+
 		}
-		
 
 	}
 
 	provinces={
-		3849 3911 3931 4002 4012 4041 4158 4159 
+		3931 4002 4012 4159 5988 
 	}
-	manpower=600000
+	manpower=550000
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

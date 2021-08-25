@@ -2,20 +2,24 @@
 state={
 	id=569
 	name="STATE_569"
-	provinces={
-		4490 4502 4562 4571 4613 4641 4643 4650 
-	}
-	manpower=600000
-	buildings_max_level_factor=1.000 
- 	 state_category=city
 
 	history={
 		owner = CEL
 		add_core_of = CEL
-		victory_points = { 4643 10 }
+		victory_points = {
+			4643 10 
+		}
 		buildings = {
 			infrastructure = 5
+
 		}
 
 	}
+
+	provinces={
+		4490 4502 4562 4571 4613 4641 4643 4650 
+	}
+	manpower=600000
+	buildings_max_level_factor=1.000
+	state_category=city
 }

@@ -14,15 +14,15 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		victory_points = { 6317 10 } #Veran
 		buildings = {
 			infrastructure = 1
+
 		}
 
 	}
 
 	provinces={
-		6202 6229 6294 6317 6356 6442 6475 6498 6543 6551 6600 6628 6676 6703 
+		6294 6356 6366 6439 6442 6498 6509 6547 6551 6628 6660 6703 6754 
 	}
 	manpower=30000
 	buildings_max_level_factor=1.000

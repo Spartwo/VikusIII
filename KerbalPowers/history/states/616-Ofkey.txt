@@ -1,3 +1,4 @@
+
 state={
 	id=616
 	name="STATE_616"
@@ -5,18 +6,23 @@ state={
 	history={
 		owner = MAR
 		add_core_of = MAR
-		victory_points = { 3837 10 } #Alta
-		victory_points = { 3720 10 } #Ofkey
+		victory_points = {
+			3837 10 
+		}
+		victory_points = {
+			3720 10 
+		}
 		buildings = {
 			infrastructure = 2
+
 		}
 
 	}
 
 	provinces={
-		3653 3693 3720 3727 3764 3765  3769 3799 3811 3837 3838 3843 3867 3872 3880 3899 
+		3653 3693 3720 3727 3764 3811 3837 3838 3867 3872 3899 
 	}
-	manpower=250000
-	buildings_max_level_factor=1.000 
- 	 state_category=pastoral
+	manpower=200000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

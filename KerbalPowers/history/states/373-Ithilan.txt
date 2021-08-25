@@ -14,16 +14,18 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		victory_points = { 6559 10 } #Ihly
-		victory_points = { 6774 10 } #Ithilan
+		victory_points = {
+			6559 10 
+		}
 		buildings = {
 			infrastructure = 1
+
 		}
 
 	}
 
 	provinces={
-		6559 6560 6652 6659 6712 6774 6821 6851 
+		6475 6543 6559 6560 6600 6652 6659 6676 6712 
 	}
 	manpower=30000
 	buildings_max_level_factor=1.000

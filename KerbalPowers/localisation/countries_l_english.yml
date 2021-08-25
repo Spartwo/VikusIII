@@ -194,6 +194,10 @@
  KSC:0 "KSC"
  KSC_DEF:0 "The Kerbal Space Center"
  KSC_ADJ:0 "Kerbal"
+ # Chikushinal
+ CHK:0 "Chikushinal"
+ CHK_DEF:0 "The Chikushinal Free State"
+ CHK_ADJ:0 "Strelkan"
  # Grestin
  GRE:0 "Grestin"
  GRE_DEF:0 "New Grestin"
@@ -551,13 +555,17 @@
  AIN_DEF:0 "Ainak"
  AIN_ADJ:0 "Ainak"
  # Red
- RED:0 "[Red]"
+ RED:0 "[Eberon]"
  RED_DEF:0 "Red"
  RED_ADJ:0 "Red"
  # Lovibia
  VIB:0 "[Lovibia]"
  VIB_DEF:0 "Lovibia"
  VIB_ADJ:0 "Lovibian"
+ # Lovibia
+ TOM:0 "[Tomorinia]"
+ TOM_DEF:0 "Tomorinia"
+ TOM_ADJ:0 "Tomorinian"
  # Noland
  NOL:0 "[Noland]"
  NOL_DEF:0 "Noland"

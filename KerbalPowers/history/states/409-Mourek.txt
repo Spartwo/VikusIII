@@ -14,15 +14,18 @@ state={
 	history={
 		owner = MAR
 		add_core_of = MAR
-		victory_points = { 4236 10 }
+		victory_points = {
+			4236 10 
+		}
 		buildings = {
 			infrastructure = 4
+
 		}
 
 	}
 
 	provinces={
-		4014 4100 4106 4152 4185 4203 4233 4236 
+		4014 4041 4100 4106 4152 4158 4185 4203 4233 4236 
 	}
 	manpower=600000
 	buildings_max_level_factor=1.000

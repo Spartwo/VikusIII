@@ -14,9 +14,12 @@ state={
 	history={
 		owner = ART
 		add_core_of = ART
-		victory_points = { 6980 10 } #Alubis
+		victory_points = {
+			6980 10 
+		}
 		buildings = {
 			infrastructure = 1
+
 		}
 
 	}

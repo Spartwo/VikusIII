@@ -14,15 +14,21 @@ state={
 	history={
 		owner = VON
 		add_core_of = VON
-		victory_points = { 6815 10 } #Carykah
+		victory_points = {
+			6815 10 
+		}
+		victory_points = {
+			6771 5 
+		}
 		buildings = {
 			infrastructure = 1
+
 		}
 
 	}
 
 	provinces={
-		6815 6875 6900 
+		6771 6787 6815 6900 6912 
 	}
 	manpower=60000
 	buildings_max_level_factor=1.000

@@ -8,6 +8,7 @@ HIDE_COS = {
 KUS_FORM = { color = rgb { 234 202 39 }
     	color_ui = rgb { 234 202 39 } }
 
+
 #FORMING FORSETTI
 FOR_FORM = { color = rgb { 255 180 43 }
     	color_ui = rgb { 255 180 43 } }
@@ -91,17 +92,31 @@ LAV_FORM = { color = rgb { 21 104 198 }
 LAV_ZER = { color = rgb { 16 77 148 }
     	color_ui = rgb { 16 77 148 } }
 
+#IU
+IU_FORM = { color = rgb { 114 170 216 }
+   	 color_ui = rgb { 114 170 216 } }
+
 #AONTAS
 AON_FORM = { color = rgb { 0 74 127 }
    	 color_ui = rgb { 0 74 127 } }
 
-#SVARSKIAN GRESTIN
+#GRESTIN
 SVA_GRE = { color = rgb { 0 74 127 }
-    	color_ui = rgb { 0 74 127 } }
+    	color_ui = rgb { 0 74 127 } }#SVARSKIAN GRESTIN
+NEW_GRE = { color = rgb { 24 137 33}
+	color_ui = rgb { 24 137 33} }#NEWEST GRESTIN
+STR_GRS = { color = rgb { 22 29 125}
+	color_ui = rgb { 22 29 125} }#STRELKA GRESTINIA
+GRS_CEL = { color = rgb { 0 167 80}
+	color_ui = rgb { 0 167 80} }#GRESTIN-CELRAPAN
 
-#LATER NORTH GREST
-NGR_COS = { color = rgb { 226 189 0}
-	color_ui = rgb { 226 189 0} }
+#SUID-KAFRICA
+SKAF_FORM = { color = rgb { 173 15 28 }
+   	 color_ui = rgb { 173 15 28 } }
+
+#KROSTERREICH
+KRO_FORM = { color = rgb { 37 37 37 }
+   	 color_ui = rgb { 37 37 37 } }
 
 #PANDORICA
 PAN_FORM = { color = rgb { 128 128 128 }

@@ -6,16 +6,18 @@ state={
 	history={
 		owner = VON
 		add_core_of = VON
-		victory_points = { 6912 10 } #Dravan
-		victory_points = { 6940 10 } #Othya
+		victory_points = {
+			6940 10 
+		}
 		buildings = {
 			infrastructure = 1
+
 		}
 
 	}
 
 	provinces={
-		6891 6912 6940 
+		6940 
 	}
 	manpower=60000
 	buildings_max_level_factor=1.000

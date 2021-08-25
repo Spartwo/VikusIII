@@ -14,18 +14,28 @@ state={
 	history={
 		owner = ALB
 		add_core_of = ALB
-		victory_points = { 6345 15 } #Albere 
-		victory_points = { 6266 10 } #Bore
-		victory_points = { 6394 10 } #Leam
+		victory_points = {
+			6345 15 
+		}
+		victory_points = {
+			6266 10 
+		}
+		victory_points = {
+			6394 10 
+		}
 		buildings = {
 			infrastructure = 4
-			6345 = { naval_base = 1 }
+			6345 = {
+				naval_base = 1
+
+			}
+
 		}
 
 	}
 
 	provinces={
-		6214 6215 6266 6303 6318 6345 6350 6394 6419 6433 6465 6505 6585 
+		6214 6215 6266 6303 6318 6345 6350 6394 6419 6433 6465 6505 
 	}
 	manpower=600000
 	buildings_max_level_factor=1.000

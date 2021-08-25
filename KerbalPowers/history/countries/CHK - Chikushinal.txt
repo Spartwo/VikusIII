@@ -1,0 +1,112 @@
+﻿capital = 643
+
+oob = "FILLER_2070"
+
+set_research_slots = 2
+set_convoys = 100
+set_stability = 0.2
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	tech_mountaineers = 1
+	motorised_infantry = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	gwtank = 1
+	basic_light_tank = 1
+	improved_light_tank = 1
+	basic_heavy_tank = 1
+	early_fighter = 1
+	fighter1 = 1
+	early_bomber = 1
+	tactical_bomber1 = 1
+	strategic_bomber1 = 1
+	CAS1 = 1
+	naval_bomber1 = 1
+	
+	mobile_warfare = 1
+	trade_interdiction = 1
+	formation_flying = 1
+	synth_oil_experiments = 1
+	fuel_silos = 1
+	fuel_refining = 1
+
+}
+
+create_faction = "TAU"
+
+set_politics = {
+
+	ruling_party = democratic
+	last_election = "2060.7.3"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_popularities = {
+	communism = 3 #Statism
+	neutrality = 32 #Neutrality
+	neocon = 14
+	fascism = 4 #Nationalism
+	corporatism = 4
+	democratic = 43 #Liberalism
+}
+
+create_country_leader = {
+	name = "Marcus Cyten"
+	picture = "GFX_leader_unknown.dds"
+	ideology = libertarianism
+	traits = {
+
+	}
+}
+
+create_country_leader = {
+	name = "Vincent Yutin"
+	picture = "GFX_leader_unknown.dds"
+	ideology = representative_democracy
+	traits = {
+
+	}
+}
+
+create_country_leader = {
+	name = "Enoch Fournloke"
+	picture = "GFX_leader_unknown.dds"
+	ideology = traditionalism
+	traits = {
+
+	}
+}
+
+create_country_leader = {
+	name = "Kev Rutherford"
+	picture = "GFX_leader_unknown.dds"
+	ideology = irridentism
+	traits = {
+
+	}
+}
+
+create_country_leader = {
+	name = "Sten Kerensky"
+	picture = "GFX_leader_unknown.dds"
+	ideology = centrism
+	traits = {
+
+	}
+}
+
+create_country_leader = {
+	name = "Elrond Stalgruf"
+	picture = "GFX_leader_unknown.dds"
+	ideology = stihlism
+	traits = {
+		
+	}
+}

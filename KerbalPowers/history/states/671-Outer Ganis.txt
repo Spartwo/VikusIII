@@ -1,0 +1,24 @@
+
+state={
+	id=671
+	name="STATE_671"
+	provinces={
+		3849 3911  
+	}
+
+	history={
+		owner = REC
+		add_core_of = REC
+		victory_points = {
+			3849 10 
+		}
+		buildings = {
+			infrastructure = 4
+
+		}
+
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

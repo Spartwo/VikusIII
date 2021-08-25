@@ -45,6 +45,7 @@ GRS = "countries/GRS.txt" #GRESTINE (TEKKIAN PUPPET IN GRESTIN)
 NGR = "countries/NGR.txt" #NORTH GRESTIN (DECLARES INDEPENDENCE ON GRESTIN CAPITULATION)
 DIO = "countries/DIO.txt" #DIOSCA
 LOV = "countries/LOV.txt" #LOVATICA
+CHK = "countries/CHK.txt" #CHIKUSHINAL (STRELKAN RUMP STATE)
 
 ###KOLUS###
 ZOK = "countries/ZOK.txt" #ZOKESIA
@@ -127,6 +128,7 @@ AIN = "countries/AIN.txt" #AINAK
 FEN = "countries/FEN.txt" #FENIKS
 VIB = "countries/VIB.txt" #LOVIBIA
 RED = "countries/RED.txt" #RED
+TOM = "countries/TOM.txt" #TOMRORINIA
 ANI = "countries/ANI.txt" #ANIXIA 
 NOL = "countries/NOL.txt" #NOLAND
 

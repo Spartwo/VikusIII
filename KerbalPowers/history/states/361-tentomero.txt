@@ -6,15 +6,21 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		victory_points = { 6983 10 } #Tentomero
+		victory_points = {
+			6983 10 
+		}
+		victory_points = {
+			6994 10 
+		}
 		buildings = {
 			infrastructure = 0
+
 		}
 
 	}
 
 	provinces={
-		6971 6974 6983 6996 
+		6971 6974 6983 6994 6996 7008 
 	}
 	manpower=60000
 	buildings_max_level_factor=1.000

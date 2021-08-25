@@ -14,10 +14,15 @@ state={
 	history={
 		owner = ZZV
 		add_core_of = ZZV
-		victory_points = { 4365 10 } #Vagan
-		victory_points = { 4310 10 } #Vandite
+		victory_points = {
+			4365 10 
+		}
+		victory_points = {
+			4310 10 
+		}
 		buildings = {
 			infrastructure = 0
+
 		}
 
 	}

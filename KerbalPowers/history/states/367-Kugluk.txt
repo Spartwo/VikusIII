@@ -14,16 +14,21 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		victory_points = { 6568 10 } #Rhyl
-		victory_points = { 6190 10 } #Kugul
+		victory_points = {
+			6568 10 
+		}
+		victory_points = {
+			6190 10 
+		}
 		buildings = {
 			infrastructure = 1
+
 		}
 
 	}
 
 	provinces={
-		6190 6191 6272 6277 6308 6312 6367 6368 6402 6430 6440 6483 6484 6485 6493 6535 6562 6568 6569 6611 6618 
+		6190 6191 6272 6277 6308 6312 6367 6368 6402 6430 6440 6483 6484 6493 6535 6562 6568 6569 6611 6618 
 	}
 	manpower=120000
 	buildings_max_level_factor=1.000

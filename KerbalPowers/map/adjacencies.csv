@@ -58,14 +58,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 927;971;impassable;-1;-1;-1;-1;-1;;Owlia River
 976;971;impassable;-1;-1;-1;-1;-1;;Owlia River
 1030;971;impassable;-1;-1;-1;-1;-1;;Owlia River
-5012;4936;impassable;-1;-1;-1;-1;-1;;Kafrica River
-5012;5008;impassable;-1;-1;-1;-1;-1;;Kafrica River
-5064;5008;impassable;-1;-1;-1;-1;-1;;Kafrica River
-3224;3308;impassable;-1;-1;-1;-1;-1;;Arcadia River
-3224;800;impassable;-1;-1;-1;-1;-1;;Arcadia River
-3122;800;impassable;-1;-1;-1;-1;-1;;Arcadia River
-1403;1450;impassable;-1;-1;-1;-1;-1;;KSKM River
-1616;1579;impassable;-1;-1;-1;-1;-1;;KSKM River
 
 
 -1;-1;;-1;-1;-1;-1;-1;-1

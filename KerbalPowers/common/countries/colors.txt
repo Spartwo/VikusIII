@@ -83,6 +83,8 @@ LOV = { color = rgb { 90 145 113 }
 	color_ui = rgb { 90 145 113 } }
 DIO = { color = rgb { 56 56 135 }
 	color_ui = rgb { 56 56 135 } }
+CHK = { color = rgb { 173 15 28 }
+	color_ui = rgb { 173 15 28  } }
 
 ###KOLUS###
 ZOK = { color = rgb { 0 81 0 }
@@ -204,6 +206,8 @@ ANI = { color = rgb { 206 17 38 }
 	color_ui = rgb { 206 17 38 } }
 NOL = { color = rgb { 213 183 58 }
 	color_ui = rgb { 213 183 58 } }
+TOM = { color = rgb { 171 28 40 }
+	color_ui = rgb { 171 28 40 } }
 
 
 ###BASKAY###

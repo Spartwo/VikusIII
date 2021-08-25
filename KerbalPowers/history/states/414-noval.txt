@@ -14,11 +14,19 @@ state={
 	history={
 		owner = REC
 		add_core_of = REC
-		victory_points = { 4134 10 } #Rugnare
-		victory_points = { 4043 10 } #Novalis
+		victory_points = {
+			4134 10 
+		}
+		victory_points = {
+			4043 10 
+		}
 		buildings = {
 			infrastructure = 3
-			4043 = { naval_base = 1 }
+			4043 = {
+				naval_base = 1
+
+			}
+
 		}
 
 	}

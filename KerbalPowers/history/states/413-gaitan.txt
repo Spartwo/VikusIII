@@ -12,8 +12,8 @@ state={
 	}
 
 	history={
-		owner = RED
-		add_core_of = RED
+		owner = TOM
+		add_core_of = TOM
         	victory_points = { 2952 10 } #Galitan
         	victory_points = { 2908 10 } #Te Tuturi
 		buildings = {

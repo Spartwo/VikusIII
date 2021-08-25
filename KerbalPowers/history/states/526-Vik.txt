@@ -6,15 +6,18 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		victory_points = { 6994 10 } #Vik
+		victory_points = {
+			6317 10 
+		}
 		buildings = {
-			infrastructure = 0
+			infrastructure = 1
+
 		}
 
 	}
 
 	provinces={
-		6994 7008 
+		6202 6229 6317
 	}
 	manpower=30000
 	buildings_max_level_factor=1.000

@@ -1,12 +1,7 @@
+
 state={
 	id=566
 	name="STATE_566"
-	provinces={
-		4068 4163 4240 4336 
-	}
-	manpower=120000
-	buildings_max_level_factor=1.000 
- 	 state_category=pastoral
 
 	history={
 		owner = GRE
@@ -14,7 +9,15 @@ state={
 		add_claim_by = TEK
 		buildings = {
 			infrastructure = 3
+
 		}
 
 	}
+
+	provinces={
+		4163 4240 4336 
+	}
+	manpower=120000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

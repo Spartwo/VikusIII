@@ -6,15 +6,18 @@ state={
 	history={
 		owner = BOT
 		add_core_of = BOT
-		victory_points = { 6104 10 }#Hagel
+		victory_points = {
+			6104 10 
+		}
 		buildings = {
 			infrastructure = 2
+
 		}
 
 	}
 
 	provinces={
-		5777 5827 5842 5864 5875 5916 5948 5950 5984 5985 5988 5993 6040 6048 6084 6104 
+		5777 5827 5842 5864 5875 5916 5948 5950 5984 5985 5993 6040 6048 6084 6104 
 	}
 	manpower=250000
 	buildings_max_level_factor=1.000

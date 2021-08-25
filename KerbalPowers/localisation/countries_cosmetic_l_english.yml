@@ -48,6 +48,10 @@ ALT_COS_ADJ:0 "Alterixian"
 TAR_FORM:0 "Targeria"
 TAR_FORM_DEF:0 "Targeria"
 TAR_FORM_ADJ:0 "Targerian"
+################### IU ######################
+IU_FORM:0 "IU"
+IU_FORM_DEF:0 "IU"
+IU_FORM_ADJ:0 "IU"
 ################### Grestin ######################
 #KOSTEL
 KOS_FORM:0 "Kosta"
@@ -57,6 +61,25 @@ KOS_FORM_ADJ:0 "Kostel"
 SVA_GRE:0 "Svarsk"
 SVA_GRE_COS_DEF:0 "Svarskian Grestin"
 SVA_GRE_COS_ADJ:0 "Svarskian"
+#Newest Grestin
+NEW_GRE:0 "Grestin"
+SVA_GRE_COS_DEF:0 "The State of Newest Grestin"
+SVA_GRE_COS_ADJ:0 "Grestian"
+#SVARSK (south grestin tekkia'd)
+GRS_CEL:0 "Grestin-Celrapan"
+SVA_GRE_COS_DEF:0 "The Federation of Grestin and Celrapan"
+SVA_GRE_COS_ADJ:0 "Celrapani-Grestian"
+#SVARSK (south grestin tekkia'd)
+STR_GRS:0 "Strelka-Grestinia"
+STR_GRS_COS_DEF:0 "Strelka Grestinia"
+STR_GRS_COS_ADJ:0 "Grestian"
+
+################### Kafrican ######################
+SKAF_FORM:0 "Suid-Kafrica"
+SKAF_FORM_DEF:0 "Southern Kafrica"
+
+STR_TEK:0 "Strelka-Tekkia"
+STR_TEK_DEF:0 "The United Kingdoms of Strelka and Tekkia"
 ################### Aenia-Arcadia ######################
 #UCF/UIF
 UIF_FORM_schizo_DEF:0 "The Greater Kerbin Federation"
@@ -130,7 +153,9 @@ CPD_FORM_DEF:0 "The Combined Provinces of Doren"
 CPD_FORM_democratic_DEF:0 "The United Federation of Doren"
 CPD_FORM_ADJ:0 "Dorvic"
 ################### Strelka ######################
-
+KRO_FORM:0 "Kroster Rijk"
+KRO_FORM_DEF:0 "The Krostanian People's Empire"
+KRO_FORM_ADJ:0 "Krostanian"
 #Dinsmark
 STR_DINS:0 "Dinsmark"
 STR_DINS_DEF:0 "Grand Duchy of Dinsmark"

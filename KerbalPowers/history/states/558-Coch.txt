@@ -14,9 +14,12 @@ state={
 	history={
 		owner = KYV
 		add_core_of = KYV
-		victory_points = { 6390 10 } #Coch
+		victory_points = {
+			6390 10 
+		}
 		buildings = {
 			infrastructure = 1
+
 		}
 
 	}

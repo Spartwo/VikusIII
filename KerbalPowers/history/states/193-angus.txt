@@ -15,9 +15,6 @@ state={
 		owner = GRE
 		add_core_of = GRE
 		victory_points = {
-			3715 10 
-		}
-		victory_points = {
 			3588 10 
 		}
 		victory_points = {
@@ -35,7 +32,7 @@ state={
 	}
 
 	provinces={
-		3553 3588 3638 3646 3658 3714 3715 3740 3741 3810 
+		3553 3588 3638 3646 3658 3714 3740 3741 3810 
 	}
 	manpower=550000
 	buildings_max_level_factor=1.000
