@@ -15,12 +15,11 @@ antagonism = {
                 }
 
 	dynamic_faction_names = {
-                        "FACTION_NAME_STATISM_1"
-                        "FACTION_NAME_STATISM_2"
-                        "FACTION_NAME_STATISM_3"
-                        "FACTION_NAME_STATISM_4"
-                        "FACTION_NAME_STATISM_5"
-                        "FACTION_NAME_STATISM_6"
+                        "FACTION_NAME_communism_1"
+                        "FACTION_NAME_communism_2"
+                        "FACTION_NAME_communism_3"
+                        "FACTION_NAME_communism_4"
+                        "FACTION_NAME_communism_5"
                 }
 	rules = {
                         can_create_collaboration_government = no
@@ -60,12 +59,11 @@ communism = {
                 }
 
 	dynamic_faction_names = {
-                        "FACTION_NAME_STATISM_1"
-                        "FACTION_NAME_STATISM_2"
-                        "FACTION_NAME_STATISM_3"
-                        "FACTION_NAME_STATISM_4"
-                        "FACTION_NAME_STATISM_5"
-                        "FACTION_NAME_STATISM_6"
+                        "FACTION_NAME_communism_1"
+                        "FACTION_NAME_communism_2"
+                        "FACTION_NAME_communism_3"
+                        "FACTION_NAME_communism_4"
+                        "FACTION_NAME_communism_5"
                 }
 	rules = {
                         can_create_collaboration_government = no
@@ -104,12 +102,12 @@ hermitism = {
                 }
 
 	dynamic_faction_names = {
-                        "FACTION_NAME_STATISM_1"
-                        "FACTION_NAME_STATISM_2"
-                        "FACTION_NAME_STATISM_3"
-                        "FACTION_NAME_STATISM_4"
-                        "FACTION_NAME_STATISM_5"
-                        "FACTION_NAME_STATISM_6"
+                        "FACTION_NAME_neutrality_1"
+                        "FACTION_NAME_neutrality_2"
+                        "FACTION_NAME_neutrality_3"
+                        "FACTION_NAME_neutrality_4"
+                        "FACTION_NAME_neutrality_5"
+                        
                 }
 	rules = {
                         can_create_collaboration_government = no
@@ -151,12 +149,11 @@ neutrality = {
                 }
 
 	dynamic_faction_names = {
-                        "FACTION_NAME_NEURTALITY_1"
-                        "FACTION_NAME_NEURTALITY_2"
-                        "FACTION_NAME_NEURTALITY_3"
-                        "FACTION_NAME_NEURTALITY_4"
-                        "FACTION_NAME_NEURTALITY_5"
-                        "FACTION_NAME_NEURTALITY_6"
+                        "FACTION_NAME_neutrality_1"
+                        "FACTION_NAME_neutrality_2"
+                        "FACTION_NAME_neutrality_3"
+                        "FACTION_NAME_neutrality_4"
+                        "FACTION_NAME_neutrality_5"
                 }
 	rules = {
                         can_create_collaboration_government = no
@@ -196,12 +193,11 @@ fascism = { #Nationalism
             }
 
 	dynamic_faction_names = {
-                        "FACTION_NAME_NATIONALISM_1"
-                        "FACTION_NAME_NATIONALISM_2"
-                        "FACTION_NAME_NATIONALISM_3"
-                        "FACTION_NAME_NATIONALISM_4"
-                        "FACTION_NAME_NATIONALISM_5"
-                        "FACTION_NAME_NATIONALISM_6"
+                        "FACTION_NAME_fascism_1"
+                        "FACTION_NAME_fascism_2"
+                        "FACTION_NAME_fascism_3"
+                        "FACTION_NAME_fascism_4"
+                        "FACTION_NAME_fascism_5"
                 }
 	rules = {
                         can_create_collaboration_government = yes
@@ -238,12 +234,11 @@ schizo = {
             }
 
 	dynamic_faction_names = {
-                        "FACTION_NAME_schizo_1"
-                        "FACTION_NAME_schizo_2"
-                        "FACTION_NAME_schizo_3"
-                        "FACTION_NAME_schizo_4"
-                        "FACTION_NAME_schizo_5"
-                        "FACTION_NAME_schizo_6"
+                        "FACTION_NAME_fascism_1"
+                        "FACTION_NAME_fascism_2"
+                        "FACTION_NAME_fascism_3"
+                        "FACTION_NAME_fascism_4"
+                        "FACTION_NAME_fascism_5"
                 }
 	rules = {
                         can_create_collaboration_government = yes
@@ -281,12 +276,12 @@ neocon = {
                 }
 
 	dynamic_faction_names = {
-                        "FACTION_NAME_NEOCONSERVATIVISM_1"
-                        "FACTION_NAME_NEOCONSERVATIVISM_2"
-                        "FACTION_NAME_NEOCONSERVATIVISM_3"
-                        "FACTION_NAME_NEOCONSERVATIVISM_4"
-                        "FACTION_NAME_NEOCONSERVATIVISM_5"
-                        "FACTION_NAME_NEOCONSERVATIVISM_6"
+                        "FACTION_NAME_democratic_1"
+                        "FACTION_NAME_democratic_2"
+                        "FACTION_NAME_democratic_3"
+                        "FACTION_NAME_democratic_4"
+                        "FACTION_NAME_democratic_5"
+                        "FACTION_NAME_democratic_6"
                 }
 	rules = {
                         can_create_collaboration_government = yes
@@ -327,12 +322,12 @@ democratic = {
                 }
 
 	dynamic_faction_names = {
-                        "FACTION_NAME_LIBERALISM_1"
-                        "FACTION_NAME_LIBERALISM_2"
-                        "FACTION_NAME_LIBERALISM_3"
-                        "FACTION_NAME_LIBERALISM_4"
-                        "FACTION_NAME_LIBERALISM_5"
-                        "FACTION_NAME_LIBERALISM_6"
+                        "FACTION_NAME_democratic_1"
+                        "FACTION_NAME_democratic_2"
+                        "FACTION_NAME_democratic_3"
+                        "FACTION_NAME_democratic_4"
+                        "FACTION_NAME_democratic_5"
+                        "FACTION_NAME_democratic_6"
                 }
 	rules = {
                         can_create_collaboration_government = no
@@ -373,12 +368,12 @@ individualism = {
                 }
 
 	dynamic_faction_names = {
-                        "FACTION_NAME_LIBERALISM_1"
-                        "FACTION_NAME_LIBERALISM_2"
-                        "FACTION_NAME_LIBERALISM_3"
-                        "FACTION_NAME_LIBERALISM_4"
-                        "FACTION_NAME_LIBERALISM_5"
-                        "FACTION_NAME_LIBERALISM_6"
+                        "FACTION_NAME_democratic_1"
+                        "FACTION_NAME_democratic_2"
+                        "FACTION_NAME_democratic_3"
+                        "FACTION_NAME_democratic_4"
+                        "FACTION_NAME_democratic_5"
+                        "FACTION_NAME_democratic_6"
                 }
 	rules = {
                         can_create_collaboration_government = no
@@ -419,12 +414,11 @@ corporatism = {
                 }
 
 	dynamic_faction_names = {
-                        "FACTION_NAME_CORPORATISM_1"
-                        "FACTION_NAME_CORPORATISM_2"
-                        "FACTION_NAME_CORPORATISM_3"
-                        "FACTION_NAME_CORPORATISM_4"
-                        "FACTION_NAME_CORPORATISM_5"
-                        "FACTION_NAME_CORPORATISM_6"
+                        "FACTION_NAME_neutrality_1"
+                        "FACTION_NAME_neutrality_2"
+                        "FACTION_NAME_neutrality_3"
+                        "FACTION_NAME_neutrality_4"
+                        "FACTION_NAME_neutrality_5"
                 }
 	rules = {
                         can_create_collaboration_government = no

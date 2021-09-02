@@ -957,16 +957,19 @@
  FACTION_NAME_democratic_4:0 "The $LEADER_COUNTRY_ADJ$ Union"
  FACTION_NAME_democratic_5:0 "$LEADER_COUNTRY_ADJ$ Coalition"
  FACTION_NAME_democratic_6:0 "$LEADER_COUNTRY_ADJ$ Federation"
+
  FACTION_NAME_communism_1:0 "The $LEADER_COUNTRY_ADJ$ Compact"
  FACTION_NAME_communism_2:0 "$LEADER_COUNTRY_ADJ$ Syndicate"
  FACTION_NAME_communism_3:0 "The $LEADER_COUNTRY_ADJ$ Combine"
  FACTION_NAME_communism_4:0 "The $LEADER_COUNTRY_ADJ$ Pact"
  FACTION_NAME_communism_5:0 "The $LEADER_COUNTRY_ADJ$ Bloc"
+
  FACTION_NAME_fascism_1:0 "Brotherhood of $CONTINENT$"
  FACTION_NAME_fascism_2:0 "$CONTINENT_ADJ$ Group"
  FACTION_NAME_fascism_3:0 "The $CONTINENT_ADJ$ League"
  FACTION_NAME_fascism_4:0 "The $CONTINENT$ Confederacy"
  FACTION_NAME_fascism_5:0 "$LEADER_COUNTRY_ADJ$ Confederation"
+
  FACTION_NAME_neutrality_1:0 "$LEADER_COUNTRY_ADJ$ Defense League"
  FACTION_NAME_neutrality_2:0 "The $LEADER_COUNTRY$ Congress"
  FACTION_NAME_neutrality_3:0 "The $CONTINENT$ Alliance"
