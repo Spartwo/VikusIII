@@ -3,11 +3,9 @@ path="mod/KerbalPowers/"
 tags={
 	"Map"
 }
-replace_path="common/ai_equipment"
 replace_path="common/ai_focuses"
 replace_path="common/ai_peace"
 replace_path="common/ai_areas"
-replace_path="common/ai_strategy"
 replace_path="common/ai_strategy_plans"
 replace_path="common/ai_templates"
 replace_path="common/autonomous_states"
@@ -21,17 +19,11 @@ replace_path="common/national_focus"
 replace_path="common/scripted_effects"
 replace_path="common/scripted_localisation"
 replace_path="common/scripted_triggers"
-replace_path="common/technologies"
 replace_path="common/technology_sharing"
 
-replace_path="common/units/names"
-replace_path="common/units/names_divisions"
-replace_path="common/units/names_ships"
-replace_path="common/units/equipment"
-replace_path="common/units/equipment/modules"
-replace_path="common/units/equipment/upgrades"
-replace_path="common/units/codenames_operatives"
-replace_path="common/units/critical_parts"
+replace_path="common/technologies"
+replace_path="common/ai_equipment"
+replace_path="common/units"
 
 replace_path="common/decisions"
 replace_path="common/country_tag_aliases"
@@ -40,6 +32,7 @@ replace_path="common/country_leader"
 replace_path="common/continuous_focus"
 replace_path="common/achievements.txt"
 replace_path="common/scripted_triggers"
+
 
 replace_path="common/occupation_laws"
 replace_path="common/on_actions"
@@ -54,9 +47,9 @@ replace_path="gfx/flags"
 replace_path="history/countries"
 replace_path="history/states"
 replace_path="history/units"
+
 replace_path="map/strategicregions"
 replace_path="map/supplyareas"
-
 replace_path="map/cities.bmp"
 replace_path="map/buildings.txt"
 replace_path="map/adjacencies.csv"
@@ -65,5 +58,8 @@ replace_path="map/provinces.bmp"
 replace_path="map/trees.bmp"
 replace_path="map/definition.csv"
 replace_path="map/terrain.bmp"
+
+
+####tech replace
 
 supported_version="1.10.*"

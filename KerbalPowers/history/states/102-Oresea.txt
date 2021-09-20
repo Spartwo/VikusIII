@@ -6,7 +6,10 @@ state={
 	history={
 		owner = ANG
 		add_core_of = ANG
-		victory_points = { 624 10 } #Oresea
+		victory_points = { 665 10 } #Oresea
+		victory_points = {
+			538 10 
+		}#Shokon
 		buildings = {
 			infrastructure = 6
 			703 = { naval_base = 1 }
@@ -17,7 +20,7 @@ state={
 	provinces={
 		503 538 555 561 587 604 613 624 639 645 654 665 697 703 718 723 
 	}
-	manpower=1200000
+	manpower=1000000
 	buildings_max_level_factor=1.000
 	state_category=metropolis
 }

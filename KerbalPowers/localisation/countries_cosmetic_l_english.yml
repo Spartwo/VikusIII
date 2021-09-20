@@ -164,10 +164,6 @@ STR_DINS_ADJ:0 "Strelkan"
 BEL_FORM:0 "Belasnirov"
 BEL_FORM_DEF:0 "Belasnirov"
 BEL_FORM_ADJ:0 "Belasnii"
-################### Angvarden - Caletain ######################
-ANG_CAL:0 "Pandorica"
-ANG_CAL_DEF:0 "Pandorica"
-ANG_CAL_ADJ:0 "Pandorican"
 ################### Kalban Mergers ######################
 #KAL_DFK
 KAL_DFK:0 "DFK"

@@ -14,17 +14,25 @@ state={
 	history={
 		owner = ANG
 		add_core_of = ANG
-		victory_points = { 458 10 } #Porkney
-		victory_points = { 430 10 } #Aguada
+		victory_points = {
+			458 10 
+		}
+		victory_points = {
+			430 10 
+		}#Aguada
 		buildings = {
 			infrastructure = 4
-			458 = { naval_base = 1 }
+			458 = {
+				naval_base = 1
+
+			}
+
 		}
 
 	}
 
 	provinces={
-		376 377 430 458 465 466 502 525 547 
+		376 377 430 431 458 465 466 502 525 547 
 	}
 	manpower=300000
 	buildings_max_level_factor=1.000

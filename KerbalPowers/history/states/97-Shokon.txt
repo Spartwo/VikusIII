@@ -14,15 +14,18 @@ state={
 	history={
 		owner = ANG
 		add_core_of = ANG
-		victory_points = { 433 10 } #Veran
-		victory_points = { 460 10 } #Shokon
+		victory_points = {
+			433 10 
+		}
 		buildings = {
 			infrastructure = 4
+
 		}
+
 	}
 
 	provinces={
-		406 419 431 433 460 473 
+		406 419 433 460 473 
 	}
 	manpower=250000
 	buildings_max_level_factor=1.000

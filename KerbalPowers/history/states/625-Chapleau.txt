@@ -4,8 +4,8 @@ state={
 	name="STATE_625"
 
 	history={
-		owner = ZZX
-		add_core_of = ZZX
+		owner = ODI
+		add_core_of = ODI
 		victory_points = {
 			1864 10 
 		}

@@ -12,8 +12,8 @@ state={
 	}
 
 	history={
-		owner = VUL
-		add_core_of = VUL
+		owner = ODI
+		add_core_of = ODI
 		victory_points = { 1526 10 } #Blaenau
 		buildings = {
 			infrastructure = 2

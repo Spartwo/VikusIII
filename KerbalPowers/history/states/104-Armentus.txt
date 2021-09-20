@@ -6,21 +6,27 @@ state={
 	history={
 		owner = ANG
 		add_core_of = ANG
-		victory_points = { 719 15 } #Angvar
-		victory_points = { 667 10 } #Armentus
-		victory_points = { 573 10 } #Corrigon
+		victory_points = {
+			719 15 
+		}
+		victory_points = { 
+			646 10 
+		}#Armentus
 		buildings = {
 			infrastructure = 5
-			573 = { naval_base = 1 }
-			719 = { naval_base = 1 }
+			719 = {
+				naval_base = 1
+
+			}
+
 		}
 
 	}
 
 	provinces={
-		550 573 581 588 605 631 634 646 666 667 675 693 704 715 719 
+		646 666 667 693 715 719 7031 
 	}
-	manpower=300000
+	manpower=500000
 	buildings_max_level_factor=1.000
 	state_category=city
 }

@@ -192,6 +192,8 @@ MAR = { color = rgb { 47 158 0 }
 	color_ui = rgb { 47 158 0 } }
 VUL = { color = rgb { 128 128 128 }
 	color_ui = rgb { 128 128 128 } }
+ODI = { color = rgb { 8 8 68 }
+	color_ui = rgb { 8 8 68 } }
 SER = { color = rgb { 255 106 0 }
 	color_ui = rgb { 255 106 0 } }
 GIB = { color = rgb { 187 140 172 }
@@ -365,10 +367,10 @@ ODE = { color = rgb { 254 221 0 }
 	color_ui = rgb { 254 221 0 } }
 IRS = { color = rgb { 84 0 94 }
 	color_ui = rgb { 84 0 94 } }
-CAR = { color = rgb { 116 170 217 }
+CAR = { color = rgb { 250 209 23 }
+	color_ui = rgb { 250 209 23 } }
+FEL = { color = rgb { 116 170 217 }
 	color_ui = rgb { 116 170 217 } }
-FEL = { color = rgb { 0 51 91 }
-	color_ui = rgb { 0 51 91 } }
 EGR = { color = rgb { 255 178 127 }
 	color_ui = rgb { 255 178 127 } }
 USE = { color = rgb { 61 124 23 }
@@ -381,5 +383,5 @@ BSK = { color = rgb { 210 210 165 }
 	color_ui = rgb { 210 210 165 } }
 TOR = { color = rgb { 45 45 45 }
 	color_ui = rgb { 45 45 45 } }
-DTA = { color = rgb { 87 97 122 }
-	color_ui = rgb { 87 97 122 } }
+DTA = { color = rgb { 0 40 104  } #Arvene
+	color_ui = rgb { 0 40 104 } }

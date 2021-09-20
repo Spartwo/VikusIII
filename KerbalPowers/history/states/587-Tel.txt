@@ -1,20 +1,29 @@
+
 state={
 	id=587
 	name="STATE_587"
-	provinces={
-		537 568 572 612 623 636 644 696 
-	}
-	manpower=600000
-	buildings_max_level_factor=1.000 
- 	 state_category=city
 
-history={
+	history={
 		owner = ANG
 		add_core_of = ANG
-		victory_points = { 644 10 } #Tel
+		victory_points = {
+			644 10 
+		}
 		buildings = {
 			infrastructure = 4
-			644 = { naval_base = 1 }
+			644 = {
+				naval_base = 1
+
+			}
+
 		}
+
 	}
+
+	provinces={
+		568 572 602 612 623 636 644 696 
+	}
+	manpower=600000
+	buildings_max_level_factor=1.000
+	state_category=city
 }

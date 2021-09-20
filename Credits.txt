@@ -3,6 +3,6 @@ Accredition by team and resources
 - trees.bmp
 - portions of terrain.bmp
 ###WW Map view###
-- Current terrain textures
+- Current terrain textures included until KSP textures can be extracted
 ###TNO###
 - Map Font

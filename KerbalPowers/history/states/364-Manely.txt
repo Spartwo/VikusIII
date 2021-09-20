@@ -4,17 +4,20 @@ state={
 	name="STATE_364"
 
 	history={
-		owner = ZZX
-		add_core_of = ZZX
-		victory_points = {2234 10 }
+		owner = VUL
+		add_core_of = VUL
+		victory_points = {
+			2234 10 
+		}
 		buildings = {
 			infrastructure = 1
+
 		}
 
 	}
 
 	provinces={
-		 2129 2180 2234 2266 2286 2292 2374  
+		2129 2180 2234 2266 2286 2374 
 	}
 	manpower=300000
 	buildings_max_level_factor=1.000

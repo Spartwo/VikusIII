@@ -1,31 +1,45 @@
+
 state={
 	id=98
 	name="STATE_98"
-	provinces={
-		801 872 
-	}
-	manpower=600000
 	resources={
-		steel=0
-		aluminium=0
-		chromium=0
-		rubber=0
-		oil=35
-		tungsten=15
+		steel=0.000
+		aluminium=0.000
+		chromium=0.000
+		rubber=0.000
+		oil=35.000
+		tungsten=15.000
 	}
-	buildings_max_level_factor=1.000
-	state_category=small_island
 
-history={
+	history={
 		owner = ANG
 		add_core_of = ANG
 		add_core_of = IMP
-		victory_points = { 872 10 } #Normanna
-		victory_points = { 801 10 } #Bjo
+		victory_points = {
+			872 10 
+		}
+		victory_points = {
+			801 10 
+		}
 		buildings = {
 			infrastructure = 3
-			801 = { naval_base = 1 }
-			872 = { naval_base = 1 }
+			801 = {
+				naval_base = 1
+
+			}
+			872 = {
+				naval_base = 1
+
+			}
+
 		}
+
 	}
+
+	provinces={
+		801 872 7029 7030 
+	}
+	manpower=600000
+	buildings_max_level_factor=1.000
+	state_category=small_island
 }

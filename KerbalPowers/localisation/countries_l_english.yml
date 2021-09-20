@@ -540,6 +540,11 @@
  MAR:0 "Maryurt"
  MAR_DEF:0 "Maryurt"
  MAR_ADJ:0 "Maryurt"
+ # Odinagro
+ ODI:0 "Odinagro"
+ ODI_DEF:0 "Odinagro"
+ ODI_neutrality_DEF:0 "The Kingdom of Odinagro"
+ ODI_ADJ:0 "Odinagran"
  # Vulkanas
  VUL:0 "Vulkanas"
  VUL_DEF:0 "Vulkanas"
@@ -556,8 +561,8 @@
  AIN_ADJ:0 "Ainak"
  # Red
  RED:0 "[Eberon]"
- RED_DEF:0 "Red"
- RED_ADJ:0 "Red"
+ RED_DEF:0 "[Eberon]"
+ RED_ADJ:0 "[Eberon]"
  # Lovibia
  VIB:0 "[Lovibia]"
  VIB_DEF:0 "Lovibia"
@@ -621,7 +626,7 @@
  ZEO_ADJ:0 "Zeoulian"
  # Hermia
  HER:0 "Hermia"
- HER_DEF:0 "Hermial"
+ HER_DEF:0 "Hermia"
  HER_ADJ:0 "Hermian"
  HER_communism_DEF:0 "The Union of Hermian Republics"
  HER_democratic_DEF:0 "The United Republic of Hermia"
@@ -658,10 +663,10 @@
  VLR_DEF:0 "Valeria"
  VLR_ADJ:0 "Valerian"
  # Kercia
- KRC:0 "Zeoul"
- KRC_DEF:0 "Zeoul"
- KRC_ADJ:0 "Zeoulian"
- KRC_democratic_DEF:0 "The Kercian Constitutional Republic"
+ KCA:0 "Kercia"
+ KCA_DEF:0 "Kercia"
+ KCA_ADJ:0 "Kercian"
+ KCA_democratic_DEF:0 "The Kercian Constitutional Republic"
  # Prodava
  PRO:0 "Prodava"
  PRO_DEF:0 "Prodava"
@@ -750,8 +755,11 @@
  UNI_ADJ:0 "Union"
  # Imperium
  IMP:0 "Imperium"
- IMP_DEF:0 "Imperium"
+ IMP_neutrality:0 "Caledon"
+ IMP_DEF:0 "Caledonian Imperium"
+ IMP_neutrality_DEF:0 "Kingdom of Caledon"
  IMP_ADJ:0 "Imperial"
+ IMP_neutrality_ADJ:0 "Caletain"
  # Strelkan Junta
  SNJ:0 "Strelka"
  SNJ_DEF:0 "Strelka"
@@ -946,9 +954,13 @@
  TOR_democratic_DEF:0 "The Deltoran Republic"
  TOR_neocon_DEF:0 "The Deltora States"
  # Delta
- DTA:0 "Delta"
- DTA_DEF:0 "Delta"
- DTA_ADJ:0 "Delta"
+ DTA:0 "Arvene"
+ DTA_DEF:0 "Arvene Unity"
+ DTA_ADJ:0 "Arvene"
+ DTA_democratic_DEF:0 "Federation of Arvene"
+ DTA_democratic_ADJ:0 "Arvene"
+ DTA_neocon_DEF:0 "Federation of Arvene"
+ DTA_neocon_ADJ:0 "Arvene"
 
 
  FACTION_NAME_democratic_1:0 "The $LEADER_COUNTRY_ADJ$ Association"

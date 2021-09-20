@@ -12,20 +12,18 @@ state={
 	}
 
 	history={
-		owner = ZZY
-		add_core_of = ZZY
-		victory_points = {	1909 10 }
-		buildings = {
-			infrastructure = 2
-			1909 = { naval_base = 1 }
+		owner = ZZX
+		add_core_of = ZZX
+		victory_points = {
+			3285 10 
 		}
 
 	}
 
 	provinces={
-		1713 1727 1754 1805 1806 1831 1878 1886 1909 1932 1970 1973 2035 2040 
+		3028 3045 3285 3302 
 	}
 	manpower=300000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=wasteland
 }

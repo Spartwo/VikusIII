@@ -1,0 +1,25 @@
+state={
+	id=676
+	name="STATE_676"
+
+	history={
+		owner = ANG
+		add_core_of = ANG
+		victory_points = {
+			573 10 
+		}
+		buildings = {
+			infrastructure = 4
+			573 = {
+				naval_base = 1
+			}
+		}
+
+	}
+	provinces={
+		550 573 581 588 605 631 634 675 704 
+	}
+	manpower=200000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

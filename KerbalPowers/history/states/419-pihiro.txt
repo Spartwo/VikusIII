@@ -14,20 +14,35 @@ state={
 	history={
 		owner = FEG
 		add_core_of = FEG
-		victory_points = { 3266 10 } #Pihiro
-		victory_points = { 3159 10 } #Cuitlnadh
-		victory_points = { 3068 10 } #Teraveino
-		victory_points = { 2995 10 } #Ha'urupai
+		victory_points = {
+			3266 10 
+		}
+		victory_points = {
+			3159 10 
+		}
+		victory_points = {
+			3068 10 
+		}
+		victory_points = {
+			2995 10 
+		}
 		buildings = {
 			infrastructure = 7
-			2995 = { naval_base = 1 }
-			3159 = { naval_base = 1 }
+			2995 = {
+				naval_base = 1
+
+			}
+			3159 = {
+				naval_base = 1
+
+			}
+
 		}
 
 	}
 
 	provinces={
-		2787 2824 2875 2880 2972 2994 2995 3003 3068 3072 3109 3159 3160 3161 3266 3287 
+		2787 2824 2875 2880 2972 2994 2995 3003 3068 3072 3100 3109 3159 3160 3161 3266 3287 
 	}
 	manpower=2500000
 	buildings_max_level_factor=1.000

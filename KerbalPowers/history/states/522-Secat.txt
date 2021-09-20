@@ -14,16 +14,21 @@ state={
 	history={
 		owner = REC
 		add_core_of = REC
-		victory_points = { 3888 10 } #Secat
-		victory_points = { 3815 10 } #Iffen
+		victory_points = {
+			3888 10 
+		}
+		victory_points = {
+			3815 10 
+		}
 		buildings = {
 			infrastructure = 4
+
 		}
 
 	}
 
 	provinces={
-		3699 3783 3800 3815 3821 3851 3856 3888 3894 3912 3919 3932 3976 
+		3783 3800 3815 3821 3851 3856 3888 3894 3912 3919 3932 3976 
 	}
 	manpower=1200000
 	buildings_max_level_factor=1.000

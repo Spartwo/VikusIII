@@ -14,17 +14,25 @@ state={
 	history={
 		owner = ANG
 		add_core_of = ANG
-		victory_points = { 480 10 } #Forreston
-		victory_points = { 540 10 } #Inselle
+		victory_points = {
+			480 10 
+		}
+		victory_points = {
+			540 10 
+		}
 		buildings = {
 			infrastructure = 4
-			540 = { naval_base = 1 }
+			540 = {
+				naval_base = 1
+
+			}
+
 		}
 
 	}
 
 	provinces={
-		476 480 490 499 504 520 524 540 542 558 593 602 
+		476 480 490 499 504 520 524 537 540 542 558 593 
 	}
 	manpower=300000
 	buildings_max_level_factor=1.000

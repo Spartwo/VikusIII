@@ -12,8 +12,8 @@ state={
 	}
 
 	history={
-		owner = ZZX
-		add_core_of = ZZX
+		owner = VUL
+		add_core_of = VUL
 		victory_points = { 2362 10 } #Dinyol
 		buildings = {
 			infrastructure = 1

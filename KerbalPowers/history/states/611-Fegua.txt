@@ -1,23 +1,35 @@
+
 state={
 	id=611
 	name="STATE_611"
-	provinces={
-		3100 3191 3278 3340 3392 3408 3492 
-	}
-	manpower=2500000
-	buildings_max_level_factor=1.000 
- 	 state_category=megalopolis
 
 	history={
 		owner = FEG
-		add_core_of = FEG 
-		victory_points = { 3340 10 } #Halemau
-		victory_points = { 3100 20 } #Fegua
-		victory_points = { 3492 10 } #Tōhare
+		add_core_of = FEG
+		victory_points = {
+			3340 10 
+		}
+		victory_points = {
+			3191 20 
+		}
+		victory_points = {
+			3492 10 
+		}
 		buildings = {
 			infrastructure = 8
-			3340 = { naval_base = 1 }
+			3340 = {
+				naval_base = 1
+
+			}
+
 		}
 
 	}
+
+	provinces={
+		3191 3278 3340 3392 3408 3492 
+	}
+	manpower=2500000
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
 }

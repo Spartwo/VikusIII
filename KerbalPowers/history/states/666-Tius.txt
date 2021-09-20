@@ -1,3 +1,4 @@
+
 state={
 	id=666
 	name="STATE_666"
@@ -11,23 +12,29 @@ state={
 	}
 
 	history={
-		owner = ZZY
-		add_core_of = ZZY
+		owner = ODI
+		add_core_of = ODI
 		victory_points = {
 			1985 10 
 		}
-		buildings = {
-			infrastructure = 4 
-			1985 = { naval_base = 1 }
+		victory_points = {
+			1909 10 
 		}
+		buildings = {
+			infrastructure = 4
+			1909 = {
+				naval_base = 1
+
+			}
+		}
+		
 
 	}
 
 	provinces={
-		1985 2039 2109 2120 2198 2239
+		1713 1727 1754 1805 1806 1831 1878 1886 1909 1932 1970 1973 1985 2035 2039 2040 
 	}
-	manpower=600000
+	manpower=60000
 	buildings_max_level_factor=0.000
 	state_category=rural
 }
-

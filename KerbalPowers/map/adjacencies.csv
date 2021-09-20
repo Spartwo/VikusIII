@@ -35,8 +35,8 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 679;738;sea;553;-1;-1;-1;-1;;Hook Islands
 72;95;sea;47;-1;-1;-1;-1;;Beagans
 87;95;sea;47;-1;-1;-1;-1;;Beagans
-710;773;sea;511;-1;-1;-1;-1;;Rivanna-Melfta
-789;852;sea;511;-1;-1;-1;-1;;Rivanna-Melfta
+735;773;sea;511;-1;-1;-1;-1;;Rivanna-Melfta
+789;902;sea;511;-1;-1;-1;-1;;Rivanna-Melfta
 2659;2793;sea;2253;-1;-1;-1;-1;;Parznet-Gary
 2979;2973;sea;2980;-1;-1;-1;-1;;Alec-Gary
 2356;2457;sea;2127;-1;-1;-1;-1;;Notillian-Korfu
@@ -46,6 +46,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 5028;5122;sea;4946;-1;-1;-1;-1;;Psylets
 5306;5213;sea;4946;-1;-1;-1;-1;;Psylets
 1147;1238;sea;1133;-1;-1;-1;-1;;Panseria-Calida
+3100;3191;sea;2792;-1;-1;-1;-1;;Fegua
 
 
 2008;2093;impassable;-1;-1;-1;-1;-1;;Big River

@@ -7,6 +7,7 @@ state={
 		owner = ZZX
 		add_core_of = ZZX
         victory_points = { 1924 10 } #Uzan Kul
+		victory_points = { 7018 10 } #Banlek
 		buildings = {
 			infrastructure = 1
 		}
@@ -14,7 +15,7 @@ state={
 	}
 
 	provinces={
-		1715 1883 1924 2110 
+		1714 1715 1924 2004 2110 7018
 	}
 	manpower=250000
 	buildings_max_level_factor=1.000

@@ -6,17 +6,24 @@ state={
 	history={
 		owner = REC
 		add_core_of = REC
-		victory_points = { 3303 10 } #Stagnum
-		victory_points = { 3671 10 } #Melohyne
-		victory_points = { 3513 10 } #Hanume
+		victory_points = {
+			3303 10 
+		}
+		victory_points = {
+			3671 10 
+		}
+		victory_points = {
+			3513 10 
+		}
 		buildings = {
 			infrastructure = 4
+
 		}
 
 	}
 
 	provinces={
-		3303 3356 3362 3380 3391 3441 3448 3458 3459 3482 3513 3548 3550 3607 3608 3671 
+		3303 3356 3362 3380 3391 3441 3448 3458 3459 3482 3513 3548 3550 3607 3608 3671 3699 
 	}
 	manpower=2500000
 	buildings_max_level_factor=1.000

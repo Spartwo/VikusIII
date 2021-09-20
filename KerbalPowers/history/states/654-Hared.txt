@@ -13,7 +13,7 @@ state={
 	history={
 		owner = NOL
 		add_core_of = NOL
-        victory_points = { 1860 10 } #Qazan
+        victory_points = { 1860 10 } #Qazan 
         victory_points = { 1933 10 } #Kulyagi
 		buildings = {
 			infrastructure = 1
@@ -21,7 +21,7 @@ state={
 
 	}
 	provinces={
-		1714 1860 1933 2004 2176 
+		1860 1933 2176 
 	}
 	manpower=2500000
 	buildings_max_level_factor=1.000

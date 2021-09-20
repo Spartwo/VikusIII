@@ -142,6 +142,7 @@ SPE = "countries/SPE.txt" #SPEARKA
 ZEO = "countries/ZEO.txt" #ZEOUL
 HER = "countries/HER.txt" #HERMIA
 ICO = "countries/ICO.txt" #ICONIA
+ODI = "countries/ODI.txt" #ODINAGRO
 #Cores
 FIS = "countries/FIS.txt" #FISH ISLAND (BY ZOKESIAN FOCUS)
 GAL = "countries/GAL.txt" #GALEONY-GALLANTE

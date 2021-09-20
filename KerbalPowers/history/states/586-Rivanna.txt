@@ -4,14 +4,14 @@ state={
 	provinces={
 		574 627 640 641 655 673 708 709 710 735 751 761 768 778 789 802 817 860 
 	}
-	manpower=1800000
+	manpower=1700000
 	buildings_max_level_factor=1.000 
  	 state_category=metropolis
 
 history={
 		owner = ANG
 		add_core_of = ANG
-		victory_points = { 761 20 } #Rivon
+		victory_points = { 768 20 } #Rivon
 		victory_points = { 709 10 } #Albilun
 		buildings = {
 			infrastructure = 6

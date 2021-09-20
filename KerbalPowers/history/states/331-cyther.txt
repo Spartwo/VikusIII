@@ -14,16 +14,22 @@ state={
 	history={
 		owner = OFE
 		add_core_of = OFE
-		victory_points = {2342 10 }
+		victory_points = {
+			2342 10 
+		}
 		buildings = {
 			infrastructure = 5
-			2342 = { naval_base = 1 }
+			2342 = {
+				naval_base = 1
+
+			}
+
 		}
 
 	}
 
 	provinces={
-		 2342 2368 2437 2453   
+		2109 2120 2198 2239 2292 2342 2368 2437 2453 
 	}
 	manpower=1800000
 	buildings_max_level_factor=0.000

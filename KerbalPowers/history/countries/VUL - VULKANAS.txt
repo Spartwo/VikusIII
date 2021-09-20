@@ -1,4 +1,4 @@
-﻿capital = 399
+﻿capital = 364
 
 oob = "FILLER_2070"
 
