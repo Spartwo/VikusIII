@@ -14,15 +14,18 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		victory_points = { 6893 10 } #Skala
+		victory_points = {
+			6893 10 
+		}
 		buildings = {
 			infrastructure = 0
+
 		}
 
 	}
 
 	provinces={
-		6893 6918 6938 6943 6964 6981 6982 6997 
+		6893 6918 6938 6964 6981 6997 
 	}
 	manpower=30000
 	buildings_max_level_factor=1.000

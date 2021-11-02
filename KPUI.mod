@@ -1,4 +1,4 @@
-name="Kerbal Powers"
+name="Kerbal Powers UI Assets"
 path="mod/KPUI/"
 dependencies = {
 	"Kerbal Powers"

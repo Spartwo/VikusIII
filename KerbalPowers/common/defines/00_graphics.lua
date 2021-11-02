@@ -502,7 +502,7 @@ NMapIcons = {
 },
 
 NAirGfx = {
-	AIRPLANES_ANIMATION_GLOBAL_SPEED_PER_GAMESPEED = { 0.3, 0.35, 0.40, 0.45, 0.50, 0.55 }, -- Speed factor for each game speed (begin with paused). Larger value = faster animation.
+	AIRPLANES_ANIMATION_GLOBAL_SPEED_PER_GAMESPEED = { 0.4, 0.45, 0.50, 0.55, 0.60, 0.75 }, -- Speed factor for each game speed (begin with paused). Larger value = faster animation.
 	ROCKET_SPEED = 15.0,							-- Speed of rockets launched from rocket sites
 	AIRPLANES_CURVE_POINT_DENSITY = 5.0, 			-- Higher value = more midpoints in the flight path.
 	AIRPLANES_CURVE_MAX_EXTRAPOLATION = 30.0, 		-- It's the limit value that avoid making gigantic curves that may happen when flight path is very long.
@@ -526,17 +526,17 @@ NAirGfx = {
 	AIRPLANES_1_SCOUT_PLANE_PATROL_ANIM = 1,
 	AIRPLANES_3_SCOUT_PLANE_PATROL_ANIM = 3,
 		
-	BOMBERS_DIVISION_FACTOR = 60,					-- Number of effective bombers in a strategic region will be divided by this factor.
-	MISSILES_DIVISION_FACTOR = 60,					-- Number of missiles shown in a strategic region will be divided by this factor.
-	FIGHTERS_DIVISION_FACTOR = 60,					-- Number of missiles shown in a strategic region will be divided by this factor.
-	SCOUT_PLANE_DIVISION_FACTOR = 60,				-- Number of missiles shown in a strategic region will be divided by this factor.
+	BOMBERS_DIVISION_FACTOR = 30,					-- Number of effective bombers in a strategic region will be divided by this factor.
+	MISSILES_DIVISION_FACTOR = 30,					-- Number of missiles shown in a strategic region will be divided by this factor.
+	FIGHTERS_DIVISION_FACTOR = 30,					-- Number of missiles shown in a strategic region will be divided by this factor.
+	SCOUT_PLANE_DIVISION_FACTOR = 30,				-- Number of missiles shown in a strategic region will be divided by this factor.
 	TRANSPORT_DIVISION_FACTOR = 60,
 	MAX_MISSILE_BOMBING_SCENARIOS = 2,				-- Max number of missile bombing scenarios in a strategic region.
-	MAX_PATROL_SCENARIOS = 2,						-- Max number of patrol scenarios in a strategic region.
-	MAX_BOMBING_SCENARIOS = 2,						-- Max number of bombings scenarios in a strategic region.
-	MAX_DOGFIGHTS_SCENARIOS = 2,					-- Max number of dogfight scenarios in a strategic region.
-	MAX_TRANSPORT_SCENARIOS = 2,					-- Max number of transport scenarios in a strategic region
-	MAX_TRAINING_SCENARIOS = 2,						-- Max number of training scenarios in a strategic region
+	MAX_PATROL_SCENARIOS = 15,						-- Max number of patrol scenarios in a strategic region.
+	MAX_BOMBING_SCENARIOS = 7,						-- Max number of bombings scenarios in a strategic region.
+	MAX_DOGFIGHTS_SCENARIOS = 7,					-- Max number of dogfight scenarios in a strategic region.
+	MAX_TRANSPORT_SCENARIOS = 5,					-- Max number of transport scenarios in a strategic region
+	MAX_TRAINING_SCENARIOS = 5,						-- Max number of training scenarios in a strategic region
 	MAX_SCOUT_SCENARIOS = 2,
 },
 

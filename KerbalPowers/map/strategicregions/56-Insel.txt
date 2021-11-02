@@ -6,8 +6,6 @@ strategic_region={
 		476 480 490 499 504 520 524 537 540 542 558 568 572 593 602 612 623 636 644 696 
 	}
 	weather={
-		
-	weather={
 		period={
 			between={ 0.0 27.11 }
 			temperature={ -10.0 35.0 }

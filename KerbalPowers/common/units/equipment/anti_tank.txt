@@ -12,6 +12,13 @@ equipments = {
 		group_by = archetype
 		
 		interface_category = interface_category_land
+		
+		upgrades = {
+			
+			
+		}
+
+		is_convertable = yes
 
 		#Misc Abilities
 		reliability = 0.8
@@ -44,6 +51,12 @@ equipments = {
 		archetype = anti_tank_equipment
 		priority = 90
 		visual_level = 0
+		
+		is_convertable = yes
+
+		can_convert_from = { 
+			anti_tank_equipment_1
+		}
 	}
 	
 	anti_tank_equipment_2 = {
@@ -53,6 +66,13 @@ equipments = {
 		parent = anti_tank_equipment_1
 		priority = 90
 		visual_level = 1
+		
+		is_convertable = yes
+
+		can_convert_from = { 
+			anti_tank_equipment_1
+			anti_tank_equipment_2
+		}
 		
 		hard_attack = 22
 		ap_attack = 88
@@ -72,11 +92,141 @@ equipments = {
 		priority = 90
 		visual_level = 2
 		
+		is_convertable = yes
+
+		can_convert_from = { 
+			anti_tank_equipment_2
+			anti_tank_equipment_3
+		}
+		
 		hard_attack = 30
 		ap_attack = 108
 		
 		build_cost_ic = 6
 		resources = {
+			tungsten = 2
+			steel = 3
+		}
+	}
+	anti_tank_equipment_4 = {
+		year = 1950
+
+		archetype = anti_tank_equipment
+		parent = anti_tank_equipment_3
+		priority = 90
+		visual_level = 2
+		
+		is_convertable = yes
+
+		can_convert_from = { 
+			anti_tank_equipment_3
+			anti_tank_equipment_4
+		}
+		
+		hard_attack = 40
+		ap_attack = 125
+		
+		build_cost_ic = 7
+		resources = {
+			tungsten = 2
+			steel = 3
+		}
+	}
+	anti_tank_equipment_5 = {
+		year = 1960
+
+		archetype = anti_tank_equipment
+		parent = anti_tank_equipment_4
+		priority = 90
+		visual_level = 2
+		
+		is_convertable = yes
+
+		can_convert_from = { 
+			anti_tank_equipment_4
+			anti_tank_equipment_5
+		}
+		
+		hard_attack = 50
+		ap_attack = 155
+		
+		build_cost_ic = 10
+		resources = {
+			tungsten = 2
+			steel = 3
+		}
+	}
+	anti_tank_equipment_6 = {
+		year = 1970
+
+		archetype = anti_tank_equipment
+		parent = anti_tank_equipment_5
+		priority = 90
+		visual_level = 2
+		
+		is_convertable = yes
+
+		can_convert_from = { 
+			anti_tank_equipment_5
+			anti_tank_equipment_6
+		}
+		
+		hard_attack = 60
+		ap_attack = 175
+		
+		build_cost_ic = 13
+		resources = {
+			chromium = 1
+			tungsten = 2
+			steel = 3
+		}
+	}
+	anti_tank_equipment_7 = {
+		year = 1980
+
+		archetype = anti_tank_equipment
+		parent = anti_tank_equipment_6
+		priority = 90
+		visual_level = 2
+		
+		is_convertable = yes
+
+		can_convert_from = { 
+			anti_tank_equipment_6
+			anti_tank_equipment_7
+		}
+		
+		hard_attack = 70
+		ap_attack = 195
+		
+		build_cost_ic = 16
+		resources = {
+			chromium = 1
+			tungsten = 2
+			steel = 3
+		}
+	}
+	anti_tank_equipment_8 = {
+		year = 1990
+
+		archetype = anti_tank_equipment
+		parent = anti_tank_equipment_7
+		priority = 90
+		visual_level = 2
+		
+		is_convertable = yes
+
+		can_convert_from = { 
+			anti_tank_equipment_7
+			anti_tank_equipment_8
+		}
+		
+		hard_attack = 80
+		ap_attack = 225
+		
+		build_cost_ic = 19
+		resources = {
+			chromium = 1
 			tungsten = 2
 			steel = 3
 		}

@@ -6,9 +6,12 @@ state={
 	history={
 		owner = DRA
 		add_core_of = DRA
-		victory_points = { 2201 10 } #Rimi
+		victory_points = {
+			3502 10 
+		}
 		buildings = {
 			infrastructure = 3
+
 		}
 
 	}

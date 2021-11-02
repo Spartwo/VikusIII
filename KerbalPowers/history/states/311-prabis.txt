@@ -14,16 +14,21 @@ state={
 	history={
 		owner = NIS
 		add_core_of = NIS
-		victory_points = { 5440 10 } #Astif
-		victory_points = { 4693 10 } #Prabis
+		victory_points = {
+			4693 10 
+		}
+		victory_points = {
+			5044 10 
+		}
 		buildings = {
 			infrastructure = 3
+
 		}
 
 	}
 
 	provinces={
-		1729 4508 4693 4744 5440 
+		1729 4508 4693 4744 5440 6948 
 	}
 	manpower=120000
 	buildings_max_level_factor=1.000

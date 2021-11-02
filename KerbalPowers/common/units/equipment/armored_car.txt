@@ -15,11 +15,10 @@ equipments = {
 		interface_category = interface_category_armor
 		
 		upgrades = {
-			tank_reliability_upgrade
-			ac_engine_upgrade
-			tank_armor_upgrade
-			tank_gun_upgrade
+	
 		}
+		
+		is_convertable = yes
 
 		#Misc Abilities
 		maximum_speed 	= 12
@@ -58,7 +57,11 @@ equipments = {
 		priority = 5
 		visual_level = 0
 		
-		
+		is_convertable = yes
+
+		can_convert_from = { 
+			gw_armored_car_equipment
+		}
 
 		#Misc Abilities
 		maximum_speed 	= 9
@@ -87,7 +90,13 @@ equipments = {
 		parent = gw_armored_car_equipment
 		priority = 10
 		visual_level = 0
+		
 		is_convertable = yes
+		
+		can_convert_from = { 
+			gw_armored_car_equipment
+			armored_car_equipment_1
+		}
 
 		#recon = 2
 	}
@@ -99,7 +108,13 @@ equipments = {
 		parent = armored_car_equipment_1
 		priority = 10
 		visual_level = 1
+		
 		is_convertable = yes
+		
+		can_convert_from = { 
+			armored_car_equipment_1
+			armored_car_equipment_2
+		}
 
 		#Misc Abilities
 		maximum_speed 	= 15
@@ -133,7 +148,13 @@ equipments = {
 		parent = armored_car_equipment_2
 		priority = 10
 		visual_level = 1
+		
 		is_convertable = yes
+		
+		can_convert_from = { 
+			armored_car_at_equipment
+			armored_car_equipment_2
+		}
 
 		#Misc Abilities
 		maximum_speed 	= 16
@@ -160,7 +181,121 @@ equipments = {
 		}
 		fuel_consumption = 1.8
 	}
+	armored_car_equipment_3 = {
+		year = 1950
+		
+		archetype = armored_car_equipment
+		parent = armored_car_equipment_2
+		priority = 10
+		visual_level = 1
+		
+		is_convertable = yes
+		
+		can_convert_from = { 
+			armored_car_at_equipment
+			armored_car_equipment_2
+			armored_car_equipment_3
+		}
 
+		#Misc Abilities
+		maximum_speed 	= 17
+
+		#Defensive Abilities
+		defense 		= 7
+		breakthrough 	= 30
+		hardness 		= 0.72
+		armor_value 	= 25
+		#recon 			= 2.5
+
+		#Offensive Abilities
+		soft_attack 	= 18
+		hard_attack 	= 10
+		ap_attack 		= 40
+		air_attack 		= 0		
+		
+		build_cost_ic = 10
+		resources = {
+			#oil = 1
+			steel = 3
+			tungsten = 1
+		}
+	}
+	armored_car_equipment_4 = {
+		year = 1960
+		
+		archetype = armored_car_equipment
+		parent = armored_car_equipment_3
+		priority = 10
+		visual_level = 1
+		
+		is_convertable = yes
+		
+		can_convert_from = { 
+			armored_car_equipment_3
+			armored_car_equipment_4
+		}
+
+		#Misc Abilities
+		maximum_speed 	= 19
+
+		#Defensive Abilities
+		defense 		= 8
+		breakthrough 	= 32
+		hardness 		= 0.74
+		armor_value 	= 30
+		#recon 			= 3
+
+		#Offensive Abilities
+		soft_attack 	= 20
+		hard_attack 	= 11
+		ap_attack 		= 44
+		air_attack 		= 0		
+		
+		build_cost_ic = 12
+		resources = {
+			#oil = 1
+			steel = 3
+			tungsten = 2
+		}
+	}
+	armored_car_equipment_5 = {
+		year = 1970
+		
+		archetype = armored_car_equipment
+		parent = armored_car_equipment_4
+		priority = 10
+		visual_level = 1
+		
+		is_convertable = yes
+		
+		can_convert_from = { 
+			armored_car_equipment_4
+			armored_car_equipment_5
+		}
+
+		#Misc Abilities
+		maximum_speed 	= 24
+
+		#Defensive Abilities
+		defense 		= 10
+		breakthrough 	= 35
+		hardness 		= 0.76
+		armor_value 	= 35
+		#recon 			= 3.5
+
+		#Offensive Abilities
+		soft_attack 	= 22
+		hard_attack 	= 13
+		ap_attack 		= 46
+		air_attack 		= 0		
+		
+		build_cost_ic = 15
+		resources = {
+			#oil = 1
+			steel = 3
+			tungsten = 3
+		}
+	}
 	
 	
 }

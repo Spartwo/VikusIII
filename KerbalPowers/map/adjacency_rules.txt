@@ -2,6 +2,7 @@
 #Owlia River
 adjacency_rule
 {
+	
 	name = "OWLIA_RIVER"
 
 	contested =
@@ -22,27 +23,68 @@ adjacency_rule
 	{
 		army = yes
 		navy = yes
-		submarine = yes
+		submarine = no
 		trade = yes
 	}
 	neutral =
 	{
 		army = yes
 		navy = yes
-		submarine = yes
+		submarine = no
 		trade = yes
 	}
 	
 	required_provinces = { 1063 971 906 866 927 976 1030 1078 }
 		
-	icon = 866
+	icon = 1133
+	offset = { -31 0 -6 }
+
+}
+
+#BITTERWATER LAKE
+adjacency_rule
+{
+	name = "BITTERWATER_CANAL"
+
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = no
+		trade = yes
+	}
+	neutral =
+	{
+		army = yes
+		navy = yes
+		submarine = no
+		trade = yes
+	}
+	
+	required_provinces = { 3716 3728 3812 3792 }
+		
+	icon = 3549
 	offset = { 1 0 -6 }
 }
 
-#Great Lakes
+#HOUT STRAIT
 adjacency_rule
 {
-	name = "GREAT_LAKES"
+	name = "HOUT_STRAIT"
 
 	contested =
 	{
@@ -73,8 +115,130 @@ adjacency_rule
 		trade = yes
 	}
 	
-	required_provinces = { 2093 524 2008 2050 1462 1922 }
+	required_provinces = { 3561 3789 3777 }
 		
-	icon = 1280
+	icon = 3526
 	offset = { 1 0 -6 }
+}
+
+#FORSETTI STRAIT
+adjacency_rule
+{
+	name = "FORSETTI_STRAIT_1"
+
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	
+	required_provinces = { 87 95 72 52 }
+		
+	icon = 47
+	offset = { 1 0 -6 }
+}
+
+#FORSETTI STRAIT
+adjacency_rule
+{
+	name = "FORSETTI_STRAIT_2"
+
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	
+	required_provinces = { 87 95 72 52 }
+		
+	icon = 47
+	offset = { 1 0 -6 }
+}
+
+#AONTA STRAIT
+adjacency_rule
+{
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	
+	required_provinces = { 4022 4406 4123 4114 4201 }
+		
+		
+
+	icon = 3985
+	offset = { 1 0 -6 }
+
+	name = "AONTAS_STRAIT"
 }

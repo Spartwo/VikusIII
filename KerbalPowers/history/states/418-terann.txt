@@ -14,9 +14,12 @@ state={
 	history={
 		owner = DRA
 		add_core_of = DRA
-		victory_points = { 2160 10 } #Kyeshdet
+		victory_points = {
+			2160 10 
+		}
 		buildings = {
 			infrastructure = 3
+
 		}
 
 	}

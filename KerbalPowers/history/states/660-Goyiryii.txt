@@ -1,3 +1,4 @@
+
 state={
 	id=660
 	name="STATE_660"
@@ -5,17 +6,23 @@ state={
 	history={
 		owner = NIS
 		add_core_of = NIS
-		victory_points = { 4915 10 } #Bolkar
-		victory_points = { 2150 10 } #Goyir
+		victory_points = {
+			4915 10 
+		}
+		victory_points = {
+			2150 10 
+		}
 		buildings = {
 			infrastructure = 4
+
 		}
 
 	}
+
 	provinces={
 		2150 2235 2497 4718 4915 5532 5606 
 	}
 	manpower=1800000
 	buildings_max_level_factor=1.000
- 	state_category=rural
+	state_category=rural
 }
