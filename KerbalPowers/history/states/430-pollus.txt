@@ -4,21 +4,23 @@ state={
 	name="STATE_430"
 
 	history={
-		owner = ZZX
-		add_core_of = ZZX
+		owner = ZHA
+		add_core_of = ZHA
 		victory_points = {
 			2968 10 
 		}
 		buildings = {
 			infrastructure = 2
+
 		}
 
 	}
 
 	provinces={
-		2834 2968 3049 3123 3124 3211 3219 
+		2828 2864 2890 2895 2945 2968 
 	}
 	manpower=1200000
 	buildings_max_level_factor=1.000
 	state_category=pastoral
+	local_supplies=0.000
 }

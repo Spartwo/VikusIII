@@ -14,17 +14,21 @@ state={
 	history={
 		owner = ZHA
 		add_core_of = ZHA
-        	victory_points = { 2504 10 } #Zhastram
+		victory_points = {
+			2504 10 
+		}
 		buildings = {
 			infrastructure = 1
+
 		}
 
 	}
 
 	provinces={
-		2504 2514 2661 2662 2802 2828 2864 2890 2895 2945 
+		2504 2514 2661 2662 2802 6996 
 	}
 	manpower=1800000
 	buildings_max_level_factor=1.000
 	state_category=pastoral
+	local_supplies=0.000
 }

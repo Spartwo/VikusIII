@@ -5,18 +5,22 @@ state={
 
 	history={
 		owner = ZZX
-		add_core_of = ZZX 
-		victory_points = { 2375 10 } #Lamburg
+		add_core_of = ZZX
+		victory_points = {
+			2375 10 
+		}
 		buildings = {
 			infrastructure = 1
+
 		}
 
 	}
 
 	provinces={
-		1120 1205 1875 1905 1943 1974 2036 2059 2084 2131 2192 2247 2375 2376 2378 
+		1120 1205 1875 1905 1943 1974 2036 2059 2084 2131 2192 2247 2375 2376 2378 2531 
 	}
 	manpower=60000
 	buildings_max_level_factor=1.000
 	state_category=wasteland
+	local_supplies=0.000
 }

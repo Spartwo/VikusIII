@@ -7,7 +7,7 @@ state={
 		owner = DRA
 		add_core_of = DRA
 		victory_points = {
-			3502 10 
+			4671 10 
 		}
 		buildings = {
 			infrastructure = 3

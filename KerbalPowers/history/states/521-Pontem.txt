@@ -15,9 +15,6 @@ state={
 		owner = REC
 		add_core_of = REC
 		victory_points = {
-			3900 20 
-		}
-		victory_points = {
 			3824 10 
 		}
 		victory_points = {
