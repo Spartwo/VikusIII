@@ -25,6 +25,10 @@ replace_path="common/technologies"
 replace_path="common/ai_equipment"
 replace_path="common/units"
 
+replace_path="common/characters"
+replace_path="common/generation"
+replace_path="history/general"
+
 replace_path="common/decisions"
 replace_path="common/country_tag_aliases"
 replace_path="common/decisions/categories"
@@ -62,4 +66,4 @@ replace_path="map/terrain.bmp"
 
 ####tech replace
 
-supported_version="1.10.*"
+supported_version="1.11.*"

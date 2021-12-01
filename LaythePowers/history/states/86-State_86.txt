@@ -1,0 +1,11 @@
+
+state={
+	id=86
+	name="STATE_86"
+	provinces={
+		345 346 347 348 349 350 788 999 
+	}
+	manpower=1000
+	buildings_max_level_factor=0.000
+	state_category=wasteland
+}

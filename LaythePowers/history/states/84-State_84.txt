@@ -1,0 +1,11 @@
+
+state={
+	id=84
+	name="STATE_84"
+	provinces={
+		429 430 431 700 840 841 1375 
+	}
+	manpower=1000
+	buildings_max_level_factor=0.000
+	state_category=wasteland
+}

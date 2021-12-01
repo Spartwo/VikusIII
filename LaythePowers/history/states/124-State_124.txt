@@ -1,0 +1,11 @@
+
+state={
+	id=124
+	name="STATE_124"
+	provinces={
+		189 190 200 214 215 417 418 998 
+	}
+	manpower=1000
+	buildings_max_level_factor=0.000
+	state_category=wasteland
+}
