@@ -3,12 +3,12 @@ state={
 	id=410
 	name="STATE_410"
 	resources={
-		steel=0.000
-		aluminium=0.000
-		chromium=0.000
-		rubber=0.000
-		oil=0.000
-		tungsten=0.000
+		steel=10.000
+		aluminium=10.000
+		chromium=10.000
+		rubber=10.000
+		oil=10.000
+		tungsten=10.000
 	}
 
 	history={
@@ -30,5 +30,5 @@ state={
 	manpower=1800000
 	buildings_max_level_factor=1.000
 	state_category=pastoral
-	local_supplies=0.000
+	local_supplies=10.000
 }

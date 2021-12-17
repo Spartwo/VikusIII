@@ -26,6 +26,19 @@ REC_DUST_ADJ:0 "Dust"
 REC_ACRI:0 "Acrimony"
 REC_ACRI_DEF:0 "The Acrimonious Lake Periphery States"
 REC_ACRI_ADJ:0 "Acrimone"
+
+
+################### [Panseria] ######################
+ # Anixia
+ ANI_COS:0 "Anixia"
+ ANI_COS_DEF:0 "Anixia"
+ ANI_COS_democratic_DEF:0 "The Oath Republic of Anixia"
+ ANI_COS_ADJ:0 "Anix"
+ # Qicao
+ QIC_COS:0 "Qicao"
+ QIC_COS_DEF:0 "Qicao"
+ QIC_COS_communism_DEF:0 "Democratic Qicao"
+ QIC_COS_ADJ:0 "Qi"
 ################### Laveska ######################
 LAV_FORM:0 "Laveska"
 LAV_FORM_DEF:0 "Laveska"
@@ -44,6 +57,19 @@ KAR_RED_ADJ:0 "Avalonian"
 ALT_COS:0 "Alterix"
 ALT_COS_DEF:0 "Alterix"
 ALT_COS_ADJ:0 "Alterixian"
+################### Heruland ######################
+IRO_COS:0 "Iro"
+IRO_COS_DEF:0 "Iro"
+IRO_COS_ADJ:0 "Iroan"
+################### Heruland ######################
+HER_FORM:0 "Heruland"
+HER_FORM_DEF:0 "Heruland"
+HER_FORM_fascism_DEF:0 "The True Republic of Heruland"
+HER_FORM_ADJ:0 "Herulic"
+################### Bastia ######################
+UPP_COS:0 "Upper Bastia"
+UPP_COS_DEF:0 "Upper Bastia"
+UPP_COS_ADJ:0 "Bastian"
 ################### Targeria ######################
 TAR_FORM:0 "Targeria"
 TAR_FORM_DEF:0 "Targeria"

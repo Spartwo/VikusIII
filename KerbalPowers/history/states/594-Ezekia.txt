@@ -22,6 +22,14 @@ state={
 		3963 4109 4160 4247 4251 4273 4300 4357 4374 4384 4413 4421 4452 4456 4480 
 	}
 	manpower=2500000
+	resources={
+		steel=10.000
+		aluminium=10.000
+		chromium=10.000
+		rubber=10.000
+		oil=10.000
+		tungsten=10.000
+	}
 	buildings_max_level_factor=1.000
 	state_category=megalopolis
 }

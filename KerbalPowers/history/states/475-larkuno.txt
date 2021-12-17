@@ -18,6 +18,14 @@ state={
 		4019 4072 4090 4096 4177 4194 4195 4246 4265 
 	}
 	manpower=250000
+	resources={
+		steel=10.000
+		aluminium=10.000
+		chromium=10.000
+		rubber=10.000
+		oil=10.000
+		tungsten=10.000
+	}
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }

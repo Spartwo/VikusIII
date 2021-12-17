@@ -27,6 +27,14 @@ state={
 		646 666 667 693 715 719 7031 
 	}
 	manpower=500000
+	resources={
+		steel=10
+		aluminium=10
+		chromium=10
+		rubber=10
+		oil=10
+		tungsten=10
+	}
 	buildings_max_level_factor=1.000
 	state_category=city
 }

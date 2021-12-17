@@ -25,6 +25,14 @@ state={
 		1054 1098 1142 1153 1161 1196 1208 1242 1273 1315 1316 1365 1403 1477 
 	}
 	manpower=1800000
+	resources={
+		steel=10.000
+		aluminium=10.000
+		chromium=10.000
+		rubber=10.000
+		oil=10.000
+		tungsten=10.000
+	}
 	buildings_max_level_factor=1.000
 	state_category=large_city
 }

@@ -8,6 +8,22 @@ HIDE_COS = {
 KUS_FORM = { color = rgb { 234 202 39 }
     	color_ui = rgb { 234 202 39 } }
 
+#SOUTH DOREN LADS
+ANI_COS = { color = rgb { 137 0 0 }
+	color_ui = rgb { 137 0 0 } }
+QIC_COS = { color = rgb { 181 31 36 }
+	color_ui = rgb { 181 31 36 } }
+
+#UPPER BASTIA
+UPP_COS = { color = rgb { 237 125 49 }
+	color_ui = rgb { 237 125 49 } }
+#HERULAND
+HER_FORM = { color = rgb { 198 12 49 }
+	color_ui = rgb { 198 12 49 } }
+
+#IRO
+IRO_COS = { color = rgb { 237 125 49 }
+	color_ui = rgb { 237 125 49 } }
 
 #FORMING FORSETTI
 FOR_FORM = { color = rgb { 255 180 43 }

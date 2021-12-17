@@ -22,6 +22,14 @@ state={
 		234 274 309 337 339 381 425 470 
 	}
 	manpower=250000
+	resources={
+		steel=10.000
+		aluminium=10.000
+		chromium=10.000
+		rubber=10.000
+		oil=10.000
+		tungsten=10.000
+	}
 	buildings_max_level_factor=1.000
 	state_category=large_city
 }

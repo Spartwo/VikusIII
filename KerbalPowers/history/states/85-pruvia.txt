@@ -3,12 +3,12 @@ state={
 	id=85
 	name="STATE_85"
 	resources={
-		steel=0.000
-		aluminium=0.000
-		chromium=0.000
-		rubber=0.000
-		oil=0.000
-		tungsten=0.000
+		steel=10.000
+		aluminium=10.000
+		chromium=10.000
+		rubber=10.000
+		oil=10.000
+		tungsten=10.000
 	}
 
 	history={
@@ -30,6 +30,6 @@ state={
 		4745 4781 4800 4841 4888 4918 4939 4963 5020 5035 5053 5084 5151 5224 
 	}
 	manpower=300000
-	buildings_max_level_factor=0.000
+	buildings_max_level_factor=10.000
 	state_category=large_town
 }

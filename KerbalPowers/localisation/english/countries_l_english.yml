@@ -411,6 +411,10 @@
  FID:0 "Fidelis"
  FID_DEF:0 "The Holy Fidelis Federacy"
  FID_ADJ:0 "Fidelian"
+ # Sceania
+ SCE:0 "Sceania"
+ SCE_DEF:0 "Sceania"
+ SCE_ADJ:0 "Sceanian"
 
 
 ###DOREN###
@@ -517,6 +521,20 @@
  GAG_communism_DEF:0 "The Arcadian Republic of Gagaria"
  GAG_communism_ADJ:0 "Gagarian"
  GAG_schizo_DEF:0 "The Bobdean monitorship of Gagriel"
+ # Xourao
+ XOU:0 "Xourao"
+ XOU_DEF:0 "Xourao"
+ XOU_communism_DEF:0 "The Socialist People's Republic of Xourao"
+ XOU_ADJ:0 "Xi"
+ # Chusei
+ CHU:0 "Chusei"
+ CHU_DEF:0 "Chusei"
+ CHU_communism_DEF:0 "The Socialist People's Republic of Chusei"
+ CHU_ADJ:0 "Chu"
+ # Geminzhijia
+ GEM:0 "Geminzhijia"
+ SCH_DEF:0 "Geminzhijia"
+ SCH_ADJ:0 "Zhi"
 
 
 ###DORVICS###
@@ -576,11 +594,6 @@
  NOL_DEF:0 "Noland"
  NOL_fascism_DEF:0 "The Province of Noland"
  NOL_ADJ:0 "Nolander"
- # Anixia
- ANI:0 "Anixia"
- ANI_DEF:0 "Anixia"
- ANI_democratic_DEF:0 "The Oath Republic of Anixia"
- ANI_ADJ:0 "Anix"
 
 
 ###BASKAY###
@@ -961,6 +974,10 @@
  DTA_democratic_ADJ:0 "Arvene"
  DTA_neocon_DEF:0 "Federation of Arvene"
  DTA_neocon_ADJ:0 "Arvene"
+ # Hartif
+ HTI:0 "Hartif"
+ HTI_DEF:0 "Hartif"
+ HTI_ADJ:0 "Hartford"
 
 
  FACTION_NAME_democratic_1:0 "The $LEADER_COUNTRY_ADJ$ Association"

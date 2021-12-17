@@ -50,6 +50,7 @@ add_to_faction = VIB
 add_to_faction = SAR
 add_to_faction = SLO
 add_to_faction = ZHA
+add_to_faction = TOM
 
 set_politics = {
 	

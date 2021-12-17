@@ -17,6 +17,14 @@ state={
 		4758 4875 4908 4912 4940 4958 4960 4997 5041 5068 5069 5130 
 	}
 	manpower=120000
+	resources={
+		steel=10.000
+		aluminium=10.000
+		chromium=10.000
+		rubber=10.000
+		oil=10.000
+		tungsten=10.000
+	}
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

@@ -3,18 +3,17 @@ state={
 	id=480
 	name="STATE_480"
 	resources={
-		steel=0.000
-		aluminium=0.000
-		chromium=0.000
-		rubber=0.000
-		oil=0.000
-		tungsten=0.000
+		steel=10.000
+		aluminium=10.000
+		chromium=10.000
+		rubber=10.000
+		oil=10.000
+		tungsten=10.000
 	}
 
 	history={
 		owner = SER
 		add_core_of = SER
-		add_core_of = ANI
 		victory_points = { 1518 10 } #Pansere
 		victory_points = { 1457 10 } #Taeep
 		buildings = {

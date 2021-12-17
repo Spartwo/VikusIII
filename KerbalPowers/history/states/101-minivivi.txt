@@ -6,13 +6,14 @@ state={
 	}
 	manpower=120000
 	resources={
-		steel=0
-		aluminium=20
-		chromium=15
-		rubber=0
-		oil=0
-		tungsten=0
+		steel=10
+		aluminium=10
+		chromium=10
+		rubber=10
+		oil=10
+		tungsten=10
 	}
+	buildings_max_level_factor=
 	buildings_max_level_factor=1.000
 	state_category=small_island
 	manpower=30000

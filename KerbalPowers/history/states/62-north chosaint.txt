@@ -18,6 +18,14 @@ state={
 		4405 4453 4463 4501 4565 4579 4626 4640 4664 4676 4713 4760 4770 
 	}
 	manpower=250000
+	resources={
+		steel=10.000
+		aluminium=10.000
+		chromium=10.000
+		rubber=10.000
+		oil=10.000
+		tungsten=10.000
+	}
 	buildings_max_level_factor=1.000
 	state_category=town
 }

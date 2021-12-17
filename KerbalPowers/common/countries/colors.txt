@@ -1,7 +1,7 @@
 
-ZZZ = { color = rgb { 68 81 51 }
+ZZZ = { color = rgb { 68 81 51 } # 68 81 51
     	color_ui = rgb { 10 10 10 } }
-ZZY = { color = rgb { 83 99 72 }
+ZZY = { color = rgb { 83 99 72 } #83 99 72
     	color_ui = rgb { 10 10 10 } }
 ZZX = { color = rgb { 68 81 51 }
     	color_ui = rgb { 10 10 10 } }
@@ -129,6 +129,10 @@ VAG = { color = rgb { 127 0 0 }
 	color_ui = rgb { 127 0 0 } }
 SAH = { color = rgb { 236 28 36 }
 	color_ui = rgb { 236 28 36 } }
+SCE = { color = rgb { 210 194 132 }
+	color_ui = rgb { 210 194 132 } }
+HTI = { color = rgb { 0 38 255 }
+	color_ui = rgb { 0 38 255 } }
 #Crater buggaloo
 CRA = { color = rgb { 255 255 0 }
 	color_ui = rgb { 255 255 0 } }
@@ -178,6 +182,12 @@ RAD = { color = rgb { 253 209 22 }
 	color_ui = rgb { 253 209 22 } }
 GOR = { color = rgb { 180 0 0 }
 	color_ui = rgb { 180 0 0 } }
+CHU = { color = rgb { 255 53 12 }
+	color_ui = rgb { 255 53 12 } }
+XOU = { color = rgb { 206 17 38 }
+	color_ui = rgb { 206 17 38 } }
+GEM = { color = rgb { 250 184 37 }
+	color_ui = rgb { 250 184 37 } }
 
 ###DORVICS###
 SLO = { color = rgb { 0 82 152 }
@@ -204,8 +214,6 @@ VIB = { color = rgb { 255 255 255 }
 	color_ui = rgb { 255 255 255 } }
 AIN = { color = rgb { 150 196 75 }
 	color_ui = rgb { 150 196 75 } }
-ANI = { color = rgb { 206 17 38 }
-	color_ui = rgb { 206 17 38 } }
 NOL = { color = rgb { 213 183 58 }
 	color_ui = rgb { 213 183 58 } }
 TOM = { color = rgb { 171 28 40 }

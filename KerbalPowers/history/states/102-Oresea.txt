@@ -21,6 +21,14 @@ state={
 		503 538 555 561 587 604 613 624 639 645 654 665 697 703 718 723 
 	}
 	manpower=1000000
+	resources={
+		steel=10
+		aluminium=10
+		chromium=10
+		rubber=10
+		oil=10
+		tungsten=10
+	}
 	buildings_max_level_factor=1.000
 	state_category=metropolis
 }

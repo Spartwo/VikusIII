@@ -1045,7 +1045,7 @@
 1044;1;210;150;land;true;plains;5
 1045;214;92;75;land;false;plains;5
 1046;47;30;232;lake;false;lakes;5
-1047;210;173;102;land;false;plains;5
+1047;210;173;102;land;true;plains;5
 1048;12;40;240;land;false;plains;5
 1049;52;27;173;land;true;marsh;5
 1050;92;57;21;land;false;plains;1

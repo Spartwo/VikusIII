@@ -77,6 +77,7 @@ VAL = "countries/VAL.txt" #VALENIA
 SAH = "countries/SAH.txt" #SAHRLAND
 SCH = "countries/SCH.txt" #SCHRSCHNELL
 JUN = "countries/JUN.txt" #JUNO (OPIA RARE RUMP)
+SCE = "countries/SCE.txt" #SCEANIA
 
 ###MAMB###
 MEC = "countries/MEC.txt" #MECHANI
@@ -107,6 +108,9 @@ ZAP = "countries/ZAP.txt" #ZAPODA
 BEL = "countries/BEL.txt" #BELASRIOV
 BEA = "countries/BEA.txt" #BELAENIA
 ESS = "countries/ESS.txt" #ESSEN
+GEM = "countries/GEM.txt" #GEMINGZHIJIA
+XOU = "countries/XOU.txt" #XOURAO
+CHU = "countries/CHU.txt" #CHUSEI
 #Post start release
 ZIM = "countries/ZIM.txt" #ZIMOR (SPAWN IN AREAS OF NIS AND DRA IF SANCTUM IS BEATEN)
 DRA = "countries/DRA.txt" #DRAVISOV (TAKES REMAINING AREA OF NIS IF ZIMOR EXIST)
@@ -129,7 +133,6 @@ FEN = "countries/FEN.txt" #FENIKS
 VIB = "countries/VIB.txt" #LOVIBIA
 RED = "countries/RED.txt" #RED
 TOM = "countries/TOM.txt" #TOMRORINIA
-ANI = "countries/ANI.txt" #ANIXIA 
 NOL = "countries/NOL.txt" #NOLAND
 
 ###BASKAY###
@@ -220,3 +223,4 @@ MEN = "countries/MEN.txt" #MENTONOGRA (POST-KSKM STATE, TAKEN BY IRSMUN)
 BSK = "countries/BSK.txt" #BASKAY COMMUNE (HOOK ISLAND LAYTHIAN PUPPET IF TROAKIA JOINS KSKM OR DFK)
 TOR = "countries/TOR.txt" #DELTORA (LOW SPAWN CHANCE ALTERNATE TO CARTHIA)
 DTA = "countries/DTA.txt" #DELTA (CAN SPAWN WITHOUT DELTORA COLLAPSE)
+HTI = "countries/HFI.txt" #HARTFORDIA

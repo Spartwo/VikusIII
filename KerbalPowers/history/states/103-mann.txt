@@ -3,12 +3,12 @@ state={
 	id=103
 	name="STATE_103"
 	resources={
-		steel=50.000
-		aluminium=0.000
-		chromium=0.000
-		rubber=0.000
-		oil=0.000
-		tungsten=0.000
+		steel=10
+		aluminium=10
+		chromium=10
+		rubber=10
+		oil=10
+		tungsten=10
 	}
 
 	history={

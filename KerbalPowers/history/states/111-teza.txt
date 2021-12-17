@@ -3,18 +3,19 @@ state={
 	id=111
 	name="STATE_111"
 	resources={
-		steel=0.000
-		aluminium=0.000
-		chromium=0.000
-		rubber=0.000
-		oil=0.000
-		tungsten=0.000
+		steel=10.000
+		aluminium=10.000
+		chromium=10.000
+		rubber=10.000
+		oil=10.000
+		tungsten=10.000
 	}
 
 	history={
 		owner = KAL
 		add_core_of = KAL
 		add_core_of = MEN
+		add_claim_by = HTI
 		victory_points = { 1830 10 }
 		victory_points = { 1915 10 }
 		buildings = {
@@ -31,6 +32,6 @@ state={
 		1820 1827 1830 1850 1897 1915 1968 
 	}
 	manpower=1200000
-	buildings_max_level_factor=0.000
+	buildings_max_level_factor=10.000
 	state_category=city
 }
