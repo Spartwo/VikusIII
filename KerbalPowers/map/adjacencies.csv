@@ -54,7 +54,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 
 3985;3746;;-1;-1;-1;-1;-1;AONTAS_STRAIT;
 3526;3649;;-1;-1;-1;-1;-1;HOUT_STRAIT;
-3549;3649;;-1;-1;-1;-1;-1;BITTERWATER_CANAL;
 30;29;;-1;-1;-1;-1;-1;FORSETTI_STRAIT_1;
 47;30;;-1;-1;-1;-1;-1;FORSETTI_STRAIT_2;
 553;167;;-1;-1;-1;-1;-1;HOOK_STRAIT_LEFT;

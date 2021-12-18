@@ -16,20 +16,20 @@ news_event = {
 			NOT = {
 				OR = {
 					AND = {
-						ROOT = { has_government = fascism }
-						FROM.FROM = { has_government = fascism }
+						ROOT = { has_government = autocratic }
+						FROM.FROM = { has_government = autocratic }
 					}
 					AND = {
-						ROOT = { has_government = democratic }
-						FROM.FROM = { has_government = democratic }
+						ROOT = { has_government = oligarchic }
+						FROM.FROM = { has_government = oligarchic }
 					}
 					AND = {
-						ROOT = { has_government = communism }
-						FROM.FROM = { has_government = communism }
+						ROOT = { has_government = ruinous }
+						FROM.FROM = { has_government = ruinous }
 					}
 					AND = {
-						ROOT = { has_government = neutrality }
-						FROM.FROM = { has_government = neutrality }
+						ROOT = { has_government = oligarchic }
+						FROM.FROM = { has_government = oligarchic }
 					}
 				}
 			}
@@ -46,12 +46,12 @@ news_event = {
 		trigger = {
 			OR = {
 				AND = {
-					ROOT = { has_government = fascism }
-					FROM.FROM = { has_government = fascism }
+					ROOT = { has_government = autocratic }
+					FROM.FROM = { has_government = autocratic }
 				}
 				AND = {
-					ROOT = { has_government = communism }
-					FROM.FROM = { has_government = communism }
+					ROOT = { has_government = ruinous }
+					FROM.FROM = { has_government = ruinous }
 				}
 			}
 			FROM.FROM = {
@@ -127,20 +127,20 @@ news_event = {
 			NOT = {
 				OR = {
 					AND = {
-						ROOT = { has_government = fascism }
-						FROM.FROM = { has_government = fascism }
+						ROOT = { has_government = autocratic }
+						FROM.FROM = { has_government = autocratic }
 					}
 					AND = {
-						ROOT = { has_government = democratic }
-						FROM.FROM = { has_government = democratic }
+						ROOT = { has_government = oligarchic }
+						FROM.FROM = { has_government = oligarchic }
 					}
 					AND = {
-						ROOT = { has_government = communism }
-						FROM.FROM = { has_government = communism }
+						ROOT = { has_government = ruinous }
+						FROM.FROM = { has_government = ruinous }
 					}
 					AND = {
-						ROOT = { has_government = neutrality }
-						FROM.FROM = { has_government = neutrality }
+						ROOT = { has_government = oligarchic }
+						FROM.FROM = { has_government = oligarchic }
 					}
 				}
 			}

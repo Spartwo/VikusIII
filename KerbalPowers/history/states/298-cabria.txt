@@ -14,18 +14,24 @@ state={
 	history={
 		owner = MED
 		add_core_of = MED
-		victory_points = { 6800 10 } #Tullnisk
-		victory_points = { 6899 5 } #Vestmark
+		victory_points = {
+			6800 10 
+		}
+		victory_points = {
+			6899 5 
+		}
 		buildings = {
 			infrastructure = 2
+
 		}
 
 	}
 
 	provinces={
-		4493 6735 6751 6800 6899 
+		4493 6735 6751 6800 
 	}
 	manpower=120000
 	buildings_max_level_factor=1.000
 	state_category=rural
+	local_supplies=0.000
 }

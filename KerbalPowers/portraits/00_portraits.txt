@@ -1,0 +1,232 @@
+default = {
+	#navy = {
+		#male = {
+		#}
+		#female = {
+		#}
+	#}
+	
+	#army = {
+		#male = {
+		#}
+		#female = {
+		#}
+	#}
+
+	operative = {
+		male = {
+			"gfx/leaders/operative_unknown.dds"
+		}
+		female = {
+			"gfx/leaders/operative_unknown.dds"
+		}
+	}
+
+	male = {
+		"gfx/leaders/leader_unknown.dds"
+	}
+	female = {
+		"gfx/leaders/leader_unknown_female.dds"
+	}
+}
+
+continent = {
+	name = europe
+	army = {
+		male = {
+			"gfx/leaders/leader_unknown.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/leader_unknown.dds"
+		}
+	}
+
+	political = {
+		male = {
+			"gfx/leaders/leader_unknown.dds"
+		}
+		female = {
+			"gfx/leaders/leader_unknown_female.dds"
+		}
+	}	
+}
+continent = {
+	name = north_america
+	army = {
+		male = {
+			"gfx/leaders/leader_unknown.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/leader_unknown.dds"
+		}
+	}
+
+	political = {
+		male = {
+			"gfx/leaders/leader_unknown.dds"
+		}
+		female = {
+			"gfx/leaders/leader_unknown_female.dds"
+		}
+	}	
+}
+
+continent = {
+	name = south_america
+	army = {
+		male = {
+			"gfx/leaders/leader_unknown.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/leader_unknown.dds"
+		}
+	}
+
+	political = {
+		male = {
+			"gfx/leaders/leader_unknown.dds"
+		}
+		female = {
+			"gfx/leaders/leader_unknown_female.dds"
+		}
+	}	
+
+}
+
+continent = {
+	name = australia
+	army = {
+		male = {
+			"gfx/leaders/leader_unknown.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/leader_unknown.dds"
+		}
+	}
+
+	political = {
+		male = {
+			"gfx/leaders/leader_unknown.dds"
+		}
+		female = {
+			"gfx/leaders/leader_unknown_female.dds"
+		}
+	}	
+
+}
+
+continent = {
+	name = africa
+	army = {
+		male = {
+			"gfx/leaders/leader_unknown.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/leader_unknown.dds"
+		}
+	}
+
+	political = {
+		male = {
+			"gfx/leaders/leader_unknown.dds"
+		}
+		female = {
+			"gfx/leaders/leader_unknown_female.dds"
+		}
+	}	
+
+
+}
+
+continent = {
+	name = asia
+	army = {
+		male = {
+			"gfx/leaders/leader_unknown.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/leader_unknown.dds"
+		}
+	}
+
+	political = {
+		male = {
+			"gfx/leaders/leader_unknown.dds"
+		}
+		female = {
+			"gfx/leaders/leader_unknown_female.dds"
+		}
+	}	
+
+}
+
+continent = {
+	name = middle_east
+	army = {
+		male = {
+			"gfx/leaders/leader_unknown.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/leader_unknown.dds"
+		}
+	}
+
+	political = {
+		male = {
+			"gfx/leaders/leader_unknown.dds"
+		}
+		female = {
+			"gfx/leaders/leader_unknown_female.dds"
+		}
+	}	
+
+}
+
+
+#######NATIONAL SETS#########
+
+
+NMC = {
+	army = {
+		male = {
+			"gfx/leaders/leader_unknown.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/leader_unknown.dds"
+		}
+	}
+
+	political = {
+		male = {
+			"gfx/leaders/leader_unknown.dds"
+		}
+		female = {
+			"gfx/leaders/leader_unknown_female.dds"
+		}
+	}	
+}
+

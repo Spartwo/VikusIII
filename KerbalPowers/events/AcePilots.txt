@@ -14,28 +14,12 @@ country_event = {
 	title = ace_promoted.1.t
 	desc = {
 		text = ace_promoted.1.d
-		trigger = {
-			NOT = { tag = TEK }
-			NOT = { tag = ARC }
-			NOT = { tag = AEN }
-			NOT = { tag = ZOK }
-			NOT = { tag = KAL }
-			NOT = { tag = FEG }
-			NOT = { tag = NMC }
+		trigger = {is_major = no
 		}
 	}
 	desc = {
 		text = ace_promoted.1.d_major
-		trigger = {
-			OR = {
-				tag = TEK
-				tag = ARC
-				tag = AEN
-				tag = ZOK
-				tag = KAL
-				tag = FEG
-				tag = NMC
-			}
+		trigger = {is_major = yes
 		}
 	}
 	picture = GFX_report_event_ace_promoted
@@ -53,28 +37,12 @@ country_event = {
 	title = ace_promoted.2.t
 	desc = {
 		text = ace_promoted.1.d
-		trigger = {
-			NOT = { tag = TEK }
-			NOT = { tag = ARC }
-			NOT = { tag = AEN }
-			NOT = { tag = ZOK }
-			NOT = { tag = KAL }
-			NOT = { tag = FEG }
-			NOT = { tag = NMC }
+		trigger = {is_major = no
 		}
 	}
 	desc = {
 		text = ace_promoted.1.d_major
-		trigger = {
-			OR = {
-				tag = TEK
-				tag = ARC
-				tag = AEN
-				tag = ZOK
-				tag = KAL
-				tag = FEG
-				tag = NMC
-			}
+		trigger = {is_major = yes
 		}
 	}
 	picture = GFX_report_event_ace_promoted
@@ -93,28 +61,12 @@ country_event = {
 	title = ace_died.1.t	
 	desc = {
 		text = ace_died.1.d
-		trigger = {
-			NOT = { tag = TEK }
-			NOT = { tag = ARC }
-			NOT = { tag = AEN }
-			NOT = { tag = ZOK }
-			NOT = { tag = KAL }
-			NOT = { tag = FEG }
-			NOT = { tag = NMC }
+		trigger = {is_major = no
 		}
 	}
 	desc = {
 		text = ace_died.1.d_major
-		trigger = {
-			OR = {
-				tag = TEK 
-				tag = ARC 
-				tag = AEN 
-				tag = ZOK 
-				tag = KAL 
-				tag = FEG
-				tag = NMC
-			} 
+		trigger = {is_major = yes
 		}
 	}
 	picture = GFX_report_event_ace_died
@@ -140,13 +92,7 @@ country_event = {
 					PREV = { 
 						OWNER = {
 							OR = {
-								tag = TEK 
-								tag = ARC 
-								tag = AEN 
-								tag = ZOK 
-								tag = KAL 
-								tag = FEG
-								tag = NMC
+								is_important_nation = yes
 							} 
 						} 
 					}
@@ -155,13 +101,7 @@ country_event = {
 					FROM = { 
 						OWNER = {
 							OR = {
-								tag = TEK 
-								tag = ARC 
-								tag = AEN 
-								tag = ZOK 
-								tag = KAL 
-								tag = FEG
-								tag = NMC
+								is_important_nation = yes
 							} 
 						}
 					}
@@ -176,26 +116,14 @@ country_event = {
 			PREV = { 
 				OWNER = {
 					OR = {
-						tag = TEK 
-						tag = ARC 
-						tag = AEN 
-						tag = ZOK 
-						tag = KAL 
-						tag = FEG
-						tag = NMC
+						is_important_nation = yes
 					} 
 				}
 			}
 			FROM = { 
 				OWNER = {
 					OR = {
-						tag = TEK 
-						tag = ARC 
-						tag = AEN 
-						tag = ZOK 
-						tag = KAL 
-						tag = FEG
-						tag = NMC
+						is_important_nation = yes
 					} 
 				}
 			}
@@ -224,13 +152,7 @@ country_event = {
 					PREV = { 
 						OWNER = {
 							OR = {
-								tag = TEK 
-								tag = ARC 
-								tag = AEN 
-								tag = ZOK 
-								tag = KAL 
-								tag = FEG
-								tag = NMC
+								is_important_nation = yes
 							} 
 						} 
 					}
@@ -239,13 +161,7 @@ country_event = {
 					FROM = { 
 						OWNER = {
 							OR = {
-								tag = TEK 
-								tag = ARC 
-								tag = AEN 
-								tag = ZOK 
-								tag = KAL 
-								tag = FEG
-								tag = NMC
+								is_important_nation = yes
 							} 
 						}
 					}
@@ -260,26 +176,14 @@ country_event = {
 			PREV = { 
 				OWNER = {
 					OR = {
-						tag = TEK 
-						tag = ARC 
-						tag = AEN 
-						tag = ZOK 
-						tag = KAL 
-						tag = FEG
-						tag = NMC
+						is_important_nation = yes
 					} 
 				}
 			}
 			FROM = { 
 				OWNER = {
 					OR = {
-						tag = TEK 
-						tag = ARC 
-						tag = AEN 
-						tag = ZOK 
-						tag = KAL 
-						tag = FEG
-						tag = NMC
+						is_important_nation = yes
 					} 
 				}
 			}
@@ -308,13 +212,7 @@ country_event = {
 					PREV = { 
 						OWNER = {
 							OR = {
-								tag = TEK 
-								tag = ARC 
-								tag = AEN 
-								tag = ZOK 
-								tag = KAL 
-								tag = FEG
-								tag = NMC
+								is_important_nation = yes
 							} 
 						} 
 					}
@@ -323,13 +221,7 @@ country_event = {
 					FROM = { 
 						OWNER = {
 							OR = {
-								tag = TEK 
-								tag = ARC 
-								tag = AEN 
-								tag = ZOK 
-								tag = KAL 
-								tag = FEG
-								tag = NMC
+								is_important_nation = yes
 							} 
 						}
 					} 
@@ -344,26 +236,14 @@ country_event = {
 			PREV = { 
 				OWNER = {
 					OR = {
-						tag = TEK 
-						tag = ARC 
-						tag = AEN 
-						tag = ZOK 
-						tag = KAL 
-						tag = FEG
-						tag = NMC
+						is_important_nation = yes
 					} 
 				}
 			}
 			FROM = { 
 				OWNER = {
 					OR = {
-						tag = TEK 
-						tag = ARC 
-						tag = AEN 
-						tag = ZOK 
-						tag = KAL 
-						tag = FEG
-						tag = NMC
+						is_important_nation = yes
 					} 
 				}
 			}

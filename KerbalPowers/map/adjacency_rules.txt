@@ -52,45 +52,7 @@ adjacency_rule =
 
 }
 
-#BITTERWATER LAKE
-adjacency_rule =
-{
-	name = "BITTERWATER_CANAL"
 
-	contested =
-	{
-		army = no
-		navy = no
-		submarine = no
-		trade = no
-	}
-	enemy =
-	{
-		army = no
-		navy = no
-		submarine = no
-		trade = no
-	}
-	friend =
-	{
-		army = yes
-		navy = yes
-		submarine = no
-		trade = yes
-	}
-	neutral =
-	{
-		army = yes
-		navy = yes
-		submarine = no
-		trade = yes
-	}
-	
-	required_provinces = { 3716 3728 3812 3792 }
-		
-	icon = 3549
-	offset = { 1 0 -6 }
-}
 
 #HOUT STRAIT
 adjacency_rule =
