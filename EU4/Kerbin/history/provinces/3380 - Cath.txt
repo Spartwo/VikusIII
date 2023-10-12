@@ -1,0 +1,23 @@
+#3380 - Cath
+
+
+native_size = 1 
+native_ferocity = 1
+native_hostileness = 1
+
+culture = Tekian
+religion = krakenity
+
+discovered_by = western
+
+capital = "Cath"
+
+is_city = yes
+hre = no
+base_tax = 4
+base_production = 6
+base_manpower = 5
+
+
+extra_cost = 0
+

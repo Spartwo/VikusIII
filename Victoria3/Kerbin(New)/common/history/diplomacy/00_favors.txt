@@ -1,0 +1,8 @@
+﻿DIPLOMACY = {
+	c:GRE = {
+		set_owes_obligation_to = {
+			country = c:NGR
+			setting = yes
+		}
+	}
+}

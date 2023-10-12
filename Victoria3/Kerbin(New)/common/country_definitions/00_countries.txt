@@ -1,0 +1,1502 @@
+﻿###### EXAMPLE ######
+
+#EXA = {
+#	color = { 39 84 135 } #The colour of this country on the map.
+#
+#	country_type = recognized #See common\country_types
+#
+#	tier = kingdom #See common\country_ranks
+#
+#	cultures = { examplish } #What are their primary culture/s - you can set multiple.
+#	capital = STATE_EXAMPLE #Which state holds this nation's default capital
+#}
+
+#####################
+
+AAA = 
+	color = { 255 255 255 } #The colour of this country on the map.
+	country_type = unrecognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+} #COMER
+
+###KAFRICA###
+
+COM = {
+	color = { 69 69 109 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+} #COMER
+
+ALB =  {
+	color = { 219 219 155 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+} #ALBERCAUN
+
+LOT =  {
+	color = { 0 148 255 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+} #LOTHBROK
+
+KAR =  {
+	color = { 96 96 96 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+} #KARTHAX
+
+NKS =  {
+	color = { 181 0 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+} #NKS
+
+ELY =  {
+	color = { 255 255 255 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+} #ELYSIUM
+
+WES =  {
+	color = { 0 51 91 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+} #WESTRAY
+
+VNO =  {
+	color = { 255 106 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+} #VIENO
+
+OWO =  {
+	color = { 0 38 255 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+} #WO
+
+BLY =  {
+	color = { 178 0 255 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+} #BLYTHERIA
+
+STR =  {
+	color = { 45 45 45 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+} #STRELKA
+
+EUR = {
+	color = { 245 242 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { EUR}
+	capital = STATE_KSC
+} #EUREKA
+
+#Post start release
+VOC = {
+	color = { 0 51 128 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { VOC}
+	capital = STATE_KSC
+} #VOCAVIUM
+
+FLO = {
+	color = { 130 36 51 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { FLO}
+	capital = STATE_KSC
+} #FLORACIA (IN CONTENTION WITH ALTERIX)
+
+ACC = {
+	color = { 255 216 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { ACC}
+	capital = STATE_KSC
+} #ACCIPITER
+
+AZE = {
+	color = { 102 2 60 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { AZE}
+	capital = STATE_KSC
+} #AZENIA (RELEASED FROM LOTHBROK BY FOCUS)
+
+KAA = {
+	color = { 0 38 255 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { KAA}
+	capital = STATE_KSC
+} #KAADAR
+
+OSI = {
+	color = { 0 33 71 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { OSI}
+	capital = STATE_KSC
+} #OSINI (TAKES MAINLAND STRELKA IF BLYATNAM LOST)
+
+VER = {
+	color = { 67 67 67 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { VER}
+	capital = STATE_KSC
+} #VERBADY
+
+RAT = {
+	color = { 255 174 201 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { RAT}
+	capital = STATE_KSC
+} #RATHANIA
+
+HEI = {
+	color = { 0 57 166 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { HEI}
+	capital = STATE_KSC
+} #HEINZ REPUBEANICA
+
+HAR = {
+	color = { 18 122 56 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { HAR}
+	capital = STATE_KSC
+} #HARTON
+
+KRK = {
+	color = { 0 4 50 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { KRK}
+	capital = STATE_OSTLICH
+} #KRAKEN (STATIST REBELLION IN OLD ELYSIUM #274)
+
+ARK = {
+	color = { 0 170 212 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { ARK}
+	capital = STATE_ARKERI
+} #ARKERIA (NEOCONSERVATIVE REBELLION IN OCCUPIED NKS #585)
+
+###KAFRAIC###
+TEK = {
+	color = { 27 85 132 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_CATH
+} #TEKKIA
+
+SOL = {
+	color = { 209 200 125 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { SOL}
+	capital = STATE_LOD
+} #SOLARIA
+
+KRO = {
+	color = { 8 127 32 } #The colour of this country on the map.
+
+	country_type = recognized
+
+	tier = city_state
+
+	cultures = { examplish } 
+	capital = STATE_DIOSCA
+} #KROME
+
+CEL = {
+	color = { 12 148 250 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_ADHARC
+} #CELRAPAN
+
+KSC = {
+	color = { 132 132 132 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+} #DO I GOTTA EXPLAN THIS ONE
+
+GRE = {
+	color = { 79 155 54 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_GRESTIN
+} #GRESTIN
+
+#Cores
+CAB = {
+	color = { 34 140 183 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { CAB}
+	capital = STATE_VARGO
+} #CABRAI (TEKKIAN COMPONENT STATE)
+
+GRS = {
+	color = { 63 158 96 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { GRS}
+	capital = STATE_AMBARGO
+} #GRESTINE (TEKKIAN PUPPET IN GRESTIN)
+
+NGR = {
+	color = { 22 11 175} #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { NGR}
+	capital = STATE_AMBARGO
+} #NORTH GRESTIN (DECLARES INDEPENDENCE ON GRESTIN CAPITULATION)
+
+DIO = {
+	color = { 56 56 135 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { DIO}
+	capital = STATE_DIOSCA
+} #DIOSCA
+
+LOV = {
+	color = { 90 145 113 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { LOV}
+	capital = STATE_BOWN
+} #LOVATICA
+
+CHK = {
+	color = { 249 129 49 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { CHK}
+	capital = STATE_BAL
+} #CHIKUSHINAL (STRELKAN RUMP STATE)
+
+###KOLUS###
+ZOK = {
+	color = { 0 81 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { ZOK}
+	capital = STATE_EZEKIA
+} #ZOKESIA
+
+CHO = {
+	color = { 224 150 47 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { CHO}
+	capital = STATE_RIA
+} #CHOSAINT
+
+GRA = {
+	color = { 113 84 206 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { GRA}
+	capital = STATE_KSC
+} #GRANDERIA
+
+PUG = {
+	color = { 55 134 190 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { PUG}
+	capital = STATE_KSC
+} #PUGE-TATAR
+
+KOT = {
+	color = { 68 68 132 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { KOT}
+	capital = STATE_KSC
+} #KOTHEN
+
+BAS = {
+	color = { 255 106 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { BAS}
+	capital = STATE_KSC
+} #BASTIA
+
+WUS = {
+	color = { 226 193 127 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { WUS}
+	capital = STATE_KSC
+} #WUSTE
+
+VAN = {
+	color = { 45 45 45 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { VAN}
+	capital = STATE_KSC
+} #VANADIA
+
+PHO = {
+	color = { 206 43 55 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { PHO}
+	capital = STATE_KSC
+} #PHOENIA
+
+SAN = {
+	color = { 204 160 30 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { SAN}
+	capital = STATE_KSC
+} #SANCTUM
+
+COT = {
+	color = { 0 34 229 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { COT}
+	capital = STATE_KSC
+} #COTMARK (KUS RUMP)
+
+VAG = {
+	color = { 127 0 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { VAG}
+	capital = STATE_KSC
+} #VAGANI 
+
+#Post start release
+CRS = {
+	color = { 0 19 127 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { CRS}
+	capital = STATE_KSC
+} #CARSDONIA (TAKES OVER LARGE CHUNKS OF POST-KUS)
+
+NUV = {
+	color = { 0 112 192 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { NUV}
+	capital = STATE_KSC
+} #NUVALKA (TAKES OVER IN POST-KUS)
+
+#Crater Buggaloo
+CRA = {
+	color = { 255 255 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { CRA}
+	capital = STATE_KSC
+} #CRATER
+
+VSA = {
+	color = { 114 3 2 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { VSA}
+	capital = STATE_KSC
+} #VALSANG
+
+MAL = {
+	color = { 45 45 45 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { MAL}
+	capital = STATE_KSC
+} #MALAFRAZ
+
+CYT = {
+	color = { 112 132 177 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { CYT}
+	capital = STATE_KSC
+} #CYTHIA
+
+CHA = {
+	color = { 95 95 95 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { CHA}
+	capital = STATE_KSC
+} #CHARUM
+
+#Cores
+SVC = {
+	color = { 70 70 70 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { SVC}
+	capital = STATE_KSC
+} #SALMIGEL
+
+BOS = {
+	color = { 0 81 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { BOS}
+	capital = STATE_KSC
+} #BOSMYTH (LIKELY TO BE RELEASED IF SANCTUM BEATS ZOKESIA)
+
+RID = {
+	color = { 0 176 80 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { RID}
+	capital = STATE_KSC
+} #ARIDIA
+
+VAL = {
+	color = { 255 214 24 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { VAL}
+	capital = STATE_KSC
+} #VALENIA
+
+SAH = {
+	color = { 236 28 36 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { SAH}
+	capital = STATE_KSC
+} #SAHRLAND
+
+SCH = {
+	color = { 117 170 218 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { SCH}
+	capital = STATE_KSC
+} #SCHRSCHNELL
+
+JUN = {
+	color = { 237 28 36 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { JUN}
+	capital = STATE_KSC
+} #JUNO (OPIA RARE RUMP)
+
+SCE = {
+	color = { 210 194 132 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { SCE}
+	capital = STATE_KSC
+} #SCEANIA
+
+###MAMB###
+MEC = {
+	color = { 255 83 15 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { MEC}
+	capital = STATE_KSC
+} #MECHANI
+
+SWE = {
+	color = { 18 21 66 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { SWE}
+	capital =	STATE_KSC
+} #SWEIZE
+
+GUM = {
+	color = { 0 38 255 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { GUM}
+	capital = STATE_KSC
+} #GUME
+
+FID = {
+	color = { 107 185 255 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { FID}
+	capital = STATE_KSC
+} #FIDELIS
+
+#Post start release
+ION = {
+	color = { 166 150 74 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { ION}
+	capital = STATE_KSC
+} #IONIA
+
+KYV = {
+	color = { 25 159 253 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { KYV}
+	capital = STATE_KSC
+} #KYVIZ-DURVEK
+
+ROV = {
+	color = { 254 221 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { ROV}
+	capital = STATE_KSC
+} #ROVOLIA
+
+BOT = {
+	color = { 14 209 69 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { BOT}
+	capital = STATE_KSC
+} #BOTANG
+
+#Cores
+GOG = {
+	color = { 22 118 61 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { GOG}
+	capital = STATE_KSC
+} #GOGOVIA
+
+CLO = {
+	color = { 179 89 180} #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { CLO}
+	capital = STATE_KSC
+} #CLOWEISH
+
+OPE = {
+	color = { 154 159 211 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { OPE}
+	capital = STATE_KSC
+} #OPIA (BREAKS FROM ROV IF ZOK INVADE)
+
+###DOREN###
+ARC = {
+	color = { 126 1 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { ARC}
+	capital = STATE_KSC
+} #ARCADIA
+
+OFE = {
+	color = { 4 105 148 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { OFE}
+	capital = STATE_KSC
+} #OFELIYA
+
+AEN = {
+	color = { 0 114 93 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { AEN}
+	capital = STATE_KSC
+} #AENIA
+
+HAL = {
+	color = { 0 127 14 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { HAL}
+	capital = STATE_KSC
+} #HALCO
+
+KAN = {
+	color = { 201 0 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { KAN}
+	capital = STATE_KSC
+} #KANBEK
+
+ERA = {
+	color = { 0 19 127 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { ERA}
+	capital = STATE_KSC
+} #ERADICA
+
+KON = {
+	color = { 230 240 230 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { KON}
+	capital = STATE_KONIG
+} #KONIG
+
+ZER = {
+	color = { 40 40 40 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { ZER}
+	capital = STATE_KSC
+} #ZERAOR
+
+AMB = {
+	color = { 244 189 24 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { AMB}
+	capital = STATE_KSC
+} #AMBER
+
+ZAP = {
+	color = { 255 216 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { ZAP}
+	capital = STATE_KSC
+} #ZAPODA
+
+BEL = {
+	color = { 0 164 229 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { BEL}
+	capital = STATE_KSC
+} #BELASRIOV
+
+BEA = {
+	color = { 28 187 255 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { BEA}
+	capital = STATE_KSC
+} #BELAENIA
+
+ESS = {
+	color = { 13 16 70 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { ESS}
+	capital = STATE_KSC
+} #ESSEN
+
+GEM = {
+	color = { 250 184 37 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { GEM}
+	capital = STATE_KSC
+} #GEMINGZHIJIA
+
+XOU = {
+	color = { 206 17 38 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { XOU}
+	capital = STATE_KSC
+} #XOURAO
+
+CHU = {
+	color = { 255 53 12 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { CHU}
+	capital = STATE_KSC
+} #CHUSEI
+
+#Post start release
+ZIM = {
+	color = { 0 32 96 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { ZIM}
+	capital = STATE_KSC
+} #ZIMOR (SPAWN IN AREAS OF NIS AND DRA IF SANCTUM IS BEATEN)
+
+DRA = {
+	color = { 114 95 130 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { DRA}
+	capital = STATE_KSC
+} #DRAVISOV (TAKES REMAINING AREA OF NIS IF ZIMOR EXIST)
+
+NIS = {
+	color = { 204 0 1 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { NIS}
+	capital = STATE_KSC
+} #NISORIDAV
+
+RAD = {
+	color = { 253 209 22 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { RAD}
+	capital = STATE_KSC
+} #RADIVOSA (HIGH CHANCE TO SPAWN IF ZIMOR EXISTS)
+
+#Cores
+GOR = {
+	color = { 180 0 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { GOR}
+	capital = STATE_KSC
+} #GORODSKY (SPAWNS AS A LAST STAND AFTER ARCADIAN CAPITULATION)
+
+GAG = {
+	color = { 219 191 70 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { GAG}
+	capital = STATE_KSC
+} #GAGRIEL
+
+###DORVICS###
+SLO = {
+	color = { 0 82 152 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { SLO}
+	capital = STATE_KSC
+} #SLOVEN
+
+SAR = {
+	color = { 91 139 180 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { SAR}
+	capital = STATE_KSC
+} #SARCONIA
+
+ZHA = {
+	color = { 64 64 64 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { ZHA}
+	capital = STATE_KSC
+} #ZHASTRAM
+
+MAR = {
+	color = { 47 158 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { MAR}
+	capital = STATE_KSC
+} #MARYURT
+
+VUL = {
+	color = { 128 128 128 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { VUL}
+	capital = STATE_KSC
+} #VULKANAS
+
+SER = {
+	color = { 255 106 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { SER}
+	capital = STATE_KSC
+} #PANSERIA
+
+GIB = {
+	color = { 187 140 172 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { GIB}
+	capital = STATE_KSC
+} #GIBRAZI
+
+AIN = {
+	color = { 150 196 75 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { AIN}
+	capital = STATE_KSC
+} #AINAK
+
+FEN = {
+	color = { 183 183 183 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { FEN}
+	capital = STATE_KSC
+} #FENIKS
+
+VIB = {
+	color = { 255 255 255 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { VIB}
+	capital = STATE_KSC
+} #LOVIBIA
+
+RED = {
+	color = { 127 0 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { RED}
+	capital = STATE_KSC
+} #RED
+
+TOM = {
+	color = { 171 28 40 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { TOM}
+	capital = STATE_KSC
+} #TOMRORINIA
+
+NOL = {
+	color = { 213 183 58 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { NOL}
+	capital = STATE_KSC
+} #NOLAND
+
+###BASKAY###
+AQU = {
+	color = { 0 185 232 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { AQU}
+	capital = STATE_KSC
+} #AQUARIA
+
+OWL = {
+	color = { 0 19 127 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { OWL}
+	capital = STATE_KSC
+} #OWLIA
+
+BSL = {
+	color = { 64 128 128 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { BSL}
+	capital = STATE_KSC
+} #BASIL
+
+ERU = {
+	color = { 75 75 75 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { ERU}
+	capital = STATE_KSC
+} #ERUSIA
+
+DEL = {
+	color = { 239 202 55 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { DEL}
+	capital = STATE_KSC
+} #DELRAS
+
+SPE = {
+	color = { 255 201 14 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { SPE}
+	capital = STATE_KSC
+} #SPEARKA
+
+ZEO = {
+	color = { 237 28 36 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { ZEO}
+	capital = STATE_KSC
+} #ZEOUL
+
+HER = {
+	color = { 255 216 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { HER}
+	capital = STATE_KSC
+} #HERMIA
+
+ICO = {
+	color = { 0 101 189 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { ICO}
+	capital = STATE_KSC
+} #ICONIA
+
+ODI = {
+	color = { 8 8 68 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { ODI}
+	capital = STATE_KSC
+} #ODINAGRO
+
+#Cores
+FIS = {
+	color = { 12 128 181 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { FIS}
+	capital = STATE_KSC
+} #FISH ISLAND (BY ZOKESIAN FOCUS)
+
+GAL = {
+	color = { 27 60 43 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { GAL}
+	capital = STATE_KSC
+} #GALEONY-GALLANTE
+
+SAL = {
+	color = { 128 128 128 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { SAL}
+	capital = STATE_KSC
+} #SALRED (FELISKIA WILL TAKE ISLANDS AND FORCE SALRED OUT EARLY ON)
+
+CAN = {
+	color = { 42 71 124 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { CAN}
+	capital = STATE_KSC
+} #CANSTANA (BREAKS FROM HERMIA)
+
+VLR = {
+	color = { 139 0 204 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { VLR}
+	capital = STATE_KSC
+} #VALERIA (DELRAS CIVIL WAR COMMIE STANDIN)
+
+#ICONIA DEFECTORS
+KCA = {
+	color = { 255 216 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { KCA}
+	capital = STATE_KSC
+} #KERCIA (BREAKS EARLY ON)
+
+PRO = {
+	color = { 86 186 239 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { PRO}
+	capital = STATE_KSC
+} #PRODAVA (BREAKS FROM KERCIA)
+
+URJ = {
+	color = { 163 84 137 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { URJ}
+	capital = STATE_KSC
+} #UROJF (BREAKS OUT AFTER BIG WAR TO EAT AT PRODAVA)
+
+###FEGUANESIA###
+FEG = {
+	color = { 255 0 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { FEG}
+	capital = STATE_KSC
+} #FEGELAND
+
+GIZ = {
+	color = { 144 144 124 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { GIZ}
+	capital = STATE_KSC
+} #ALGIZA
+
+VEN = {
+	color = { 103 101 206 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { VEN}
+	capital = STATE_KSC
+} #VENMOUS
+
+LAN = {
+	color = { 22 35 77 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { LAN}
+	capital = STATE_KSC
+} #LANU
+
+REC = {
+	color = { 239 232 98 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { REC}
+	capital = STATE_KSC
+} #RECIPROCITY(AND THEIR MANY VARIETIES)
+
+ALE = {
+	color = { 0 51 91 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { ALE}
+	capital = STATE_KSC
+} #ALECTON
+
+EQU = {
+	color = { 246 200 57 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { EQU}
+	capital = STATE_KSC
+} #EQUATORIA
+
+SEI = {
+	color = { 0 66 168 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { SEI}
+	capital = STATE_KSC
+} #SEIFARE
+
+#Post start release
+HKA = {
+	color = { 70 149 93 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { HKA}
+	capital = STATE_KSC
+} #HKA
+
+#Cores
+ROS = {
+	color = { 82 181 234 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { ROS}
+	capital = STATE_KSC
+} #ROSTRUM (3RD PARTY TO RECIPROCITY CIVIL WAR)
+
+EST = {
+	color = { 255 127 39 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { EST}
+	capital = STATE_KSC
+} #ESTRELIA
+
+NAU = {
+	color = { 155 116 164 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { NAU}
+	capital = STATE_KSC
+} #NAUTILUS (POTENTIAL COMPROMISE OUTCOME)
+
+###CALEDON###
+ANG = {
+	color = { 0 64 128 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { ANG}
+	capital = STATE_KSC
+} #ANGVARDEN
+
+STM = {
+	color = { 207 84 34 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { STM}
+	capital = STATE_KSC
+} #SOLTEM
+
+#Cores
+UNI = {
+	color = { 72 97 125 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { UNI}
+	capital = STATE_KSC
+} #UNION
+
+IMP = {
+	color = { 163 73 164 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { IMP}
+	capital = STATE_KSC
+} #IMPERIUM (ANGVARDEN COLLAPSE STATE)
+
+SNJ = {
+	color = { 226 189 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { SNJ }
+	capital = STATE_KSC
+} #STRELKAN JUNTA (WHEN STRELKA IS DIVIDED)
+
+TRE = {
+	color = { 90 0 74 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { TRE}
+	capital = STATE_KSC
+} #TREPOSIA
+
+###FIRESVAR###
+NMC = {
+	color = { 74 53 94 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { NMC}
+	capital = STATE_KSC
+} #GAG
+
+NOR = {
+	color = { 6 90 67 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { NOR}
+	capital = STATE_KSC
+} #NORLAND
+
+BEN = {
+	color = { 204 101 32 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { BEN}
+	capital = STATE_KSC
+} #BENINE
+
+JOK = {
+	color = { 27 187 151 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { JOK}
+	capital = STATE_KSC
+} #JOKLA
+
+ART = {
+	color = { 72 97 125 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { ART}
+	capital = STATE_KSC
+} #ARTICA
+
+MED = {
+	color = { 7 72 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { MED}
+	capital = STATE_KSC
+} #MEDWEDIA
+
+#Post start release
+KER = {
+	color = { 113 143 200 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { KER}
+	capital = STATE_KSC
+} #KERRAGON
+
+YRA = {
+	color = { 163 233 255 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { YRA}
+	capital = STATE_KSC
+} #YRATSINOVA (SPAWNS INTO WAR WITH KERRAGON)
+
+BEI = {
+	color = { 7 55 99 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { BEI}
+	capital = STATE_KSC
+} #BEIDAO
+
+EDV = {
+	color = { 64 64 64 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { EDV}
+	capital = STATE_KSC
+} #EDVA (SPAWNS WITH A DEFEATED NMC)
+
+#Cores
+HEL = {
+	color = { 36 74 137 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { HEL}
+	capital = STATE_KSC
+} #HELACIA-SONDERMARK (SPAWNS IF CALLED BY MEDWED TO)
+
+RAF = {
+	color = { 0 162 232 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { RAF}
+	capital = STATE_KSC
+} #RAFLAND
+
+THA = {
+	color = { 126 0 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { THA}
+	capital = STATE_KSC
+} #THANATOS
+
+CRY = {
+	color = { 112 184 199 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { CRY}
+	capital = STATE_KSC
+} #CRYTIL (REPLACE NMC IF DESTROYED)
+
+TAE = {
+	color = { 23 56 105 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { TAE}
+	capital = STATE_KSC
+} #Taeznha
+
+ZAL = {
+	color = { 176 49 63 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { ZAL}
+	capital = STATE_KSC
+} #ZALKENT
+
+CLS = {
+	color = { 69 149 221 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { CLS}
+	capital = STATE_KSC
+} #CELESTA
+
+VON = {
+	color = { 252 185 10 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { VON}
+	capital = STATE_KSC
+} #VONIA(RARE SPAWN)
+
+###VEIID###
+KAL = {
+	color = { 127 127 127 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { KAL}
+	capital = STATE_KSC
+} #KRBJIA
+
+TRO = {
+	color = { 60 59 110 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { TRO}
+	capital = STATE_KSC
+} #TROAKIA
+
+LAY = {
+	color = { 122 21 14 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { LAY}
+	capital = STATE_KSC
+} #LAYTHIA
+
+CEN = {
+	color = { 51 153 255 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_REWE_MEGGI
+} #CENOVA
+
+BEH = {
+	color = { 0 127 80 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { BEH}
+	capital = STATE_KSC
+} #BEHIN
+
+ODE = {
+	color = { 254 221 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { ODE}
+	capital = STATE_KSC
+} #ODESIA
+
+IRS = {
+	color = { 84 0 94 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { IRS}
+	capital = STATE_KSC
+} #IRSMUN
+
+#Post start release
+CAR = {
+	color = { 250 209 23 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { CAR}
+	capital = STATE_KSC
+} #CARTHIA
+
+FEL = {
+	color = { 116 170 217 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { FEL}
+	capital = STATE_KSC
+} #FELISKIA
+
+#Cores
+EGR = {
+	color = { 255 178 127 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { EGR}
+	capital = STATE_KSC
+} #EGROS
+
+URR = {
+	color = { 174 48 48 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { URR}
+	capital = STATE_KSC
+} #UR
+
+USE = {
+	color = { 61 123 23 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { USE}
+	capital = STATE_KSC
+} #USWAIT 
+
+MEN = {
+	color = { 0 148 255 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { MEN}
+	capital = STATE_KSC
+} #MENTONOGRA (POST-KSKM STATE, TAKEN BY IRSMUN)
+
+BSK = {
+	color = { 21 21 165 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { BSK}
+	capital = STATE_KSC
+} #BASKAY COMMUNE (HOOK ISLAND LAYTHIAN PUPPET IF TROAKIA JOINS KSKM OR DFK)
+
+TOR = {
+	color = { 45 45 45 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { TOR}
+	capital = STATE_KSC
+} #DELTORA (LOW SPAWN CHANCE ALTERNATE TO CARTHIA)
+
+ARV = {
+	color = { 255 182 0 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { ARV}
+	capital = STATE_KSC
+} #DELTA (CAN SPAWN WITHOUT DELTORA COLLAPSE)
+
+HTI = {
+	color = { 0 38 255 } #The colour of this country on the map.
+	country_type = recognized
+	tier = city_state
+	cultures = { HTI}
+	capital = STATE_KSC
+} #HARTFORDIA
+
+
+###FORMABLE###
+
+
+
+

@@ -1,0 +1,25 @@
+government = monarchy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+technology_group = western
+religion = jebidism
+primary_culture = Chosaint
+add_accepted_culture = Egercian
+capital = 3693	# Ria
+
+
+historical_friend = KCT
+
+fixed_capital = 3693 # Cannot move capital away from this province & no power cost to move to it
+
+1440.11.11 = {
+	monarch = {
+		name = "Jebret I"
+		culture = egercian
+		birth_date = 1420.1.1
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+

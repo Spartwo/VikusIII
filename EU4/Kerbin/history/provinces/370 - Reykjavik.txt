@@ -1,0 +1,22 @@
+#370 - Reykjavik
+
+native_size = 1 
+native_ferocity = 1
+native_hostileness = 1
+
+culture = Stellan
+religion = krakenity
+hre = no
+base_tax = 1 
+
+base_production = 1
+base_manpower = 1
+add_local_autonomy = 25
+
+capital = "Reykjavik"
+is_city = yes 	
+discovered_by = western
+
+
+
+1752.1.1 = { trade_goods = wool } # Wool becomes more important.

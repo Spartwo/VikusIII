@@ -1,0 +1,21 @@
+
+add_core = USA  
+owner = USA
+controller = USA  
+
+culture = polish
+religion = krakenity
+
+discovered_by = western
+
+capital = "Seltreem"
+
+is_city = yes
+hre = no
+base_tax = 1
+base_production = 2
+base_manpower = 4
+
+ 
+extra_cost = 0
+

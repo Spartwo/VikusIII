@@ -1,0 +1,24 @@
+#3393 - Osmi
+
+
+add_core = NOR
+owner = NOR
+controller = NOR
+
+culture = norwegian
+religion = catholic
+
+discovered_by = western
+
+capital = "Osmi"
+
+is_city = yes
+hre = no
+base_tax = 2
+base_production = 4
+base_manpower = 2
+
+ 
+ 
+extra_cost = 0
+

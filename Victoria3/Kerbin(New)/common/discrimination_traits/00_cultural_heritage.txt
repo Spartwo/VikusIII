@@ -1,0 +1,7 @@
+﻿###### EXAMPLE ######
+
+#example_heritage = {
+#	heritage = yes
+#}
+
+#####################

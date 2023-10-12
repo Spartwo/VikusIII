@@ -1,0 +1,27 @@
+﻿#GBR = {
+#	use_culture_states = yes
+#
+#	required_states_fraction = 0.75	
+#	
+#	ai_will_do = { always = yes }
+#}
+
+#ENG = {
+#	states = {
+#		STATE_HOME_COUNTIES
+#		STATE_MIDLANDS
+#		STATE_EAST_ANGLIA
+#		STATE_WEST_COUNTRY
+#		STATE_YORKSHIRE
+#		STATE_LANCASHIRE
+#	}
+#
+#	required_states_fraction = 0.75	
+#	
+#	ai_will_do = { always = yes }
+#	possible = {
+#		has_law = law_type:law_monarchy
+#		has_technology_researched = pan-nationalism
+#		NOT = { has_game_rule = plausible_formable_nations }
+#	}
+#}

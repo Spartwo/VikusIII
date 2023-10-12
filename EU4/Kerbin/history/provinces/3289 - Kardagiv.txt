@@ -1,0 +1,19 @@
+#3289 - Kardagiv
+
+culture = Kardagiv
+
+native_size = 1
+native_ferocity = 1
+native_hostileness = 1
+
+discovered_by = western
+
+religion = krakenity
+capital = "Kardagiv"
+hre = no
+base_tax = 2
+base_production = 4
+base_manpower = 1
+ 
+ 
+

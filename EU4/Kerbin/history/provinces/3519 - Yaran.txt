@@ -1,0 +1,15 @@
+#YARAN
+
+native_ferocity = 1
+native_hostileness = 1
+native_size = 1   
+
+culture = Botang
+religion = krakenity
+capital = "Yaran"
+hre = no
+
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes

@@ -1,0 +1,64 @@
+﻿SmartPainter={
+	PresetManager={
+		Presets={
+			Preset={
+				name="ICECAPS"
+				HeightRange={
+					Range={
+						name="Ice"
+						pattern=4
+						curve=0
+						angle_l=45.000000
+						angle_r=45.000000
+						bleeding=3
+						density=4
+						opacity_curve={
+							type="Linear"
+							is_clamped=no
+							points={ 0.000000 1.000000 1.000000 1.000000 }
+						}
+
+						opacity_mask_transform={
+						}
+
+						material={
+							Name=""
+							Materials={
+								Material={
+									MaterialId="snow_02"
+									Value=71
+								}
+
+								Material={
+									MaterialId="cliff_granite_02"
+									Value=62
+								}
+
+								Material={
+									MaterialId="cliff_granite_01"
+									Value=61
+								}
+
+								Material={
+									MaterialId="rocks_01"
+									Value=61
+								}
+
+							}
+						}
+
+						visible=yes
+						avg_geometry=0
+						debugging=no
+					}
+
+				}
+			}
+
+		}
+	}
+
+	CurrentPreset=0
+	Autosave=no
+}
+

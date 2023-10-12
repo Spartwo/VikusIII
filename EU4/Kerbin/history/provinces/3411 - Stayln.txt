@@ -1,0 +1,26 @@
+#3411 - Belli
+
+
+add_core = USA   
+owner = USA
+controller = USA  
+
+culture = polish
+religion = krakenity
+
+discovered_by = western
+
+capital = "Stayln"
+
+is_city = yes
+hre = no
+base_tax = 4
+base_production = 2
+base_manpower = 2
+
+ 
+ 
+ 
+ 
+extra_cost = 0
+

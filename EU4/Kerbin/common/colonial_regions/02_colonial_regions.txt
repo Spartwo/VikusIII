@@ -1,0 +1,360 @@
+# Abisynia
+Colonial-Abisynia = {
+	color = { 50 210 190 }
+
+	provinces = {
+		1208 1210 1211 2773 2761 2760 1218 2756 2757 2758 2759
+		2763 2770 2772 2771 1227 2766 2787 1230 2765 2767 2768 2769 1214 1223 1224 2764
+		2791 1213 2762 4158
+	}
+	
+	# Generic
+	names = {
+		name = "[Root.GetAdjective] Abisynia"
+	}
+}
+
+#North Africa
+Colonial-North-Africa = {
+	color = { 240 150 150 }
+
+	provinces = {
+		340 1882 353 2954 2455 341 2473 2453 2454 352 4566 336 337 338 339 2461 2462 2463 2459 2458 351 2456 2457 2472 350 2465 4562 2448 2449 355 2452 354 2451 2450 4567
+	}
+	
+	# Generic
+	names = {
+		name = "[Root.GetAdjective] North Africa"
+	}
+	names = {
+		trigger = {
+			tag = FRA
+		}
+		name = "[Root.GetAdjective] Algiers"
+	}
+	names = {
+		trigger = {
+			tag = ITA
+		}
+		name = "[Root.GetAdjective] Tunis"
+	}
+	names = {
+		trigger = {
+			tag = GBR
+		}
+		name = "[Root.GetAdjective] Libya"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = SPA
+				tag = TUR
+				tag = POR
+			}
+		}
+		name = "[Root.GetAdjective] Maghreb"
+	}
+}
+
+# Arabia
+Colonial-Arabia = {
+	color = { 185 80 210 }
+
+	provinces = {
+		383 4269 4276 1779 4277 4278 4273 4274 4275 4282 4279 4281 4280 4283 4284 4285 4286 4287 384 2328 2329 2330 385 2331 2346 387 388 389 390 391 386 2344 2345 2332 2335
+		2336 2337 2338 392 2339 2343 401 402 2341 2342 398 399 400 403 397 404 2333 395
+		396 2347 2340 393 394 4272
+	}
+	
+	# Generic
+	names = {
+		name = "[Root.GetAdjective] Arabia"
+	}
+}
+
+# Cameroon
+Colonial-Cameroon = {
+	color = { 200 40 35 }
+
+	provinces = {
+		2294 1151 1163 1164 1165 1097 1306
+	}
+	
+	# Generic
+	names = {
+		name = "[Root.GetAdjective] Cameroon"
+	}
+}
+
+# Congo
+Colonial-Congo = {
+	color = { 171 148 148 }
+
+	provinces = {
+		4108 4104 1167 1166 1168 4078 4079 4080 1171 1172 798 1169 1170 1901 2948 2949 4081 4082 4083 4084 4085 4086 4087 4088 4089 4090 4091 4092 4093 4094 4095 4096 4107 4098 4100 4101 4102 4103 4097 4099 4105 4109
+	}
+	
+	# Generic
+	names = {
+		name = "[Root.GetAdjective] Congo"
+	}
+}
+
+# Egypt
+Colonial-Egypt = {
+	color = { 255 145 0 }
+
+	provinces = {
+		4317 4323 4316 4318 4320 4319 2326 2325 2318 1233 1231 2321 2319 2320 2317 359 358 361 362 2316 363 4321 357 356 360
+	}
+	
+	# Generic
+	names = {
+		name = "[Root.GetAdjective] Egypt"
+	}
+}
+
+
+# Indonesia
+Colonial-Indonesia = {
+	color = { 255 150 20 }
+
+	provinces = {
+		637 2703 2709 2711 2710 638 2712 639 2707 2708 2706 2705 2704 636 2679 2678 621
+		623 622 659 2677 2680 2683 2684 2681 2676 620 2682 2675 618 619 2685
+		2674 2673 617 2686 574 640 
+		646 645 650 648 649 2717 2713 2714 643 2715 642 641 2716 2695 635 633 634 632
+		2693 631 2692 628 2691 629 2690 627 644 2689 626 2688 625 624 630 2687 647
+	}
+	
+	# Generic
+	names = {
+		name = "[Root.GetAdjective] Indonesia Company"
+	}
+}
+
+# Levant
+Colonial-Levant = {
+	color = { 0 180 250 }
+
+	provinces = {
+		4268 365 2315 4270 4271 4297 364 379 380 2327 381 382 1854 1855 378 405 1849 2313 377
+	}
+	
+	#Specific
+	names = {
+	trigger = {
+		OR = {
+			tag = FRA
+			culture_group = french
+		}
+	}
+	name = "La Syrie et le Liban"
+	}
+	
+	# Generic
+	names = {
+		name = "[Root.GetAdjective] Levant"
+	}
+}
+
+# Madagascar
+Colonial-Madagascar = {
+	color = { 114 14 1 }
+
+	provinces = {
+		1792 4023 4027 4020 1103 1100 1102 1101 4021 4024 4025 1193 1194 4022 4031 4032 4026 4028 4029 4030
+	}
+	
+	# Generic
+	names = {
+		name = "[Root.GetAdjective] Madagascar"
+	}
+}
+
+
+# Morocco
+Colonial-Morocco = {
+	color = { 80 220 140 }
+
+	provinces = {
+		334 335 1751 342 346 343 2467 2469 344 345 2470 1110 347 348 2460 2464
+		2468 349 2466 4564 4563 4561 4568 4167 4569
+	}
+	
+	# Generic
+	names = {
+		name = "[Root.GetAdjective] Morocco"
+	}
+}
+
+# New Guinea
+Colonial-New-Guinea = {
+	color = { 250 250 50 }
+
+	provinces = {
+		1245 2718 2724 2723 2722 2721 1237 2720 2719 1236 2725 2696
+	}
+	
+	# Generic
+	names = {
+		name = "[Root.GetAdjective] New Guinea"
+	}
+}
+
+# Niger
+Colonial-Niger = {
+	color = { 110 170 110 }
+
+	provinces = {
+		2290 1146 1144 2291 2292 1141 1140 2295 2256 1143 1142 2269 2271 2272 2273 2270
+		2278 1148 1150 2293 1145 1162 1153 1249 1161 2285 2283 1160 2286 2287 1159
+		2288 1158 2284 1157 2282 2932 2475 2274 2275 2277 1156 2276 2279 1149 1154 1155
+		2280 2281 1147 1152 2289 2474
+	}
+	
+	# Generic
+	names = {
+		name = "[Root.GetAdjective] Niger"
+	}
+}
+
+# Philippines
+Colonial-Philippines = {
+	color = { 70 150 225 }
+
+	provinces = {
+		651 652 653 654 655 656 657 658 2697 2698 2699 2700 2701 2702 4348 4349 4350 4351 4352 4353 4354 4355 4356
+	}
+	
+	# Generic
+	names = {
+		name = "[Root.GetAdjective] Philippines"
+	}
+}
+
+# Somaliland
+Colonial-Somaliland = {
+	color = { 255 80 100 }
+
+	provinces = {
+		2792 2778 2779 1799 1207 1204 2796 2774 2794 2775 1205 2782 2795 2783 2024 1206 2788 2786 1331 4051 4052 2777
+		2776 2785 2784 2781 2789 2790 2793 1209 1212 1215 2780 
+	}
+	
+	#Specific
+	names = {
+	trigger = {
+		OR = {
+			tag = FRA
+			culture_group = french
+		}
+	}
+	name = "Côte française des Somalis"
+	}
+	
+	# Generic
+	names = {
+		name = "[Root.GetAdjective] Somaliland"
+	}
+}
+
+# South Africa
+Colonial-South-Africa = {
+	color = { 220 138 50 }
+
+	provinces = { 1173 1801 789 833 1174 1175 1176 1177 1178 1179 1180 1181 1182 1183 1800 2856 2864 2880 4781 4782 4783 4784 }
+	
+	# Specific
+	names = {
+		trigger = {
+			OR = {
+				culture_group = british
+			}
+		}
+		name = "Cape Colony"
+	}
+	names = {
+		trigger = {
+			OR = {
+				culture_group = iberian
+			}
+		}
+		name = "Colonia del Cabo"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = portuguese
+			}
+		}
+		name = "Colónia do Cabo"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = FRA
+				culture_group = french
+			}
+		}
+		name = "Colonie du Cap"
+	}
+	names = {
+		trigger = {
+			OR = {
+				primary_culture = dutch
+			}
+		}
+		name = "Kaapkolonie"
+	}
+	# Generic
+	names = {
+		name = "[Root.GetAdjective] South Africa"
+	}
+}
+
+# Sudan
+Colonial-Sudan = {
+	color = { 225 195 120 }
+
+	provinces = {
+		1219 2801 2802 1216 1221 2800 1217 2799 4033 1222 1225 2797 2798 1226 1232 1220
+		1228 1229 2322 2323 2324 1234 774
+	}
+	
+	# Generic
+	names = {
+		name = "[Root.GetAdjective] Sudan"
+	}
+}
+
+# East Africa
+Colonial-East-Africa = {
+	color = { 32 164 51 }
+
+	provinces = {
+		1201 1186 1192 788 1195 4049 1198 1196 1184 1185 1187 1188 1189 1190 1191 2950 2951 2952 4034 4035 4036 4037 4038 4039 4040 4041 4042 4043 4044 4045 4046 4047 4048 4050 4106 1197 1202 1200 1199 1203 1273 1649 1925 4053 4054 4055 4056 4057 4058 4059 4060 4061 4062 4063 4064 4065 4066 4067 4068 4069 4070 4071 4072 4073 4074 4075 4076 4077 1201
+	}
+	
+	# Generic
+	names = {
+		name = "[Root.GetAdjective] East Africa"
+	}
+}
+
+# West Africa
+Colonial-West-Africa = {
+	color = { 80 135 255 }
+
+	provinces = {
+		1139 2258 1126 1119 2242 1118 2241 1114 2239 1113 1112 2268 1111 1115 2237 1116
+		2238 1117 1120 2240 2244 2243 2245 2248 1121 1124 1122 2249 1123 2246 2247
+		2260 1131 2250 2253 1125 2255 2257 1138 2254 2252 1135 2263 2261 2259 1132
+		1129 1130 2262 2264 1133 2265 2266 2267 1128 1134 1137 1136 1127
+	}
+	
+	# Generic
+	names = {
+		name = "[Root.GetAdjective] West Africa"
+	}
+}

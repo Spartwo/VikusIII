@@ -1,0 +1,24 @@
+#Arcovy
+
+native_size = 1 
+native_ferocity = 1
+native_hostileness = 1
+
+culture = Arcovy
+religion = krakenity
+
+discovered_by = western
+
+capital = "Arcovy"
+
+is_city = yes
+hre = no
+base_tax = 3
+base_production = 4
+base_manpower = 5
+
+ 
+ 
+ 
+extra_cost = 0
+

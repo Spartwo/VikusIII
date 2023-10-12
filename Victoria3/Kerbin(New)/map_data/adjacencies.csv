@@ -1,0 +1,51 @@
+From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
+x20E080;x688E79;sea;-1;3980;2908;3964;2903;;Ireland-Scotland
+
+
+x079096;xAD271B;sea;x9ACDDC;-1;-1;-1;-1;;Taroka-Taroka
+x5B99D8;x319658;sea;x9ACDDC;-1;-1;-1;-1;;Ponpin-Eurp
+x34A1F4;x69C000;sea;x93A5FD;-1;-1;-1;-1;;Ajemla-Zeoul
+x653A8B;x10D12C;sea;x6CB1D8;-1;-1;-1;-1;;Larnoc-Larnoc
+xA8B9F9;x14F0A3;sea;x87F9F5;-1;-1;-1;-1;;Baskaia
+x975A89;xC6CCB3;sea;x87F9F5;-1;-1;-1;-1;;Syx-Rhus
+xECD667;x829CDB;sea;xACCEDE;-1;-1;-1;-1;;Littorial-Pegan
+x2A2744;x923623;sea;x6677FB-1;-1;-1;-1;;Cai
+##2488;2459;sea;2309;-1;-1;-1;-1;;Dolren-Tefaru
+##2488;2349;sea;2309;-1;-1;-1;-1;;Dolren-Pugaraya
+##5101;5066;sea;4817;-1;-1;-1;-1;;Lod
+##4630;4581;sea;4659;-1;-1;-1;-1;;Istma-Exillia
+##4630;4581;sea;4659;-1;-1;-1;-1;;Istma-Exillia
+##7026;4680;sea;4659;-1;-1;-1;-1;;Istma
+##7026;4603;sea;4659;-1;-1;-1;-1;;Istma-Doend
+##3554;3527;sea;3185;-1;-1;-1;-1;;Pures
+x0D00F4;x061DF8;sea;x99B8E1;-1;-1;-1;-1;;KSC Island
+x071DE8;x061DF8;sea;x99B8E1;-1;-1;-1;-1;;KSC Island
+x071DE8;x0A00E8;sea;x99B8E1;-1;-1;-1;-1;;KSC Island
+x0F6A5B;x7E867C;sea;x68D0DE;-1;-1;-1;-1;;Westray
+x1FA379;xA7DDE2;sea;x95BBB6;-1;-1;-1;-1;;Butun
+x0000E8;x0A4B3C;sea;x8583D3;-1;-1;-1;-1;;Bulge
+##423;474;sea;439;-1;-1;-1;-1;;Tora
+xDC5BB6;xA0D3D8;sea;x99B8E1;-1;-1;-1;-1;;Pogo
+x06BD14;x5A1B9C;sea;x99B8E1;-1;-1;-1;-1;;Angus
+xF43AC4;xFCBB48;sea;x7A84AF;-1;-1;-1;-1;;Aontas Strait
+##3657;3600;sea;3409;-1;-1;-1;-1;;Mede
+##3336;4013;sea;2585;-1;-1;-1;-1;;Jefair
+##698;713;sea;553;-1;-1;-1;-1;;Hook Islands
+##679;738;sea;553;-1;-1;-1;-1;;Hook Islands
+x2DB71C;xB99445;sea;xB0C6E5;-1;-1;-1;-1;;Beagans
+x87A06F;x2DB71C;sea;xB0C6E5;-1;-1;-1;-1;;Beagans
+##735;773;sea;511;-1;-1;-1;-1;;Rivanna-Melfta
+##789;902;sea;511;-1;-1;-1;-1;;Rivanna-Melfta
+x87933B;x87CF45;sea;xB8CDDD;-1;-1;-1;-1;;Parznet-Gary
+##2356;2457;sea;2127;-1;-1;-1;-1;;Notillian-Korfu
+##2702;2687;sea;2427;-1;-1;-1;-1;;Algand-Nautilus
+##2559;2401;sea;2427;-1;-1;-1;-1;;Notillian-Algand
+##2549;2401;sea;2427;-1;-1;-1;-1;;Notillian-Nautilus
+xAA601F;xE9982F;sea;x9F95C7;-1;-1;-1;-1;;Psylets
+x00DA15;x1B51E7;sea;x9F95C7;-1;-1;-1;-1;;Psylets
+x7F180E;x2996B5;sea;x6770A8;-1;-1;-1;-1;;Panseria-Calida
+xC870C3;x88C4B7;sea;x6770A8;-1;-1;-1;-1;;River Crossing
+xB651BD;x74B3E8;sea;x6770A8;-1;-1;-1;-1;;River Crossing
+xAD4E84;x2996B5;sea;x6770A8;-1;-1;-1;-1;;River Islands
+xFF1C28;x5BA2D3;sea;x6770A8;-1;-1;-1;-1;;River Islands
+x2996B5;x5BA2D3;sea;x6770A8;-1;-1;-1;-1;;River Islands

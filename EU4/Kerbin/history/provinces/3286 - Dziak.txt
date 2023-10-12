@@ -1,0 +1,21 @@
+
+native_size = 1  
+native_ferocity = 1
+native_hostileness = 1
+
+culture = Marian
+religion = krakenity
+
+discovered_by = western
+
+capital = "Dziak"
+
+is_city = yes
+hre = no
+base_tax = 3
+base_production = 4
+base_manpower = 3
+
+
+extra_cost = 0
+

@@ -1,0 +1,8 @@
+﻿DIPLOMACY = {
+	c:STR = {
+		create_diplomatic_pact = {
+			country = c:CHK
+			type = defensive_pact
+		}	
+	}
+}

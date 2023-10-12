@@ -1,0 +1,1524 @@
+﻿##How to convert state definitions on masse
+## -> nothing 
+##bookmark lines containing ID
+##delete all bookmarked lines
+##STATE_ -> POPS = {\n\ts:STATE_
+##}\n} -> \n\t\t}\n\t}\n}\n
+
+POPS = {
+	s:STATE_QAZAN = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_GAMBLA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_TASSENZI = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_SURSAMEN = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_LAUTH = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_AERFEL = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_BIZMI = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_ESPERI = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_GHOUR = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_HANVAL = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+POPS = {
+	s:STATE_MOXUS = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_CHIARK = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_DZIAK = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_CORAIN = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_PHAEG = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_NOMLAS = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_ONIFELGE = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_RIMOR = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_LAROC = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_AHCURT = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_CALYX = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+POPS = {
+	s:STATE_AINAK = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_RAIRCH = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_TALYOAK = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_VENTRIS = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_PIROV = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_LISOV = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_GRAPTE = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+##xAE8D0C x30B112
+
+
+POPS = {
+	s:STATE_GERAKI = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_GALITAN = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_AVEITI = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_TAVANI = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+POPS = {
+	s:STATE_NUI = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_HAHUAII = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_TOKELA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_VAIRAO = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_KATEKATU = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_ATURAI = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_RIIGATA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_PIHIRO = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_RAIFATU = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_HAKURA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_ALGIZE = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_ROSTRUM = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_LAVESK = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_PEGAN = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_TAMAKIA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_HERM = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_AMERB = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+
+POPS = {
+	s:STATE_ANIDEM = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_ICHELICA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+##x0633A0 x0651A5 x06A250 x30722B x30A5D0 x5A57A6 x5B75B5 x841B40
+
+
+POPS = {
+	s:STATE_CHEN = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_SLOVENT = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_MANHAI = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_LANU = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_TAROKA = {
+		region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_KENSLAV = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_SAPORO = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_METOVIA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_HINARO = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_ROTU = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_TEFARU = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_AVELT = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_GALEONY = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_CHANGLEPING = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_HAPIT = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_ZHONGLAI = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_TIGEZ = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_BANLEK = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_ANCI = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_DARAPSI = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_TAEEP = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_CHAMPAUNG = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_DUA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_ZUKRA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_JIRKOF = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_VAVATCH = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+POPS = {
+	s:STATE_TELREN = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_FIMYAA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_POLECHII = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_NOLLAS = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_YASTHA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_CHELREE = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_MAHOMA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_BASUKAI = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_GAMSTAL = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_ADRIA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_HALOSAN = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_KADIPURA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_VITCUDA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_LAIENAU = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_YATA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_RUCAPPE = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_MINYXA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_KIUTA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_GRANXIA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_CHONE = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_KALIDA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_RHUS = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_TAOPUI = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_CHALIEU = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_BEAGA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_ERUS = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_GRATENIA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_METAR = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_ZAMOA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_EURP = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_YAENG = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_ANGLERLAND = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_HOMB = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_DEL = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_BLYTHI = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_AOSTA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_AUTMALGA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_SCHARVIAN = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_SANGRIE = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_ATMOS = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_ONVALL = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_PARZNET = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+
+POPS = {
+	s:STATE_GARY = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_PONPIN = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_HUTUROA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}

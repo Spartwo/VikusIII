@@ -1,0 +1,21 @@
+#Broat
+
+native_size = 1 
+native_ferocity = 1
+native_hostileness = 1
+
+culture = Ravnine
+religion = krakenity
+
+capital = "Broat"
+
+is_city = yes
+hre = no
+base_tax = 1
+base_production = 3
+base_manpower = 3
+
+
+ 
+extra_cost = 0
+

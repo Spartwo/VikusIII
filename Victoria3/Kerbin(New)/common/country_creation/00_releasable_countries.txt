@@ -1,0 +1,17 @@
+﻿
+#ARM = {
+#	use_culture_states = yes
+#	
+#	required_num_states = 3
+#
+#	states = {
+#		STATE_ARMENIA
+#		STATE_ERZURUM
+#		STATE_KARS
+#	}
+#	
+#	ai_will_do = { always = no }
+#	possible = {
+#		has_technology_researched = pan-nationalism
+#	}
+#}

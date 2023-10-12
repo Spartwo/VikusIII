@@ -1,0 +1,23 @@
+
+add_core = USA   
+owner = USA
+controller = USA  
+
+culture = polish
+religion = krakenity
+
+discovered_by = western
+
+capital = "Ker"
+
+is_city = yes
+hre = no
+base_tax = 2
+base_production = 4
+base_manpower = 3
+
+ 
+
+
+extra_cost = 0
+

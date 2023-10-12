@@ -1,0 +1,267 @@
+﻿
+
+###### EXAMPLE ######
+
+#EXA = {
+#	color = { 39 84 135 } #The colour of this country on the map.
+#
+#	country_type = recognized #See common\country_types
+#
+#	tier = kingdom #See common\country_ranks
+#
+#	cultures = { examplish } #What are their primary culture/s - you can set multiple.
+#	capital = STATE_EXAMPLE #Which state holds this nation's default capital
+#}
+
+#####################
+
+#FORMING KUS
+KUS_FORM = {
+	color = { 234 202 39 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#ARCOVI-ZOKESIA
+AZF_FORM = {
+	color = { 13 66 29 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_EZEKIA
+}
+
+#HERULAND
+HER_FORM = {
+	color = { 198 12 49 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#FORMING FORSETTI
+FOR_FORM = {
+	color = { 255 180 43 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#FORMING DOREN
+CPD_FORM = {
+	color = { 127 0 0 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_AERFEL
+}
+
+#FORMING LAVESKA
+LAV_FORM = {
+	color = { 16 77 148 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#FORMING TARGERIA
+TAR_FORM = {
+	color = { 104 191 61 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#FORMING PACIFAY
+PAC_FORM = {
+	color = { 255 102 0 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#FORMING KAFRICA
+KAF_FORM = {
+	color = { 254 0 0 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#BELASNIROV
+BEL_FORM = {
+	color = { 0 164 229 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#RAVNINNY
+RAV_FORM = {
+	color = { 136 1 0 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_ARCOVY
+}
+
+#UIF
+UIF_FORM = {
+	color = { 24 39 71 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_COMBERTH
+}
+
+#FORMING LAVESKA
+LAV_FORM = {
+	color = { 21 104 198 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+LAV_ZER = {
+	color = { 16 77 148 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#IU
+IU_FORM = {
+	color = { 114 170 216 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_SOLTEM
+}
+
+#AONTAS
+AON_FORM = {
+	color = { 0 74 127 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_CATH
+}
+
+#GRESTIN
+STR_GRS = {
+	color = { 22 29 125}
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_ANGUS
+}
+
+GRS_CEL = {
+	color = { 0 167 80}
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_SOPOST
+}
+
+#SUID-KAFRICA
+SKAF_FORM = {
+	color = { 173 15 28 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_ANGUS
+}
+
+#KROSTERREICH
+KRO_FORM = {
+	color = { 37 37 37 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#PANDORICA
+PAN_FORM = {
+	color = { 128 128 128 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#SOLANI
+SOL_FORM = {
+	color = { 27 64 124 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#NARUT
+NAR_FORM = {
+	color = { 128 192 192 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#SURNAY
+SUR_FORM = {
+	color = { 209 0 0 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#BURRFED
+BUR_FORM = {
+	color = { 39 151 220 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#KALBAN FORMS
+KAL_KSKM = {
+	color = { 255 0 0 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+KAL_DFK = {
+	color = { 0 140 91 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+KAL_SKR = {
+	color = { 81 0 0 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+
+

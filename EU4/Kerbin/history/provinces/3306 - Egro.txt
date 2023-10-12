@@ -1,0 +1,15 @@
+# 4684 - Egro
+
+native_ferocity = 1
+native_hostileness = 1
+native_size = 1
+
+culture = Spearkan
+religion = krakenity
+capital = "Egro"
+hre = no
+
+base_tax = 2
+base_production = 4
+base_manpower = 1
+is_city = yes

@@ -1,0 +1,18 @@
+#Debul
+
+native_ferocity = 1		
+native_hostileness = 1
+native_size = 1
+
+culture = Arcovy
+religion = krakenity
+capital = "Debulist"
+hre = no
+
+base_tax = 1 
+base_production = 1
+base_manpower = 2
+
+is_city = yes
+
+

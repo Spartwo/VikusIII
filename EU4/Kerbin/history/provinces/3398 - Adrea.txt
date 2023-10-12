@@ -1,0 +1,25 @@
+#3398 - Adrea
+
+
+native_size = 1   
+native_ferocity = 1
+native_hostileness = 1
+
+culture = Basile
+religion = krakenity
+
+discovered_by = western
+
+capital = "Adrea"
+
+is_city = yes
+hre = no
+base_tax = 2
+base_production = 1
+base_manpower = 4
+
+ 
+ 
+ 
+extra_cost = 0
+

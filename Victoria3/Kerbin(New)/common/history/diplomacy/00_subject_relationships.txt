@@ -1,0 +1,78 @@
+﻿## puppet, personal_union, vassal, tributary, protectorate, dominion(we won't use this)
+
+DIPLOMACY = {
+	c:AZF_FORM = {
+		create_diplomatic_pact = {
+			country = c:WUS
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:KRK
+			type = dominion
+		}	
+	}
+	c:CPD_FORM = {
+		create_diplomatic_pact = {
+			country = c:ZEO
+			type = vassal
+		}
+	}
+	c:EDV = {
+		create_diplomatic_pact = {
+			country = c:NOR
+			type = vassal
+		}
+	}
+	c:FEG = {
+		create_diplomatic_pact = {
+			country = c:LAN
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:GIZ
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:SEI
+			type = vassal
+		}		
+	}
+	c:UIF_FORM = {
+		create_diplomatic_pact = {
+			country = c:UNI
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:SNJ
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:KON
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:GAG
+			type = protectorate
+		}
+		create_diplomatic_pact = {
+			country = c:KAN
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:LAV_FORM
+			type = personal_union
+		}
+		create_diplomatic_pact = {
+			country = c:MAR
+			type = vassal
+		}
+		create_diplomatic_pact = {
+			country = c:ARK
+			type = dominion
+		}
+		create_diplomatic_pact = {
+			country = c:NAU
+			type = personal_union
+		}		
+	}
+}

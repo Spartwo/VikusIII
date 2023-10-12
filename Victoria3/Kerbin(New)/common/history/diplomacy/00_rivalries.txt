@@ -1,0 +1,19 @@
+﻿DIPLOMACY = {
+	c:UIF_FORM = {
+		create_diplomatic_pact = {
+			country = c:CPD_FORM
+			type = rivalry
+		}
+	}	
+	c:CPD_FORM = {
+		create_diplomatic_pact = {
+			country = c:UIF_FORM
+			type = rivalry
+		}
+	}		
+
+}	
+
+
+
+

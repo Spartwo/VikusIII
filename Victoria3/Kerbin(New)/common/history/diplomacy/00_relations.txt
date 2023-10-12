@@ -1,0 +1,5 @@
+﻿DIPLOMACY = {
+	c:GRE = {
+		set_relations = { country = c:KRO value = -30 }
+	}
+}

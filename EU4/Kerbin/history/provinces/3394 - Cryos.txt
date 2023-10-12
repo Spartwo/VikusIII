@@ -1,0 +1,25 @@
+#3394 - Cryos
+
+
+native_size = 1   
+native_ferocity = 1
+native_hostileness = 1
+
+culture = Sonder
+religion = krakenity
+
+discovered_by = western
+
+capital = "Cryos"
+
+is_city = yes
+hre = no
+base_tax = 2
+base_production = 1
+base_manpower = 1
+
+ 
+ 
+ 
+extra_cost = 0
+

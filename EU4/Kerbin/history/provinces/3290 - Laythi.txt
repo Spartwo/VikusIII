@@ -1,0 +1,18 @@
+#3290 - Laythi
+
+culture = Laythi
+
+native_size = 1  
+native_ferocity = 1
+native_hostileness = 1
+
+discovered_by = western
+
+religion = krakenity
+capital = "Laythi"
+hre = no
+base_tax = 1
+base_production = 3
+base_manpower = 2
+
+extra_cost = 8

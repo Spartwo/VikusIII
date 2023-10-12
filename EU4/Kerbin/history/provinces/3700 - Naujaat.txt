@@ -1,0 +1,19 @@
+#Recappe
+
+native_size = 1 
+native_ferocity = 1
+native_hostileness = 1 
+
+capital = "Recappe"
+base_tax = 3
+base_production = 4
+base_manpower = 1
+
+culture = Basile
+religion = krakenity
+
+hre = no
+is_city = yes
+
+discovered_by = western
+extra_cost = 0

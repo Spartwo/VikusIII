@@ -1,0 +1,16 @@
+# Iro
+
+native_ferocity = 1
+native_hostileness = 1
+native_size = 1
+
+culture = Grander
+religion = krakenity
+capital = "Iro"
+hre = no
+
+base_tax = 1 
+base_production = 3
+base_manpower = 2
+is_city = yes
+

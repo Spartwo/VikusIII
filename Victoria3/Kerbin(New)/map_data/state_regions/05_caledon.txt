@@ -1,0 +1,165 @@
+﻿
+STATE_SVARSK = {
+    id = 5001
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x784107" }
+    city = "x784107"
+    port = "x784107"
+}
+
+STATE_BRAVIS = {
+    id = 5002
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x0229CD" "x7EC9AE" "x898AC0" "x8FB8CE" }
+    city = "x7EC9AE"
+    port = "x7EC9AE"
+}
+
+STATE_REWE = {
+    id = 5003
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x2FB485" "x595D5B" "x59B706" "x8378C2" "xAD7B43" "xB3D3E0" }
+    city = "x59B706"
+    port = "x2FB485"
+}
+
+STATE_CALIDORIA = {
+    id = 5004
+    provinces = { "x1E9665" "x287D8D" "x4CBAF0" "x76D37F" "xA9C356" "xC7D3A2" "xE299F0" }
+}
+
+STATE_ANTHANNIA = {
+    id = 5005
+    provinces = { "x2DB44C" "x3323A5" "x39630F" "x66724C" "x66C207" "x698D38" "x722933" "xCE753E" "xD44C4C" "xED6F9A" "xF037D1" }
+}
+
+STATE_KARINIA = {
+    id = 5006
+    provinces = { "x31A00A" "x32D671" "x32E178" "x6900E8" }
+}
+
+STATE_ORANIA = {
+    id = 5007
+    provinces = { "x44439A" }
+}
+
+STATE_SOLTEM = {
+    id = 5008
+    provinces = { "x15C25A" "x18C0F8" "x1E8873" "x5642FD" "x58DA13" "x63ECA0" "x69A175" "x7034DF" "x7B9DF5" "x826BCE" "xD07E59" "xDFCA0F" "xE95711" "xEF2244" }
+}
+
+STATE_RHUDBEAL = {
+    id = 5009
+    provinces = { "x879479" }
+}
+
+STATE_AGUADA = {
+    id = 5010
+    provinces = { "x084855" "x2D124E" "x2D24AD" "x306685" "x574288" "x81068B" "x81184F" "x814509" "x8212D1" "xA9B345" "xAB1EAC" "xAFCC93" "xFF0278" }
+}
+
+STATE_VERULIA = {
+    id = 5011
+    provinces = { "x03212D" "x049F05" "x2E3C35" "x812D8B" }
+}
+
+STATE_MANNIA = {
+    id = 5012
+    provinces = { "x0439B4" "x04601E" "x06B1D2" "x2E639E" "x2E9C62" "x55B981" "x583FB5" "x8133A9" "x82034F" "x82729A" "xAC9C84" "xDDE788" }
+}
+
+STATE_SYNISTERIA = {
+    id = 5013
+    provinces = { "x042137" "x046919" "x04CFCD" "x2E24B7" "x33C944" "x528FA3" "x5715CE" "x589683" "x595D24" "x59B733" "x725338" "x8130CC" "x829904" "x82B14F" "xAC06CF" "xAC3634" "xB6813E" }
+}
+
+STATE_ARMENTUS = {
+    id = 5014
+    provinces = { "x077291" "x2CC662" "x2E272B" "x32D678" "x5615C4" "x572D4C" "x586F1A" "xAB300C" "xB1BD84" }
+}
+
+STATE_CORRIGON = {
+    id = 5015
+    provinces = { "x027237" "x046FA0" "x2C75B7" "x2ED24E" "x56991A" "x82C345" "x836909" "xAC2D39" "xAC6698" }
+}
+
+STATE_AURIA = {
+    id = 5016
+    provinces = { "x2C54D5" "x31570D" "x567838" "x584E38" "x80092C" "x80CC63" "x82811D" "xAA0CAC" "xAC1552" "xAC6C20" }
+}
+
+STATE_VIRIDIA = {
+    id = 5017
+    provinces = { "x050F41" "x059C91" "x2C2DB4" "x2E398A" "x2F12C1" "x2F9F12" "x5927A1" "x596001" "x5981B0" "x5C45BA" "x822AB8" "x839690" "xAD66CF" "xAD9911" }
+}
+
+STATE_SYLLIA = {
+    id = 5018
+    provinces = { "x5BE0C2" "x653B61" "x82699F" }
+}
+
+STATE_VARIA = {
+    id = 5019
+    provinces = { "x023F28" "x56C9E2" "x809C9A" "x865C2C" "xAA1BC5" "xAA9F1B" "xFF3B78" "xFF7F7F" }
+}
+
+STATE_MINIVIVI = {
+    id = 5020
+    provinces = { "x3C2547" }
+}
+
+STATE_HOOK = {
+    id = 5021
+    provinces = { "x0354BA" "x125A55" "x2A4235" "x549C83" "x5896DE" "x6D27D5" "x8DA73B" "xA27A3F" "xB05751" "xB4BD4D" "xBB617B" "xF539E3" "xFBE0D8" }
+}
+
+STATE_B2 = {
+    id = 5023
+    provinces = { "x765A96" "x82C667" "xE82C2D" "xEDA21A" }
+}
+
+STATE_VERWELM = {
+    id = 5024
+    provinces = { "x26E9DF" "x4770BD" "x74D10F" "x9C301F" "xAE94EA" }
+}
+
+STATE_B1 = {
+    id = 5025
+    provinces = { "x4DE792" "x8430A1" "x8945C2" "x905042" "xBD9DEC" "xE18B89" "xF672EA" "xF7A4BA" }
+}
+
+STATE_BASKE = {
+    id = 5026
+    provinces = { "x007455" "x199724" "x69C57B" "x72EFD5" "x7C4369" "xB08ED5" "xBA24F6" }
+}
+
+STATE_TAO = {
+    id = 5027
+    provinces = { "x0239B9" "x2DA6D0" "x347545" "x49A631" "x591E0B" "x68F006" "x703CAF" "xAA3F82" "xD7B868" "xF77E05" }
+}
+
+STATE_ALANIA = {
+    id = 5028
+    provinces = { "x0B5523" "x3274C4" "x623FC8" "x7DD693" "x833386" "x84B17C" "xEF7BB8" }
+}
+
+STATE_OSTEN = {
+    id = 5029
+    provinces = { "x0A5FA3" "x6CBD33" "x7680DF" "x81CC6A" "x9B6E12" "xA6ADC1" "xC5EAC1" "xE93980" "xF8E399" }
+}
+
+STATE_EGRO = {
+    id = 5030
+    provinces = { "x201FBC" "x339393" "x47CA23" "xB25AE0" "xBEE2DA" "xC9D12B" }
+}
+
+STATE_DRAVAS = {
+    id = 5031
+    provinces = { "x4A2535" "x51E74C" "x6480DE" "x785528" "x7DA8CD" "x889D30" "xB432E5" }
+}
+
+STATE_FISH_ISLAND = {
+    id = 5032
+    provinces = { "x7550EE" }
+}
+

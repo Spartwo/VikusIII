@@ -1,0 +1,650 @@
+﻿
+STATE_KSC = {
+    id = 8001
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x0094FF" "x061DF8" "x071DE8" "x0A00E8" "x0D00F4" "x3002EC" }
+    traits = { "state_trait_natural_harbors" }
+    city = "x00E100"
+    port = "x00E100"
+    arable_land = 10
+    arable_resources = { "bg_rye_farms" }
+    capped_resources = {
+        bg_logging = 5
+        bg_fishing = 31
+    }
+    naval_exit_id = 3000
+}
+
+STATE_GRESTIN = {
+    id = 8002
+    provinces = { "x06159B" "x10AF44" "x2C58F8" "x61C595" "x62C595" "x63C596" "x63C697" "x7C0EEC" "x843F63" }
+}
+
+STATE_FAUCKS = {
+    id = 8003
+    provinces = { "x5A0F5B" "x5AD297" "x79F1EB" "x840018" "x9CD775" "xC39E7F" "xE030ED" "xE4C671" }
+}
+
+STATE_BODLE = {
+    id = 8004
+    provinces = { "x433CE1" "x5A99CE" "x9091BD" "x9B1476" "xF5CAFD" "xFD92A2" }
+}
+
+STATE_NURA = {
+    id = 8005
+    provinces = { "x2B4D4F" "x4CFECE" "x5AC656" "xAE9577" "xE24B68" }
+}
+
+STATE_SOPOST = {
+    id = 8006
+    provinces = { "x181CE8" "x30C094" "x6500EC" "x6EC5F3" "xA524C7" "xAE3020" "xEC85F5" }
+}
+
+STATE_POGO = {
+    id = 8007
+    provinces = { "x5A968D" "x63F10F" "x7BF709" "x96EBF5" "xA0D3D8" "xD4CBD8" "xDC5BB6" "xE5A48C" "xE9130C" }
+}
+
+STATE_SLEN = {
+    id = 8008
+    provinces = { "x059050" "x069F0F" "x112BD5" "x3DF85E" "x75BB16" "x7BB035" "xAE922B" "xB2565F" "xB2F6F9" "xF76D43" }
+}
+
+STATE_VARGO = {
+    id = 8009
+    provinces = { "x317E12" "x39494F" "x48A709" "x676091" "x8F1C50" "xD659ED" "xD6DD3E" "xDEB71C" "xFDECCA" }
+}
+
+STATE_ANGUS = {
+    id = 8010
+    provinces = { "x06BD14" "x25D5A4" "x307508" "x5354DD" "x5A1B9C" "x5D6077" "x6A5C32" "x89D8A5" "x971E6C" "xAEBA93" "xB1C64D" "xD539A4" }
+}
+
+STATE_FERREA = {
+    id = 8011
+    provinces = { "x1F4790" "x50AFE7" "x54C0C8" "x6692E2" "xA9D791" "xEB2BF7" "xFF6BA3" }
+}
+
+STATE_LARNACH = {
+    id = 8012
+    provinces = { "x1F1FEC" "x344471" "x38D6D1" "x44B117" "x4A2E7D" "x579984" "x8890E7" "x906720" "xFDD43A" }
+}
+
+STATE_DIOSCA = {
+    id = 8013
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x0836BE" "x1200F4" "x2A034E" "x7E57B8" }
+    traits = { "state_trait_natural_harbors" }
+    city = "x0836BE"
+    port = "x0836BE"
+    arable_land = 10
+    arable_resources = { "bg_rye_farms" }
+    capped_resources = {
+        bg_logging = 5
+        bg_fishing = 31
+    }
+    naval_exit_id = 3000
+}
+
+STATE_BAL = {
+    id = 8014
+    provinces = { "x0AAF29" "x0B00EC" "x194FA3" "x76E045" "xA7C918" "xE3CCA2" "xE47CF1" }
+}
+
+STATE_ALLEGHANY = {
+    id = 8015
+    provinces = { "x036B6F" "x5D8BA1" "x67B41E" "x7678FD" "x9E29C7" "xDADF0F" }
+}
+
+STATE_RINN = {
+    id = 8016
+    provinces = { "x5D4470" "x6C603C" "x80B51E" "x89B344" "x9EE3D2" "xA7DEE2" "xA82459" "xC9D021" "xD07956" "xEB5822" }
+}
+
+STATE_ZAMBILLIA = {
+    id = 8017
+    provinces = { "x143632" "x36DE02" "x3FEDE2" "x50A8B5" "x8768C9" "x96B5DB" "xEC6AFD" "xF5AF9B" "xFE7FF6" }
+}
+
+STATE_KIN = {
+    id = 8018
+    provinces = { "x177A25" "x29B5FC" "x5DE1C2" "x6E78B0" "xB155D8" "xD8358E" "xE39DAB" }
+}
+
+STATE_THIAR = {
+    id = 8019
+    provinces = { "x10A35F" "x4D3445" "x6F74AE" "x759E61" "x82D79E" "x8C5A04" "x8E4855" "x927A02" "xA86DD5" "xBEBC63" "xCB88CA" }
+}
+
+STATE_CAEL = {
+    id = 8020
+    provinces = { "x134469" "x1B3802" "x32E0CE" "x399B88" "x455C55" "x4D78BD" "x54D0E9" "x60DEAE" "x7BB917" "x947D0B" "xA12DE7" "xB36BB1" "xB657CD" "xD78AD4" "xED56AD" "xF298A9" }
+}
+
+STATE_TEORANN = {
+    id = 8021
+    provinces = { "x2D481F" "x39986E" "x71D2AC" "x74D000" "xAA28A2" "xBA31D6" "xCBD769" "xF1938F" "xF863C3" }
+}
+
+STATE_BOWN = {
+    id = 8022
+    provinces = { "x023914" "x0D853D" "x0FC66C" "x4233AB" "x485FB8" "x4DB3D1" "x52E272" "x745D68" "x7C97DB" "x848572" "x89DB24" "xD6525A" "xDD58E2" "xE6C7E6" }
+}
+
+STATE_NAGAYA = {
+    id = 8023
+    provinces = { "x14730C" "x24C561" "x2B9D3A" "x47AD6F" "x5A2C69" "x9B669F" "xAA5657" "xC829F1" "xD2DB8F" "xE19351" "xF64723" }
+}
+
+STATE_DAPPER = {
+    id = 8024
+    provinces = { "x0544EB" "x21ADB3" "x342C7D" "x38D6EE" "x5278DF" "x7493ED" "xA7D002" "xC163A3" "xEDD642" }
+}
+
+STATE_CLAI = {
+    id = 8034
+    provinces = { "x20BE9B" "x60D85E" "xAF3777" "xC59900" "xD84515" }
+}
+
+STATE_CATH = {
+    id = 8025
+    provinces = { "x0706F4" "x153FCD" "x347025" "x58AE01" "x64CCF7" "x7B7A1D" "x7FD154" "x83648C" "xB2D8BF" "xFC8066" "xFE9D42" }
+}
+
+STATE_MULLACH = {
+    id = 8026
+    provinces = { "x14E767" "x2C5AC2" "x5E5AB8" "x85AC3F" "x87DAE7" "x9B2BF6" "xB6ADAE" "xBF6047" "xE67D42" "xF79CA7" "xFCBB48" }
+}
+
+STATE_CAILTE = {
+    id = 8027
+    provinces = { "x39C976" "x448377" "x56A83D" "x5F440E" "x6C20F4" "x7320E8" "xA5D857" "xBD5F50" "xFB27EB" "xFD780A" }
+}
+
+STATE_SKIVET = {
+    id = 8028
+    provinces = { "x153214" "x1761AE" "x1D7F59" "x3A78D7" "x3D98CD" "xA744B9" "xA86D46" "xAE7248" "xAEB536" "xF826D5" }
+}
+
+STATE_AMBARGO = {
+    id = 8029
+    provinces = { "x0D33C9" "x1BD67D" "x2A5927" "x4ACDB2" "x4C5015" "x57EE42" "x67818C" "xD83D93" }
+}
+
+STATE_LEID = {
+    id = 8030
+    provinces = { "x2EAB80" "x34C3B5" "x480CF8" "x5A717A" "x653582" "x929D01" "xB8EBD8" "xDB6359" "xE7C53D" }
+}
+
+STATE_PARP = {
+    id = 8031
+    provinces = { "x27D907" "x32B1ED" "x51BB0C" "x7E32CA" "xAC690C" "xBA577B" "xEEEDA5" }
+}
+
+STATE_ARTOAS = {
+    id = 8032
+    provinces = { "x156454" "x2AAB63" "x4577B7" "x6E32F5" "xA054A2" "xCB7B95" "xD92F13" "xDE241E" "xF3B381" }
+}
+
+STATE_CNOC = {
+    id = 8033
+    provinces = { "x17920D" "x219902" "x21DBDE" "x3DD166" "x531EF7" "x854D2B" "xD28CC2" }
+}
+
+STATE_RAAN = {
+    id = 8035
+    provinces = { "x115AD4" "x12ACCB" "x470CF4" "x55919E" "x8E63B0" "x8FD283" "x9C295E" "xA5B738" "xBE7063" }
+}
+
+STATE_ADHARC = {
+    id = 8036
+    provinces = { "x0B9BE5" "x274D2E" "x4ED3FE" "x57A7AF" "x8FECCC" "xAD83D1" "xB6CF32" "xBD570A" "xC9AE7A" "xD979A9" "xDA3756" "xE8A371" "xE9C2A6" }
+}
+
+STATE_EPANE = {
+    id = 8037
+    provinces = { "x011FEC" "x07B4DF" "x163808" "x57E5AE" "x7E7EC3" "xA6AF9E" "xAC491E" "xB0DC54" "xC267D8" "xCA5D41" "xDB2635" }
+}
+
+STATE_KEDNA = {
+    id = 8038
+    provinces = { "x001296" "x002119" "x008AAA" "x1A6CE5" "x22D536" "x2AD230" "x5400B0" "x56C84F" "x74C7DC" "x7E0054" "x7E1B18" "x7E3640" "x7E8786" "xA80F16" "xA81E98" }
+}
+
+STATE_PACIFF = {
+    id = 8039
+    provinces = { "x0EB43C" "x2A303F" "x2A5A85" "x547583" "x54ABD3" "x54C62E" "x54D2D3" "x6C6374" "x7E0C95" "x7E7804" "x892900" "xA87B84" }
+}
+
+STATE_PALCE = {
+    id = 8040
+    provinces = { "x085DBE" "x2D3287" "x5903E2" "x7B75A1" "x83600E" "x8C610C" "xC789E5" "xD182C0" "xD9AE80" "xF3EEF7" }
+}
+
+STATE_ARKERI = {
+    id = 8041
+    provinces = { "x034A1C" "x112F9F" "x1FBB40" "x9C69CE" "xA8B4ED" "xC0E757" "xCBBAA2" "xE9884D" }
+}
+
+STATE_WESTRAY1 = {
+    id = 8042
+    provinces = { "x065A81" "x284F9E" "x64E061" "x6CADEE" "xC39B98" "xE13989" }
+}
+
+STATE_MOGOTREVO = {
+    id = 8043
+    provinces = { "x053DEC" "x25234B" "x3224C7" "x3ADC0B" "x54B2B7" "x61E80C" "x65467D" "x6AB3CB" "x6ACBCD" "x6FC60C" "x7B7FC0" "xB968B9" "xCCB51A" "xD97977" }
+}
+
+STATE_WEW = {
+    id = 8044
+    provinces = { "x0BCA31" "x2B8293" "x582B2D" "x80CDC9" "x9AE61F" "x9D674D" "xACA799" "xB35C11" "xB998C1" "xCB5A0B" "xD82386" "xE52022" "xE9EDEC" "xED7ACF" }
+}
+
+STATE_WESNED = {
+    id = 8045
+    provinces = { "x0F8F88" "x19C7F5" "x20AEEE" "x23E96C" "x6123AC" "x6FE633" "x715E17" "x767902" "xB3A9D2" "xE188C4" "xE8B984" "xEA6EFC" }
+}
+
+STATE_EXILLIA = {
+    id = 8046
+    provinces = { "x0D3C12" "x16A630" "x1A2E1B" "x20B84E" "x2256BD" "x39E086" "x548EDF" "x57C6CB" "x663BFE" "x828D8B" "x9AE3E8" "xB36C26" "xE78916" }
+}
+
+STATE_DAKRON = {
+    id = 8047
+    provinces = { "x005339" "x0A926E" "x0DE248" "x3B49B3" "x59181F" "x8AD274" "x9ACD24" "xAFB963" "xB69D29" "xE45E7E" "xF37889" "xF73AA1" "xFE98DE" }
+}
+
+STATE_WESTRAY2 = {
+    id = 8048
+    provinces = { "x0F6A5B" "x15EF67" "x6E3860" "x7D857B" "x7E867C" "x848F22" "x86C84B" "xBB57FB" "xBFAFE7" }
+}
+
+STATE_LAPICA = {
+    id = 8049
+    provinces = { "x000687" "x006096" "x03CCDB" "x2A0908" "x2A368F" "x2A6317" "x2A909E" "x5232F1" "x543910" "x54931F" "x54C0A6" "x7E3C90" "x7E5A95" "x7E6918" "x7EC945" "xA8308E" }
+}
+
+STATE_CHESHOE = {
+    id = 8050
+    provinces = { "x00725A" "x2A2430" "x3C38E8" "x540C88" "x543C51" "x7E9CBD" "xA80307" "xA8C984" "xCBE083" }
+}
+
+STATE_ZIROT = {
+    id = 8051
+    provinces = { "x00150A" "x006F19" "x009CA0" "x2A188A" "x2A7299" "x2A9F21" "x2AA262" "x54A5E2" "xA81289" "xA83F11" "xA89C61" }
+}
+
+STATE_SAASKVA = {
+    id = 8052
+    provinces = { "x1B66E0" "x2A0F8F" "x2A87A3" "x2AAB30" "x2ACCA8" "x54AEB0" "x7E12B3" "x7E9609" "x97357D" "xDCA14D" }
+}
+
+STATE_SPOUS = {
+    id = 8053
+    provinces = { "x00C0C3" "x0128CE" "x1E5B58" "x2AC344" "x542DCE" "x7E99E0" "xA8244D" "xA890BB" }
+}
+
+STATE_GDARSK = {
+    id = 8054
+    provinces = { "x00933C" "x009FE1" "x2A6658" "x2AD2C6" "x4E838D" "x5469D8" "x549660" "xA86FD9" }
+}
+
+STATE_DINSMARK = {
+    id = 8055
+    provinces = { "x002D55" "x2A7821" "x5478C4" "x7E060E" "x7E7E22" "x7E8163" "xF46483" }
+}
+
+STATE_EGERCE = {
+    id = 8056
+    provinces = { "x006C3C" "x00BAA5" "x3D56AE" "x5427B0" "x54723D" "x7E663B" "x7EC327" "x8706B3" "x949E07" "xA81534" "xAF7349" }
+}
+
+STATE_RUMAN = {
+    id = 8057
+    provinces = { "x00CF46" "x54993D" "x58986B" "x7E6C59" "xA833CF" "xA8CCC5" "xB093D4" }
+}
+
+STATE_KANZ = {
+    id = 8058
+    provinces = { "x08065A" "x085182" "x1C00F4" "x315A8B" "x325403" "x327826" "x32C3B2" "x5C271F" "x5C3CBF" "x5CA210" "x863F40" "xB02798" "xB07502" }
+}
+
+STATE_AGARA = {
+    id = 8059
+    provinces = { "x2A09D5" "x546F60" "x7E0331" "x7E6F9F" "xA82DB1" "xA869BB" "xA86F43" "xA88A07" "xD051D0" }
+}
+
+STATE_OURED = {
+    id = 8060
+    provinces = { "x00A8AF" "x0116D8" "x2A4E44" "x322435" "x329CB2" "x54271A" "x5433BF" "x5EC23B" "x7E2A9A" "x7EAE54" "x862A9F" }
+}
+
+STATE_LENAPE = {
+    id = 8061
+    provinces = { "x08EA2C" "x0F41B0" "x19CB1B" "x26B576" "x36C1CB" "x383D77" "x46A0B1" "x5C96E3" "x7B783A" "xB32ECF" "xCA6E1C" }
+}
+
+STATE_ROSTEF = {
+    id = 8062
+    provinces = { "x2AE699" "x952770" "xA04760" "xA726FD" "xA7A508" "xB15B13" "xC97875" "xD5BF2E" }
+}
+
+STATE_COMER = {
+    id = 8063
+    provinces = { "x189307" "x3DE9EB" "x5A0692" "x6B7F77" "xAEABDD" "xF570F7" "xFA4EC1" }
+}
+
+STATE_FOFELLIA = {
+    id = 8064
+    provinces = { "x029348" "x165745" "x4B91AF" "xA803D4" "xDEB9B7" "xDF332D" "xF477A2" "xFA22F4" }
+}
+
+STATE_LANCHOSC = {
+    id = 8065
+    provinces = { "x062A3C" "x068728" "x0FAA15" "x140536" "x17D0BF" "x30A8AD" "x7425E2" "xAE9B45" "xC3F30E" "xE55C43" "xE6EA19" "xF42327" }
+}
+
+STATE_LOD = {
+    id = 8066
+    provinces = { "x01BAE5" "x067B82" "x2E229D" "x4C2B6B" "x6F798E" "xAEB40C" "xB7ABFF" "xE86FE6" }
+}
+
+STATE_BA = {
+    id = 8067
+    provinces = { "x1F6616" "x3C9CA9" "x4EDF99" "x50572F" "x82DB62" "xA860C0" "xB72FB2" "xCF69D7" "xE17A6E" }
+}
+
+STATE_EGREN = {
+    id = 8068
+    provinces = { "x097C28" "x1D5049" "x2A2D2B" "x60C4E4" "x845F73" "x9A3044" "xADB18E" "xCFE329" }
+}
+
+STATE_ARCHAI = {
+    id = 8069
+    provinces = { "x1EA7D1" "x3E0E8D" "x4B9249" "x54A84E" "x5BD710" "x69D1B4" "xA90367" "xCEA9A1" "xD042FD" "xD6C5AA" }
+}
+
+STATE_ARCMAH = {
+    id = 8070
+    provinces = { "x0C75A2" "x5DB4DD" "x65F472" "x6731CE" "x945FBF" "x9C7E21" "xAE5443" "xB3A6CA" }
+}
+
+STATE_MORVIA = {
+    id = 8071
+    provinces = { "x18E4B7" "x2290B1" "x27D65E" "x2DF1BE" "x3B4F3F" "x5A3FBF" "x5D578D" "x5ECBEE" "x5F8452" "x6B43E3" "x945D10" "x94EBA0" "x99F6F8" "xA8F84F" "xAC7BCF" "xBC6064" }
+}
+
+STATE_SABHAIL = {
+    id = 8072
+    provinces = { "x155944" "x17856F" "x1D98C5" "x2B7B7C" "x2CCE74" "x64E1EC" "x845A77" "x9B9E0A" "xBA4C7F" "xC6E8CC" }
+}
+
+STATE_TOKK = {
+    id = 8073
+    provinces = { "x03B1FD" "x09C8B7" "x16382E" "x17A4DF" "x2D2BD7" "x4CE37D" "x6F70B9" "x87C0C1" "xD1BFA8" }
+}
+
+STATE_WESSEN = {
+    id = 8074
+    provinces = { "x0FDAB0" "x867E90" "xE45933" "xFD73BA" }
+}
+
+STATE_RUTHYS = {
+    id = 8075
+    provinces = { "x3209DA" "x509CA6" "x5C33C4" "x5C5783" "x65C353" "x7933D5" "x863645" "x86A590" "xB039C5" }
+}
+
+STATE_ANTIM = {
+    id = 8076
+    provinces = { "x21CCA6" "x2F5FCB" "x3B7EB4" "x479DA9" "x77305F" "x85B4AC" "x96C763" "xBDE6F1" "xCDAB87" }
+}
+
+STATE_WIZHOLT = {
+    id = 8077
+    provinces = { "x026D0B" "x0E9D25" "x1BBE85" "x3B8509" "x43ECBF" "x45D0C5" "x54C6C4" "x7F20B1" "xC78991" }
+}
+
+STATE_AXIO = {
+    id = 8078
+    provinces = { "x323E8E" "x3AD5AF" "x554774" "x56E216" "x5AABEF" "x5E827A" "x7243EA" "x7B8E7E" "x8F633E" "xBFC032" "xC07AA0" "xCB1EFC" "xDBBADA" "xF7A838" }
+}
+
+STATE_SCOTI = {
+    id = 8079
+    provinces = { "x01ABCD" "x174ECD" "x183634" "x279193" "x37853F" "x55DADB" "x685F78" "x91CBB1" "x9F3C46" "xF4CEB1" "xFE62FF" }
+}
+
+STATE_DOEND = {
+    id = 8080
+    provinces = { "x063EDF" "x08EBAA" "x2CB655" "x2EEB4B" "x412B78" "x61C80C" "x737AF7" "xBA9763" }
+}
+
+STATE_NEIDON = {
+    id = 8081
+    provinces = { "x2A5BE6" "xA6DAE0" "xBF3B46" }
+}
+
+STATE_RHEAN = {
+    id = 8082
+    provinces = { "x05CC5A" "x22A875" "x2AB819" "x32EBEE" "x70A88A" "x732111" "x7CBDCF" "x8427ED" "xA73B87" "xD1520E" "xE789AF" "xF93F1A" "xFC2150" }
+}
+
+STATE_KOIKON = {
+    id = 8083
+    provinces = { "x0600EC" "x1FA379" "xA7DDE2" }
+}
+
+STATE_KENGL = {
+    id = 8084
+    provinces = { "x0BD5FD" "x168507" "x1EA2F8" "x20953E" "x46BA1E" "x673C44" "x6F5A14" "x83C03B" "xAB4218" "xC9DF00" "xD86906" "xDE28A7" }
+}
+
+STATE_EKEND = {
+    id = 8085
+    provinces = { "x1FA5FE" "x448E5D" "x5FE55C" "x6B6DA0" "xA1B395" "xA54D52" "xC6B67D" }
+}
+
+STATE_ZYVER = {
+    id = 8086
+    provinces = { "x054BB4" "x0A5D3B" "x244C4A" "x28D34B" "x39C236" "x5A346F" "x66C7CB" "x722F2B" "x77B1D1" "x85AE22" "x8B9510" "x92313E" "xB5F0B5" "xC7CBEC" }
+}
+
+STATE_VASSAGO = {
+    id = 8087
+    provinces = { "x2A7544" "x5451C4" "x7E5445" "x7E7BDB" "xA82D1B" "xA87220" "xE99060" }
+}
+
+STATE_SILCONA = {
+    id = 8088
+    provinces = { "x007E9B" "x0099C3" "x00AB23" "x093387" "x2B0044" "x2BA29E" "x5409AB" "x81B795" "xA815CA" "xA84E93" "xA8CFD9" "xA92489" "xAD9C52" }
+}
+
+STATE_RAHAB = {
+    id = 8089
+    provinces = { "x2A5494" "x2A7B94" "x330980" "x341BE7" "x542A8D" "x7E7213" "x87B41D" "xAD1E20" "xAD30E3" }
+}
+
+STATE_IABY = {
+    id = 8090
+    provinces = { "x00184B" "x2A811C" "x2ACF85" "x4BBE72" "x7E06A4" "x7EA522" "x7EAB40" "x7EAE1D" "xA8210C" "xA82AD4" "xA887C0" "xD1E707" "xD2A327" }
+}
+
+STATE_PROCEL = {
+    id = 8091
+    provinces = { "x00A846" "x0521A0" "x052728" "x2A270D" "x2F3680" "x2FA253" "x599310" "x83634F" "xA83C34" "xA8A5C5" "xAD0CC0" "xAD4243" }
+}
+
+STATE_GEMIA = {
+    id = 8092
+    provinces = { "x00D223" "x2A00A3" "x2AA81C" "x540047" "x5430AB" "x547E15" "x54AB9C" "x7E8195" "xA857C5" "xD47015" "xE29684" }
+}
+
+STATE_WOLFE = {
+    id = 8093
+    provinces = { "x00309B" "x2A1858" "x2A9008" "x379C34" "x547EE2" "x549388" "x7E1E59" "x7E519A" "x7E7B45" }
+}
+
+STATE_HAZIEL = {
+    id = 8094
+    provinces = { "x0003AA" "x004291" "x00C64B" "x2A4512" "x541B0B" "x54751A" "x54A2A1" "x7E1E8B" "x7E4B13" "x7ED2A9" "x852991" "xA86C98" }
+}
+
+STATE_NEGATION = {
+    id = 8095
+    provinces = { "x007BBE" "x058D0F" "x2F2762" "x543633" "x593C42" "x599651" "x59A5D3" "x832D63" "x83870E" "x8399D1" "xA8002A" "xFF3DFC" }
+}
+
+STATE_CRYSLAN = {
+    id = 8096
+    provinces = { "x5452D2" "x5481BF" "x54CF29" "x7E1590" "x7E39B3" "x7E9081" "xA8C3CA" "xD4C798" }
+}
+
+STATE_VASCO = {
+    id = 8097
+    provinces = { "x2A062B" "x2A7E3F" "x4C3200" "x833FC2" "x83A854" "xA89989" "xC18F7E" "xC9B000" }
+}
+
+STATE_OSTLICH = {
+    id = 8098
+    provinces = { "x053300" "x059FD2" "x2B5D30" "x2C8717" "x2F7E30" "x5503C4" "x55094C" "x5560B0" "x557BD8" "x55A51F" "x592AE2" "x593901" "x7F9363" "x7FCC2C" "x805763" }
+}
+
+STATE_STELIA = {
+    id = 8099
+    provinces = { "x00A2BE" "x2A331C" "x54369C" "x7EB131" "xA821D9" "xA87EC5" "xA8CC2F" }
+}
+
+STATE_ELNVAIR = {
+    id = 8100
+    provinces = { "x003FB4" "x008700" "x2A1B35" "x2A3F58" "x2AC9CB" "x548D01" "x54CC4C" "x587B88" "x7E8440" "x894D4B" "xA83957" "xD951D1" }
+}
+
+STATE_DAMABRATH = {
+    id = 8101
+    provinces = { "x003032" "x00C928" "x2ABA49" "x543356" "x54BDC9" "x7E36D6" "x7EC04A" "x9293E2" "xA8098E" "xA881A2" "xA884E3" "xA8CFA2" }
+}
+
+STATE_BAYZAL = {
+    id = 8102
+    provinces = { "x00661E" "x0072C3" "x547EBF" "x548406" "x54C90B" "x7E0FD6" "x7ECC8B" "xA81257" "xA8CF0C" }
+}
+
+STATE_CHAMUEL = {
+    id = 8103
+    provinces = { "x00579B" "x006341" "x00695F" "x2078B1" "x2A15AD" "x2A6CDF" "x41D4B1" "x541551" "x549FC4" "x7E18D1" "x7E635E" "xA81B52" "xA866DE" }
+}
+
+STATE_KRAKAIN = {
+    id = 8104
+    provinces = { "x03E83E" "x0A3712" "x23B160" "x484B08" "x5595F4" "x6064F9" "xA8639D" "xAAE73C" "xBD7158" "xDB9C68" "xE2BDE4" "xF45AE2" }
+
+}
+
+STATE_GJOA = {
+    id = 8105
+    provinces = { "x0009C8" "x2A5D5D" "x2A7B62" "x541210" "x545ABF" "x847B09" "xA8A52F" }
+}
+
+STATE_HORDUS = {
+    id = 8106
+    provinces = { "x00C02D" "x2A78B7" "x4A79A5" "x546C88" "x54B15B" "x65BD72" "x7E4E54" "xA89F3E" }
+}
+
+STATE_KOKABIEL = {
+    id = 8107
+    provinces = { "x0018B4" "x00245A" "x008146" "x008423" "x2A27DA" "x2A84C6" "x548747" "x74D41F" }
+}
+
+STATE_WAGSHEE = {
+    id = 8108
+    provinces = { "x00AE00" "x5424D3" "x5487DD" "x54AE47" "xA87561" "xC46544" }
+}
+
+STATE_LEET = {
+    id = 8109
+    provinces = { "x2A603A" "x2AA53F" "x545715" "x6242C7" "x7E1BAE" "x7E871D" "x7EB4A4" "xA88A9D" "xA8B725" }
+}
+
+STATE_HARTON = {
+    id = 8110
+    provinces = { "x001ED2" "x00B7C8" "x00CFAF" "xA81E2F" "xF5A545" }
+}
+
+STATE_PORKA = {
+    id = 8111
+    provinces = { "x0078E1" "x00D28C" "x2A699E" "x2AABC6" "x546C1F" "x54785B" "x5A23E7" "x7E2754" "x7E72E0" "x7EC604" }
+}
+
+STATE_TUNGFORD = {
+    id = 8112
+    provinces = { "x000655" "x003C41" "x007E05" "x2A66C1" "x2A8185" "x2A8D2B" "x541897" "x7E5D40" }
+}
+
+STATE_NORN = {
+    id = 8113
+    provinces = { "x00392D" "x00B41E" "x546CB5" "x54A8BF" "x593006" "xA33697" }
+}
+
+STATE_GOREALM = {
+    id = 8114
+    provinces = { "x005114" "x25CFF8" "x2A3CAD" "x7E3FD1" "x7E789A" "x7EA863" "x886063" "xA80648" "xA84252" "xA8AEC0" }
+}
+
+STATE_KAREDA = {
+    id = 8115
+    provinces = { "x086B63" "x339C85" "x7C02F8" "xA0375D" }
+}
+
+STATE_SHOJ = {
+    id = 8116
+    provinces = { "x11D011" "x193715" "x1AE5CD" "x33E5C9" "x565160" "x64CDB8" "x7E97D3" "x9C3704" "xA4B238" "xDC52A6" }
+}
+
+STATE_JALE = {
+    id = 8117
+    provinces = { "x0C9611" "x229F88" "x54E2DF" "x7BD1BA" "xB3C14F" "xB62AD5" "xB9B33E" "xBEE520" "xC78481" "xC7E004" "xD3B2EF" "xEF45B5" }
+}
+
+STATE_BAU = {
+    id = 8118
+    provinces = { "x008796" "x17CA30" "x2A6935" "x2A8A17" "x540324" "x548D97" "x55D2DD" "x7EA2AE" "x957FC4" "xA8B19D" "xBF5949" "xDCB1D3" }
+}
+
+STATE_IOSTACH = {
+    id = 8119
+    provinces = { "x1B83B6" "x2A5CF0" "x2A5D8F" "x2BBB88" "x2CAE17" "x546010" "x947D37" "xA87593" }
+}
+
+STATE_CAUCUS = {
+    id = 8120
+    provinces = { "x000F50" "x001B28" "x005A0F" "x2A873A" "x54182E" "x5460DD" "x54B124" "x7E5131" "xA88416" "xA8A21B" }
+}
+
+STATE_RATH = {
+    id = 8121
+    provinces = { "x017541" "x2B3F94" "x2B78C1" "x7F3059" "x7F578B" "x83C936" "xA8578E" "xB6BE21" }
+}
+
+STATE_CERFESSA = {
+    id = 8122
+    provinces = { "x2A1517" "x542192" "x542406" "x548129" "x5490AB" "xA839C0" "xA88D48" }
+}
+
+STATE_ALBER = {
+    id = 8123
+    provinces = { "x000CA5" "x00B455" "x00CCD2" "x2A12D0" "x2A573F" "x2A7203" "x541EB5" "x54515B" "x545D9C" "x5463BA" "x54D206" "x559329" }
+}
+
+STATE_FARGOL = {
+    id = 8124
+    provinces = { "x005DB9" "x00C3A0" "x0C770F" "x2A4EDA" "x2A5A1C" "x2ACF53" "x7E8D3B" "x7EBD09" "xA80925" "xA8541B" "xADE2D4" }
+}
+
+STATE_ARCTON = {
+    id = 8125
+    provinces = { "x002AAA" "x004B5A" "x005732" "x2A5AB2" "x408DDF" "x5E8A9C" "x89B82E" "x8F2B7B" "xA86334" "xA89025" "xA89643" }
+}
+## STATE_ -> = {\n\tid = \n\tprovinces = {  }\n}\n\nSTATE_
+##manually fix at region tags

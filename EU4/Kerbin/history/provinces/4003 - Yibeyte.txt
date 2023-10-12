@@ -1,0 +1,25 @@
+#Yibeyte
+
+
+native_size = 1   
+native_ferocity = 1
+native_hostileness = 1
+
+culture = Amerb
+religion = krakenity
+
+discovered_by = western
+
+capital = "Yibeyte"
+
+is_city = yes
+hre = no
+base_tax = 3
+base_production = 1
+base_manpower = 2
+
+ 
+ 
+ 
+extra_cost = 0
+

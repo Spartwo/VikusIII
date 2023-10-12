@@ -1,0 +1,366 @@
+﻿
+##How to convert state definitions on masse
+##" -> nothing 
+##bookmark lines containing ID
+##delete all bookmarked lines
+##STATE_ -> POPS = {\n\ts:STATE_
+##}\n -> \n\t\t}\n\t}\n}\n
+
+POPS = {
+	s:STATE_BRAVIS = {
+		create_pop = { 
+				x7EC9AE x0229CD x898AC0 x8FB8CE 
+			}
+		}
+	}
+}
+
+POPS = {
+	s:STATE_SVARSK = {
+		create_pop = { 
+				x784107 
+			}
+		}
+	}
+}
+
+POPS = {
+	s:STATE_REWE = {
+		create_pop = { 
+				x595D5B xB3D3E0 xAD7B43 x2FB485 x59B706 x8378C2 
+			}
+		}
+	}
+}
+
+POPS = {
+	s:STATE_SOLTEM = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+POPS = {
+	s:STATE_CALIDORIA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_ANTHANNIA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_KARINIA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_ORANIA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+POPS = {
+	s:STATE_RHUDBEAL = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_AGUADA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_VERULIA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_MANNIA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_SYNISTERIA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_ARMENTUS = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_CORRIGON = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_AURIA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_VIRIDIA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_SYLLIA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_VARIA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_MINIVIVI = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+
+POPS = {
+	s:STATE_HOOK = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+
+POPS = {
+	s:STATE_B2 = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+POPS = {
+	s:STATE_VERWELM = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+POPS = {
+	s:STATE_B1 = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+POPS = {
+	s:STATE_BASKE = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+POPS = {
+	s:STATE_TAO = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+POPS = {
+	s:STATE_ALANIA = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+POPS = {
+	s:STATE_OSTEN = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+POPS = {
+	s:STATE_EGRO = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+POPS = {
+	s:STATE_DRAVAS = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+
+POPS = {
+	s:STATE_FISH_ISLAND = {
+    	region_state:AAA = {
+			create_pop = {
+				culture = Kerman
+				size = 100
+			}
+		}
+	}
+}
+

@@ -1,0 +1,198 @@
+﻿###### EXAMPLE ######
+
+#EXA = {
+#	color = { 39 84 135 } #The colour of this country on the map.
+#
+#	country_type = recognized #See common\country_types
+#
+#	tier = kingdom #See common\country_ranks
+#
+#	cultures = { examplish } #What are their primary culture/s - you can set multiple.
+#	capital = STATE_EXAMPLE #Which state holds this nation's default capital
+#}
+
+#####################
+
+#SOUTH DOREN LADS
+ANI_COS = {
+	color = { 137 0 0 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+QIC_COS = {
+	color = { 181 31 36 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#UPPER BASTIA
+UPP_COS = {
+	color = { 237 125 49 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#IRO
+IRO_COS = {
+	color = { 237 125 49 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#COMER CHANGING TO LENAPE
+COM_LEN = {
+	color = { 240 220 130 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#BLUE ZOKESIA
+ZOK_BLUE = {
+	color = { 28 39 85 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#FLORACIA TO ALTERIX
+ALT_COS = {
+	color = { 39 204 204 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#KARTHAX GREEN
+KAR_GREEN = {
+	color = { 17 94 51 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#KARTHAX AVALON
+KAR_RED = {
+	color = { 254 0 0 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#GAG REcolor
+GAG_SMC = {
+	color = { 187 158 2 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#RECIPROCITYS
+REC_PHOS = {
+	color = { 160 160 160 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+REC_ACRI = {
+	color = { 53 157 214 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+REC_DUST = {
+	color = { 217 138 138 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#ERUSEA
+ERU_COS = {
+	color = { 45 45 45 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#PANKA
+PKA_COS = {
+	color = { 200 16 46 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#GRESTIN
+SVA_GRE = {
+	color = { 0 74 127 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}#SVARSKIAN GRESTIN
+NEW_GRE = {
+	color = { 24 137 33}
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}#NEWEST GRESTIN
+
+#SHADES OF KONIG
+KON_LIB = {
+	color = { 41 124 160 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+KON_NEO = {
+	color = { 0 51 91 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+KON_ARC = {
+	color = { 240 240 240 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+#COMORRI
+COM_COS = {
+	color = { 200 67 68 }
+	country_type = recognized
+	tier = city_state
+	cultures = { examplish } 
+	capital = STATE_KSC
+}
+
+

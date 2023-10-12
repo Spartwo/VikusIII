@@ -1,0 +1,20 @@
+provinces = "provinces.png"
+topology = "heightmap.heightmap"
+rivers = "rivers.png"
+adjacencies = "adjacencies.csv"
+wrap_x = yes
+
+sea_starts = {
+	xA4CDF6 x99B1D9 x92C4F0 x78BEDA x7EA0BE x7AB5BE x80C3D6
+	xA5C4EE x8BE5D1 x8DA7EF x68D0DE x9F95C7 x7987B1 x6E8ABB x6E8ABB x81CADA
+	x6E98D0 x7A84AF x99B8E1 x95BBB6 x92DCEA x96C6EC xACCEDE x3AB4FF xB8CDDD
+	x8583D3 x819EDC x6AA8E5 x86A0EE x6677FB x667CFB x6697CF x6770A8 x6CB1D8 xAFC8FA xBCDCF0
+	x80AAAF x838CA8 x80A7CB x7CC9F9 x81D9CE x96B3F4 x87F9F5 x93A5FD x9ACDDC xB0C6E5 x70A6D6
+}
+lakes = {
+	x7CA3CB #lake
+	x6D9092 #Flub
+	x8FACF1 #Juno
+	xA1B9DD #Sweetwater
+	x6D719D #That one in carthia
+}

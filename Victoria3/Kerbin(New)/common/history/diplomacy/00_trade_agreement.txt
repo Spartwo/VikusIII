@@ -1,0 +1,8 @@
+﻿DIPLOMACY = {
+	c:AON_FORM = {
+		create_diplomatic_pact = {
+			country = c:MEC
+			type = trade_agreement
+		}
+	}	
+}

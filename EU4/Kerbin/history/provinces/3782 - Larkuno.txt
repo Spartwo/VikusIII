@@ -1,0 +1,17 @@
+
+native_size = 1
+native_ferocity = 1
+native_hostileness = 1
+
+capital = "Larkuno"
+base_tax = 1
+base_production = 4
+base_manpower = 4
+
+culture = Belas
+religion = krakenity
+
+hre = no
+is_city = yes
+
+extra_cost = 0

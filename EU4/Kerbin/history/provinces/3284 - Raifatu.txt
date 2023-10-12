@@ -1,0 +1,19 @@
+#2432 - Raifatu
+
+
+native_size = 1 
+native_ferocity = 1
+native_hostileness = 1
+
+culture = Algize
+religion = krakenity
+capital = "Raifatu`u"
+hre = no
+
+base_tax = 1 
+base_production = 3
+base_manpower = 2
+
+native_size = 8
+native_ferocity = 1
+native_hostileness = 3

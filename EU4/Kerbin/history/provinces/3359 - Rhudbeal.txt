@@ -1,0 +1,18 @@
+
+add_core = NOR
+owner = NOR
+controller = NOR
+
+capital = "Rhudbeal"
+base_tax = 1
+base_production = 3
+base_manpower = 1
+
+culture = norwegian
+religion = catholic
+
+hre = no
+is_city = yes
+
+discovered_by = western
+extra_cost = 0

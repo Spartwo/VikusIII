@@ -1,0 +1,23 @@
+
+add_core = USA  
+owner = USA
+controller = USA  
+
+culture = polish
+religion = krakenity
+
+discovered_by = western
+
+capital = "Givet"
+
+is_city = yes
+hre = no
+base_tax = 4
+base_production = 1
+base_manpower = 3
+
+ 
+ 
+ 
+extra_cost = 0
+

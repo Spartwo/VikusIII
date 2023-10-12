@@ -1,0 +1,25 @@
+#3739 - Bravis
+
+native_size = 1   
+native_ferocity = 1
+native_hostileness = 1
+
+culture = Bravisan
+religion = krakenity
+
+discovered_by = western
+
+capital = "Svarsk"
+
+is_city = yes
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 2
+
+ 
+ 
+
+
+extra_cost = 0
+

@@ -1,0 +1,8 @@
+﻿DIPLOMACY = {
+	c:FEG = {	
+		create_diplomatic_pact = {
+			country = c:ALE
+			type = customs_union
+		}
+	}
+}

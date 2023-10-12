@@ -1,0 +1,23 @@
+government = monarchy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+technology_group = western
+religion = jebidism
+primary_culture = Tekian
+capital = 3380	# Cath
+
+
+historical_friend = KCH
+
+
+1440.11.11 = {
+	monarch = {
+		name = "Thaddeus I"
+		culture = Tekian
+		birth_date = 1422.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+

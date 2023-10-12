@@ -1,0 +1,265 @@
+﻿l_english:
+HIDE_COS:0 " "
+HIDE_COS_DEF:0 "The Disunified areas of $NONIDEOLOGYADJ$"
+################### Aontas ######################
+AON_FORM:0 "Aontas"
+AON_FORM_DEF:0 "Aontas"
+AON_FORM_ADJ:0 "Aontan"
+AON_FORM_neocon_DEF:0 "The Federation of Greater Aontas"
+AON_FORM_democratic_DEF:0 "Consolidated Aontas"
+AON_FORM_communism_DEF:0 "The Tekkian Union"
+AON_FORM_schizo_DEF:0 "The Trapan Governate of Aontas"
+################### Reciprocity ######################
+#PHOS
+REC_PHOS:0 "Reciprocity"
+REC_PHOS_DEF:0 "Lake Periphery States of the Phosphor Reciprocity"
+REC_PHOS_ADJ:0 "Phosphorican"
+#SPIC
+REC_SPIC:0 "Reciprocity"
+REC_SPIC_DEF:0 "Lake Periphery States of the Spice Reciprocity"
+REC_SPIC_ADJ:0 "Spican"
+#DUST
+REC_DUST:0 "Reciprocity"
+REC_DUST_DEF:0 "Lake Periphery States of the Dust Harvest"
+REC_DUST_ADJ:0 "Dust"
+#ACRI
+REC_ACRI:0 "Acrimony"
+REC_ACRI_DEF:0 "The Acrimonious Lake Periphery States"
+REC_ACRI_ADJ:0 "Acrimone"
+
+
+################### [Panseria] ######################
+ # Anixia
+ ANI_COS:0 "Anixia"
+ ANI_COS_DEF:0 "Anixia"
+ ANI_COS_democratic_DEF:0 "The Oath Republic of Anixia"
+ ANI_COS_ADJ:0 "Anix"
+ # Qicao
+ QIC_COS:0 "Qicao"
+ QIC_COS_DEF:0 "Qicao"
+ QIC_COS_communism_DEF:0 "Democratic Qicao"
+ QIC_COS_ADJ:0 "Qi"
+################### Laveska ######################
+LAV_FORM:0 "Laveska"
+LAV_FORM_DEF:0 "Laveska"
+LAV_FORM_democratic_DEF:0 "The Union of Laveska"
+LAV_FORM_ADJ:0 "Laveskan"
+#Laveska-Zeroa
+LAV_ZER:0 "Laveska-Zeroa"
+LAV_ZER_DEF:0 "Laveska-Zeroa"
+LAV_ZER_democratic_DEF:0 "The Union of Laveska-Zeroa"
+LAV_ZER_ADJ:0 "Lavesk-Zeroan"
+################### Karthax-Avalon ######################
+KAR_RED:0 "Avalon"
+KAR_RED_DEF:0 "Avalon"
+KAR_RED_ADJ:0 "Avalonian"
+#KAFRICA
+ALT_COS:0 "Alterix"
+ALT_COS_DEF:0 "Alterix"
+ALT_COS_ADJ:0 "Alterixian"
+################### Heruland ######################
+IRO_COS:0 "Iro"
+IRO_COS_DEF:0 "Iro"
+IRO_COS_ADJ:0 "Iroan"
+################### Heruland ######################
+HER_FORM:0 "Heruland"
+HER_FORM_DEF:0 "Heruland"
+HER_FORM_fascism_DEF:0 "The True Republic of Heruland"
+HER_FORM_ADJ:0 "Herulic"
+################### Bastia ######################
+UPP_COS:0 "Upper Bastia"
+UPP_COS_DEF:0 "Upper Bastia"
+UPP_COS_ADJ:0 "Bastian"
+################### Targeria ######################
+TAR_FORM:0 "Targeria"
+TAR_FORM_DEF:0 "Targeria"
+TAR_FORM_ADJ:0 "Targerian"
+################### IU ######################
+IU_FORM:0 "IU"
+IU_FORM_DEF:0 "IU"
+IU_FORM_ADJ:0 "IU"
+################### Grestin ######################
+#KOSTEL
+KOS_FORM:0 "Kosta"
+KOS_FORM_DEF:0 "Kosta"
+KOS_FORM_ADJ:0 "Kostel"
+#SVARSK (south grestin tekkia'd)
+SVA_GRE:0 "Svarsk"
+SVA_GRE_COS_DEF:0 "Svarskian Grestin"
+SVA_GRE_COS_ADJ:0 "Svarskian"
+#Newest Grestin
+NEW_GRE:0 "Grestin"
+SVA_GRE_COS_DEF:0 "The State of Newest Grestin"
+SVA_GRE_COS_ADJ:0 "Grestian"
+#SVARSK (south grestin tekkia'd)
+GRS_CEL:0 "Grestin-Celrapan"
+SVA_GRE_COS_DEF:0 "The Federation of Grestin and Celrapan"
+SVA_GRE_COS_ADJ:0 "Celrapani-Grestian"
+#SVARSK (south grestin tekkia'd)
+STR_GRS:0 "Strelka-Grestinia"
+STR_GRS_COS_DEF:0 "Strelka Grestinia"
+STR_GRS_COS_ADJ:0 "Grestian"
+
+################### Kafrican ######################
+SKAF_FORM:0 "Suid-Kafrica"
+SKAF_FORM_DEF:0 "Southern Kafrica"
+
+STR_TEK:0 "Strelka-Tekkia"
+STR_TEK_DEF:0 "The United Kingdoms of Strelka and Tekkia"
+################### Aenia-Arcadia ######################
+#UCF/UIF
+UIF_FORM_schizo_DEF:0 "The Greater Kerbin Federation"
+UIF_FORM_schizo:0 "GKF"
+UIF_FORM_democratic_DEF:0 "The United Continental Federation"
+UIF_FORM_democratic:0 "UCF"
+UIF_FORM_fascism_DEF:0 "The United Imperial Federation"
+UIF_FORM_fascism:0 "UIF"
+UIF_FORM_DEF:0 "The Imperial United Front"
+UIF_FORM:0 "IUF"
+UIF_FORM_ADJ:0 "Aenian"
+#RAVNINNY
+RAV_FORM:0 "Ravninny"
+RAV_FORM_DEF:0 "Ravninny"
+RAV_FORM_ADJ:0 "Ravnine"
+#Aenia variants
+AEN_AAF_DEF:0 "Aenian Armed Forces"
+AEN_CRA:0 "Continental Reconstruction Authority"
+AEN_CRA_DEF:0 "Continental Reconstruction Authority"
+#Aeserian arcadia rebrand
+AES_COS:0 "Aeseria"
+AES_COS_DEF:0 "Aeseria"
+AES_COS_ADJ:0 "Aeserian"
+################### Pandorica ######################
+PAN_FORM:0 "Pandorica"
+PAN_FORM_DEF:0 "Pandorica"
+PAN_FORM_ADJ:0 "Pandorican"
+################### Greydon ######################
+GRY_COS:0 "Greydon"
+GRY_COS_DEF:0 "Greydon"
+GRY_COS_ADJ:0 "Greydon"
+GRY_COS_neutrality_DEF:0 "The Kingdom of Greydon"
+GRY_COS_communism_DEF:0 "The Unions of New Arcadia"
+GRY_COS_fascism_DEF:0 "New Arcovy"
+################### Zoke ######################
+#THICCZOKESIA
+AZF_FORM:0 "Arkadii-Zokesia"
+AZF_FORM_DEF:0 "Arkadii-Zokesia"
+AZF_FORM_ADJ:0 "Arkadii-Zokesian"
+# Blue Zokesia
+ZOK_BLUE:0 "Zokesia"
+ZOK_BLUE_DEF:0 "Zokesia"
+ZOK_BLUE_ADJ:0 "Zokesian"
+ZOK_BLUE_fascism_DEF:0 "The Zokesian Empire"
+ZOK_BLUE_democratic_DEF:0 "The Zokesian Republic"
+ZOK_BLUE_corporatism_DEF:0 "The Zokesian Badger Printer Coalition"
+ZOK_BLUE_neocon_DEF:0 "The Federation of Zokesia"
+################### Comer ######################
+COM_LEN:0"Lenape"
+COM_LEN_DEF:0"Lenape"
+COM_LEN_ADJ:0"Lenappean"
+################### VienKrome ######################
+KRO_VNO_LEN:0"Krome-Vieno"
+KRO_VNO_DEF:0"Krome-Vieno"
+KRO_VNO_ADJ:0"Kromano-Vienan"
+################### South Eureka ######################
+ALT_COS:0 "Alterix"
+ALT_COS_DEF:0 "Alterix"
+ALT_COS_ADJ:0 "Alterixian"
+#PACIFICA
+PAC_FORM:0 "Tauica"
+PAC_FORM_DEF:0 "Tauica"
+PAC_FORM_ADJ:0 "Tauican"
+################### Cotmark ######################
+KUS_FORM:0 "Kolus"
+KUS_FORM_DEF:0 "The Kolusian Union of States"
+KUS_FORM_ADJ:0 "Kolusian"
+################### DOREN ######################
+CPD_FORM:0 "Doren"
+CPD_FORM_DEF:0 "The Combined Provinces of Doren"
+CPD_FORM_democratic_DEF:0 "The United Federation of Doren"
+CPD_FORM_ADJ:0 "Dorvic"
+################### Strelka ######################
+KRO_FORM:0 "Kroster Rijk"
+KRO_FORM_DEF:0 "The Krostanian People's Empire"
+KRO_FORM_ADJ:0 "Krostanian"
+#Dinsmark
+STR_DINS:0 "Dinsmark"
+STR_DINS_DEF:0 "Grand Duchy of Dinsmark"
+STR_DINS_ADJ:0 "Strelkan"
+################### Belasnirov ######################
+BEL_FORM:0 "Belasnirov"
+BEL_FORM_DEF:0 "Belasnirov"
+BEL_FORM_ADJ:0 "Belasnii"
+################### Kalban Mergers ######################
+#KAL_DFK
+KAL_DFK:0 "DFK"
+KAL_DFK_DEF:0 "Demokratska Federacija Kalbanija"
+KAL_DFK_ADJ:0 "Kalban"
+#KAL_SKR
+KAL_SKR:0 "SKR"
+KAL_SKR_DEF:0 "Severni Kalban Republika"
+KAL_SKR_ADJ:0 "Kalban"
+#KAL_KSKM
+KAL_KSKM_fascism_DEF:0 "The Kalban Bay Union"
+KAL_KSKM_neoconc:0 "UZK"
+KAL_KSKM_neocon_DEF:0 "The Federation of Kerbia and Mentonogro"
+KAL_KSKM_communism:0 "KSKM"
+KAL_KSKM_communism_DEF:0 "The Kalban States of Kerbia and Menton" 
+KAL_KSKM_democratic:0 "SFRK"
+KAL_KSKM_democratic_DEF:0 "Socijalistička Federativna Republika Kalbanija"
+################### Erusia Panka ######################
+PKA_COS:0 "Panka"
+PKA_COS_DEF:0 "Panka"
+PKA_COS_ADJ:0 "Pankan"
+#schizo Erusia
+ERU_COS:0 "Erusia"
+ERU_COS_DEF:0 "Erusia"
+ERU_COS_ADJ:0 "Erusian"
+ERU_COS_fascism_DEF:0 "The Greater Erusian State"
+ERU_COS_democratic_DEF:0 "The Federal Republic of Erusia"
+ERU_COS_neocon_DEF:0 "The Federal Republic of Erusia"
+ERU_COS_communism_DEF:0 "Universalist Erusia"
+#FORSETTI
+FOR_FORM:0 "Forsetti"
+FOR_FORM_DEF:0 "Forsetti"
+FOR_FORM_ADJ:0 "Forsetti"
+
+################### Narutnetflub ######################
+NAR_FORM:0 "Narutnetflub"
+NAR_FORM_ADJ:0 "Flubban"
+NAR_FORM_DEF:0 "Narutnetflub"
+NAR_FORM_fascism:0 "Narutnek"
+NAR_FORM_fascism_DEF:0 "Narutnek"
+################### Solaria ######################
+#COMORRI (ALT EXODUS PATH)
+COM_COS:0 "Comorri"
+COM_COS_DEF:0 "Comorri"
+COM_COS_ADJ:0 "Comorri"
+#SOLANI (MECHANI-SOLARIA)
+SOL_FORM:0 "Solani"
+SOL_FORM_DEF:0 "The Solani Union"
+SOL_FORM_ADJ:0 "Solani"
+################### Surnay ######################
+SUR_FORM:0 "Surnay"
+SUR_FORM_DEF:0 "The Surnistan United Republic"
+SUR_FORM_neocon_DEF:0 "The Empire of Surnay"
+SUR_FORM_Fascism_DEF:0 "The Muhhattan Empire"
+SUR_FORM_ADJ:0 "Surnay"
+################### BurrFed ######################
+BUR_FORM:0 "Burr"
+BUR_FORM_DEF:0 "Burr"
+BUR_FORM_ADJ:0 "Burric"
+################### Kafrican ######################
+KAF_FORM:0 "Kafrica"
+KAF_FORM_DEF:0 "Kafrica"
+KAF_FORM_ADJ:0 "Kafrican"
+KAF_FORM_DEF:0 "Kafrica"
+KAF_FORM_schizo_DEF:0 "The Holy Kafrican Empire"
+KAF_FORM_fascism:0 "KAFSOC"
+KAF_FORM_fascism_DEF:0 "The Kafrican Socialist State"
+KAF_FORM_democratic_DEF:0 "The Kafrican Union"
+KAF_FORM_DEF:0 "Kafrica"
+
+COUNTRY_autonomy_collaboration_government:0 "$overlordADJ$ $NONIDEOLOGY$"
+COUNTRY_autonomy_collaboration_government_DEF:0 "$overlordADJ$ $NONIDEOLOGYDEF$"
+COUNTRY_autonomy_collaboration_government_ADJ:0 "$NONIDEOLOGYADJ$"

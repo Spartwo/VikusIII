@@ -1,0 +1,25 @@
+#3438 - Raf
+
+
+native_size = 1  
+native_ferocity = 1
+native_hostileness = 1
+
+culture = Kyviz
+religion = krakenity
+
+discovered_by = western
+
+capital = "Raf"
+
+is_city = yes
+hre = no
+base_tax = 2
+base_production = 1
+base_manpower = 3
+
+ 
+ 
+ 
+extra_cost = 0
+

@@ -1,0 +1,24 @@
+#3396 - Chiark
+
+
+native_size = 1   
+native_ferocity = 1
+native_hostileness = 1
+
+culture = Urojf
+religion = krakenity
+
+discovered_by = western
+
+capital = "Ortae"
+
+is_city = yes
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 4
+
+
+ 
+extra_cost = 0
+

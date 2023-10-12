@@ -1,0 +1,8 @@
+﻿DIPLOMACY = {
+	c:GRE = {
+		create_truce = {
+			country = c:CHK
+			months = 120
+		}
+	}	
+}
